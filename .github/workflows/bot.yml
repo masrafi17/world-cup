@@ -2,12 +2,14 @@ name: Twitter Live Sports Bot
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # প্রতি ৫ মিনিট পরপর রান করবে
-  workflow_dispatch: # চাইলে ম্যানুয়ালি রান করার জন্য
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
 
 jobs:
   tweet_goals:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # রিপোজিটরিতে ফাইল সেভ করার পারমিশন
 
     steps:
       - name: Checkout Repository
@@ -34,5 +36,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
+          touch tweeted_goals.txt # ফাইল না থাকলে এরর এড়াতে ফাঁকা ফাইল বানাবে
           git add tweeted_goals.txt
           git diff --quiet && git diff --staged --quiet || (git commit -m "Updated tweeted goals list" && git push)
