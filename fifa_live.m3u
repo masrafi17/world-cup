@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:37 PM 05-05-2026
+#last update time: 10:45:21 PM 05-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a3/71/27/95/a3712795-20dc-40f7-a340-f5ec7bcfe69c.png" group-title="FIFA Live", AS Rivière du Rempart v AS Port-Louis 2000 | MFA Cup 2025/26
@@ -28,3 +28,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_14_02_38_f023d7e4-d8ec-4e3b-a05d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=168b60064e533fafa2f9128d809d4a83:d12071c75e6e40193a36e2089567f02b
 https://d7pd9oqdl4d44.cloudfront.net/2026_04_21_09_09_53_351df88c-c5bd-4679-8f63-99ecb16e44d3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1777997940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/48/d9/c7/6e/48d9c76e-6cad-4e8f-9c91-855cbf5a63c0.png" group-title="FIFA Live", FC Tevragh Zeina v AS Pompier | Super D-1 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e513186c3b6034dc89b9554d4d4362f0:9f5e396287baaf318ad8afb349fa555c
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_01_15_11_32_b514b285-26b2-4564-a8f5-13783764787b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1777998840
