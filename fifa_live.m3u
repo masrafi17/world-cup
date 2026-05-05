@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:15:37 PM 05-05-2026
+#last update time: 10:30:37 PM 05-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a3/71/27/95/a3712795-20dc-40f7-a340-f5ec7bcfe69c.png" group-title="FIFA Live", AS Rivière du Rempart v AS Port-Louis 2000 | MFA Cup 2025/26
@@ -23,3 +23,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_14_02_42_f2174f76-b209-4a68-aa06
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be405542c9363f3f90f4b1b3a6b95318:01dbc76824eba426b71ba4d8a6dc1248
 https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_14_02_38_f023d7e4-d8ec-4e3b-a05d-aa2106f441f6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1777996140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/20/42/a5/5e/2042a55e-fceb-4092-a154-10b440930288.png" group-title="FIFA Live", Bhantal FC v Old Edwardians FC | Leone Rock Premier League 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=168b60064e533fafa2f9128d809d4a83:d12071c75e6e40193a36e2089567f02b
+https://d7pd9oqdl4d44.cloudfront.net/2026_04_21_09_09_53_351df88c-c5bd-4679-8f63-99ecb16e44d3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1777997940
