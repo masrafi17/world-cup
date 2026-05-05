@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:00:48 PM 05-05-2026",
-        "total_live": 5,
+        "last_update_time": "10:15:37 PM 05-05-2026",
+        "total_live": 4,
         "total_upcoming": 2
     },
     "matches": [
-        {
-            "id": "26d6f18e-60c4-4de3-98ca-23639dd543bc",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "26d6f18e-60c4-4de3-98ca-23639dd543bc",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Vital'O FC v Aigle Noir CS | Coupe du Président de Burundi 2026",
-            "category": "livestream",
-            "urlSlug": "vital-o-fc-vs-aigle-noir-cs",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/68/fc/35/95/68fc3595-ed57-4047-8b07-977a41c6fbb0.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d3/58/fb/2d/d358fb2d-b613-436c-bc40-8ca337b34c88.png",
-            "freeMode": "FREE_ADS",
-            "title": "Vital'O FC v Aigle Noir CS | Coupe du Président de Burundi 2026",
-            "titleTemplateValues": {
-                "publisher": "MA | Burundi",
-                "association": "Burundi",
-                "team:vital-o-fc": "Vital'O FC",
-                "team:aigle-noir-cs": "Aigle Noir CS",
-                "country": "Burundi",
-                "season": "Coupe du Président de Burundi 2026",
-                "stadium": "Stade Intwari",
-                "city": "Bujumbura",
-                "match": "Vital'O FC v Aigle Noir CS",
-                "stage": "1/2 Finales",
-                "competition": "President's Cup",
-                "global-stage": "Semi-finals - Second Leg",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Burundi | Coupe du Président de Burundi 2026 (Channel)",
-                "organizer": "Burundi",
-                "organizer-country": "Burundi"
-            },
-            "startDate": "2026-05-05T12:50:00Z",
-            "endDate": "2026-05-05T16:10:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-05T13:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Vital'O FC v Aigle Noir CS"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Coupe du Président de Burundi 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Semi-finals - Second Leg"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Burundi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_09_43_52_7e1d2e4b-159b-4cb3-8df8-a6c6b58a49b8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1777985340",
-                "decryption_keys": [
-                    "4a6b43bf7e6e3f129ff68eccf5c7f93c:6cfc758f6c858e818f9e28d0bf3a6031"
-                ]
-            }
-        },
         {
             "id": "98a3ecdd-45fb-4e09-b8a3-6dd21bd777c2",
             "channelId": "fifa-tournaments",
