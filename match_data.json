@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:15:33 PM 05-05-2026",
-        "total_live": 4,
+        "last_update_time": "09:30:35 PM 05-05-2026",
+        "total_live": 2,
         "total_upcoming": 5
     },
     "matches": [
-        {
-            "id": "f22eccb2-9309-49ea-8f43-62daa2dc6a0b",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "f22eccb2-9309-49ea-8f43-62daa2dc6a0b",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Ngozi City v Rukinzo FC | Coupe du Président de Burundi 2026",
-            "category": "livestream",
-            "urlSlug": "ngozi-city-vs-rukinzo-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/68/fc/35/95/68fc3595-ed57-4047-8b07-977a41c6fbb0.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/58/41/af/2c/5841af2c-fa69-4d9c-8aa5-dd131b87d558.png",
-            "freeMode": "FREE_ADS",
-            "title": "Ngozi City v Rukinzo FC | Coupe du Président de Burundi 2026",
-            "titleTemplateValues": {
-                "publisher": "MA | Burundi",
-                "team:rukinzo-fc": "Rukinzo FC",
-                "association": "Burundi",
-                "country": "Burundi",
-                "city": "Buye",
-                "season": "Coupe du Président de Burundi 2026",
-                "team:ngozi-city": "Ngozi City",
-                "stage": "1/2 Finales",
-                "competition": "President's Cup",
-                "global-stage": "Semi-finals - Second Leg",
-                "match": "Ngozi City v Rukinzo FC",
-                "stadium": "Urukundo Stadium",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Burundi | Coupe du Président de Burundi 2026 (Channel)",
-                "organizer": "Burundi",
-                "organizer-country": "Burundi"
-            },
-            "startDate": "2026-05-05T12:50:00Z",
-            "endDate": "2026-05-05T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-05T13:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Ngozi City v Rukinzo FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Coupe du Président de Burundi 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Semi-finals - Second Leg"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Burundi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_09_43_49_074ca170-6c18-4ee3-9954-4d8bb2a9b72e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1777985340",
-                "decryption_keys": [
-                    "a49fba786a8a3bb495e7c7738c78a64b:7a83216ad0a5b88b3edc4fe200afe8f7"
-                ]
-            }
-        },
         {
             "id": "26d6f18e-60c4-4de3-98ca-23639dd543bc",
             "channelId": "fifa-tournaments",
@@ -141,74 +73,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_09_43_52_7e1d2e4b-159b-4cb3-8df8-a6c6b58a49b8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1777985340",
                 "decryption_keys": [
                     "4a6b43bf7e6e3f129ff68eccf5c7f93c:6cfc758f6c858e818f9e28d0bf3a6031"
-                ]
-            }
-        },
-        {
-            "id": "a92db7e8-6edc-407d-af7b-37c7a99e6e5c",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "a92db7e8-6edc-407d-af7b-37c7a99e6e5c",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Young Buffaloes FC v Amawele FC | MTN Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "young-buffaloes-fc-vs-amawele-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9e/94/35/5d/9e94355d-7748-4afb-b681-3496922e3cb0.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/39/39/50/91/39395091-b1b1-46e6-9cd4-0b9ae28de80d.png",
-            "freeMode": "FREE_ADS",
-            "title": "Young Buffaloes FC v Amawele FC | MTN Premier League 2025/26",
-            "titleTemplateValues": {
-                "competition": "Premier League of Eswatini",
-                "country": "Eswatini",
-                "team:amawele-fc": "Amawele FC",
-                "association": "Eswatini",
-                "season": "MTN Premier League 2025/26",
-                "stage": "Regular Season",
-                "team:young-buffaloes-fc": "Young Buffaloes FC",
-                "publisher": "MA | Eswatini",
-                "publisher-channel": "MA | Eswatini | Premier League 2025/2026",
-                "global-stage": "Round 28",
-                "match": "Young Buffaloes FC v Amawele FC",
-                "city": "Big Bend",
-                "stadium": "Mayaluka Stadium",
-                "video-type": "Live Streams",
-                "organizer": "Eswatini",
-                "organizer-country": "Eswatini"
-            },
-            "startDate": "2026-05-05T12:55:00Z",
-            "endDate": "2026-05-05T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-05T13:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Young Buffaloes FC v Amawele FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "MTN Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 28"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Eswatini"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_01_08_44_36_3331a12a-0348-4f2b-804f-131f949b1fbf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1777985640",
-                "decryption_keys": [
-                    "9208b3bb9c55354cb82df96e77c99b7e:3be06aa26ab6c9def7715db3c0550397"
                 ]
             }
         },
@@ -406,6 +270,68 @@
             ]
         },
         {
+            "id": "e53f54e4-52d8-4f48-bf84-12a2135d217b",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "e53f54e4-52d8-4f48-bf84-12a2135d217b",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Wologisi FC v Discoveries SA | LFA First Division League 2025/26",
+            "category": "livestream",
+            "urlSlug": "wologisi-fc-vs-discoveries-sa",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/64/07/6c/4f/64076c4f-a77e-4f45-952f-ff4cc7e864b1.png",
+            "freeMode": "FREE_ADS",
+            "title": "Wologisi FC v Discoveries SA | LFA First Division League 2025/26",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
+                "team:discoveries-sa": "Discoveries SA",
+                "team:wologisi-fc": "Wologisi FC",
+                "association": "Liberia",
+                "season": "LFA First Division League 2025/26",
+                "stadium": "D-Tweh Field",
+                "competition": "Liberia National League",
+                "match": "Wologisi FC v Discoveries SA",
+                "country": "Liberia",
+                "global-stage": "Round 26",
+                "city": "Monrovia",
+                "publisher": "MA | Liberia",
+                "video-type": "Live Streams",
+                "organizer": "Liberia",
+                "organizer-country": "Liberia"
+            },
+            "startDate": "2026-05-05T15:50:00Z",
+            "endDate": "2026-05-05T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-05T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Wologisi FC v Discoveries SA"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "LFA First Division League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Liberia"
+                }
+            ]
+        },
+        {
             "id": "2af155bd-1c84-4d12-9745-f993d6109db2",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "2af155bd-1c84-4d12-9745-f993d6109db2",
@@ -526,68 +452,6 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Mauritania"
-                }
-            ]
-        },
-        {
-            "id": "e53f54e4-52d8-4f48-bf84-12a2135d217b",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "e53f54e4-52d8-4f48-bf84-12a2135d217b",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Wologisi FC v Discoveries SA | LFA First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "wologisi-fc-vs-discoveries-sa",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/64/07/6c/4f/64076c4f-a77e-4f45-952f-ff4cc7e864b1.png",
-            "freeMode": "FREE_ADS",
-            "title": "Wologisi FC v Discoveries SA | LFA First Division League 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
-                "team:discoveries-sa": "Discoveries SA",
-                "team:wologisi-fc": "Wologisi FC",
-                "association": "Liberia",
-                "season": "LFA First Division League 2025/26",
-                "stadium": "D-Tweh Field",
-                "competition": "Liberia National League",
-                "match": "Wologisi FC v Discoveries SA",
-                "country": "Liberia",
-                "global-stage": "Round 26",
-                "city": "Monrovia",
-                "publisher": "MA | Liberia",
-                "video-type": "Live Streams",
-                "organizer": "Liberia",
-                "organizer-country": "Liberia"
-            },
-            "startDate": "2026-05-06T15:50:00Z",
-            "endDate": "2026-05-06T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-05T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Wologisi FC v Discoveries SA"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "LFA First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Liberia"
                 }
             ]
         }
