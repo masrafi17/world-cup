@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:00:38 AM 06-05-2026
+#last update time: 01:15:30 AM 06-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/48/d9/c7/6e/48d9c76e-6cad-4e8f-9c91-855cbf5a63c0.png" group-title="FIFA Live", FC Tevragh Zeina v AS Pompier | Super D-1 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e513186c3b6034dc89b9554d4d4362f0:9f5e396287baaf318ad8afb349fa555c
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_01_15_11_32_b514b285-26b2-4564-a8f5-13783764787b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1777998840
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8c/25/81/40/8c258140-c376-40e4-87f9-9983f16c003e.png" group-title="FIFA Live", FC Vaduz v USV Eschen/Mauren | Liechtensteiner Cup 25/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey

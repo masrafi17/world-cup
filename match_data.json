@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:00:38 AM 06-05-2026",
-        "total_live": 2,
+        "last_update_time": "01:15:30 AM 06-05-2026",
+        "total_live": 1,
         "total_upcoming": 27
     },
     "matches": [
-        {
-            "id": "75637e1f-ec7e-4ddb-9da3-48d7d2d37990",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "75637e1f-ec7e-4ddb-9da3-48d7d2d37990",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "FC Tevragh Zeina v AS Pompier | Super D-1 2025/26",
-            "category": "livestream",
-            "urlSlug": "fc-tevragh-zeina-vs-as-pompier",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/39/61/d8/4a/3961d84a-2170-4737-8a7c-42d7ae00e8f7.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/48/d9/c7/6e/48d9c76e-6cad-4e8f-9c91-855cbf5a63c0.png",
-            "freeMode": "FREE_ADS",
-            "title": "FC Tevragh Zeina v AS Pompier | Super D-1 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular season",
-                "publisher": "MA | Mauritania",
-                "match": "FC Tevragh Zeina v AS Pompier",
-                "global-stage": "Round 23",
-                "team:fc-tevragh-zeina": "FC Tevragh Zeina",
-                "competition": "Super D-1",
-                "city": "Nouakchott",
-                "association": "Mauritania",
-                "stadium": "Stade Cheikha Ould Boïdiya",
-                "team:as-pompier": "AS Pompier",
-                "publisher-channel": "MA | Mauritania | Super D1 2025/2026",
-                "season": "Super D-1 2025/26",
-                "country": "Mauritania",
-                "video-type": "Live Streams",
-                "organizer": "Mauritania",
-                "organizer-country": "Mauritania"
-            },
-            "startDate": "2026-05-05T16:35:00Z",
-            "endDate": "2026-05-05T19:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-05T16:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "FC Tevragh Zeina v AS Pompier"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Super D-1 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 23"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mauritania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_01_15_11_32_b514b285-26b2-4564-a8f5-13783764787b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1777998840",
-                "decryption_keys": [
-                    "e513186c3b6034dc89b9554d4d4362f0:9f5e396287baaf318ad8afb349fa555c"
-                ]
-            }
-        },
         {
             "id": "7ca25387-1bc9-419e-a41a-fd95d151d9ae",
             "channelId": "fifa-tournaments",
