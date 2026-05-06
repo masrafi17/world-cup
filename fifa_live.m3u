@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:15:31 AM 07-05-2026
+#last update time: 02:30:33 AM 07-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c2/a1/75/c9/c2a175c9-0c33-42c1-ad0d-2c880ca282df.png" group-title="FIFA Live", Casertana v Crotone | Play-offs - Second Round | Serie C 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f2199730495357da0fa69807f538e3d:ef8879f0136188c508e7982dd071e941
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_03_21_3a3740ef-ceab-4f34-87b6-939a8d0e3505/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aita%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778089740
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/07/13/37/d8/071337d8-5bc8-46b3-8893-1f9a9da3e0c7.png" group-title="FIFA Live", Cosmos v Tre Penne | Campionato Sammarinese 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
