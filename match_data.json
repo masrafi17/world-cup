@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:00:35 AM 07-05-2026",
-        "total_live": 3,
+        "last_update_time": "01:15:21 AM 07-05-2026",
+        "total_live": 2,
         "total_upcoming": 21
     },
     "matches": [
-        {
-            "id": "771b01a9-1c8d-4a1f-b51e-8252ebd3be40",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "771b01a9-1c8d-4a1f-b51e-8252ebd3be40",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Inter Nouakchott v ASC Snim | Super D-1 2025/26",
-            "category": "livestream",
-            "urlSlug": "inter-nouakchott-vs-asc-snim",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/39/61/d8/4a/3961d84a-2170-4737-8a7c-42d7ae00e8f7.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d9/b0/7d/66/d9b07d66-2e8b-4397-8091-de64957eab4e.png",
-            "freeMode": "FREE_ADS",
-            "title": "Inter Nouakchott v ASC Snim | Super D-1 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular season",
-                "publisher": "MA | Mauritania",
-                "global-stage": "Round 23",
-                "match": "Inter Nouakchott v ASC Snim",
-                "competition": "Super D-1",
-                "city": "Nouakchott",
-                "association": "Mauritania",
-                "stadium": "Stade Cheikha Ould Boïdiya",
-                "publisher-channel": "MA | Mauritania | Super D1 2025/2026",
-                "season": "Super D-1 2025/26",
-                "team:asc-snim": "ASC Snim",
-                "country": "Mauritania",
-                "video-type": "Live Streams",
-                "team:inter-nouakchott": "Inter Nouakchott",
-                "organizer": "Mauritania",
-                "organizer-country": "Mauritania"
-            },
-            "startDate": "2026-05-06T16:35:00Z",
-            "endDate": "2026-05-06T19:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-06T16:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Inter Nouakchott v ASC Snim"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Super D-1 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 23"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mauritania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_30_08_58_25_bd310239-c05b-4045-8f57-06b6e98d2ca6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778085240",
-                "decryption_keys": [
-                    "d9310cb493483f04bf620beaadc4c7df:2462836edca92b2c0cee24ef5563d2a1"
-                ]
-            }
-        },
         {
             "id": "6b0bebfc-c3cb-403d-a583-6b81d5e53f4f",
             "channelId": "fifa-tournaments",
