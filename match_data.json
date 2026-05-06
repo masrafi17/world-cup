@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:45:18 AM 06-05-2026",
+        "last_update_time": "09:00:34 AM 06-05-2026",
         "total_live": 2,
-        "total_upcoming": 23
+        "total_upcoming": 22
     },
     "matches": [
-        {
-            "id": "6f4e0fed-5847-42e4-a4a7-dbccb4583783",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "6f4e0fed-5847-42e4-a4a7-dbccb4583783",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Estudiantes v FC San Nicolas | Division Honor 2025-26",
-            "category": "livestream",
-            "urlSlug": "estudiantes-aruba-vs-fc-san-nicolas",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/22/1d/cb/0b/221dcb0b-c792-4d48-903e-b725b280c421.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/91/a4/27/0c/91a4270c-bf1a-4d96-b520-34cccaaaca4a.png",
-            "freeMode": "FREE_ADS",
-            "title": "Estudiantes v FC San Nicolas | Division Honor 2025-26",
-            "titleTemplateValues": {
-                "stage": "Division Honor Liga-Plata Pool A Round 2",
-                "country": "Aruba",
-                "association": "Aruba",
-                "team:estudiantes-aruba": "Estudiantes",
-                "season": "Division Honor 2025-26",
-                "team:fc-san-nicolas": "FC San Nicolas",
-                "match": "Estudiantes v FC San Nicolas",
-                "publisher": "MA | Aruba",
-                "competition": "Division Honor",
-                "stadium": "Sports Complex Guillermo Prospero Trinidad",
-                "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
-                "global-stage": "Division Honor Plata",
-                "city": "Dakota",
-                "video-type": "Live Streams",
-                "organizer": "Aruba",
-                "organizer-country": "Aruba"
-            },
-            "startDate": "2026-05-06T00:20:00Z",
-            "endDate": "2026-05-06T03:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-06T00:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Estudiantes v FC San Nicolas"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Division Honor 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Division Honor Plata"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Aruba"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_09_26_24_21b269ef-f0be-4dbe-942b-32542ce40248/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778026740",
-                "decryption_keys": [
-                    "a04862561b173f62917ea67bcec5c567:a7e71ffe39286035de0ac11333f7df98"
-                ]
-            }
-        },
         {
             "id": "10453731-5cf5-4113-ac13-b294bd175aec",
             "channelId": "fifa-tournaments",
@@ -185,7 +117,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -202,7 +134,13 @@
                     "p": 0,
                     "value": "Round 6"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_26_04_91d1edcf-2748-446d-a8ec-063c57d1f1ba/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778035740",
+                "decryption_keys": [
+                    "d7e59a26ae75385192bd461ee5c765e1:6855ed8ec0e998de534e4f64ae30ee6c"
+                ]
+            }
         },
         {
             "id": "95d1b345-47d5-4020-bcf6-e68b6da8018d",

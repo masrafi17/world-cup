@@ -1,15 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:45:18 AM 06-05-2026
+#last update time: 09:00:34 AM 06-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/91/a4/27/0c/91a4270c-bf1a-4d96-b520-34cccaaaca4a.png" group-title="FIFA Live", Estudiantes v FC San Nicolas | Division Honor 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a04862561b173f62917ea67bcec5c567:a7e71ffe39286035de0ac11333f7df98
-https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_09_26_24_21b269ef-f0be-4dbe-942b-32542ce40248/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778026740
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ad/79/1f/b6/ad791fb6-38e7-4f5f-9e85-57bc6568d781.png" group-title="FIFA Live", Bagatelle FC v Kickstart Rush | BFA Premier League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be463b1787ab3417b59faf187ef37cb8:60014787f140961573483ec23ef9050a
 https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_09_53_40_81e342eb-0cec-4d00-918c-85e891e61709/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778028840
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ef/d7/33/63/efd73363-3e85-46b5-acec-bdc58d021d17.jpg" group-title="FIFA Live", Bula FC v South Island United | OFC Professional League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7e59a26ae75385192bd461ee5c765e1:6855ed8ec0e998de534e4f64ae30ee6c
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_26_04_91d1edcf-2748-446d-a8ec-063c57d1f1ba/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778035740
