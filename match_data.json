@@ -3,61 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:00:33 AM 07-05-2026",
-        "total_live": 1,
+        "last_update_time": "03:15:27 AM 07-05-2026",
+        "total_live": 0,
         "total_upcoming": 21
     },
     "matches": [
-        {
-            "id": "8ca3d3da-f0b9-4060-b816-6268218a25c6",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "8ca3d3da-f0b9-4060-b816-6268218a25c6",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Cosmos v Tre Penne | Campionato Sammarinese 2025/26",
-            "category": "livestream",
-            "urlSlug": "cosmos-v-tre-penne-campionato-sammarinese-2025-26",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/63/99/ce/c4/6399cec4-1db5-4dd1-811a-9657e2f80cc5.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/07/13/37/d8/071337d8-5bc8-46b3-8893-1f9a9da3e0c7.png",
-            "freeMode": "FREE_ADS",
-            "title": "Cosmos v Tre Penne | Campionato Sammarinese 2025/26",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | San Marino | Campionato Sammarinese 2025/26",
-                "country": "San Marino",
-                "team:s-p-tre-penne": "Tre Penne",
-                "confederation": "UEFA",
-                "stage": "Regular Season",
-                "season": "Campionato Sammarinese 2025/26",
-                "competition": "Campionato Sammarinese",
-                "team:s-s-cosmos": "Cosmos",
-                "city:citta-di-san-marino": "City of San Marino",
-                "city:serravalle": "Serravalle",
-                "publisher": "MA | San Marino",
-                "association": "San Marino",
-                "video-type": "Live Streams",
-                "organizer": "San Marino",
-                "organizer-country": "San Marino"
-            },
-            "startDate": "2026-05-06T18:35:00Z",
-            "endDate": "2026-05-06T22:00:00Z",
-            "ctxMetadata": {},
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Cosmos v Tre Penne | Campionato Sammarinese 2025/26"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_07_58_21_d4fd8bc9-cb69-44d7-b796-408eae73918a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aita%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778092440",
-                "decryption_keys": [
-                    "2f5a12ce841f3c57969998f190861bce:56e487c532bc7c6c31b63007dc3cd521"
-                ]
-            }
-        },
         {
             "id": "0c5fbdaf-5e78-428f-a5fb-b9b9796e1429",
             "channelId": "fifa-tournaments",
