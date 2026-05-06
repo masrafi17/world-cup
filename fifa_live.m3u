@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:32 AM 07-05-2026
+#last update time: 12:45:31 AM 07-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3e/2a/f1/a1/3e2af1a1-679b-4a83-bc91-d50aa0f825ea.png" group-title="FIFA Live", Bombada v Team Rhino | Gambia GFF League 25/26
@@ -43,3 +43,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_04_30_08_58_25_bd310239-c05b-4045-8f57
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f2199730495357da0fa69807f538e3d:ef8879f0136188c508e7982dd071e941
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_03_21_3a3740ef-ceab-4f34-87b6-939a8d0e3505/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aita%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778089740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/07/13/37/d8/071337d8-5bc8-46b3-8893-1f9a9da3e0c7.png" group-title="FIFA Live", Cosmos v Tre Penne | Campionato Sammarinese 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f5a12ce841f3c57969998f190861bce:56e487c532bc7c6c31b63007dc3cd521
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_07_58_21_d4fd8bc9-cb69-44d7-b796-408eae73918a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aita%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778092440
