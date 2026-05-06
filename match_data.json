@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:45:27 PM 06-05-2026",
+        "last_update_time": "05:00:35 PM 06-05-2026",
         "total_live": 0,
-        "total_upcoming": 21
+        "total_upcoming": 22
     },
     "matches": [
         {
@@ -748,6 +748,68 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "France"
+                }
+            ]
+        },
+        {
+            "id": "b8ab8739-6a56-45ac-85a7-9740c5a4836f",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "b8ab8739-6a56-45ac-85a7-9740c5a4836f",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Inter Bom-Bom v Juba de Diogo Simão | National Football Championship 2026",
+            "category": "livestream",
+            "urlSlug": "inter-bom-bom-vs-juba-diogo-simao",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/19/63/88/32/19638832-df6d-43d7-9048-30127ce18e4d.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/2c/cf/46/5b/2ccf465b-96c3-4b52-86dd-8cd59b6e8bfd.png",
+            "freeMode": "FREE_ADS",
+            "title": "Inter Bom-Bom v Juba de Diogo Simão | National Football Championship 2026",
+            "titleTemplateValues": {
+                "publisher": "São Tomé e Príncipe ",
+                "stadium": "Bombom Field",
+                "stage": "Regular Season",
+                "team:juba-diogo-simao": "Juba de Diogo Simão",
+                "competition": "Campeonato Nacional de Futebol",
+                "global-stage": "Round 2",
+                "city": "Bombom",
+                "season": "National Football Championship 2026",
+                "team:inter-bom-bom": "Inter Bom-Bom",
+                "match": "Inter Bom-Bom v Juba de Diogo Simão",
+                "publisher-channel": "MA | São Tomé e Príncipe | Campeonato Nacional de Futebol 2025/26 (Channel)",
+                "video-type": "Live Streams",
+                "association": "São Tomé and Príncipe",
+                "country": "São Tomé and Príncipe",
+                "organizer": "São Tomé and Príncipe",
+                "organizer-country": "São Tomé and Príncipe"
+            },
+            "startDate": "2026-05-06T14:50:00Z",
+            "endDate": "2026-05-06T17:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-06T15:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Inter Bom-Bom v Juba de Diogo Simão"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "National Football Championship 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 2"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "São Tomé and Príncipe"
                 }
             ]
         },
