@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:15:20 AM 06-05-2026
+#last update time: 06:30:29 AM 06-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b1/d7/a7/54/b1d7a754-d375-4ffb-a795-d0458d49204a.png" group-title="FIFA Live", Doc's United v Attackers FC | Anguilla Senior Men's League 2026
@@ -13,3 +13,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_12_25_51_e1c1286c-d9bf-445b-82f0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a5525bbbe0c63051ac680d87d27bb4ea:18b0651ff3f48463292497ae1481cfcf
 https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_09_53_36_ce9a1be4-ef90-4c47-9aba-3939bc72240e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778021340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/91/a4/27/0c/91a4270c-bf1a-4d96-b520-34cccaaaca4a.png" group-title="FIFA Live", Estudiantes v FC San Nicolas | Division Honor 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a04862561b173f62917ea67bcec5c567:a7e71ffe39286035de0ac11333f7df98
+https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_09_26_24_21b269ef-f0be-4dbe-942b-32542ce40248/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778026740
