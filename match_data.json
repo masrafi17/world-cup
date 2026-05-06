@@ -3,77 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:15:33 PM 06-05-2026",
-        "total_live": 13,
-        "total_upcoming": 9
+        "last_update_time": "09:30:37 PM 06-05-2026",
+        "total_live": 12,
+        "total_upcoming": 8
     },
     "matches": [
-        {
-            "id": "44a3f366-ddba-43f0-8eb1-572b84ecbfcc",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "44a3f366-ddba-43f0-8eb1-572b84ecbfcc",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Azerbaijan v Lithuania | UEFA Development Tournament Women's U-16 2026",
-            "category": "livestream",
-            "urlSlug": "azerbaijan-vs-lithuania",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/7f/66/55/b3/7f6655b3-f8a7-4b78-87d9-c6418e95f4f9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/9b/b0/7e/88/9bb07e88-f669-4276-acdf-194dcd0caa56.png",
-            "freeMode": "FREE_ADS",
-            "title": "Azerbaijan v Lithuania | UEFA Development Tournament Women's U-16 2026",
-            "titleTemplateValues": {
-                "match": "Azerbaijan v Lithuania",
-                "country:azerbaijan": "Azerbaijan",
-                "confederation": "UEFA",
-                "team:lithuania": "Lithuania",
-                "team:azerbaijan": "Azerbaijan",
-                "global-stage": "Group Stage",
-                "publisher-channel": "MA | Azerbaijan | UEFA Development Tournament Women's U-16 2026 (Channel)",
-                "country:lithuania": "Lithuania",
-                "fifa-plus": "Womens (FIFA Plus)",
-                "season": "UEFA Development Tournament Women's U-16 2026",
-                "video-type": "Full Match Replays",
-                "competition": "UEFA Development Tournament Women's U-16 ",
-                "stadium": "Bina District Stadium",
-                "association:azerbaijan": "Azerbaijan",
-                "stage": "Group Stage",
-                "city": "Baku",
-                "association:lithuania": "Lithuania",
-                "publisher": "MA | Azerbaijan",
-                "organizer": "UEFA"
-            },
-            "startDate": "2026-05-06T12:50:00Z",
-            "endDate": "2026-05-06T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-06T13:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Azerbaijan v Lithuania"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "UEFA Development Tournament Women's U-16 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Group Stage"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_10_12_05_79f2ac5b-2437-4e3a-8f34-9cf6a7e591bd/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778071740",
-                "decryption_keys": [
-                    "53b729653d0b3c5d947e992982884768:813a08080ce104202f844f81d91328be"
-                ]
-            }
-        },
         {
             "id": "60686dc4-9d6d-4a74-8423-1d2462791732",
             "channelId": "fifa-tournaments",
@@ -1183,68 +1117,6 @@
                     "kind": "title",
                     "p": 0,
                     "value": "Gambian Dutch Lions v Hart FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Gambia GFF League 25/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 23"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "The Gambia"
-                }
-            ]
-        },
-        {
-            "id": "04cdab0d-d72c-462a-a17f-5cb9522fd351",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "04cdab0d-d72c-462a-a17f-5cb9522fd351",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Hawks v Greater Tomorrow | Gambia GFF League 25/26",
-            "category": "livestream",
-            "urlSlug": "hawks-fc-vs-greater-tomorrow",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/64/be/27/b9/64be27b9-9540-4e4f-8075-8bda82775782.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/74/fd/eb/85/74fdeb85-9711-49fd-ad44-4af161536753.png",
-            "freeMode": "FREE_ADS",
-            "title": "Hawks v Greater Tomorrow | Gambia GFF League 25/26",
-            "titleTemplateValues": {
-                "match": "Hawks v Greater Tomorrow",
-                "global-stage": "Round 23",
-                "country": "The Gambia",
-                "team:hawks-fc": "Hawks",
-                "publisher": "MA | Gambia",
-                "stage": "Regular Season",
-                "city": "Marakissa",
-                "competition": "Gambia GFF League",
-                "association": "The Gambia",
-                "publisher-channel": "MA | Gambia | GFF League 2025/2026 (Channel)",
-                "season": "Gambia GFF League 25/26",
-                "team:greater-tomorrow": "Greater Tomorrow",
-                "stadium": "Kabakel",
-                "video-type": "Live Streams",
-                "organizer": "The Gambia",
-                "organizer-country": "The Gambia"
-            },
-            "startDate": "2026-05-06T16:20:00Z",
-            "endDate": "2026-05-06T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-06T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Hawks v Greater Tomorrow"
                 },
                 {
                     "kind": "subtitle",
