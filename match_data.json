@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:30:31 PM 06-05-2026",
-        "total_live": 12,
-        "total_upcoming": 1
+        "last_update_time": "10:45:35 PM 06-05-2026",
+        "total_live": 13,
+        "total_upcoming": 0
     },
     "matches": [
         {
@@ -863,7 +863,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -885,7 +885,13 @@
                     "p": 1,
                     "value": "Mauritania"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_30_08_58_25_bd310239-c05b-4045-8f57-06b6e98d2ca6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778085240",
+                "decryption_keys": [
+                    "d9310cb493483f04bf620beaadc4c7df:2462836edca92b2c0cee24ef5563d2a1"
+                ]
+            }
         }
     ]
 }

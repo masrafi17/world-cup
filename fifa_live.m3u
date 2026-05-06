@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:31 PM 06-05-2026
+#last update time: 10:45:35 PM 06-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0b/f8/21/20/0bf82120-abf6-4754-9c74-34315d8ee524.png" group-title="FIFA Live", Cercle de Joachim SC v La Cure Waves SC | MFA Cup 2025/26
@@ -63,3 +63,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_13_36_09_b53e7acb-dc90-43f9-be23
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e728aa50fd493623b59178b1e7376e0f:d7e64e726c8c2c6bec61d5a25d476552
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_08_49_20_3fec281f-224f-439f-8cbb-d5dc13483359/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778084940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d9/b0/7d/66/d9b07d66-2e8b-4397-8091-de64957eab4e.png" group-title="FIFA Live", Inter Nouakchott v ASC Snim | Super D-1 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9310cb493483f04bf620beaadc4c7df:2462836edca92b2c0cee24ef5563d2a1
+https://d7pd9oqdl4d44.cloudfront.net/2026_04_30_08_58_25_bd310239-c05b-4045-8f57-06b6e98d2ca6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778085240
