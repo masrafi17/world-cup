@@ -1,38 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:45:31 AM 07-05-2026
+#last update time: 01:00:35 AM 07-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3e/2a/f1/a1/3e2af1a1-679b-4a83-bc91-d50aa0f825ea.png" group-title="FIFA Live", Bombada v Team Rhino | Gambia GFF League 25/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bcb796678af3807a82b6fc96adc04fc:293a861a100aada45edfd6e26f67cc95
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_08_49_25_92fcd933-caa1-49b1-8510-0a27d811d617/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778084340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6d/0c/4e/08/6d0c4e08-5368-4a71-87e1-3e2dd455d7f3.png" group-title="FIFA Live", Falcons v Samger FC | Gambia GFF League 25/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07ed55b1693e3425898d5a3bd2f1181b:0dbe8f256559f481ed8d43e19ffa5eb4
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_08_49_50_f4dcc60c-b9c5-4059-8730-9623d36cbaf1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778084340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d0/9d/32/f9/d09d32f9-5e64-470c-bf02-fe7bd1743f4b.png" group-title="FIFA Live", Gambian Dutch Lions v Hart FC | Gambia GFF League 25/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa10bf82d7dd3baf826245ed4705bd5e:f7f1f53569124d99941f9d5394d679b9
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_08_49_34_a9b1ef45-90ba-4c26-9f1e-596cda534821/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778084340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a8/b8/f8/0a/a8b8f80a-f769-40b5-a34a-d007b4c9bfc8.png" group-title="FIFA Live", Real de Banjul v Medina United | Gambia GFF League 25/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=432ca2bf9c913b4789ff1c4ce29bc374:d97592d30a77c0b99af1ee95881ea2c4
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_08_49_45_c5933929-b921-436f-baf0-8b1129f68985/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778084340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/09/32/fa/8a/0932fa8a-ace9-492f-9439-95e4ef479e75.png" group-title="FIFA Live", Bullom Stars FC v Luawa FC | Leone Rock Premier League 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290d957de6643152aa6e5b3157e52453:575b1b91dbadc6b0870eae20a4802336
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_13_36_09_b53e7acb-dc90-43f9-be23-8d5b280cedc5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778084340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d3/6f/09/30/d36f0930-0e13-46a7-8518-160568f080fe.png" group-title="FIFA Live", Gambia Ports Authority FC v Steve Biko | Gambia GFF League 25/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e728aa50fd493623b59178b1e7376e0f:d7e64e726c8c2c6bec61d5a25d476552
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_08_49_20_3fec281f-224f-439f-8cbb-d5dc13483359/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778084940
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d9/b0/7d/66/d9b07d66-2e8b-4397-8091-de64957eab4e.png" group-title="FIFA Live", Inter Nouakchott v ASC Snim | Super D-1 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
