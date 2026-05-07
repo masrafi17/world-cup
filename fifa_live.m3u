@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:45:27 PM 07-05-2026
+#last update time: 09:00:33 PM 07-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4e/17/7d/80/4e177d80-c9f0-4aba-99c9-66aee686e747.png" group-title="FIFA Live", Gamo Chencha v Halaba Ketema | Ethiopian Higher League 2025
@@ -28,3 +28,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_12_34_52_216620a1-30ae-409e-895a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67ed6449c3c139b8b463106cc78e789d:696a4cb1e678ab044ef5d3be70cd6c6f
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_01_16_09_37_f40b8d23-36c2-48fc-8ad7-2bac5b6576a1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778163540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4b/6b/ac/18/4b6bac18-540a-4bc4-a065-ce1082728d14.png" group-title="FIFA Live", The Panthers CF v UD Santa Maria | Equatorial Guinea Football League 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c592e6474db03183a6dadb8e0ab9c103:283c7b7b76d954a8156a7cc7313a8c29
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_41_19_9bf339f8-9582-4865-bcc0-06c81ae69310/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778165760
