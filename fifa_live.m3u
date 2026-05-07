@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:15:26 PM 07-05-2026
+#last update time: 09:30:24 PM 07-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4e/17/7d/80/4e177d80-c9f0-4aba-99c9-66aee686e747.png" group-title="FIFA Live", Gamo Chencha v Halaba Ketema | Ethiopian Higher League 2025
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c325e0f71276389e8d3171322eb97149:8f8b50b13e31b796e5873c2f8485145e
-https://d7pd9oqdl4d44.cloudfront.net/2026_04_30_06_54_23_bfc32dab-e497-43ac-8cff-8fb638c6c0d5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aamh%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778156340
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/41/b7/0e/30/41b70e30-5a01-4219-8e19-e82d3add2ae9.png" group-title="FIFA Live", KF Iliria v Besa | Kategoria e Parë 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
