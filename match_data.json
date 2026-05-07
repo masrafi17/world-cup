@@ -3,8 +3,8 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:00:33 PM 07-05-2026",
-        "total_live": 6,
+        "last_update_time": "09:15:26 PM 07-05-2026",
+        "total_live": 5,
         "total_upcoming": 4
     },
     "matches": [
@@ -73,74 +73,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_30_06_54_23_bfc32dab-e497-43ac-8cff-8fb638c6c0d5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aamh%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778156340",
                 "decryption_keys": [
                     "c325e0f71276389e8d3171322eb97149:8f8b50b13e31b796e5873c2f8485145e"
-                ]
-            }
-        },
-        {
-            "id": "d3535ca2-2339-4468-9513-722fe6379db8",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "d3535ca2-2339-4468-9513-722fe6379db8",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "San Francisco v Deportivo Unidad | Equatorial Guinea Football League 2025-26",
-            "category": "livestream",
-            "urlSlug": "san-francisco-vs-dvo-unidad",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/be/a6/4b/29/bea64b29-04f3-438c-a12e-9e7778326159.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/63/e2/62/24/63e26224-0496-4659-b68e-bc5264bb713d.png",
-            "freeMode": "FREE_ADS",
-            "title": "San Francisco v Deportivo Unidad | Equatorial Guinea Football League 2025-26",
-            "titleTemplateValues": {
-                "stage": "Regular Stage",
-                "publisher-channel": "MA | Equatorial Guinea | Liga de Fútbol de Guinea Ecuatorial 2025/2026",
-                "season": "Equatorial Guinea Football League 2025-26",
-                "city": "Malabo",
-                "publisher": "MA | Equatorial Guinea",
-                "stadium": "Pablo Boyas Stadium",
-                "association": "Equatorial Guinea",
-                "global-stage": "Round 12",
-                "match": "San Francisco v Deportivo Unidad",
-                "team:san-francisco": "San Francisco",
-                "team:dvo-unidad": "Deportivo Unidad",
-                "competition": "Liga de Fútbol de Guinea Equatorial",
-                "video-type": "Live Streams",
-                "country": "Equatorial Guinea",
-                "organizer": "Equatorial Guinea",
-                "organizer-country": "Equatorial Guinea"
-            },
-            "startDate": "2026-05-07T12:50:00Z",
-            "endDate": "2026-05-07T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-07T13:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "San Francisco v Deportivo Unidad"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Equatorial Guinea Football League 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 12"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Equatorial Guinea"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_41_16_49a6e67c-c85d-484e-8b07-bcb8d23c776b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778158140",
-                "decryption_keys": [
-                    "6a2274dd4e5f3ad2be0ef77853c056de:21d28442b592b760cb6a75ba659985b0"
                 ]
             }
         },
