@@ -3,80 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:45:28 PM 07-05-2026",
-        "total_live": 6,
+        "last_update_time": "11:00:37 PM 07-05-2026",
+        "total_live": 5,
         "total_upcoming": 0
     },
     "matches": [
-        {
-            "id": "90e0824a-aaab-45e5-94ed-47475659dbe7",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "90e0824a-aaab-45e5-94ed-47475659dbe7",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "St. Louis FC v Real Maldive FC | Seychelles Absa Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "st-louis-fc-vs-real-maldive-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/45/9f/11/a8/459f11a8-e0bb-4967-9ffc-2e4fe552a13e.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/cb/d0/dc/c2/cbd0dcc2-47f9-4717-b069-de277f62473f.png",
-            "freeMode": "FREE_ADS",
-            "title": "St. Louis FC v Real Maldive FC | Seychelles Absa Premier League 2025/26",
-            "titleTemplateValues": {
-                "team:real-maldive-fc": "Real Maldive FC",
-                "publisher-channel": "MA | Seychelles | Absa Premier League 2025/2026",
-                "publisher": "MA | Seychelles",
-                "stadium": "Stad Linite",
-                "team:st-louis-fc": "St. Louis FC",
-                "stage": "Regular Season",
-                "global-stage": "Round 18",
-                "association": "Seychelles",
-                "season": "Seychelles Absa Premier League 2025/26",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "country": "Seychelles",
-                "city": "Roche Caiman",
-                "competition": "Seychelles Premier League",
-                "match": "St. Louis FC v Real Maldive FC",
-                "video-type": "Live Streams",
-                "organizer": "Seychelles",
-                "organizer-country": "Seychelles"
-            },
-            "startDate": "2026-05-07T14:20:00Z",
-            "endDate": "2026-05-07T17:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-07T14:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "St. Louis FC v Real Maldive FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Seychelles Absa Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 18"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Seychelles"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_01_16_09_37_f40b8d23-36c2-48fc-8ad7-2bac5b6576a1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778163540",
-                "decryption_keys": [
-                    "67ed6449c3c139b8b463106cc78e789d:696a4cb1e678ab044ef5d3be70cd6c6f"
-                ]
-            }
-        },
         {
             "id": "ba431780-be75-4098-ba0a-a1048fa09170",
             "channelId": "fifa-tournaments",
