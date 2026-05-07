@@ -1,10 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:15:34 PM 07-05-2026
+#last update time: 06:30:26 PM 07-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f9/4e/c5/2d/f94ec52d-5446-4816-9b8d-24694d04686d.png" group-title="FIFA Live", AS Douanes v DFC8 | Central African Republic Super League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=74eb92397e2f38b1afe340fa5fa8ef8f:44e1b7c4b2db99706cf4a91bb15e1b38
 https://d7pd9oqdl4d44.cloudfront.net/2026_04_27_14_44_11_a30785de-6c49-440c-a1f2-4a03653305e9/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778154540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4e/17/7d/80/4e177d80-c9f0-4aba-99c9-66aee686e747.png" group-title="FIFA Live", Gamo Chencha v Halaba Ketema | Ethiopian Higher League 2025
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c325e0f71276389e8d3171322eb97149:8f8b50b13e31b796e5873c2f8485145e
+https://d7pd9oqdl4d44.cloudfront.net/2026_04_30_06_54_23_bfc32dab-e497-43ac-8cff-8fb638c6c0d5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aamh%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778156340
