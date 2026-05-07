@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:15:31 PM 07-05-2026
+#last update time: 11:30:25 PM 07-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4b/6b/ac/18/4b6bac18-540a-4bc4-a065-ce1082728d14.png" group-title="FIFA Live", The Panthers CF v UD Santa Maria | Equatorial Guinea Football League 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c592e6474db03183a6dadb8e0ab9c103:283c7b7b76d954a8156a7cc7313a8c29
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_41_19_9bf339f8-9582-4865-bcc0-06c81ae69310/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778165760
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8c/c1/6f/66/8cc16f66-2e60-44b9-8517-5934e4978e00.png" group-title="FIFA Live", USGN v JS Tahoua | Super Ligue 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
