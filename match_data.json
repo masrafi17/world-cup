@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:15:22 AM 07-05-2026",
-        "total_live": 6,
+        "last_update_time": "07:30:30 AM 07-05-2026",
+        "total_live": 5,
         "total_upcoming": 14
     },
     "matches": [
-        {
-            "id": "f2c81ae2-88bc-4093-acfa-ef997b070e21",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "f2c81ae2-88bc-4093-acfa-ef997b070e21",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Dublanc FC v Pointe Michel FC | DFA Premier League 2026",
-            "category": "livestream",
-            "urlSlug": "dublanc-fc-vs-pointe-michel-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/cd/54/de/4a/cd54de4a-9ed2-47df-822e-cc0094b8e336.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/da/f4/6e/59/daf46e59-11e1-4e8c-86ab-1748db8ff1e9.png",
-            "freeMode": "FREE_ADS",
-            "title": "Dublanc FC v Pointe Michel FC | DFA Premier League 2026",
-            "titleTemplateValues": {
-                "season": "DFA Premier League 2026",
-                "country": "Dominica",
-                "competition": "DFA Premier League",
-                "city": "Dublanc",
-                "stage": "Regular Season",
-                "team:pointe-michel-fc": "Pointe Michel FC",
-                "stadium": "Almond Park",
-                "global-stage": "Round 1",
-                "publisher": "MA | Dominica",
-                "team:dublanc-fc": "Dublanc FC",
-                "publisher-channel": "MA | Dominica | DFA Premier League 2026",
-                "association": "Dominica",
-                "match": "Dublanc FC v Pointe Michel FC",
-                "video-type": "Live Streams",
-                "organizer": "Dominica",
-                "organizer-country": "Dominica"
-            },
-            "startDate": "2026-05-06T22:50:00Z",
-            "endDate": "2026-05-07T01:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-06T23:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Dublanc FC v Pointe Michel FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "DFA Premier League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 1"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Dominica"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_22_08_51_47_3f342d93-4dd2-407d-83d8-fcb72b96e3b4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778107740",
-                "decryption_keys": [
-                    "1093e7b058333311965714c4319c452f:41fd2085643c45ba0680631cbde3fe4f"
-                ]
-            }
-        },
         {
             "id": "82d0041d-fa22-4dec-a52c-d209d4726e22",
             "channelId": "fifa-tournaments",
