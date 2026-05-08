@@ -3,80 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:15:30 PM 08-05-2026",
-        "total_live": 4,
+        "last_update_time": "07:30:23 PM 08-05-2026",
+        "total_live": 3,
         "total_upcoming": 10
     },
     "matches": [
-        {
-            "id": "7de408b8-00f2-4fe6-bedc-f6a18d006655",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "7de408b8-00f2-4fe6-bedc-f6a18d006655",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Revengers FC v Anse Reunion FC | Seychelles Absa Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "revengers-fc-vs-anse-reunion-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/45/9f/11/a8/459f11a8-e0bb-4967-9ffc-2e4fe552a13e.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ce/60/bb/5a/ce60bb5a-6db7-45e3-a8ff-88909b537ced.png",
-            "freeMode": "FREE_ADS",
-            "title": "Revengers FC v Anse Reunion FC | Seychelles Absa Premier League 2025/26",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Seychelles | Absa Premier League 2025/2026",
-                "publisher": "MA | Seychelles",
-                "city": "Praslin",
-                "team:anse-reunion-fc": "Anse Reunion FC",
-                "stadium": "Amitie Stadium",
-                "team:revengers-fc": "Revengers FC",
-                "stage": "Regular Season",
-                "global-stage": "Round 18",
-                "association": "Seychelles",
-                "season": "Seychelles Absa Premier League 2025/26",
-                "match": "Revengers FC v Anse Reunion FC",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "country": "Seychelles",
-                "competition": "Seychelles Premier League",
-                "video-type": "Live Streams",
-                "organizer": "Seychelles",
-                "organizer-country": "Seychelles"
-            },
-            "startDate": "2026-05-08T10:50:00Z",
-            "endDate": "2026-05-08T13:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-08T11:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Revengers FC v Anse Reunion FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Seychelles Absa Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 18"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Seychelles"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_39_50_d6d103f2-b123-4758-9baf-fd49b1358105/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778237340",
-                "decryption_keys": [
-                    "4f60f4e77deb3b708c3cec9ddfbc7877:65e6397ca1f7c9caf030a05acabfb360"
-                ]
-            }
-        },
         {
             "id": "02cd2912-b103-4cc6-abf0-25c5a7fe7d82",
             "channelId": "fifa-tournaments",
