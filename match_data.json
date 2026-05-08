@@ -3,80 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:45:27 PM 08-05-2026",
-        "total_live": 10,
+        "last_update_time": "11:00:34 PM 08-05-2026",
+        "total_live": 9,
         "total_upcoming": 0
     },
     "matches": [
-        {
-            "id": "11695323-ac94-4ac7-9219-0b843233caa0",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "11695323-ac94-4ac7-9219-0b843233caa0",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Foresters FC v PTL Bazar Brothers FC | Seychelles Absa Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "foresters-fc-vs-ptl-bazar-brothers-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/45/9f/11/a8/459f11a8-e0bb-4967-9ffc-2e4fe552a13e.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/78/e5/2a/9b/78e52a9b-6aed-434d-acfc-d8e66a7aa701.png",
-            "freeMode": "FREE_ADS",
-            "title": "Foresters FC v PTL Bazar Brothers FC | Seychelles Absa Premier League 2025/26",
-            "titleTemplateValues": {
-                "team:ptl-bazar-brothers-fc": "PTL Bazar Brothers FC",
-                "publisher-channel": "MA | Seychelles | Absa Premier League 2025/2026",
-                "publisher": "MA | Seychelles",
-                "stadium": "Stad Linite",
-                "match": "Foresters FC v PTL Bazar Brothers FC",
-                "stage": "Regular Season",
-                "global-stage": "Round 18",
-                "association": "Seychelles",
-                "season": "Seychelles Absa Premier League 2025/26",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "country": "Seychelles",
-                "city": "Roche Caiman",
-                "competition": "Seychelles Premier League",
-                "team:foresters-fc": "Foresters FC",
-                "video-type": "Live Streams",
-                "organizer": "Seychelles",
-                "organizer-country": "Seychelles"
-            },
-            "startDate": "2026-05-08T14:20:00Z",
-            "endDate": "2026-05-08T17:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-08T14:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Foresters FC v PTL Bazar Brothers FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Seychelles Absa Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 18"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Seychelles"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_01_16_56_35_8883e814-e359-45fb-9d1f-6c22f725c3c6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778249940",
-                "decryption_keys": [
-                    "d951772a4337383d932d23296cc44f90:0ce059707a0f9867e1706762445c535d"
-                ]
-            }
-        },
         {
             "id": "32afd321-cda7-4ef6-91bf-536702388623",
             "channelId": "fifa-tournaments",
