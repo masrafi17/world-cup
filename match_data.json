@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:30:23 PM 08-05-2026",
+        "last_update_time": "06:45:19 PM 08-05-2026",
         "total_live": 1,
-        "total_upcoming": 14
+        "total_upcoming": 13
     },
     "matches": [
         {
@@ -880,68 +880,6 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Lithuania"
-                }
-            ]
-        },
-        {
-            "id": "336f20d4-e31e-4108-ad1a-3cb5145feb71",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "336f20d4-e31e-4108-ad1a-3cb5145feb71",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "FC Kallon v Old Edwardians FC | Leone Rock Premier League 2025-26",
-            "category": "livestream",
-            "urlSlug": "fc-kallon-vs-old-edwardians-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/9f/40/af/cc/9f40afcc-cc88-4f3e-9595-067f1f0fb905.png",
-            "freeMode": "FREE_ADS",
-            "title": "FC Kallon v Old Edwardians FC | Leone Rock Premier League 2025-26",
-            "titleTemplateValues": {
-                "match": "FC Kallon v Old Edwardians FC",
-                "stage": "Regular Season",
-                "country": "Sierra Leone",
-                "competition": "Premier League",
-                "stadium": "Approved School Field",
-                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
-                "association": "Sierra Leone",
-                "team:fc-kallon": "FC Kallon",
-                "city": "Freetown",
-                "global-stage": "Round 26",
-                "season": "Leone Rock Premier League 2025-26",
-                "publisher": "MA | Sierra Leone",
-                "team:old-edwardians-fc": "Old Edwardians FC",
-                "video-type": "Live Streams",
-                "organizer": "Sierra Leone",
-                "organizer-country": "Sierra Leone"
-            },
-            "startDate": "2026-05-08T16:20:00Z",
-            "endDate": "2026-05-08T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-08T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "FC Kallon v Old Edwardians FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Leone Rock Premier League 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Sierra Leone"
                 }
             ]
         }
