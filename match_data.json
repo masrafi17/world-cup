@@ -3,8 +3,8 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:00:28 PM 08-05-2026",
-        "total_live": 11,
+        "last_update_time": "09:15:30 PM 08-05-2026",
+        "total_live": 10,
         "total_upcoming": 2
     },
     "matches": [
@@ -78,72 +78,6 @@
             }
         },
         {
-            "id": "be3c7043-ded2-4040-844a-b978b5576cd5",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "be3c7043-ded2-4040-844a-b978b5576cd5",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Azerbaijan v Romania | UEFA Development Tournament Women's U-16 2026",
-            "category": "livestream",
-            "urlSlug": "azerbaijan-vs-romania",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/7f/66/55/b3/7f6655b3-f8a7-4b78-87d9-c6418e95f4f9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/76/46/c2/9a/7646c29a-02d3-4f38-ab51-1731b4b01bbc.png",
-            "freeMode": "FREE_ADS",
-            "title": "Azerbaijan v Romania | UEFA Development Tournament Women's U-16 2026",
-            "titleTemplateValues": {
-                "team:romania": "Romania",
-                "country:azerbaijan": "Azerbaijan",
-                "confederation": "UEFA",
-                "match": "Azerbaijan v Romania",
-                "team:azerbaijan": "Azerbaijan",
-                "global-stage": "Group Stage",
-                "publisher-channel": "MA | Azerbaijan | UEFA Development Tournament Women's U-16 2026 (Channel)",
-                "country:romania": "Romania",
-                "fifa-plus": "Womens (FIFA Plus)",
-                "season": "UEFA Development Tournament Women's U-16 2026",
-                "competition": "UEFA Development Tournament Women's U-16 ",
-                "stadium": "Bina District Stadium",
-                "association:azerbaijan": "Azerbaijan",
-                "stage": "Group Stage",
-                "city": "Baku",
-                "association:romania": "Romania",
-                "publisher": "MA | Azerbaijan",
-                "video-type": "Live Streams",
-                "organizer": "UEFA"
-            },
-            "startDate": "2026-05-08T12:50:00Z",
-            "endDate": "2026-05-08T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-08T13:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Azerbaijan v Romania"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "UEFA Development Tournament Women's U-16 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Group Stage"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_55_18_f5078211-de05-428f-bef8-7a5772a8a2b8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778244540",
-                "decryption_keys": [
-                    "f71dfe47bfec321aa4db3b0b440e9c26:e202c4f0e0564805d17d613eb12bcd63"
-                ]
-            }
-        },
-        {
             "id": "6c1f0253-555e-41a1-9ab5-60502c69602c",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "6c1f0253-555e-41a1-9ab5-60502c69602c",
@@ -156,27 +90,27 @@
             "freeMode": "FREE_ADS",
             "title": "BG Green Maze FC v Muzinga FC | Primus Ligue Burundi 2025/26",
             "titleTemplateValues": {
-                "team:bg-green-maze-fc": "BG Green Maze FC",
-                "publisher": "MA | Burundi",
+                "publisher-channel": "MA | Burundi | Primus League Burundi 2025/2026",
+                "country": "Burundi",
+                "city": "Buganda",
                 "match": "BG Green Maze FC v Muzinga FC",
                 "association": "Burundi",
                 "competition": "Ligue A",
-                "country": "Burundi",
+                "team:muzinga-fc": "Muzinga FC",
+                "organizer-country": "Burundi",
                 "global-stage": "Round 30",
                 "stage": "Regular Season",
-                "stadium": "Urunani Stadium",
-                "city": "Buganda",
-                "publisher-channel": "MA | Burundi | Primus League Burundi 2025/2026",
-                "season": "Primus Ligue Burundi 2025/26",
-                "team:muzinga-fc": "Muzinga FC",
-                "video-type": "Live Streams",
+                "team:bg-green-maze-fc": "BG Green Maze FC",
                 "organizer": "Burundi",
-                "organizer-country": "Burundi"
+                "publisher": "MA | Burundi",
+                "stadium": "Urunani Stadium",
+                "season": "Primus Ligue Burundi 2025/26",
+                "video-type": "Live Streams"
             },
-            "startDate": "2026-05-08T13:15:00Z",
+            "startDate": "2026-05-08T13:10:00Z",
             "endDate": "2026-05-08T15:30:00Z",
             "ctxMetadata": {
-                "kickOffTime": "2026-05-08T13:00:00Z"
+                "kickOffTime": "2026-05-08T13:21:00Z"
             },
             "isRegistrationRequired": false,
             "shownPrices": null,
