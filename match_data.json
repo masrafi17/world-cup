@@ -3,147 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:45:27 AM 10-05-2026",
-        "total_live": 16,
-        "total_upcoming": 34
+        "last_update_time": "01:00:32 AM 10-05-2026",
+        "total_live": 14,
+        "total_upcoming": 36
     },
     "matches": [
-        {
-            "id": "7f83cf99-187e-4d68-a5db-a9319ac4ccbe",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "7f83cf99-187e-4d68-a5db-a9319ac4ccbe",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Bhantal FC v Wilberforce Strikers FC | Leone Rock Premier League 2025-26",
-            "category": "livestream",
-            "urlSlug": "bhantal-fc-vs-wilberforce-strikers-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/7b/3b/26/c0/7b3b26c0-f53e-4acb-a55c-ec0360e010b9.png",
-            "freeMode": "FREE_ADS",
-            "title": "Bhantal FC v Wilberforce Strikers FC | Leone Rock Premier League 2025-26",
-            "titleTemplateValues": {
-                "match": "Bhantal FC v Wilberforce Strikers FC",
-                "stage": "Regular Season",
-                "country": "Sierra Leone",
-                "competition": "Premier League",
-                "team:wilberforce-strikers-fc": "Wilberforce Strikers FC",
-                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
-                "association": "Sierra Leone",
-                "team:bhantal-fc": "Bhantal FC",
-                "stadium": "SLFA Academy Field",
-                "city": "Freetown",
-                "global-stage": "Round 26",
-                "season": "Leone Rock Premier League 2025-26",
-                "publisher": "MA | Sierra Leone",
-                "video-type": "Live Streams",
-                "organizer": "Sierra Leone",
-                "organizer-country": "Sierra Leone"
-            },
-            "startDate": "2026-05-09T16:20:00Z",
-            "endDate": "2026-05-09T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Bhantal FC v Wilberforce Strikers FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Leone Rock Premier League 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Sierra Leone"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_13_36_20_058c1ca0-7558-4db2-a511-a3c068ca5274/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778343540",
-                "decryption_keys": [
-                    "62a333709fa43f9cb1206fba38a1182e:5efc764ccbc597d6e5d7cf4cc20fa9f3"
-                ]
-            }
-        },
-        {
-            "id": "6f230f8a-754a-4ef1-a966-84e04ab694c8",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "6f230f8a-754a-4ef1-a966-84e04ab694c8",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "East End Lions FC v Ports Authority FC | Leone Rock Premier League 2025-26",
-            "category": "livestream",
-            "urlSlug": "east-end-lions-fc-vs-ports-authority-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/26/b2/2d/39/26b22d39-c8cb-4773-beb6-ed302e8aecb3.png",
-            "freeMode": "FREE_ADS",
-            "title": "East End Lions FC v Ports Authority FC | Leone Rock Premier League 2025-26",
-            "titleTemplateValues": {
-                "team:ports-authority-fc": "Ports Authority FC",
-                "team:east-end-lions-fc": "East End Lions FC",
-                "stage": "Regular Season",
-                "country": "Sierra Leone",
-                "competition": "Premier League",
-                "match": "East End Lions FC v Ports Authority FC",
-                "stadium": "Approved School Field",
-                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
-                "association": "Sierra Leone",
-                "city": "Freetown",
-                "global-stage": "Round 26",
-                "season": "Leone Rock Premier League 2025-26",
-                "publisher": "MA | Sierra Leone",
-                "video-type": "Live Streams",
-                "organizer": "Sierra Leone",
-                "organizer-country": "Sierra Leone"
-            },
-            "startDate": "2026-05-09T16:20:00Z",
-            "endDate": "2026-05-09T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "East End Lions FC v Ports Authority FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Leone Rock Premier League 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Sierra Leone"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_13_37_01_923fd6f0-71bc-44b2-95b0-12185f322ca1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778343540",
-                "decryption_keys": [
-                    "77400800a15531f0813315970bb0bc4e:24c95e8ed55f1b66e507d70fe87cd686"
-                ]
-            }
-        },
         {
             "id": "2ffc94c0-db0f-401a-8975-c0e223f4a751",
             "channelId": "fifa-tournaments",
@@ -297,6 +161,7 @@
                 "publisher-channel": "MA | Cape Verde | Cape Verdean Football Championship 2026 (Channel)",
                 "competition": "Cape Verdean Football Championship",
                 "stadium": "Estádio da Várzea",
+                "video-type": "Full Match Replays",
                 "global-stage": "Round 2",
                 "country": "Cabo Verde",
                 "city": "Praia",
@@ -305,7 +170,6 @@
                 "fifa-plus": "Mens (FIFA Plus)",
                 "team:academico-do-sal": "Académico do Sal",
                 "association": "Cabo Verde",
-                "video-type": "Live Streams",
                 "team:boavista-da-praia": "Boavista da Praia",
                 "organizer": "Cabo Verde",
                 "organizer-country": "Cabo Verde"
@@ -3204,6 +3068,130 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Albania"
+                }
+            ]
+        },
+        {
+            "id": "bfe63617-2488-4f49-b6df-b6e89e79912f",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "bfe63617-2488-4f49-b6df-b6e89e79912f",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Al Jazira Al Hamra v Dubai City F.C. | Round 27 | First Division League 2025/26",
+            "category": "livestream",
+            "urlSlug": "al-jazira-al-hamra-club-vs-dubai-city-f-c",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/c9/13/52/b0/c91352b0-2f4e-4315-b9be-cc2ce4247b3c.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/b0/d9/ea/7c/b0d9ea7c-9668-4b62-b656-e4b90348cbed.png",
+            "freeMode": "FREE_ADS",
+            "title": "Al Jazira Al Hamra v Dubai City F.C. | Round 27 | First Division League 2025/26",
+            "titleTemplateValues": {
+                "country": "United Arab Emirates",
+                "competition": "First Division League",
+                "stadium": "Saud Bin Saqr Al Qasimi Stadium",
+                "match": "Al Jazira Al Hamra v Dubai City F.C.",
+                "stage": "Second Leg",
+                "season": "First Division League 2025/26",
+                "publisher-channel": "MA | UAE | First Division League 2025/2026",
+                "publisher": "MA | UAE",
+                "global-stage": "Round 27",
+                "association": "United Arab Emirates",
+                "team:dubai-city-f-c": "Dubai City F.C.",
+                "city": "Al Jazira Al Hamra",
+                "team:al-jazira-al-hamra-club": "Al Jazira Al Hamra",
+                "video-type": "Live Streams",
+                "organizer": "United Arab Emirates",
+                "organizer-country": "United Arab Emirates"
+            },
+            "startDate": "2026-05-10T13:55:00Z",
+            "endDate": "2026-05-10T16:35:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T14:05:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Al Jazira Al Hamra v Dubai City F.C."
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "First Division League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 27"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "United Arab Emirates"
+                }
+            ]
+        },
+        {
+            "id": "57dad657-710c-48fc-86aa-8f1fcd478980",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "57dad657-710c-48fc-86aa-8f1fcd478980",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Dibba Al-Hisn v Al-Ittifaq | Round 27 | First Division League 2025/26",
+            "category": "livestream",
+            "urlSlug": "dibba-al-hisn-vs-al-ittifaq",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/c9/13/52/b0/c91352b0-2f4e-4315-b9be-cc2ce4247b3c.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/37/d1/10/9d/37d1109d-69cc-49d8-8d85-a87fe63f3853.png",
+            "freeMode": "FREE_ADS",
+            "title": "Dibba Al-Hisn v Al-Ittifaq | Round 27 | First Division League 2025/26",
+            "titleTemplateValues": {
+                "city": "Dibba Al-Hisn",
+                "country": "United Arab Emirates",
+                "match": "Dibba Al-Hisn v Al-Ittifaq",
+                "competition": "First Division League",
+                "stage": "Second Leg",
+                "season": "First Division League 2025/26",
+                "team:dibba-al-hisn": "Dibba Al-Hisn",
+                "publisher-channel": "MA | UAE | First Division League 2025/2026",
+                "publisher": "MA | UAE",
+                "team:al-ittifaq": "Al-Ittifaq",
+                "global-stage": "Round 27",
+                "stadium": "Dibba Al-Hisn Club ",
+                "association": "United Arab Emirates",
+                "video-type": "Live Streams",
+                "organizer": "United Arab Emirates",
+                "organizer-country": "United Arab Emirates"
+            },
+            "startDate": "2026-05-10T13:55:00Z",
+            "endDate": "2026-05-10T16:35:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T14:05:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Dibba Al-Hisn v Al-Ittifaq"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "First Division League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 27"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "United Arab Emirates"
                 }
             ]
         }
