@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:15:22 PM 09-05-2026
+#last update time: 12:30:22 PM 09-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/80/9e/0e/9d/809e0e9d-e148-45e7-a3c9-dad79fa08c31.png" group-title="FIFA Live", Busan TC v FC Mokpo | K3 League 2026
@@ -18,3 +18,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_14_25_38_1c041f71-7b0a-4bbe-8b82
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc738d5f14bb32319f1bdea62a8fea02:a92a4c0f4c6567d009f51451a75e014c
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_17_13_08fcbc24-d59a-4e7e-8396-941d3bf453bd/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778303940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/78/ae/03/83/78ae0383-7568-445c-911d-8673a6e8e7d6.jpg" group-title="FIFA Live", South Melbourne FC v South Island United | OFC Professional League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ae7b3ed01c1306b853b7e1051ed001b:420a080204e83f88f254296b9ebccd70
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_26_58_8dffc0ca-d8b7-4dd2-b932-84c70729368e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778307540
