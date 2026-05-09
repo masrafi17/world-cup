@@ -1,30 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:45:18 AM 09-05-2026
+#last update time: 11:00:34 AM 09-05-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/24/5c/1a/08/245c1a08-8002-44a9-8475-87301257c474.jpg" group-title="FIFA Live", Auckland FC v Bula FC | OFC Professional League 2026 | Full Match Replay
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0320da6511ce390286355b1433098b6e:8a82f0e8739071b9f5b1d3e43ac9d6fc
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_26_53_524e1c92-3815-4854-af09-7ab7591ad25d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778293140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/77/df/2a/9c/77df2a9c-0dbf-4abf-a3e9-aba980ded1e4.jpg" group-title="FIFA Live", Auckland City v East Coast Bays | New Zealand Men's National League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f913ec9244203dfc93e2458ed52588ed:6d6bfaeda76b9da46305f71e9b1ab1c7
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_17_00_fb9ab2e7-650f-4707-9476-47915ec9b3db/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/fe/44/4a/9c/fe444a9c-2154-4ab0-a812-21413687f9ed.jpg" group-title="FIFA Live", Auckland United v Fencibles United | New Zealand Men's National League 2026
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/fe/44/4a/9c/fe444a9c-2154-4ab0-a812-21413687f9ed.jpg" group-title="FIFA Live", Auckland United v Fencibles United | New Zealand Men's National League 2026 | Full Match Replay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95d0b91ee22130f59ccdf34257477f5d:c7aa3e79c653397457004484692d786f
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_17_10_80809a4c-82d1-479a-82cb-31367b008104/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e2/5f/06/60/e25f0660-ee24-4968-b90e-5aaaff0bead3.jpg" group-title="FIFA Live", Birkenhead United v Tauranga City | New Zealand Men's National League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09b1aaf431893394888c150ddaa4f145:4938ace4cb7bbe29d3b34501a78b2239
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_16_50_1b4a5c6b-6e47-4323-af17-61ed429db119/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/31/85/b3/61/3185b361-2814-4ab0-ade1-7cec63524e0e.jpg" group-title="FIFA Live", Eastern Suburbs v Bay Olympic | New Zealand Men's National League 2026
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/31/85/b3/61/3185b361-2814-4ab0-ade1-7cec63524e0e.jpg" group-title="FIFA Live", Eastern Suburbs v Bay Olympic | New Zealand Men's National League 2026 | Full Match Replay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fb657847f4938d9a4b2edc998a4916a:4c483d5f48228430605cb202f3086cb5
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_16_57_b5ca8c3c-68d9-48fc-b7a6-57851f7e7ed8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940
@@ -34,7 +19,22 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_16_57_b5ca8c3c-68d9-48fc-b7a6
 #KODIPROP:inputstream.adaptive.license_key=84bcca0cea1d3d78b2d825f3099c273d:0999f01732a234a93fcec159441081b3
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_16_53_a31686a3-6ddb-4ecf-89c7-9fd333854929/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940
 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e2/5f/06/60/e25f0660-ee24-4968-b90e-5aaaff0bead3.jpg" group-title="FIFA Live", Birkenhead United v Tauranga City | New Zealand Men's National League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09b1aaf431893394888c150ddaa4f145:4938ace4cb7bbe29d3b34501a78b2239
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_16_50_1b4a5c6b-6e47-4323-af17-61ed429db119/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940
+
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a0/53/4a/14/a0534a14-e8d0-49f6-94bc-c5cfb4577a50.jpg" group-title="FIFA Live", Wellington Olympic v Wellington Phoenix Reserves | New Zealand Men's National League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0df02c7930af328c8fb393fee67eca94:bfb891bdc729df52ea3a11a2875e2b3d
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_17_03_453022d4-4613-4508-a4bc-724b85f21647/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778297640
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/80/9e/0e/9d/809e0e9d-e148-45e7-a3c9-dad79fa08c31.png" group-title="FIFA Live", Busan TC v FC Mokpo | K3 League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d9430825ee83a08b6d111111a97a926:e710c1aadd7230a06f47902ab92247f6
+https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_14_25_41_58744702-23cd-4913-a395-097e006d8537/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Akor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778302140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6d/91/00/07/6d910007-47e8-4a3a-8c00-53969e9651ba.png" group-title="FIFA Live", Jeonbuk FC v Yeoju FC | K3 League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee264a29965c30be85df59f17832abcd:c168f4e07fb35b90fb2a6002d1dc21d3
+https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_14_25_38_1c041f71-7b0a-4bbe-8b82-70bb25b6a36e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Akor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778302140

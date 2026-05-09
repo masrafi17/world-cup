@@ -3,158 +3,23 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:45:18 AM 09-05-2026",
+        "last_update_time": "11:00:34 AM 09-05-2026",
         "total_live": 7,
         "total_upcoming": 43
     },
     "matches": [
         {
-            "id": "7940c388-b1b7-4c0e-8c41-5c0d19620b2c",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "7940c388-b1b7-4c0e-8c41-5c0d19620b2c",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Auckland FC v Bula FC | OFC Professional League 2026 | Full Match Replay",
-            "category": "livestream",
-            "urlSlug": "auckland-fc-vs-bula-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f7/3e/d0/a0/f73ed0a0-89b0-481d-882e-8a7959a34a71.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/24/5c/1a/08/245c1a08-8002-44a9-8475-87301257c474.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Auckland FC v Bula FC | OFC Professional League 2026 | Full Match Replay",
-            "titleTemplateValues": {
-                "stadium": "Eden Park",
-                "country:fiji": "Fiji",
-                "publisher": "OFC",
-                "team:bula-fc": "Bula FC",
-                "team:auckland-fc": "Auckland FC",
-                "city": "Auckland/Tāmaki Makaurau ",
-                "association:new-zealand": "New Zealand",
-                "video-type": "Full Match Replays",
-                "publisher-channel": "OFC | OFC Pro League 2026 (Channel)",
-                "country:new-zealand": "New Zealand",
-                "stage": "Round 6 - Leaders Group",
-                "season": "OFC Professional League 2026",
-                "confederation": "OFC",
-                "association:fiji": "Fiji",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "match": "Auckland FC v Bula FC",
-                "global-stage": "Round 6",
-                "competition": "OFC Professional League ",
-                "organizer": "OFC"
-            },
-            "startDate": "2026-05-09T02:20:00Z",
-            "endDate": "2026-05-09T05:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T02:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Auckland FC v Bula FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "OFC Professional League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 6"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_26_53_524e1c92-3815-4854-af09-7ab7591ad25d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778293140",
-                "decryption_keys": [
-                    "0320da6511ce390286355b1433098b6e:8a82f0e8739071b9f5b1d3e43ac9d6fc"
-                ]
-            }
-        },
-        {
-            "id": "4ca3bdf0-7daa-4734-a885-32db4ea0ad49",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "4ca3bdf0-7daa-4734-a885-32db4ea0ad49",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Auckland City v East Coast Bays | New Zealand Men's National League 2026",
-            "category": "livestream",
-            "urlSlug": "auckland-city-fc-vs-east-coast-bays-afc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/77/df/2a/9c/77df2a9c-0dbf-4abf-a3e9-aba980ded1e4.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Auckland City v East Coast Bays | New Zealand Men's National League 2026",
-            "titleTemplateValues": {
-                "competition": "Men's National League",
-                "publisher": "MA | New Zealand",
-                "publisher-channel": "MA | New Zealand | Men's National League 2026 - Regional Phase (Channel)",
-                "global-stage": "Northern League",
-                "season": "New Zealand Men's National League 2026",
-                "team:east-coast-bays-afc": "East Coast Bays",
-                "stage": "Regional Phase - Northern League",
-                "association": "New Zealand",
-                "city": "Auckland",
-                "match": "Auckland City v East Coast Bays",
-                "country": "New Zealand",
-                "team:auckland-city-fc": "Auckland City",
-                "stadium": "Kiwitea Street",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "video-type": "Live Streams",
-                "organizer": "New Zealand",
-                "organizer-country": "New Zealand"
-            },
-            "startDate": "2026-05-09T02:50:00Z",
-            "endDate": "2026-05-09T05:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T03:00:00Z"
-            },
-            "isRegistrationRequired": true,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Auckland City v East Coast Bays"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "New Zealand Men's National League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Northern League"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "New Zealand"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_17_00_fb9ab2e7-650f-4707-9476-47915ec9b3db/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940",
-                "decryption_keys": [
-                    "f913ec9244203dfc93e2458ed52588ed:6d6bfaeda76b9da46305f71e9b1ab1c7"
-                ]
-            }
-        },
-        {
             "id": "41dbb091-79c3-4286-bf14-0d021262c6f9",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "41dbb091-79c3-4286-bf14-0d021262c6f9",
             "catalogRedirectType": "EVENT",
-            "standardTitle": "Auckland United v Fencibles United | New Zealand Men's National League 2026",
+            "standardTitle": "Auckland United v Fencibles United | New Zealand Men's National League 2026 | Full Match Replay",
             "category": "livestream",
             "urlSlug": "auckland-united-fc-vs-fencibles-united-afc",
             "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
             "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/fe/44/4a/9c/fe444a9c-2154-4ab0-a812-21413687f9ed.jpg",
             "freeMode": "FREE_ADS",
-            "title": "Auckland United v Fencibles United | New Zealand Men's National League 2026",
+            "title": "Auckland United v Fencibles United | New Zealand Men's National League 2026 | Full Match Replay",
             "titleTemplateValues": {
                 "competition": "Men's National League",
                 "publisher": "MA | New Zealand",
@@ -166,11 +31,11 @@
                 "association": "New Zealand",
                 "stadium": "Keith Hay Park",
                 "city": "Auckland",
+                "video-type": "Full Match Replays",
                 "team:fencibles-united-afc": "Fencibles United",
                 "country": "New Zealand",
                 "match": "Auckland United v Fencibles United",
                 "fifa-plus": "Mens (FIFA Plus)",
-                "video-type": "Live Streams",
                 "organizer": "New Zealand",
                 "organizer-country": "New Zealand"
             },
@@ -213,86 +78,17 @@
             }
         },
         {
-            "id": "9028a241-9a64-420d-a6c0-7837bc12cd0d",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "9028a241-9a64-420d-a6c0-7837bc12cd0d",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Birkenhead United v Tauranga City | New Zealand Men's National League 2026",
-            "category": "livestream",
-            "urlSlug": "birkenhead-united-afc-vs-tauranga-city-afc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/e2/5f/06/60/e25f0660-ee24-4968-b90e-5aaaff0bead3.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Birkenhead United v Tauranga City | New Zealand Men's National League 2026",
-            "titleTemplateValues": {
-                "competition": "Men's National League",
-                "publisher": "MA | New Zealand",
-                "publisher-channel": "MA | New Zealand | Men's National League 2026 - Regional Phase (Channel)",
-                "team:birkenhead-united-afc": "Birkenhead United",
-                "global-stage": "Northern League",
-                "stadium": "Shepherds Park",
-                "season": "New Zealand Men's National League 2026",
-                "match": "Birkenhead United v Tauranga City",
-                "stage": "Regional Phase - Northern League",
-                "association": "New Zealand",
-                "city": "Auckland",
-                "country": "New Zealand",
-                "team:tauranga-city-afc": "Tauranga City",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "video-type": "Live Streams",
-                "organizer": "New Zealand",
-                "organizer-country": "New Zealand"
-            },
-            "startDate": "2026-05-09T02:50:00Z",
-            "endDate": "2026-05-09T05:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T03:00:00Z"
-            },
-            "isRegistrationRequired": true,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Birkenhead United v Tauranga City"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "New Zealand Men's National League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Northern League"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "New Zealand"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_16_50_1b4a5c6b-6e47-4323-af17-61ed429db119/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940",
-                "decryption_keys": [
-                    "09b1aaf431893394888c150ddaa4f145:4938ace4cb7bbe29d3b34501a78b2239"
-                ]
-            }
-        },
-        {
             "id": "c9661db4-a77a-4c8a-ac18-c6e71b01a20e",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "c9661db4-a77a-4c8a-ac18-c6e71b01a20e",
             "catalogRedirectType": "EVENT",
-            "standardTitle": "Eastern Suburbs v Bay Olympic | New Zealand Men's National League 2026",
+            "standardTitle": "Eastern Suburbs v Bay Olympic | New Zealand Men's National League 2026 | Full Match Replay",
             "category": "livestream",
             "urlSlug": "eastern-suburbs-afc-vs-bay-olympic-fc",
             "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
             "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/31/85/b3/61/3185b361-2814-4ab0-ade1-7cec63524e0e.jpg",
             "freeMode": "FREE_ADS",
-            "title": "Eastern Suburbs v Bay Olympic | New Zealand Men's National League 2026",
+            "title": "Eastern Suburbs v Bay Olympic | New Zealand Men's National League 2026 | Full Match Replay",
             "titleTemplateValues": {
                 "competition": "Men's National League",
                 "publisher": "MA | New Zealand",
@@ -305,10 +101,10 @@
                 "association": "New Zealand",
                 "team:bay-olympic-fc": "Bay Olympic",
                 "city": "Auckland",
+                "video-type": "Full Match Replays",
                 "country": "New Zealand",
                 "fifa-plus": "Mens (FIFA Plus)",
                 "team:eastern-suburbs-afc": "Eastern Suburbs",
-                "video-type": "Live Streams",
                 "organizer": "New Zealand",
                 "organizer-country": "New Zealand"
             },
@@ -420,6 +216,75 @@
             }
         },
         {
+            "id": "9028a241-9a64-420d-a6c0-7837bc12cd0d",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "9028a241-9a64-420d-a6c0-7837bc12cd0d",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Birkenhead United v Tauranga City | New Zealand Men's National League 2026",
+            "category": "livestream",
+            "urlSlug": "birkenhead-united-afc-vs-tauranga-city-afc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/e2/5f/06/60/e25f0660-ee24-4968-b90e-5aaaff0bead3.jpg",
+            "freeMode": "FREE_ADS",
+            "title": "Birkenhead United v Tauranga City | New Zealand Men's National League 2026",
+            "titleTemplateValues": {
+                "competition": "Men's National League",
+                "publisher": "MA | New Zealand",
+                "publisher-channel": "MA | New Zealand | Men's National League 2026 - Regional Phase (Channel)",
+                "team:birkenhead-united-afc": "Birkenhead United",
+                "global-stage": "Northern League",
+                "stadium": "Shepherds Park",
+                "season": "New Zealand Men's National League 2026",
+                "match": "Birkenhead United v Tauranga City",
+                "stage": "Regional Phase - Northern League",
+                "association": "New Zealand",
+                "city": "Auckland",
+                "country": "New Zealand",
+                "team:tauranga-city-afc": "Tauranga City",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "video-type": "Live Streams",
+                "organizer": "New Zealand",
+                "organizer-country": "New Zealand"
+            },
+            "startDate": "2026-05-09T02:53:00Z",
+            "endDate": "2026-05-09T05:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T03:00:00Z"
+            },
+            "isRegistrationRequired": true,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "started",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Birkenhead United v Tauranga City"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "New Zealand Men's National League 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Northern League"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "New Zealand"
+                }
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_16_50_1b4a5c6b-6e47-4323-af17-61ed429db119/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940",
+                "decryption_keys": [
+                    "09b1aaf431893394888c150ddaa4f145:4938ace4cb7bbe29d3b34501a78b2239"
+                ]
+            }
+        },
+        {
             "id": "0650a227-5d76-4b66-98f4-50a5b8312a51",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "0650a227-5d76-4b66-98f4-50a5b8312a51",
@@ -527,7 +392,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -549,7 +414,13 @@
                     "p": 1,
                     "value": "Korea Republic"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_14_25_41_58744702-23cd-4913-a395-097e006d8537/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Akor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778302140",
+                "decryption_keys": [
+                    "4d9430825ee83a08b6d111111a97a926:e710c1aadd7230a06f47902ab92247f6"
+                ]
+            }
         },
         {
             "id": "dcde37cc-f414-407d-ac92-2a5aa1d6eaba",
@@ -590,7 +461,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -612,7 +483,13 @@
                     "p": 1,
                     "value": "Korea Republic"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_14_25_38_1c041f71-7b0a-4bbe-8b82-70bb25b6a36e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Akor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778302140",
+                "decryption_keys": [
+                    "ee264a29965c30be85df59f17832abcd:c168f4e07fb35b90fb2a6002d1dc21d3"
+                ]
+            }
         },
         {
             "id": "66f728c4-7f3b-4081-9118-15980f2bf252",
@@ -3143,6 +3020,130 @@
                     "kind": "title",
                     "p": 0,
                     "value": "NC Magra v JS Bordj Menaiel"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 2 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Algeria"
+                }
+            ]
+        },
+        {
+            "id": "3f4c7a05-5673-46af-a0a9-7cce39a30d0b",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "3f4c7a05-5673-46af-a0a9-7cce39a30d0b",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "NRB Teleghma v AS Khroub | Ligue 2 2025/26",
+            "category": "livestream",
+            "urlSlug": "nrb-teleghma-vs-ca-batna",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/2c/39/95/28/2c399528-d1d9-493c-b756-15462d76d17e.png",
+            "freeMode": "FREE_ADS",
+            "title": "NRB Teleghma v AS Khroub | Ligue 2 2025/26",
+            "titleTemplateValues": {
+                "team:nrb-teleghma": "NRB Teleghma",
+                "publisher": "MA | Algeria",
+                "association": "Algeria",
+                "team:as-khroub": "AS Khroub",
+                "stage": "Regular Season",
+                "global-stage": "Round 30",
+                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
+                "competition": "Ligue 2",
+                "stadium": "Khebaza Bachir Stadium",
+                "country": "Algeria",
+                "city": "Teleghma",
+                "match": "NRB Teleghma v AS Khroub",
+                "season": "Ligue 2 2025/26",
+                "video-type": "Live Streams",
+                "organizer": "Algeria",
+                "organizer-country": "Algeria"
+            },
+            "startDate": "2026-05-09T14:50:00Z",
+            "endDate": "2026-05-09T17:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T15:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "NRB Teleghma v AS Khroub"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 2 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Algeria"
+                }
+            ]
+        },
+        {
+            "id": "92bd3fc6-fe4e-4f1c-afce-d909b1468551",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "92bd3fc6-fe4e-4f1c-afce-d909b1468551",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "US Biskra v US Chaouia | Ligue 2 2025/26",
+            "category": "livestream",
+            "urlSlug": "us-biskra-vs-us-chaouia",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/14/1f/48/27/141f4827-edd2-4271-8d53-93fd478961b8.png",
+            "freeMode": "FREE_ADS",
+            "title": "US Biskra v US Chaouia | Ligue 2 2025/26",
+            "titleTemplateValues": {
+                "publisher": "MA | Algeria",
+                "association": "Algeria",
+                "city": "Biskra",
+                "team:us-chaouia": "US Chaouia",
+                "stage": "Regular Season",
+                "global-stage": "Round 30",
+                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
+                "competition": "Ligue 2",
+                "stadium": "18 Fevrier",
+                "team:us-biskra": "US Biskra",
+                "country": "Algeria",
+                "match": "US Biskra v US Chaouia",
+                "season": "Ligue 2 2025/26",
+                "video-type": "Live Streams",
+                "organizer": "Algeria",
+                "organizer-country": "Algeria"
+            },
+            "startDate": "2026-05-09T14:50:00Z",
+            "endDate": "2026-05-09T17:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T15:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "US Biskra v US Chaouia"
                 },
                 {
                     "kind": "subtitle",
