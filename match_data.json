@@ -3,149 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:15:20 PM 09-05-2026",
-        "total_live": 4,
-        "total_upcoming": 46
+        "last_update_time": "01:30:23 PM 09-05-2026",
+        "total_live": 2,
+        "total_upcoming": 48
     },
     "matches": [
-        {
-            "id": "565ae5b1-6a75-4071-9d28-1fd8cbeab93a",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "565ae5b1-6a75-4071-9d28-1fd8cbeab93a",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Busan TC v FC Mokpo | K3 League 2026 | Full Match Replay",
-            "category": "livestream",
-            "urlSlug": "busan-transportation-corporation-vs-fc-mokpo",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/7e/1d/66/a2/7e1d66a2-8abe-46f3-8709-8fcfe0ad564d.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/80/9e/0e/9d/809e0e9d-e148-45e7-a3c9-dad79fa08c31.png",
-            "freeMode": "FREE_ADS",
-            "title": "Busan TC v FC Mokpo | K3 League 2026 | Full Match Replay",
-            "titleTemplateValues": {
-                "competition": "K3 League",
-                "city": "Busan",
-                "association": "Korea Republic",
-                "season": "K3 League 2026",
-                "team:fc-mokpo": "FC Mokpo",
-                "publisher": "MA | Korea Republic",
-                "global-stage": "Round 10",
-                "stadium": "Busan Gudeok Stadium",
-                "country": "Korea Republic",
-                "stage": "Regular Season",
-                "video-type": "Full Match Replays",
-                "publisher-channel": "MA | Korea Republic | K3 League 2026 (Channel)",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "team:busan-transportation-corporation": "Busan TC",
-                "match": "Busan TC v FC Mokpo",
-                "organizer": "Korea Republic",
-                "organizer-country": "Korea Republic"
-            },
-            "startDate": "2026-05-09T04:50:00Z",
-            "endDate": "2026-05-09T07:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T05:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Busan TC v FC Mokpo"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "K3 League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 10"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Korea Republic"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_14_25_41_58744702-23cd-4913-a395-097e006d8537/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Akor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778302140",
-                "decryption_keys": [
-                    "4d9430825ee83a08b6d111111a97a926:e710c1aadd7230a06f47902ab92247f6"
-                ]
-            }
-        },
-        {
-            "id": "dcde37cc-f414-407d-ac92-2a5aa1d6eaba",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "dcde37cc-f414-407d-ac92-2a5aa1d6eaba",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Jeonbuk FC v Yeoju FC | K3 League 2026 | Full Match Replay",
-            "category": "livestream",
-            "urlSlug": "jeonbuk-motors-n-vs-yeoju-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/7e/1d/66/a2/7e1d66a2-8abe-46f3-8709-8fcfe0ad564d.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/6d/91/00/07/6d910007-47e8-4a3a-8c00-53969e9651ba.png",
-            "freeMode": "FREE_ADS",
-            "title": "Jeonbuk FC v Yeoju FC | K3 League 2026 | Full Match Replay",
-            "titleTemplateValues": {
-                "competition": "K3 League",
-                "association": "Korea Republic",
-                "season": "K3 League 2026",
-                "publisher": "MA | Korea Republic",
-                "stadium": "Wanju-gun Public Stadium",
-                "global-stage": "Round 10",
-                "team:jeonbuk-motors-n": "Jeonbuk FC",
-                "city": "Jeonju",
-                "country": "Korea Republic",
-                "team:yeoju-fc": "Yeoju FC",
-                "stage": "Regular Season",
-                "video-type": "Full Match Replays",
-                "match": "Jeonbuk FC v Yeoju FC",
-                "publisher-channel": "MA | Korea Republic | K3 League 2026 (Channel)",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "organizer": "Korea Republic",
-                "organizer-country": "Korea Republic"
-            },
-            "startDate": "2026-05-09T04:50:00Z",
-            "endDate": "2026-05-09T07:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T05:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Jeonbuk FC v Yeoju FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "K3 League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 10"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Korea Republic"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_14_25_38_1c041f71-7b0a-4bbe-8b82-70bb25b6a36e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Akor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778302140",
-                "decryption_keys": [
-                    "ee264a29965c30be85df59f17832abcd:c168f4e07fb35b90fb2a6002d1dc21d3"
-                ]
-            }
-        },
         {
             "id": "66f728c4-7f3b-4081-9118-15980f2bf252",
             "channelId": "fifa-tournaments",
@@ -282,68 +144,6 @@
             }
         },
         {
-            "id": "cfc274ba-34a8-428f-b94c-4dc8f1704836",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "cfc274ba-34a8-428f-b94c-4dc8f1704836",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Hapoel Jerusalem v Hapoel Ramat Gan | Liga Noar Leumit U19 2025/26",
-            "category": "livestream",
-            "urlSlug": "hapoel-jerusalem-vs-hapoel-ramat-gan",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/06/55/1f/12/06551f12-3c69-42a3-a603-afd83719277e.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/fb/7b/30/88/fb7b3088-4e2a-40e5-8082-e3ab37c772dc.png",
-            "freeMode": "FREE_ADS",
-            "title": "Hapoel Jerusalem v Hapoel Ramat Gan | Liga Noar Leumit U19 2025/26",
-            "titleTemplateValues": {
-                "global-stage": "Round 24",
-                "stage": "League South",
-                "association": "Israel",
-                "publisher": "MA | Israel",
-                "season": "Liga Noar Leumit U19 2025/26",
-                "team:hapoel-ramat-gan": "Hapoel Ramat Gan",
-                "match": "Hapoel Jerusalem v Hapoel Ramat Gan",
-                "publisher-channel": "MA | Israel | Israeli Noar Leumit League 2025/2026",
-                "stadium": "Abu Ghosh",
-                "team:hapoel-jerusalem": "Hapoel Jerusalem",
-                "city": "Jerusalem",
-                "competition": "Liga Noar Leumit U18",
-                "country": "Israel",
-                "video-type": "Live Streams",
-                "organizer": "Israel",
-                "organizer-country": "Israel"
-            },
-            "startDate": "2026-05-09T07:50:00Z",
-            "endDate": "2026-05-09T10:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T08:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Hapoel Jerusalem v Hapoel Ramat Gan"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga Noar Leumit U19 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 24"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Israel"
-                }
-            ]
-        },
-        {
             "id": "4582362c-4465-444c-a35c-7fe5217554e6",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "4582362c-4465-444c-a35c-7fe5217554e6",
@@ -402,6 +202,68 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Lesotho"
+                }
+            ]
+        },
+        {
+            "id": "cfc274ba-34a8-428f-b94c-4dc8f1704836",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "cfc274ba-34a8-428f-b94c-4dc8f1704836",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Hapoel Jerusalem v Hapoel Ramat Gan | Liga Noar Leumit U19 2025/26",
+            "category": "livestream",
+            "urlSlug": "hapoel-jerusalem-vs-hapoel-ramat-gan",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/06/55/1f/12/06551f12-3c69-42a3-a603-afd83719277e.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/fb/7b/30/88/fb7b3088-4e2a-40e5-8082-e3ab37c772dc.png",
+            "freeMode": "FREE_ADS",
+            "title": "Hapoel Jerusalem v Hapoel Ramat Gan | Liga Noar Leumit U19 2025/26",
+            "titleTemplateValues": {
+                "global-stage": "Round 24",
+                "stage": "League South",
+                "association": "Israel",
+                "publisher": "MA | Israel",
+                "season": "Liga Noar Leumit U19 2025/26",
+                "team:hapoel-ramat-gan": "Hapoel Ramat Gan",
+                "match": "Hapoel Jerusalem v Hapoel Ramat Gan",
+                "publisher-channel": "MA | Israel | Israeli Noar Leumit League 2025/2026",
+                "stadium": "Abu Ghosh",
+                "team:hapoel-jerusalem": "Hapoel Jerusalem",
+                "city": "Jerusalem",
+                "competition": "Liga Noar Leumit U18",
+                "country": "Israel",
+                "video-type": "Live Streams",
+                "organizer": "Israel",
+                "organizer-country": "Israel"
+            },
+            "startDate": "2026-05-09T07:55:00Z",
+            "endDate": "2026-05-09T10:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T08:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Hapoel Jerusalem v Hapoel Ramat Gan"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Liga Noar Leumit U19 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 24"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Israel"
                 }
             ]
         },
@@ -3117,6 +2979,130 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Côte d'Ivoire"
+                }
+            ]
+        },
+        {
+            "id": "d85acc44-df5a-4b42-bfea-63842aad71f4",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "d85acc44-df5a-4b42-bfea-63842aad71f4",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "ASFAR v Fath de Rabat | D1 Women's Championship  2025-26",
+            "category": "livestream",
+            "urlSlug": "asfar-vs-fath-de-rabat",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/de/e7/40/33/dee74033-f15f-4c9b-b864-56d00c2765ee.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/b1/be/1f/91/b1be1f91-30eb-4a19-84a9-fbf54b5e7291.png",
+            "freeMode": "FREE_ADS",
+            "title": "ASFAR v Fath de Rabat | D1 Women's Championship  2025-26",
+            "titleTemplateValues": {
+                "team:fath-de-rabat": "Fath de Rabat",
+                "competition": "Championnat Féminin D1",
+                "stage": "Regular Season",
+                "global-stage": "Round 21",
+                "association": "Morocco",
+                "publisher": "MA | Morocco",
+                "stadium": "Sports Center ASFAR",
+                "publisher-channel": "MA | Morocco | Championnat Féminin D1 2025/2026",
+                "match": "ASFAR v Fath de Rabat",
+                "season": "D1 Women's Championship  2025-26",
+                "country": "Morocco",
+                "team:asfar": "ASFAR",
+                "city": "Salé",
+                "video-type": "Live Streams",
+                "organizer": "Morocco",
+                "organizer-country": "Morocco"
+            },
+            "startDate": "2026-05-09T15:50:00Z",
+            "endDate": "2026-05-09T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "ASFAR v Fath de Rabat"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "D1 Women's Championship  2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 21"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Morocco"
+                }
+            ]
+        },
+        {
+            "id": "0a04e82a-6417-4665-b890-f58581be6b1d",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "0a04e82a-6417-4665-b890-f58581be6b1d",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "LISCR FC v Downtown FC | LFA First Division League 2025/26",
+            "category": "livestream",
+            "urlSlug": "liscr-fc-vs-downtown-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/31/e2/04/9e/31e2049e-f1d2-458a-b7e4-f783f23f9a9b.png",
+            "freeMode": "FREE_ADS",
+            "title": "LISCR FC v Downtown FC | LFA First Division League 2025/26",
+            "titleTemplateValues": {
+                "team:downtown-fc": "Downtown FC",
+                "stage": "Regular Season",
+                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
+                "stadium": "TUSA Field",
+                "match": "LISCR FC v Downtown FC",
+                "team:liscr-fc": "LISCR FC",
+                "association": "Liberia",
+                "season": "LFA First Division League 2025/26",
+                "competition": "Liberia National League",
+                "country": "Liberia",
+                "global-stage": "Round 28",
+                "publisher": "MA | Liberia",
+                "city": "Gardnersville",
+                "video-type": "Live Streams",
+                "organizer": "Liberia",
+                "organizer-country": "Liberia"
+            },
+            "startDate": "2026-05-09T15:50:00Z",
+            "endDate": "2026-05-09T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "LISCR FC v Downtown FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "LFA First Division League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 28"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Liberia"
                 }
             ]
         }
