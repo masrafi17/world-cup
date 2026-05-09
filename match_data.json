@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:45:18 PM 09-05-2026",
-        "total_live": 27,
-        "total_upcoming": 11
+        "last_update_time": "11:00:24 PM 09-05-2026",
+        "total_live": 29,
+        "total_upcoming": 8
     },
     "matches": [
-        {
-            "id": "2f797210-1deb-4276-bda3-5b0bf15afafc",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "2f797210-1deb-4276-bda3-5b0bf15afafc",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "AF Luftëtari v KF Sopoti | Kategoria e Parë 2025/26",
-            "category": "livestream",
-            "urlSlug": "af-luftetari-vs-kf-sopoti",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/a9/29/53/83/a9295383-98b2-479b-b8b1-74c35fc272cb.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/5b/da/e4/62/5bdae462-aa86-4d7c-9eef-14e3d0ebc16f.png",
-            "freeMode": "FREE_ADS",
-            "title": "AF Luftëtari v KF Sopoti | Kategoria e Parë 2025/26",
-            "titleTemplateValues": {
-                "season": "Kategoria e Parë 2025/26",
-                "stadium": "Stadiumi Flamurtari",
-                "country": "Albania",
-                "match": "AF Luftëtari v KF Sopoti",
-                "team:af-luftetari": "AF Luftëtari",
-                "city": "Vlorë",
-                "publisher": "MA | Albania",
-                "publisher-channel": "MA | Albania | Kategoria e Parë 2025/26",
-                "competition": "Kategoria e Parë",
-                "team:kf-sopoti": "KF Sopoti",
-                "association": "Albania",
-                "video-type": "Live Streams",
-                "stage": "Play-out",
-                "global-stage": "Relegation Playoff",
-                "organizer": "Albania",
-                "organizer-country": "Albania"
-            },
-            "startDate": "2026-05-09T13:50:00Z",
-            "endDate": "2026-05-09T16:50:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T14:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "AF Luftëtari v KF Sopoti"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Kategoria e Parë 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Relegation Playoff"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Albania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_12_36_31_108eb7d6-787e-4447-9fcc-7ee5d3cf04f0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778334540",
-                "decryption_keys": [
-                    "786fb4485a853763acfddb5339c7c447:11d4a736d6c796f119a4360fe4deffef"
-                ]
-            }
-        },
         {
             "id": "d71580d5-774d-4e66-987d-1de968a0a033",
             "channelId": "fifa-tournaments",
@@ -1864,7 +1796,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1886,7 +1818,13 @@
                     "p": 1,
                     "value": "Cabo Verde"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_10_14_da06b27d-69a4-4cfa-aedc-0a603697946e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778345340",
+                "decryption_keys": [
+                    "e12cf195c6e93edd9882db0b94d62fe6:25d0a72b32f5ec545ba0942af6b3b956"
+                ]
+            }
         },
         {
             "id": "47e9031f-c849-4736-81bb-34d20959f3e3",
@@ -1927,7 +1865,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1949,7 +1887,13 @@
                     "p": 1,
                     "value": "Cabo Verde"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_10_08_9584860e-bc7f-4531-a65f-5e06fef8dd6e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778345340",
+                "decryption_keys": [
+                    "6d1e790272433e8b8f5e463fc0ee849b:4e514efad8095dc1f8606d434601f6ab"
+                ]
+            }
         },
         {
             "id": "c8e24b7c-56c5-4a6c-af7a-993671f31b93",
@@ -1990,7 +1934,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -2012,7 +1956,13 @@
                     "p": 1,
                     "value": "Cabo Verde"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_10_05_867c42b6-cc7b-4db7-83d7-d8a9c26c5e8f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778345340",
+                "decryption_keys": [
+                    "fc13f5a6144933f9a67161d9a665bf06:ee853b434f003d11dcf2637b383a46a9"
+                ]
+            }
         },
         {
             "id": "8f748cc7-3a3c-445d-92be-8abdbea5ac67",
