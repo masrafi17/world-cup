@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:00:35 PM 09-05-2026
+#last update time: 09:15:21 PM 09-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c1/64/a5/ac/c164a5ac-a824-453c-8f06-e1b1664ed160.png" group-title="FIFA Live", CF Akbou v US Biskra | Ligue Nationale du Football Féminin 2025/26
@@ -9,25 +9,10 @@
 #KODIPROP:inputstream.adaptive.license_key=26db19f9eed13a4f9ca89008215ea639:2f6d573ea451db7ba128e2e91875b023
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_35_43_ca1cce20-2f9c-480c-83ac-3ccd1d3b758b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/32/97/1b/ee/32971bee-c709-46ff-b7d5-6f3a41d4f5c0.png" group-title="FIFA Live", University of Macau v Gala | Macau First Division 2026 | Full Match Replay
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c96c774d174b38a09f898cd969611484:4311f16870a741194135d33be5f57ed1
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_10_30_10_e8ca4e76-f3e9-476d-bb60-85533914dde6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778330940
-
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ac/97/95/59/ac979559-7438-44df-a8ab-701f5366bece.png" group-title="FIFA Live", Kayanza United v BS Dynamik | Primus Ligue Burundi 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c4ee39d6d553208a59887f4932c785b:7a669a47adff4aecc9595f70975cf925
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_28_bb95881f-f5d3-4818-9b6e-dcc984067408/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/43/7b/7a/54/437b7a54-9aab-4975-864e-e4462852382a.png" group-title="FIFA Live", Messager Ngozi v Inter Star | Primus Ligue Burundi 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34c33d1e1e5733c98012056023c6a930:f5e1e1bc8d92ebe57a243f40f1746f96
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_14_11_12_42d844b9-98a1-44d2-81b0-1963aeea9a27/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7a/32/89/3d/7a32893d-20a8-4f12-9a67-6499cf07c00e.png" group-title="FIFA Live", Olympic Star v Ngozi City | Primus Ligue Burundi 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d76c4f19dc93382af38a2073812a847:0b0fa280c3127e1f28240bc1291c7d58
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_34_bdaf3f6f-a006-4781-a32d-ab1582cbe620/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b7/a0/a2/ab/b7a0a2ab-dfa1-4767-9d28-e66dd772e714.png" group-title="FIFA Live", Royal Vision 2026 v Vital'O FC | Primus Ligue Burundi 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -48,11 +33,6 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_44_16_9a269593-4bec-4e61-8743
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=786fb4485a853763acfddb5339c7c447:11d4a736d6c796f119a4360fe4deffef
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_12_36_31_108eb7d6-787e-4447-9fcc-7ee5d3cf04f0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778334540
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/42/8a/ac/f9/428aacf9-8647-4756-ad1d-88f6c7048132.png" group-title="FIFA Live", Kukësi v Bylis B | Kategoria e Parë 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4aa4567c99cc3553b065cdd5661cca2d:7e329c8d66a4472c39efc2576c5e5475
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_12_37_25_6402e818-6b0e-422e-a8c8-2aebbce1ba9f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778334540
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/78/9b/cf/1c/789bcf1c-5b46-4f31-94c5-f8300e790892.png" group-title="FIFA Live", JS El Biar v RC Arbaâ | Ligue 2 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -93,3 +73,38 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_34_56_9f1edd5a-77e6-444c-b4d0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8c1bef22b84e38e9afde0cf72c027a6d:ca941aaac53e5c42f026bedee59578b8
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_34_28_2cd864e5-f6f8-4c44-b8e5-5452a898cfb5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778338140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/42/8a/ac/f9/428aacf9-8647-4756-ad1d-88f6c7048132.png" group-title="FIFA Live", Kukësi v Bylis B | Kategoria e Parë 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4aa4567c99cc3553b065cdd5661cca2d:7e329c8d66a4472c39efc2576c5e5475
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_12_37_25_6402e818-6b0e-422e-a8c8-2aebbce1ba9f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778334540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/71/bd/6c/30/71bd6c30-d3db-4307-82d2-51481aa7a603.png" group-title="FIFA Live", IB Khemis El Khechna v Beni Thour | Ligue 2 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03a4e11880783b748c83a8058d51e34c:f6aa0e81f8cc4e636c802f075f05bb83
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_35_14_b375b686-8095-4a8d-95ba-f7423ba47b9f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778339340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d6/49/c4/52/d649c452-a754-4b00-bd9c-9ad0dcc8e504.png" group-title="FIFA Live", JS Djijel v MSP Batna | Ligue 2 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=498cff82856833e7b376cde64ee24f6e:ddcd463cb7db07329846ab84aaba4595
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_37_42_ec2b693b-aedf-46c5-8d5c-15001b4df786/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778339340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/77/16/85/32/77168532-2508-4d7a-81a3-9784e317d1d5.png" group-title="FIFA Live", MO Béjaïa v Beni Oualbane | Ligue 2 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8526952ad381366cbae1a755a8b548a8:a039cafe91a5b48e6e80c042c2bb0625
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_35_21_e4702a0e-1c35-4cdd-a183-f0cddd909753/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778339340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/88/f3/cb/7e/88f3cb7e-f029-45f9-b656-ad04f8b60b2c.png" group-title="FIFA Live", NC Magra v JS Bordj Menaiel | Ligue 2 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f2aaaaa164f3a458d342293d73aa4c9:4280f6b980551c53a7ef2c3efe3a1b19
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_34_33_2fe2f998-f359-4c3d-acbd-4d925bf1b6a3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778339340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/2c/39/95/28/2c399528-d1d9-493c-b756-15462d76d17e.png" group-title="FIFA Live", NRB Teleghma v AS Khroub | Ligue 2 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6440065ca443255a791299950ac5ae9:cbfbeb1252abf8ed4ff990b0e892004e
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_34_43_69873dbe-cd3a-4e45-85f3-81de9395a007/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778339340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/14/1f/48/27/141f4827-edd2-4271-8d53-93fd478961b8.png" group-title="FIFA Live", US Biskra v US Chaouia | Ligue 2 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=766420445022338c8c7fce120cc05b79:10f853e44d99e8d55cc31e3e9d64e790
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_33_43_23fa8c7b-0eab-4760-aeab-4df37541ff24/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778339340
