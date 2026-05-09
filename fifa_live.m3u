@@ -1,18 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:15:21 AM 09-05-2026
+#last update time: 11:30:21 AM 09-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/31/85/b3/61/3185b361-2814-4ab0-ade1-7cec63524e0e.jpg" group-title="FIFA Live", Eastern Suburbs v Bay Olympic | New Zealand Men's National League 2026 | Full Match Replay
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fb657847f4938d9a4b2edc998a4916a:4c483d5f48228430605cb202f3086cb5
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_16_57_b5ca8c3c-68d9-48fc-b7a6-57851f7e7ed8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e2/5f/06/60/e25f0660-ee24-4968-b90e-5aaaff0bead3.jpg" group-title="FIFA Live", Birkenhead United v Tauranga City | New Zealand Men's National League 2026 | Full Match Replay
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09b1aaf431893394888c150ddaa4f145:4938ace4cb7bbe29d3b34501a78b2239
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_16_50_1b4a5c6b-6e47-4323-af17-61ed429db119/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a0/53/4a/14/a0534a14-e8d0-49f6-94bc-c5cfb4577a50.jpg" group-title="FIFA Live", Wellington Olympic v Wellington Phoenix Reserves | New Zealand Men's National League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -28,3 +18,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_14_25_41_58744702-23cd-4913-a395
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee264a29965c30be85df59f17832abcd:c168f4e07fb35b90fb2a6002d1dc21d3
 https://d7pd9oqdl4d44.cloudfront.net/2026_04_29_14_25_38_1c041f71-7b0a-4bbe-8b82-70bb25b6a36e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Akor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778302140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/59/60/c8/24/5960c824-bdd7-43f3-8ff0-df8cfc91f5c5.jpg" group-title="FIFA Live", Western Springs v Manukau United | New Zealand Men's National League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc738d5f14bb32319f1bdea62a8fea02:a92a4c0f4c6567d009f51451a75e014c
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_17_13_08fcbc24-d59a-4e7e-8396-941d3bf453bd/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778303940

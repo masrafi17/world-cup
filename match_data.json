@@ -3,149 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:15:21 AM 09-05-2026",
-        "total_live": 5,
-        "total_upcoming": 45
+        "last_update_time": "11:30:21 AM 09-05-2026",
+        "total_live": 4,
+        "total_upcoming": 46
     },
     "matches": [
-        {
-            "id": "c9661db4-a77a-4c8a-ac18-c6e71b01a20e",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "c9661db4-a77a-4c8a-ac18-c6e71b01a20e",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Eastern Suburbs v Bay Olympic | New Zealand Men's National League 2026 | Full Match Replay",
-            "category": "livestream",
-            "urlSlug": "eastern-suburbs-afc-vs-bay-olympic-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/31/85/b3/61/3185b361-2814-4ab0-ade1-7cec63524e0e.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Eastern Suburbs v Bay Olympic | New Zealand Men's National League 2026 | Full Match Replay",
-            "titleTemplateValues": {
-                "competition": "Men's National League",
-                "publisher": "MA | New Zealand",
-                "stadium": "Madills Farm",
-                "publisher-channel": "MA | New Zealand | Men's National League 2026 - Regional Phase (Channel)",
-                "global-stage": "Northern League",
-                "match": "Eastern Suburbs v Bay Olympic",
-                "season": "New Zealand Men's National League 2026",
-                "stage": "Regional Phase - Northern League",
-                "association": "New Zealand",
-                "team:bay-olympic-fc": "Bay Olympic",
-                "city": "Auckland",
-                "video-type": "Full Match Replays",
-                "country": "New Zealand",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "team:eastern-suburbs-afc": "Eastern Suburbs",
-                "organizer": "New Zealand",
-                "organizer-country": "New Zealand"
-            },
-            "startDate": "2026-05-09T02:50:00Z",
-            "endDate": "2026-05-09T05:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T03:00:00Z"
-            },
-            "isRegistrationRequired": true,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Eastern Suburbs v Bay Olympic"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "New Zealand Men's National League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Northern League"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "New Zealand"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_16_57_b5ca8c3c-68d9-48fc-b7a6-57851f7e7ed8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940",
-                "decryption_keys": [
-                    "2fb657847f4938d9a4b2edc998a4916a:4c483d5f48228430605cb202f3086cb5"
-                ]
-            }
-        },
-        {
-            "id": "9028a241-9a64-420d-a6c0-7837bc12cd0d",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "9028a241-9a64-420d-a6c0-7837bc12cd0d",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Birkenhead United v Tauranga City | New Zealand Men's National League 2026 | Full Match Replay",
-            "category": "livestream",
-            "urlSlug": "birkenhead-united-afc-vs-tauranga-city-afc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/e2/5f/06/60/e25f0660-ee24-4968-b90e-5aaaff0bead3.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Birkenhead United v Tauranga City | New Zealand Men's National League 2026 | Full Match Replay",
-            "titleTemplateValues": {
-                "competition": "Men's National League",
-                "publisher": "MA | New Zealand",
-                "publisher-channel": "MA | New Zealand | Men's National League 2026 - Regional Phase (Channel)",
-                "team:birkenhead-united-afc": "Birkenhead United",
-                "global-stage": "Northern League",
-                "stadium": "Shepherds Park",
-                "season": "New Zealand Men's National League 2026",
-                "match": "Birkenhead United v Tauranga City",
-                "stage": "Regional Phase - Northern League",
-                "association": "New Zealand",
-                "city": "Auckland",
-                "video-type": "Full Match Replays",
-                "country": "New Zealand",
-                "team:tauranga-city-afc": "Tauranga City",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "organizer": "New Zealand",
-                "organizer-country": "New Zealand"
-            },
-            "startDate": "2026-05-09T02:53:00Z",
-            "endDate": "2026-05-09T05:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T03:00:00Z"
-            },
-            "isRegistrationRequired": true,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Birkenhead United v Tauranga City"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "New Zealand Men's National League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Northern League"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "New Zealand"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_16_50_1b4a5c6b-6e47-4323-af17-61ed429db119/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940",
-                "decryption_keys": [
-                    "09b1aaf431893394888c150ddaa4f145:4938ace4cb7bbe29d3b34501a78b2239"
-                ]
-            }
-        },
         {
             "id": "0650a227-5d76-4b66-98f4-50a5b8312a51",
             "channelId": "fifa-tournaments",
@@ -392,7 +254,7 @@
             "isRegistrationRequired": true,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -414,7 +276,13 @@
                     "p": 1,
                     "value": "New Zealand"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_17_13_08fcbc24-d59a-4e7e-8396-941d3bf453bd/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778303940",
+                "decryption_keys": [
+                    "bc738d5f14bb32319f1bdea62a8fea02:a92a4c0f4c6567d009f51451a75e014c"
+                ]
+            }
         },
         {
             "id": "f8ec3e47-8867-45f3-a7e6-a770c6e28cb1",
@@ -3145,6 +3013,111 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Togo"
+                }
+            ]
+        },
+        {
+            "id": "77654c45-f943-452b-945a-349ab01fbe0e",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "77654c45-f943-452b-945a-349ab01fbe0e",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Maroala FC v Matlama Football Club | Vodacom Premier League 2025/26",
+            "category": "livestream",
+            "urlSlug": "maroala-fc-vs-matlama-football-club",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/cc/13/d2/f7/cc13d2f7-b310-4a47-978c-9632cda4a205.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/c1/f6/57/a4/c1f657a4-5305-4fd7-9ba6-9ef81b3e6b69.png",
+            "freeMode": "FREE_ADS",
+            "title": "Maroala FC v Matlama Football Club | Vodacom Premier League 2025/26",
+            "titleTemplateValues": {
+                "country": "Lesotho",
+                "association": "Lesotho",
+                "publisher-channel": "MA | Lesotho | Vodacom Premier League 2025/26",
+                "stadium": "Setsoto Stadium",
+                "stage": "Regular Season",
+                "global-stage": "Round 29",
+                "publisher": "MA | Lesotho",
+                "match": "Maroala FC v Matlama Football Club",
+                "city": "Maseru",
+                "team:matlama-football-club": "Matlama Football Club",
+                "team:maroala-fc": "Maroala FC",
+                "competition": "Lesotho Premier League",
+                "season": "Vodacom Premier League 2025/26",
+                "video-type": "Live Streams",
+                "organizer": "Lesotho",
+                "organizer-country": "Lesotho"
+            },
+            "startDate": "2026-05-09T15:20:00Z",
+            "endDate": "2026-05-09T18:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T15:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Maroala FC v Matlama Football Club"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Vodacom Premier League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 29"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Lesotho"
+                }
+            ]
+        },
+        {
+            "id": "d0b798ff-a800-4b3a-b64d-a118bc6959c1",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "d0b798ff-a800-4b3a-b64d-a118bc6959c1",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "La Fiorita v Tre Penne | Semi-finals - First Leg | Campionato Sammarinese 2025/26",
+            "category": "livestream",
+            "urlSlug": "la-fiorita-v-tre-penne-semi-finals-first-leg-campionato-sammarinese-2025-26",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/63/99/ce/c4/6399cec4-1db5-4dd1-811a-9657e2f80cc5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/0d/4b/5e/53/0d4b5e53-eb27-4e08-9f48-8dbd8df67b70.png",
+            "freeMode": "FREE_ADS",
+            "title": "La Fiorita v Tre Penne | Semi-finals - First Leg | Campionato Sammarinese 2025/26",
+            "titleTemplateValues": {
+                "publisher-channel": "MA | San Marino | Campionato Sammarinese 2025/26",
+                "country": "San Marino",
+                "team:s-p-tre-penne": "Tre Penne",
+                "confederation": "UEFA",
+                "stage": "Regular Season",
+                "season": "Campionato Sammarinese 2025/26",
+                "competition": "Campionato Sammarinese",
+                "city": "City of San Marino",
+                "team:la-fiorita-1967": "La Fiorita",
+                "publisher": "MA | San Marino",
+                "association": "San Marino",
+                "video-type": "Live Streams",
+                "organizer": "San Marino",
+                "organizer-country": "San Marino"
+            },
+            "startDate": "2026-05-09T15:50:00Z",
+            "endDate": "2026-05-09T18:30:00Z",
+            "ctxMetadata": {},
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "La Fiorita v Tre Penne | Semi-finals - First Leg | Campionato Sammarinese 2025/26"
                 }
             ]
         }
