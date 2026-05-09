@@ -3,350 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:15:21 PM 09-05-2026",
-        "total_live": 21,
-        "total_upcoming": 24
+        "last_update_time": "09:30:24 PM 09-05-2026",
+        "total_live": 17,
+        "total_upcoming": 23
     },
     "matches": [
-        {
-            "id": "3891e535-6a1b-49d9-8996-b829644776fe",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "3891e535-6a1b-49d9-8996-b829644776fe",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "CF Akbou v US Biskra | Ligue Nationale du Football Féminin 2025/26",
-            "category": "livestream",
-            "urlSlug": "cf-akbou-vs-us-biskra",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/e9/26/c1/99/e926c199-45a7-4b2f-8930-e720a8be0cd6.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/c1/64/a5/ac/c164a5ac-a824-453c-8f06-e1b1664ed160.png",
-            "freeMode": "FREE_ADS",
-            "title": "CF Akbou v US Biskra | Ligue Nationale du Football Féminin 2025/26",
-            "titleTemplateValues": {
-                "team:cf-akbou": "CF Akbou",
-                "publisher": "MA | Algeria",
-                "association": "Algeria",
-                "match": "CF Akbou v US Biskra",
-                "season": "Ligue Nationale du Football Féminin 2025/26",
-                "competition": "Ligue Nationale du Football Féminin",
-                "stadium": "OPOD Guendouza",
-                "stage": "Regular Season",
-                "city": "Akbou",
-                "team:us-biskra": "US Biskra",
-                "country": "Algeria",
-                "global-stage": "Round 26",
-                "publisher-channel": "MA | Algeria | Ligue Nationale du Football Féminin 2025/2026",
-                "video-type": "Live Streams",
-                "organizer": "Algeria",
-                "organizer-country": "Algeria"
-            },
-            "startDate": "2026-05-09T12:50:00Z",
-            "endDate": "2026-05-09T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T13:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "CF Akbou v US Biskra"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue Nationale du Football Féminin 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Algeria"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_35_43_ca1cce20-2f9c-480c-83ac-3ccd1d3b758b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940",
-                "decryption_keys": [
-                    "26db19f9eed13a4f9ca89008215ea639:2f6d573ea451db7ba128e2e91875b023"
-                ]
-            }
-        },
-        {
-            "id": "87becc30-843c-42a7-a69b-42c0d29254e9",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "87becc30-843c-42a7-a69b-42c0d29254e9",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Kayanza United v BS Dynamik | Primus Ligue Burundi 2025/26",
-            "category": "livestream",
-            "urlSlug": "kayanza-united-vs-burundi-sport-dynamik",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/68/fc/35/95/68fc3595-ed57-4047-8b07-977a41c6fbb0.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ac/97/95/59/ac979559-7438-44df-a8ab-701f5366bece.png",
-            "freeMode": "FREE_ADS",
-            "title": "Kayanza United v BS Dynamik | Primus Ligue Burundi 2025/26",
-            "titleTemplateValues": {
-                "city": "Kayanza",
-                "publisher": "MA | Burundi",
-                "association": "Burundi",
-                "competition": "Ligue A",
-                "country": "Burundi",
-                "stadium": "Gatwaro Stadium",
-                "team:burundi-sport-dynamik": "BS Dynamik",
-                "team:kayanza-united": "Kayanza United",
-                "global-stage": "Round 30",
-                "stage": "Regular Season",
-                "match": "Kayanza United v BS Dynamik",
-                "publisher-channel": "MA | Burundi | Primus League Burundi 2025/2026",
-                "season": "Primus Ligue Burundi 2025/26",
-                "video-type": "Live Streams",
-                "organizer": "Burundi",
-                "organizer-country": "Burundi"
-            },
-            "startDate": "2026-05-09T12:50:00Z",
-            "endDate": "2026-05-09T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T13:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Kayanza United v BS Dynamik"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Primus Ligue Burundi 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 30"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Burundi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_28_bb95881f-f5d3-4818-9b6e-dcc984067408/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940",
-                "decryption_keys": [
-                    "0c4ee39d6d553208a59887f4932c785b:7a669a47adff4aecc9595f70975cf925"
-                ]
-            }
-        },
-        {
-            "id": "7323d086-727c-418b-84c7-a311d26ad99f",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "7323d086-727c-418b-84c7-a311d26ad99f",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Royal Vision 2026 v Vital'O FC | Primus Ligue Burundi 2025/26",
-            "category": "livestream",
-            "urlSlug": "vision-2026-fc-vs-vital-o-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/68/fc/35/95/68fc3595-ed57-4047-8b07-977a41c6fbb0.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/b7/a0/a2/ab/b7a0a2ab-dfa1-4767-9d28-e66dd772e714.png",
-            "freeMode": "FREE_ADS",
-            "title": "Royal Vision 2026 v Vital'O FC | Primus Ligue Burundi 2025/26",
-            "titleTemplateValues": {
-                "publisher": "MA | Burundi",
-                "association": "Burundi",
-                "competition": "Ligue A",
-                "team": "Vital'O FC",
-                "country": "Burundi",
-                "stadium": "Stade Intwari",
-                "city": "Bujumbura",
-                "global-stage": "Round 30",
-                "stage": "Regular Season",
-                "match": "Royal Vision 2026 v Vital'O FC",
-                "publisher-channel": "MA | Burundi | Primus League Burundi 2025/2026",
-                "season": "Primus Ligue Burundi 2025/26",
-                "video-type": "Live Streams",
-                "organizer": "Burundi",
-                "organizer-country": "Burundi"
-            },
-            "startDate": "2026-05-09T12:50:00Z",
-            "endDate": "2026-05-09T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T13:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Royal Vision 2026 v Vital'O FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Primus Ligue Burundi 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 30"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Burundi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_18_5c3fc1b6-9710-443f-9015-f6e10e7d3b72/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940",
-                "decryption_keys": [
-                    "31d72cbd76ac3b58b981be389ef70b04:f7f1c38da5cbb9bfd37b1467d03578af"
-                ]
-            }
-        },
-        {
-            "id": "f416a322-446d-4491-b618-15ce1d1e7a43",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "f416a322-446d-4491-b618-15ce1d1e7a43",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Rukinzo FC v Flambeau du Centre | Primus Ligue Burundi 2025/26",
-            "category": "livestream",
-            "urlSlug": "rukinzo-fc-vs-flambeau-du-centre",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/68/fc/35/95/68fc3595-ed57-4047-8b07-977a41c6fbb0.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/84/ac/38/c3/84ac38c3-718e-4084-88a3-f63dd0cc4fd2.png",
-            "freeMode": "FREE_ADS",
-            "title": "Rukinzo FC v Flambeau du Centre | Primus Ligue Burundi 2025/26",
-            "titleTemplateValues": {
-                "publisher": "MA | Burundi",
-                "team:rukinzo-fc": "Rukinzo FC",
-                "match": "Rukinzo FC v Flambeau du Centre",
-                "association": "Burundi",
-                "competition": "Ligue A",
-                "country": "Burundi",
-                "global-stage": "Round 30",
-                "stage": "Regular Season",
-                "stadium": "Urunani Stadium",
-                "city": "Buganda",
-                "publisher-channel": "MA | Burundi | Primus League Burundi 2025/2026",
-                "season": "Primus Ligue Burundi 2025/26",
-                "team:flambeau-du-centre": "Flambeau du Centre",
-                "video-type": "Live Streams",
-                "organizer": "Burundi",
-                "organizer-country": "Burundi"
-            },
-            "startDate": "2026-05-09T12:50:00Z",
-            "endDate": "2026-05-09T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T13:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Rukinzo FC v Flambeau du Centre"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Primus Ligue Burundi 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 30"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Burundi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_23_80db55d5-aa22-4491-9403-59c345f38605/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940",
-                "decryption_keys": [
-                    "c79cfa32700d3145b82fc8bc0edeb554:8bf5784f69f9ac3a60f9873601be1ee8"
-                ]
-            }
-        },
-        {
-            "id": "701cae7b-c64e-4126-853d-c513b92a62d6",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "701cae7b-c64e-4126-853d-c513b92a62d6",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Lijabatho FC v Lioli FC | Vodacom Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "lijabatho-fc-vs-lioli-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/cc/13/d2/f7/cc13d2f7-b310-4a47-978c-9632cda4a205.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/84/f5/db/2b/84f5db2b-adf1-423e-b06c-e5664f16067d.png",
-            "freeMode": "FREE_ADS",
-            "title": "Lijabatho FC v Lioli FC | Vodacom Premier League 2025/26",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Lesotho | Vodacom Premier League 2025/26",
-                "country": "Lesotho",
-                "team:lioli-fc": "Lioli FC",
-                "city": "Maseru",
-                "match": "Lijabatho FC v Lioli FC",
-                "association": "Lesotho",
-                "competition": "Lesotho Premier League",
-                "organizer-country": "Lesotho",
-                "global-stage": "Round 29",
-                "team:lijabatho-fc": "Lijabatho FC",
-                "stage": "Regular Season",
-                "organizer": "Lesotho",
-                "stadium": "Setsoto Stadium",
-                "publisher": "MA | Lesotho",
-                "season": "Vodacom Premier League 2025/26",
-                "video-type": "Live Streams"
-            },
-            "startDate": "2026-05-09T12:50:00Z",
-            "endDate": "2026-05-09T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T13:11:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Lijabatho FC v Lioli FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Vodacom Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 29"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lesotho"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_44_16_9a269593-4bec-4e61-8743-4bbc2716408f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778330940",
-                "decryption_keys": [
-                    "b0012290095336d3bd17d25b8789a532:bb3108c53a50a6dcf074f225d4b885be"
-                ]
-            }
-        },
         {
             "id": "2f797210-1deb-4276-bda3-5b0bf15afafc",
             "channelId": "fifa-tournaments",
@@ -820,74 +481,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_39_22_ae0e327e-14b7-41d1-91d1-01e5b6d1eff8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778338140",
                 "decryption_keys": [
                     "0dc872f79ed738fa9530350f3d34b9fa:2d877f0a82f23ada261e9d36949812ca"
-                ]
-            }
-        },
-        {
-            "id": "aa4568d7-a358-4d41-a13b-6952d15045c1",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "aa4568d7-a358-4d41-a13b-6952d15045c1",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "CA Batna v USM Annaba | Ligue 2 2025/26",
-            "category": "livestream",
-            "urlSlug": "as-khroub-vs-usm-annaba",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/50/1a/8d/14/501a8d14-3d0b-4ee5-90b5-3e6f51869bec.png",
-            "freeMode": "FREE_ADS",
-            "title": "CA Batna v USM Annaba | Ligue 2 2025/26",
-            "titleTemplateValues": {
-                "team:ca-batna": "CA Batna",
-                "publisher": "MA | Algeria",
-                "association": "Algeria",
-                "city": "Batna",
-                "team:usm-annaba": "USM Annaba",
-                "stage": "Regular Season",
-                "global-stage": "Round 30",
-                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
-                "competition": "Ligue 2",
-                "match": "CA Batna v USM Annaba",
-                "country": "Algeria",
-                "stadium": "1st November 54 Stadium",
-                "season": "Ligue 2 2025/26",
-                "video-type": "Live Streams",
-                "organizer": "Algeria",
-                "organizer-country": "Algeria"
-            },
-            "startDate": "2026-05-09T14:50:00Z",
-            "endDate": "2026-05-09T17:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T15:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "CA Batna v USM Annaba"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue 2 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 30"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Algeria"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_34_56_9f1edd5a-77e6-444c-b4d0-5aa50528de5c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778338140",
-                "decryption_keys": [
-                    "2b18d0fdc5e13b3da073d102ce7a1d27:ca151cf62d72782c53e6c23a83f20ce3"
                 ]
             }
         },
@@ -1474,7 +1067,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1496,7 +1089,13 @@
                     "p": 1,
                     "value": "Togo"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_23_26_3e45def7-431a-4395-b594-f5571ba096e4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778339940",
+                "decryption_keys": [
+                    "33ecda652c473b67a92a556bc6ae2a82:c297b2d478b9635ca354401a43f95ccf"
+                ]
+            }
         },
         {
             "id": "77654c45-f943-452b-945a-349ab01fbe0e",
@@ -1536,7 +1135,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1558,7 +1157,13 @@
                     "p": 1,
                     "value": "Lesotho"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_44_23_6564169d-c861-472c-9ea1-82a0007ef765/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778339940",
+                "decryption_keys": [
+                    "4b637be503413cecb8b442b516e0d126:2b70ddefd730cfecdf430deaf072d558"
+                ]
+            }
         },
         {
             "id": "d0b798ff-a800-4b3a-b64d-a118bc6959c1",
@@ -1910,6 +1515,68 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Liberia"
+                }
+            ]
+        },
+        {
+            "id": "aa4568d7-a358-4d41-a13b-6952d15045c1",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "aa4568d7-a358-4d41-a13b-6952d15045c1",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "CA Batna v USM Annaba | Ligue 2 2025/26",
+            "category": "livestream",
+            "urlSlug": "as-khroub-vs-usm-annaba",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/50/1a/8d/14/501a8d14-3d0b-4ee5-90b5-3e6f51869bec.png",
+            "freeMode": "FREE_ADS",
+            "title": "CA Batna v USM Annaba | Ligue 2 2025/26",
+            "titleTemplateValues": {
+                "team:ca-batna": "CA Batna",
+                "publisher": "MA | Algeria",
+                "association": "Algeria",
+                "city": "Batna",
+                "team:usm-annaba": "USM Annaba",
+                "stage": "Regular Season",
+                "global-stage": "Round 30",
+                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
+                "competition": "Ligue 2",
+                "match": "CA Batna v USM Annaba",
+                "country": "Algeria",
+                "stadium": "1st November 54 Stadium",
+                "season": "Ligue 2 2025/26",
+                "video-type": "Live Streams",
+                "organizer": "Algeria",
+                "organizer-country": "Algeria"
+            },
+            "startDate": "2026-05-09T16:13:00Z",
+            "endDate": "2026-05-09T17:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T15:22:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "CA Batna v USM Annaba"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 2 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Algeria"
                 }
             ]
         },

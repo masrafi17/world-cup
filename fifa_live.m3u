@@ -1,33 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:15:21 PM 09-05-2026
+#last update time: 09:30:24 PM 09-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c1/64/a5/ac/c164a5ac-a824-453c-8f06-e1b1664ed160.png" group-title="FIFA Live", CF Akbou v US Biskra | Ligue Nationale du Football Féminin 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26db19f9eed13a4f9ca89008215ea639:2f6d573ea451db7ba128e2e91875b023
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_35_43_ca1cce20-2f9c-480c-83ac-3ccd1d3b758b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ac/97/95/59/ac979559-7438-44df-a8ab-701f5366bece.png" group-title="FIFA Live", Kayanza United v BS Dynamik | Primus Ligue Burundi 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c4ee39d6d553208a59887f4932c785b:7a669a47adff4aecc9595f70975cf925
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_28_bb95881f-f5d3-4818-9b6e-dcc984067408/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b7/a0/a2/ab/b7a0a2ab-dfa1-4767-9d28-e66dd772e714.png" group-title="FIFA Live", Royal Vision 2026 v Vital'O FC | Primus Ligue Burundi 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31d72cbd76ac3b58b981be389ef70b04:f7f1c38da5cbb9bfd37b1467d03578af
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_18_5c3fc1b6-9710-443f-9015-f6e10e7d3b72/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/84/ac/38/c3/84ac38c3-718e-4084-88a3-f63dd0cc4fd2.png" group-title="FIFA Live", Rukinzo FC v Flambeau du Centre | Primus Ligue Burundi 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c79cfa32700d3145b82fc8bc0edeb554:8bf5784f69f9ac3a60f9873601be1ee8
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_23_80db55d5-aa22-4491-9403-59c345f38605/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/84/f5/db/2b/84f5db2b-adf1-423e-b06c-e5664f16067d.png" group-title="FIFA Live", Lijabatho FC v Lioli FC | Vodacom Premier League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b0012290095336d3bd17d25b8789a532:bb3108c53a50a6dcf074f225d4b885be
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_44_16_9a269593-4bec-4e61-8743-4bbc2716408f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778330940
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5b/da/e4/62/5bdae462-aa86-4d7c-9eef-14e3d0ebc16f.png" group-title="FIFA Live", AF Luftëtari v KF Sopoti | Kategoria e Parë 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -63,11 +38,6 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_39_19_2adf30bf-00ee-44a3-b98e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0dc872f79ed738fa9530350f3d34b9fa:2d877f0a82f23ada261e9d36949812ca
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_39_22_ae0e327e-14b7-41d1-91d1-01e5b6d1eff8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778338140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/50/1a/8d/14/501a8d14-3d0b-4ee5-90b5-3e6f51869bec.png" group-title="FIFA Live", CA Batna v USM Annaba | Ligue 2 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b18d0fdc5e13b3da073d102ce7a1d27:ca151cf62d72782c53e6c23a83f20ce3
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_34_56_9f1edd5a-77e6-444c-b4d0-5aa50528de5c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778338140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/76/13/33/6c761333-1478-4d26-9d76-4735fe7557f7.png" group-title="FIFA Live", MO Constantine v HB Chelghoum Laïd | Ligue 2 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -108,3 +78,13 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_34_43_69873dbe-cd3a-4e45-85f3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=766420445022338c8c7fce120cc05b79:10f853e44d99e8d55cc31e3e9d64e790
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_33_43_23fa8c7b-0eab-4760-aeab-4df37541ff24/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778339340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1e/40/f3/df/1e40f3df-19bc-4e7e-9b42-807c0a2bac22.png" group-title="FIFA Live", AS OTR v AS Tambo | D1 Lonato 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33ecda652c473b67a92a556bc6ae2a82:c297b2d478b9635ca354401a43f95ccf
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_23_26_3e45def7-431a-4395-b594-f5571ba096e4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778339940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c1/f6/57/a4/c1f657a4-5305-4fd7-9ba6-9ef81b3e6b69.png" group-title="FIFA Live", Maroala FC v Matlama Football Club | Vodacom Premier League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b637be503413cecb8b442b516e0d126:2b70ddefd730cfecdf430deaf072d558
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_44_23_6564169d-c861-472c-9ea1-82a0007ef765/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778339940
