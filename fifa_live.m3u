@@ -1,18 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:45:20 PM 09-05-2026
+#last update time: 12:00:28 AM 10-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1e/40/f3/df/1e40f3df-19bc-4e7e-9b42-807c0a2bac22.png" group-title="FIFA Live", AS OTR v AS Tambo | D1 Lonato 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=33ecda652c473b67a92a556bc6ae2a82:c297b2d478b9635ca354401a43f95ccf
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_23_26_3e45def7-431a-4395-b594-f5571ba096e4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778339940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c1/f6/57/a4/c1f657a4-5305-4fd7-9ba6-9ef81b3e6b69.png" group-title="FIFA Live", Maroala FC v Matlama Football Club | Vodacom Premier League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b637be503413cecb8b442b516e0d126:2b70ddefd730cfecdf430deaf072d558
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_44_23_6564169d-c861-472c-9ea1-82a0007ef765/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778339940
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0d/4b/5e/53/0d4b5e53-eb27-4e08-9f48-8dbd8df67b70.png" group-title="FIFA Live", La Fiorita v Tre Penne | Semi-finals - First Leg | Campionato Sammarinese 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
