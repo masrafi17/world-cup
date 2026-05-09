@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:15:19 PM 09-05-2026
+#last update time: 06:30:29 PM 09-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b5/40/f5/36/b540f536-6645-4706-b491-c65df2eed4ad.png" group-title="FIFA Live", Bantu FC v LCS FC | Vodacom Premier League 2025/26
@@ -53,3 +53,18 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_14_25_55_03bafe91-c284-43f2-812f
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e23e3d595e13eab8388c10a07178947:0ec451124fb8afd66df56b6388a1e8ff
 https://d7pd9oqdl4d44.cloudfront.net/2026_04_27_14_19_23_e549cf4e-4f74-4346-b65e-cc8e839952c3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778327640
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e9/12/3f/7c/e9123f7c-eb80-4145-972b-1a07ad2246e5.png" group-title="FIFA Live", Civil Service United v Ekhaya FC | FDH Bank Premiership
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7cddb7e2d6713cf0a4e6a1fd4c1edc76:50c4060c15bde2e2f1cc3421964b0f82
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_47_58_67a39ab8-5597-4a22-91af-5b3607b665fe/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778329140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4c/2a/4c/15/4c2a4c15-e891-4cdb-af5f-5d786105ecba.png" group-title="FIFA Live", MAFCO FC v Creck Sporting FC | FDH Bank Premiership
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c5db8afc40630ccba1c47baa43be7f8:a7b2d5e5f0c050d75febb30447cca313
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_47_55_1dd5546a-3415-4948-a7ce-9cd5a824a65c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778329140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5f/95/32/6d/5f95326d-9f6c-4eda-9194-212066d0b345.png" group-title="FIFA Live", Moyale Barracks v Chitipa United | FDH Bank Premiership
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5cf8130bb00e38eeb77725103acad10a:025f5fdd8e382c01f5914ffa7f2e554a
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_48_01_df357fc6-23c6-42b0-a3ea-de9a450d6b10/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778329140
