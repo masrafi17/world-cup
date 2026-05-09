@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:30:21 AM 10-05-2026",
-        "total_live": 6,
-        "total_upcoming": 44
+        "last_update_time": "03:45:18 AM 10-05-2026",
+        "total_live": 5,
+        "total_upcoming": 45
     },
     "matches": [
         {
@@ -141,74 +141,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_08_34_21_552fdd9f-bfef-454a-80db-0aa964cc5659/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778354340",
                 "decryption_keys": [
                     "39269acc75263494aadca5b1a91e76f4:c581111093550fd2e9f2e5e6a832be09"
-                ]
-            }
-        },
-        {
-            "id": "147118aa-1fa6-4a0f-aae5-5bb56db1e9fa",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "147118aa-1fa6-4a0f-aae5-5bb56db1e9fa",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Zamora FC (B) v Atlético Barinas | Liga FUTVE 2 2026",
-            "category": "livestream",
-            "urlSlug": "zamora-b-vs-atletico-barinas",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/57/b2/b9/56/57b2b956-2a4f-4b00-9e73-4c3ff15091b9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/c3/4d/90/9f/c34d909f-4994-4b0e-9d68-2689fa962ef5.png",
-            "freeMode": "FREE_ADS",
-            "title": "Zamora FC (B) v Atlético Barinas | Liga FUTVE 2 2026",
-            "titleTemplateValues": {
-                "match": "Zamora FC (B) v Atlético Barinas",
-                "city": "Barinas",
-                "season": "Liga FUTVE 2 2026",
-                "team:zamora-b": "Zamora FC (B)",
-                "global-stage": "Round 13",
-                "stage": "Regular Season",
-                "team:atletico-barinas": "Atlético Barinas",
-                "association": "Venezuela",
-                "publisher": "MA | Venezuela",
-                "stadium": "Estadio Agustín Tovar",
-                "competition": "Liga FUTVE 2",
-                "country": "Venezuela",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Venezuela | Liga FUTVE 2 2026 (Channel)",
-                "organizer": "Venezuela",
-                "organizer-country": "Venezuela"
-            },
-            "startDate": "2026-05-09T19:20:00Z",
-            "endDate": "2026-05-09T22:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T19:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Zamora FC (B) v Atlético Barinas"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga FUTVE 2 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 13"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Venezuela"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_08_34_24_610528d7-e3a1-4deb-b0b9-941d70d8f07c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778354340",
-                "decryption_keys": [
-                    "2e7a36f846ac3e2494f93974787097e7:cea908aa863c4a374ee281c963e88e1b"
                 ]
             }
         },
@@ -3142,6 +3074,68 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Niger"
+                }
+            ]
+        },
+        {
+            "id": "9a6ddcf1-306c-4631-b3f8-b69307fd9ca6",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "9a6ddcf1-306c-4631-b3f8-b69307fd9ca6",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "AJEB v Sporting Cascades | Burkina Faso Ligue 1 2025-26",
+            "category": "livestream",
+            "urlSlug": "ajeb-vs-sporting-des-cascades",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/3b/13/b3/ef/3b13b3ef-4be4-44d7-a870-91a28d0a18a9.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/4c/c6/06/2a/4cc6062a-51cf-46bc-85b8-2e22eb3709c8.png",
+            "freeMode": "FREE_ADS",
+            "title": "AJEB v Sporting Cascades | Burkina Faso Ligue 1 2025-26",
+            "titleTemplateValues": {
+                "team:sporting-des-cascades": "Sporting Cascades",
+                "global-stage": "Round 30",
+                "team:ajeb": "AJEB",
+                "match": "AJEB v Sporting Cascades",
+                "city": "Bama",
+                "publisher": "MA | Burkina Faso",
+                "stage": "Regular Season",
+                "association": "Burkina Faso",
+                "season": "Burkina Faso Ligue 1 2025-26",
+                "competition": "Ligue 1",
+                "country": "Burkina Faso",
+                "stadium": "Bama 2",
+                "video-type": "Live Streams",
+                "publisher-channel": "MA | Burkina Faso | Ligue 1 Masculine 2025/2026",
+                "organizer": "Burkina Faso",
+                "organizer-country": "Burkina Faso"
+            },
+            "startDate": "2026-05-10T15:50:00Z",
+            "endDate": "2026-05-10T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "AJEB v Sporting Cascades"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Burkina Faso Ligue 1 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Burkina Faso"
                 }
             ]
         }
