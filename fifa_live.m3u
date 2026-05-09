@@ -1,33 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:15:18 AM 10-05-2026
+#last update time: 12:30:30 AM 10-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/00/2c/6d/a9/002c6da9-c61f-4707-831d-cc34f487271a.png" group-title="FIFA Live", Williamsville AC v 2 Plateaux FC | Côte d'Ivoire Ligue 2 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b443dec5588e3b29858807f766360b9d:89777847463098bb9bea92e80b299a5e
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_08_24_40_2a4b60ae-f5b0-4b29-b814-0fd86365e178/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778341740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b1/be/1f/91/b1be1f91-30eb-4a19-84a9-fbf54b5e7291.png" group-title="FIFA Live", ASFAR v Fath de Rabat | D1 Women's Championship  2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4623ca8d70238bdb701f06a2c3d5a4e:62965653d242df0dc3502a288b9da849
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_45_16_b8d15c5b-d45c-461a-b116-8617e55b2067/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778341740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/31/e2/04/9e/31e2049e-f1d2-458a-b7e4-f783f23f9a9b.png" group-title="FIFA Live", LISCR FC v Downtown FC | LFA First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4b91c7e163433b3ac4bb55ad74baeef:6be8bfccae3ab649aa8b0ee1fc2db2cc
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_09_11_45_9743256c-5e8b-4bc0-b14c-434c98264f5c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778341740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7f/31/a0/71/7f31a071-da0f-4823-9501-a6e2c94fa994.png" group-title="FIFA Live", Paynesville FC v FC Fassell | LFA First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b19d9b408e2a37a38205d226ba693cee:d3f3ee6092478bb1d665b111125210a6
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_09_11_43_7d560ae8-496f-4266-80ce-95e7f6d76c8b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778341740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e0/1c/55/8e/e01c558e-995b-451c-ad1f-4bec27dd2f1e.png" group-title="FIFA Live", Wologisi FC v Heaven Eleven | LFA First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=29dbbf55f5a4377babe81ad18ccf7057:59418f21f4629b64e0ccd784bb63a823
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_09_11_40_5d6426f4-54fd-42a8-a354-c87bd4d09fbb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778341740
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7b/3b/26/c0/7b3b26c0-f53e-4acb-a55c-ec0360e010b9.png" group-title="FIFA Live", Bhantal FC v Wilberforce Strikers FC | Leone Rock Premier League 2025-26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -108,3 +83,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_13_48_10_c2781b28-6b7a-4a10-a64e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e534dcb83bf63098adf2abdd9c6a81e6:1f629a96fa7adc13ce19cee6d18335e4
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_13_48_03_6872257b-d36c-4f86-b7c1-1e6110557e7a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778347140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b7/16/7b/1a/b7167b1a-4a43-45a2-8dee-e36cfebbb451.png" group-title="FIFA Live", Binga FC v AS Real | Ligue 1 Pro Orange 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c58deb1588e23298896dd11560712c1e:248360b1d6ff001f43eabfa5c6d6ea0a
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_06_28_eac40006-6060-4d94-a4b3-aaca42b996cf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778350740

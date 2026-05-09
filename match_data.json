@@ -3,351 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:15:18 AM 10-05-2026",
-        "total_live": 21,
-        "total_upcoming": 29
+        "last_update_time": "12:30:30 AM 10-05-2026",
+        "total_live": 17,
+        "total_upcoming": 33
     },
     "matches": [
-        {
-            "id": "4c955696-9b1d-45cd-8929-45ce7936e53e",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "4c955696-9b1d-45cd-8929-45ce7936e53e",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Williamsville AC v 2 Plateaux FC | Côte d'Ivoire Ligue 2 2025/26",
-            "category": "livestream",
-            "urlSlug": "williamsville-ac-vs-2-plateaux-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/2f/8c/0a/ac/2f8c0aac-82dd-41cc-afa6-b8ace2bf4263.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/00/2c/6d/a9/002c6da9-c61f-4707-831d-cc34f487271a.png",
-            "freeMode": "FREE_ADS",
-            "title": "Williamsville AC v 2 Plateaux FC | Côte d'Ivoire Ligue 2 2025/26",
-            "titleTemplateValues": {
-                "match": "Williamsville AC v 2 Plateaux FC",
-                "stadium": "Parc des Sports de Treichville",
-                "competition": "Ligue 2",
-                "association": "Côte d'Ivoire",
-                "team:2-plateaux-fc": "2 Plateaux FC",
-                "city": "Abidjan",
-                "global-stage": "Round 25",
-                "publisher-channel": "MA | Côte d'Ivoire | Ligue 2 2025-2026",
-                "season": "Côte d'Ivoire Ligue 2 2025/26",
-                "country": "Côte d'Ivoire",
-                "stage": "Regular Season",
-                "publisher": "MA | Côte d'Ivoire",
-                "team:williamsville-ac": "Williamsville AC",
-                "video-type": "Live Streams",
-                "organizer": "Côte d'Ivoire",
-                "organizer-country": "Côte d'Ivoire"
-            },
-            "startDate": "2026-05-09T15:50:00Z",
-            "endDate": "2026-05-09T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Williamsville AC v 2 Plateaux FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Côte d'Ivoire Ligue 2 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 25"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Côte d'Ivoire"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_08_24_40_2a4b60ae-f5b0-4b29-b814-0fd86365e178/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778341740",
-                "decryption_keys": [
-                    "b443dec5588e3b29858807f766360b9d:89777847463098bb9bea92e80b299a5e"
-                ]
-            }
-        },
-        {
-            "id": "d85acc44-df5a-4b42-bfea-63842aad71f4",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "d85acc44-df5a-4b42-bfea-63842aad71f4",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "ASFAR v Fath de Rabat | D1 Women's Championship  2025-26",
-            "category": "livestream",
-            "urlSlug": "asfar-vs-fath-de-rabat",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/de/e7/40/33/dee74033-f15f-4c9b-b864-56d00c2765ee.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/b1/be/1f/91/b1be1f91-30eb-4a19-84a9-fbf54b5e7291.png",
-            "freeMode": "FREE_ADS",
-            "title": "ASFAR v Fath de Rabat | D1 Women's Championship  2025-26",
-            "titleTemplateValues": {
-                "team:fath-de-rabat": "Fath de Rabat",
-                "competition": "Championnat Féminin D1",
-                "stage": "Regular Season",
-                "global-stage": "Round 21",
-                "association": "Morocco",
-                "publisher": "MA | Morocco",
-                "stadium": "Sports Center ASFAR",
-                "publisher-channel": "MA | Morocco | Championnat Féminin D1 2025/2026",
-                "match": "ASFAR v Fath de Rabat",
-                "season": "D1 Women's Championship  2025-26",
-                "country": "Morocco",
-                "team:asfar": "ASFAR",
-                "city": "Salé",
-                "video-type": "Live Streams",
-                "organizer": "Morocco",
-                "organizer-country": "Morocco"
-            },
-            "startDate": "2026-05-09T15:50:00Z",
-            "endDate": "2026-05-09T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "ASFAR v Fath de Rabat"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "D1 Women's Championship  2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 21"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Morocco"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_45_16_b8d15c5b-d45c-461a-b116-8617e55b2067/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778341740",
-                "decryption_keys": [
-                    "c4623ca8d70238bdb701f06a2c3d5a4e:62965653d242df0dc3502a288b9da849"
-                ]
-            }
-        },
-        {
-            "id": "0a04e82a-6417-4665-b890-f58581be6b1d",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "0a04e82a-6417-4665-b890-f58581be6b1d",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "LISCR FC v Downtown FC | LFA First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "liscr-fc-vs-downtown-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/31/e2/04/9e/31e2049e-f1d2-458a-b7e4-f783f23f9a9b.png",
-            "freeMode": "FREE_ADS",
-            "title": "LISCR FC v Downtown FC | LFA First Division League 2025/26",
-            "titleTemplateValues": {
-                "team:downtown-fc": "Downtown FC",
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
-                "stadium": "TUSA Field",
-                "match": "LISCR FC v Downtown FC",
-                "team:liscr-fc": "LISCR FC",
-                "association": "Liberia",
-                "season": "LFA First Division League 2025/26",
-                "competition": "Liberia National League",
-                "country": "Liberia",
-                "global-stage": "Round 28",
-                "publisher": "MA | Liberia",
-                "city": "Gardnersville",
-                "video-type": "Live Streams",
-                "organizer": "Liberia",
-                "organizer-country": "Liberia"
-            },
-            "startDate": "2026-05-09T15:50:00Z",
-            "endDate": "2026-05-09T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "LISCR FC v Downtown FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "LFA First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 28"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Liberia"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_09_11_45_9743256c-5e8b-4bc0-b14c-434c98264f5c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778341740",
-                "decryption_keys": [
-                    "f4b91c7e163433b3ac4bb55ad74baeef:6be8bfccae3ab649aa8b0ee1fc2db2cc"
-                ]
-            }
-        },
-        {
-            "id": "3c4fd9a5-ffc1-4584-85fb-48e3f4a7a463",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "3c4fd9a5-ffc1-4584-85fb-48e3f4a7a463",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Paynesville FC v FC Fassell | LFA First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "paynesville-fc-vs-fc-fassell",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/7f/31/a0/71/7f31a071-da0f-4823-9501-a6e2c94fa994.png",
-            "freeMode": "FREE_ADS",
-            "title": "Paynesville FC v FC Fassell | LFA First Division League 2025/26",
-            "titleTemplateValues": {
-                "team:paynesville-fc": "Paynesville FC",
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
-                "association": "Liberia",
-                "season": "LFA First Division League 2025/26",
-                "competition": "Liberia National League",
-                "global-stage": "Round 27",
-                "team:fc-fassell": "FC Fassell",
-                "country": "Liberia",
-                "match": "Paynesville FC v FC Fassell",
-                "publisher": "MA | Liberia",
-                "city": "Paynesville",
-                "video-type": "Live Streams",
-                "stadium": "SKD Annex",
-                "organizer": "Liberia",
-                "organizer-country": "Liberia"
-            },
-            "startDate": "2026-05-09T15:50:00Z",
-            "endDate": "2026-05-09T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Paynesville FC v FC Fassell"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "LFA First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 27"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Liberia"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_09_11_43_7d560ae8-496f-4266-80ce-95e7f6d76c8b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778341740",
-                "decryption_keys": [
-                    "b19d9b408e2a37a38205d226ba693cee:d3f3ee6092478bb1d665b111125210a6"
-                ]
-            }
-        },
-        {
-            "id": "9a27668a-dfd2-4623-8bd8-7055288bd7c4",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "9a27668a-dfd2-4623-8bd8-7055288bd7c4",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Wologisi FC v Heaven Eleven | LFA First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "wologisi-fc-vs-heaven-eleven",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/e0/1c/55/8e/e01c558e-995b-451c-ad1f-4bec27dd2f1e.png",
-            "freeMode": "FREE_ADS",
-            "title": "Wologisi FC v Heaven Eleven | LFA First Division League 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
-                "team:wologisi-fc": "Wologisi FC",
-                "association": "Liberia",
-                "match": "Wologisi FC v Heaven Eleven",
-                "season": "LFA First Division League 2025/26",
-                "stadium": "D-Tweh Field",
-                "competition": "Liberia National League",
-                "country": "Liberia",
-                "team:heaven-eleven": "Heaven Eleven",
-                "global-stage": "Round 28",
-                "city": "Monrovia",
-                "publisher": "MA | Liberia",
-                "video-type": "Live Streams",
-                "organizer": "Liberia",
-                "organizer-country": "Liberia"
-            },
-            "startDate": "2026-05-09T15:50:00Z",
-            "endDate": "2026-05-09T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Wologisi FC v Heaven Eleven"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "LFA First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 28"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Liberia"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_09_11_40_5d6426f4-54fd-42a8-a354-c87bd4d09fbb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778341740",
-                "decryption_keys": [
-                    "29dbbf55f5a4377babe81ad18ccf7057:59418f21f4629b64e0ccd784bb63a823"
-                ]
-            }
-        },
         {
             "id": "7f83cf99-187e-4d68-a5db-a9319ac4ccbe",
             "channelId": "fifa-tournaments",
@@ -1476,7 +1136,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1498,7 +1158,13 @@
                     "p": 1,
                     "value": "Mali"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_06_28_eac40006-6060-4d94-a4b3-aaca42b996cf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778350740",
+                "decryption_keys": [
+                    "c58deb1588e23298896dd11560712c1e:248360b1d6ff001f43eabfa5c6d6ea0a"
+                ]
+            }
         },
         {
             "id": "ca7aa8ec-73cd-406e-90d8-cc5d6c063ab2",
@@ -3234,6 +2900,316 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Venezuela"
+                }
+            ]
+        },
+        {
+            "id": "8d9cfc40-3d7a-47a5-8d43-aa0e95e89ca9",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "8d9cfc40-3d7a-47a5-8d43-aa0e95e89ca9",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "AS Tempete Mocaf v ORB | Central African Republic Super League 2026",
+            "category": "livestream",
+            "urlSlug": "as-tempete-mocaf-vs-orb",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/12/d2/95/35/12d29535-9e89-468f-85f5-3ba4a598305a.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/59/cb/b3/e8/59cbb3e8-731c-4469-bac3-25e6aadd1f8b.png",
+            "freeMode": "FREE_ADS",
+            "title": "AS Tempete Mocaf v ORB | Central African Republic Super League 2026",
+            "titleTemplateValues": {
+                "stadium": "Zari Herman",
+                "publisher-channel": "MA | Central Africa Republic | League D1 - Super League 2026 (Channel)",
+                "city": "Bouar",
+                "season": "Central African Republic Super League 2026",
+                "publisher": "MA | Central African Republic (Publisher)",
+                "competition": "Ligue de Bangui",
+                "association": "Central African Republic",
+                "team:orb": "ORB",
+                "country": "Central African Republic",
+                "team:as-tempete-mocaf": "AS Tempete Mocaf",
+                "match": "AS Tempete Mocaf v ORB",
+                "stage": "Regular Season",
+                "global-stage": "Round 6",
+                "video-type": "Live Streams",
+                "organizer": "Central African Republic",
+                "organizer-country": "Central African Republic"
+            },
+            "startDate": "2026-05-10T13:50:00Z",
+            "endDate": "2026-05-10T16:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T14:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "AS Tempete Mocaf v ORB"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Central African Republic Super League 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 6"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Central African Republic"
+                }
+            ]
+        },
+        {
+            "id": "73be0169-0a61-4596-8c90-e670e8e06384",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "73be0169-0a61-4596-8c90-e670e8e06384",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "AF Elbasani v KF Tirana | Kategoria Superiore 2025/26",
+            "category": "livestream",
+            "urlSlug": "af-elbasani-vs-kf-tirana",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1e/b8/b6/0d/1eb8b60d-ca73-4620-a12e-6d83b3142377.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d5/a1/b4/59/d5a1b459-89f5-4d30-ad74-c768ec07532c.png",
+            "freeMode": "FREE_ADS",
+            "title": "AF Elbasani v KF Tirana | Kategoria Superiore 2025/26",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "season": "Kategoria Superiore 2025/26",
+                "team:af-elbasani": "AF Elbasani",
+                "country": "Albania",
+                "city": "Elbasan",
+                "team:kf-tirana": "KF Tirana",
+                "publisher-channel": "MA | Albania | Abissnet Superiore 2025/26",
+                "publisher": "MA | Albania",
+                "competition": "Kategoria Superiore",
+                "match": "AF Elbasani v KF Tirana",
+                "stadium": "Elbasan Arena",
+                "global-stage": "Round 36",
+                "association": "Albania",
+                "video-type": "Live Streams",
+                "organizer": "Albania",
+                "organizer-country": "Albania"
+            },
+            "startDate": "2026-05-10T13:50:00Z",
+            "endDate": "2026-05-10T16:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T14:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "AF Elbasani v KF Tirana"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Kategoria Superiore 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 36"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Albania"
+                }
+            ]
+        },
+        {
+            "id": "95781107-064f-4068-bb97-552eabc28747",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "95781107-064f-4068-bb97-552eabc28747",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "FK Partizani v FC Dinamo City | Kategoria Superiore 2025/26",
+            "category": "livestream",
+            "urlSlug": "fk-partizani-vs-fc-dinamo-city",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1e/b8/b6/0d/1eb8b60d-ca73-4620-a12e-6d83b3142377.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/a2/23/76/b8/a22376b8-4082-4a49-ace6-08b4ca9565af.png",
+            "freeMode": "FREE_ADS",
+            "title": "FK Partizani v FC Dinamo City | Kategoria Superiore 2025/26",
+            "titleTemplateValues": {
+                "match": "FK Partizani v FC Dinamo City",
+                "stage": "Regular Season",
+                "stadium": "Arena e Demave",
+                "season": "Kategoria Superiore 2025/26",
+                "team:fk-partizani": "FK Partizani",
+                "country": "Albania",
+                "publisher-channel": "MA | Albania | Abissnet Superiore 2025/26",
+                "publisher": "MA | Albania",
+                "competition": "Kategoria Superiore",
+                "team:fc-dinamo-city": "FC Dinamo City",
+                "global-stage": "Round 36",
+                "association": "Albania",
+                "video-type": "Live Streams",
+                "city": "Tirana",
+                "organizer": "Albania",
+                "organizer-country": "Albania"
+            },
+            "startDate": "2026-05-10T13:50:00Z",
+            "endDate": "2026-05-10T16:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T14:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "FK Partizani v FC Dinamo City"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Kategoria Superiore 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 36"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Albania"
+                }
+            ]
+        },
+        {
+            "id": "7d9aed23-6660-4f28-bfeb-5c766ea04c47",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "7d9aed23-6660-4f28-bfeb-5c766ea04c47",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "KF Teuta v KF Egnatia | Kategoria Superiore 2025/26",
+            "category": "livestream",
+            "urlSlug": "kf-teuta-vs-kf-egnatia",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1e/b8/b6/0d/1eb8b60d-ca73-4620-a12e-6d83b3142377.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/25/d5/97/02/25d59702-27d3-4142-8aa0-7d31e62eff5f.png",
+            "freeMode": "FREE_ADS",
+            "title": "KF Teuta v KF Egnatia | Kategoria Superiore 2025/26",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "city": "Durrës",
+                "team:kf-teuta": "KF Teuta",
+                "team:kf-egnatia": "KF Egnatia",
+                "season": "Kategoria Superiore 2025/26",
+                "country": "Albania",
+                "publisher-channel": "MA | Albania | Abissnet Superiore 2025/26",
+                "match": "KF Teuta v KF Egnatia",
+                "publisher": "MA | Albania",
+                "competition": "Kategoria Superiore",
+                "stadium": "Niko Dovana Stadium",
+                "global-stage": "Round 36",
+                "association": "Albania",
+                "video-type": "Live Streams",
+                "organizer": "Albania",
+                "organizer-country": "Albania"
+            },
+            "startDate": "2026-05-10T13:50:00Z",
+            "endDate": "2026-05-10T16:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T14:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "KF Teuta v KF Egnatia"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Kategoria Superiore 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 36"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Albania"
+                }
+            ]
+        },
+        {
+            "id": "f13b4268-63a7-4a66-a594-8f2d3f33825b",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "f13b4268-63a7-4a66-a594-8f2d3f33825b",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "KF Vllaznia v Flamurtari | Kategoria Superiore 2025/26",
+            "category": "livestream",
+            "urlSlug": "kf-vllaznia-vs-flamurtari-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1e/b8/b6/0d/1eb8b60d-ca73-4620-a12e-6d83b3142377.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/1f/65/41/68/1f654168-b6ec-4956-bffd-90c56a63f4da.png",
+            "freeMode": "FREE_ADS",
+            "title": "KF Vllaznia v Flamurtari | Kategoria Superiore 2025/26",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "team:flamurtari-fc": "Flamurtari",
+                "season": "Kategoria Superiore 2025/26",
+                "team:kf-vllaznia": "KF Vllaznia",
+                "country": "Albania",
+                "city": "Shkodër",
+                "publisher-channel": "MA | Albania | Abissnet Superiore 2025/26",
+                "match": "KF Vllaznia v Flamurtari",
+                "publisher": "MA | Albania",
+                "competition": "Kategoria Superiore",
+                "stadium": "Loro Borici Stadium",
+                "global-stage": "Round 36",
+                "association": "Albania",
+                "video-type": "Live Streams",
+                "organizer": "Albania",
+                "organizer-country": "Albania"
+            },
+            "startDate": "2026-05-10T13:50:00Z",
+            "endDate": "2026-05-10T16:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T14:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "KF Vllaznia v Flamurtari"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Kategoria Superiore 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 36"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Albania"
                 }
             ]
         }
