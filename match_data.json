@@ -3,215 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:45:19 PM 09-05-2026",
-        "total_live": 17,
-        "total_upcoming": 33
+        "last_update_time": "09:00:35 PM 09-05-2026",
+        "total_live": 18,
+        "total_upcoming": 31
     },
     "matches": [
-        {
-            "id": "1b6cba08-3e2b-44cc-90a3-d8ef707ca075",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "1b6cba08-3e2b-44cc-90a3-d8ef707ca075",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Civil Service United v Ekhaya FC | FDH Bank Premiership",
-            "category": "livestream",
-            "urlSlug": "civil-service-united-vs-ekhaya-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/80/65/93/8e/8065938e-a1a7-4e07-bc92-5382309a4c23.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/e9/12/3f/7c/e9123f7c-eb80-4145-972b-1a07ad2246e5.png",
-            "freeMode": "FREE_ADS",
-            "title": "Civil Service United v Ekhaya FC | FDH Bank Premiership",
-            "titleTemplateValues": {
-                "country": "Malawi",
-                "global-stage": "Round 3",
-                "association": "Malawi",
-                "team:civil-service-united": "Civil Service United",
-                "stadium": "CIVO Stadium",
-                "season": "FDH Bank Premiership",
-                "publisher": "MA | Malawi",
-                "stage": "Regular Season",
-                "video-type": "Full Match Replays",
-                "match": "Civil Service United v Ekhaya FC",
-                "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
-                "team:ekhaya-fc": "Ekhaya FC",
-                "competition": "Super League",
-                "city": "Lilongwe",
-                "organizer": "Malawi",
-                "organizer-country": "Malawi"
-            },
-            "startDate": "2026-05-09T12:20:00Z",
-            "endDate": "2026-05-09T15:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T12:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Civil Service United v Ekhaya FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "FDH Bank Premiership"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 3"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Malawi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_47_58_67a39ab8-5597-4a22-91af-5b3607b665fe/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778329140",
-                "decryption_keys": [
-                    "7cddb7e2d6713cf0a4e6a1fd4c1edc76:50c4060c15bde2e2f1cc3421964b0f82"
-                ]
-            }
-        },
-        {
-            "id": "f98fac02-0324-42b8-8ccd-c0efc3198769",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "f98fac02-0324-42b8-8ccd-c0efc3198769",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "MAFCO FC v Creck Sporting FC | FDH Bank Premiership",
-            "category": "livestream",
-            "urlSlug": "mafco-fc-vs-creck-sporting-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/80/65/93/8e/8065938e-a1a7-4e07-bc92-5382309a4c23.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/4c/2a/4c/15/4c2a4c15-e891-4cdb-af5f-5d786105ecba.png",
-            "freeMode": "FREE_ADS",
-            "title": "MAFCO FC v Creck Sporting FC | FDH Bank Premiership",
-            "titleTemplateValues": {
-                "country": "Malawi",
-                "global-stage": "Round 3",
-                "association": "Malawi",
-                "city": "Dowa",
-                "stadium": "Champion Stadium",
-                "season": "FDH Bank Premiership",
-                "publisher": "MA | Malawi",
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
-                "team:mafco-fc": "MAFCO FC",
-                "match": "MAFCO FC v Creck Sporting FC",
-                "team:creck-sporting-fc": "Creck Sporting FC",
-                "competition": "Super League",
-                "video-type": "Live Streams",
-                "organizer": "Malawi",
-                "organizer-country": "Malawi"
-            },
-            "startDate": "2026-05-09T12:20:00Z",
-            "endDate": "2026-05-09T15:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T12:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "MAFCO FC v Creck Sporting FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "FDH Bank Premiership"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 3"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Malawi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_47_55_1dd5546a-3415-4948-a7ce-9cd5a824a65c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778329140",
-                "decryption_keys": [
-                    "6c5db8afc40630ccba1c47baa43be7f8:a7b2d5e5f0c050d75febb30447cca313"
-                ]
-            }
-        },
-        {
-            "id": "40d1d9cc-d845-42a2-aafa-91b0525ddf03",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "40d1d9cc-d845-42a2-aafa-91b0525ddf03",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Moyale Barracks v Chitipa United | FDH Bank Premiership",
-            "category": "livestream",
-            "urlSlug": "moyale-barracks-vs-chitipa-united",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/80/65/93/8e/8065938e-a1a7-4e07-bc92-5382309a4c23.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/5f/95/32/6d/5f95326d-9f6c-4eda-9194-212066d0b345.png",
-            "freeMode": "FREE_ADS",
-            "title": "Moyale Barracks v Chitipa United | FDH Bank Premiership",
-            "titleTemplateValues": {
-                "country": "Malawi",
-                "city": "Rumphi",
-                "stadium": "Rumphi Stadium",
-                "global-stage": "Round 3",
-                "association": "Malawi",
-                "team:chitipa-united": "Chitipa United",
-                "season": "FDH Bank Premiership",
-                "publisher": "MA | Malawi",
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
-                "team:moyale-barracks": "Moyale Barracks",
-                "competition": "Super League",
-                "video-type": "Live Streams",
-                "match": "Moyale Barracks v Chitipa United",
-                "organizer": "Malawi",
-                "organizer-country": "Malawi"
-            },
-            "startDate": "2026-05-09T12:20:00Z",
-            "endDate": "2026-05-09T15:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T12:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Moyale Barracks v Chitipa United"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "FDH Bank Premiership"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 3"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Malawi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_48_01_df357fc6-23c6-42b0-a3ea-de9a450d6b10/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778329140",
-                "decryption_keys": [
-                    "5cf8130bb00e38eeb77725103acad10a:025f5fdd8e382c01f5914ffa7f2e554a"
-                ]
-            }
-        },
         {
             "id": "3891e535-6a1b-49d9-8996-b829644776fe",
             "channelId": "fifa-tournaments",
@@ -285,13 +81,13 @@
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "601d0491-d689-49d2-b2b2-92b851d3008d",
             "catalogRedirectType": "EVENT",
-            "standardTitle": "University of Macau v Gala | Macau First Division 2026",
+            "standardTitle": "University of Macau v Gala | Macau First Division 2026 | Full Match Replay",
             "category": "livestream",
             "urlSlug": "university-of-macau-vs-gala-fc",
             "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/7e/17/fb/a2/7e17fba2-2a73-45d5-b26c-5bc6ffdd5b08.jpg",
             "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/32/97/1b/ee/32971bee-c709-46ff-b7d5-6f3a41d4f5c0.png",
             "freeMode": "FREE_ADS",
-            "title": "University of Macau v Gala | Macau First Division 2026",
+            "title": "University of Macau v Gala | Macau First Division 2026 | Full Match Replay",
             "titleTemplateValues": {
                 "publisher": "MA | Macau",
                 "stage": "Regular Season",
@@ -299,6 +95,7 @@
                 "city": "Macao",
                 "publisher-channel": "MA | Macau | Macau First Division 2026 (Channel)",
                 "team:gala-fc": "Gala",
+                "video-type": "Full Match Replays",
                 "season": "Macau First Division 2026",
                 "global-stage": "Round 11",
                 "fifa-plus": "Mens (FIFA Plus)",
@@ -307,7 +104,6 @@
                 "team:university-of-macau": "University of Macau",
                 "stadium": "Macau Stadium",
                 "association": "Macau",
-                "video-type": "Live Streams",
                 "organizer": "Macau",
                 "organizer-country": "Macau"
             },
@@ -1202,7 +998,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1224,7 +1020,13 @@
                     "p": 1,
                     "value": "Benin"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_39_19_2adf30bf-00ee-44a3-b98e-3f5abbee4696/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778338140",
+                "decryption_keys": [
+                    "ff9196d6b7bc394f885cdbc972551279:766e92bf94676745db2c2e9acd454da3"
+                ]
+            }
         },
         {
             "id": "4238fedf-620c-443e-9713-e18d697780f7",
@@ -1264,7 +1066,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1286,7 +1088,13 @@
                     "p": 1,
                     "value": "Benin"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_39_22_ae0e327e-14b7-41d1-91d1-01e5b6d1eff8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778338140",
+                "decryption_keys": [
+                    "0dc872f79ed738fa9530350f3d34b9fa:2d877f0a82f23ada261e9d36949812ca"
+                ]
+            }
         },
         {
             "id": "aa4568d7-a358-4d41-a13b-6952d15045c1",
@@ -1326,7 +1134,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1348,70 +1156,13 @@
                     "p": 1,
                     "value": "Algeria"
                 }
-            ]
-        },
-        {
-            "id": "23707494-f695-444b-93c4-1cb46562424e",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "23707494-f695-444b-93c4-1cb46562424e",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "IB Khemis El Khechna v Beni Thour | Ligue 2 2025/26",
-            "category": "livestream",
-            "urlSlug": "ib-khemis-el-khechna-vs-msp-batna",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/71/bd/6c/30/71bd6c30-d3db-4307-82d2-51481aa7a603.png",
-            "freeMode": "FREE_ADS",
-            "title": "IB Khemis El Khechna v Beni Thour | Ligue 2 2025/26",
-            "titleTemplateValues": {
-                "publisher": "MA | Algeria",
-                "association": "Algeria",
-                "city:ouargla": "Ouargla",
-                "city:reghaia": "Reghaia",
-                "team:beni-thour": "Beni Thour",
-                "team:ib-khemis-el-khechna": "IB Khemis El Khechna",
-                "stage": "Regular Season",
-                "global-stage": "Round 30",
-                "stadium": "Boualem Bourada Stadium",
-                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
-                "competition": "Ligue 2",
-                "country": "Algeria",
-                "match": "IB Khemis El Khechna v Beni Thour",
-                "season": "Ligue 2 2025/26",
-                "video-type": "Live Streams",
-                "organizer": "Algeria",
-                "organizer-country": "Algeria"
-            },
-            "startDate": "2026-05-09T14:50:00Z",
-            "endDate": "2026-05-09T17:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T15:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "IB Khemis El Khechna v Beni Thour"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue 2 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 30"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Algeria"
-                }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_34_56_9f1edd5a-77e6-444c-b4d0-5aa50528de5c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778338140",
+                "decryption_keys": [
+                    "2b18d0fdc5e13b3da073d102ce7a1d27:ca151cf62d72782c53e6c23a83f20ce3"
+                ]
+            }
         },
         {
             "id": "5563489d-743d-4264-a0df-3c57efd3fbd4",
@@ -1451,12 +1202,81 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
                     "p": 0,
                     "value": "MO Constantine v HB Chelghoum Laïd"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 2 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Algeria"
+                }
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_34_28_2cd864e5-f6f8-4c44-b8e5-5452a898cfb5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778338140",
+                "decryption_keys": [
+                    "8c1bef22b84e38e9afde0cf72c027a6d:ca941aaac53e5c42f026bedee59578b8"
+                ]
+            }
+        },
+        {
+            "id": "23707494-f695-444b-93c4-1cb46562424e",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "23707494-f695-444b-93c4-1cb46562424e",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "IB Khemis El Khechna v Beni Thour | Ligue 2 2025/26",
+            "category": "livestream",
+            "urlSlug": "ib-khemis-el-khechna-vs-msp-batna",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/71/bd/6c/30/71bd6c30-d3db-4307-82d2-51481aa7a603.png",
+            "freeMode": "FREE_ADS",
+            "title": "IB Khemis El Khechna v Beni Thour | Ligue 2 2025/26",
+            "titleTemplateValues": {
+                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
+                "team:ib-khemis-el-khechna": "IB Khemis El Khechna",
+                "country": "Algeria",
+                "match": "IB Khemis El Khechna v Beni Thour",
+                "association": "Algeria",
+                "competition": "Ligue 2",
+                "organizer-country": "Algeria",
+                "global-stage": "Round 30",
+                "stage": "Regular Season",
+                "city:reghaia": "Reghaia",
+                "team:beni-thour": "Beni Thour",
+                "organizer": "Algeria",
+                "publisher": "MA | Algeria",
+                "stadium": "Boualem Bourada Stadium",
+                "season": "Ligue 2 2025/26",
+                "city:ouargla": "Ouargla",
+                "video-type": "Live Streams"
+            },
+            "startDate": "2026-05-09T15:10:00Z",
+            "endDate": "2026-05-09T17:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T15:20:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "IB Khemis El Khechna v Beni Thour"
                 },
                 {
                     "kind": "subtitle",
@@ -1550,27 +1370,27 @@
             "freeMode": "FREE_ADS",
             "title": "MO Béjaïa v Beni Oualbane | Ligue 2 2025/26",
             "titleTemplateValues": {
-                "team:mo-bejaia": "MO Béjaïa",
-                "match": "MO Béjaïa v Beni Oualbane",
-                "publisher": "MA | Algeria",
-                "association": "Algeria",
-                "city": "Béjaïa",
-                "stage": "Regular Season",
-                "global-stage": "Round 30",
                 "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
-                "competition": "Ligue 2",
-                "stadium": "Stade de l'Unité Maghrébine",
                 "country": "Algeria",
+                "city": "Béjaïa",
+                "team:beni-oualbane": "Beni Oualbane",
+                "match": "MO Béjaïa v Beni Oualbane",
+                "association": "Algeria",
+                "competition": "Ligue 2",
+                "organizer-country": "Algeria",
+                "global-stage": "Round 30",
+                "stage": "Regular Season",
+                "organizer": "Algeria",
+                "publisher": "MA | Algeria",
+                "stadium": "Stade de l'Unité Maghrébine",
                 "season": "Ligue 2 2025/26",
                 "video-type": "Live Streams",
-                "team:beni-oualbane": "Beni Oualbane",
-                "organizer": "Algeria",
-                "organizer-country": "Algeria"
+                "team:mo-bejaia": "MO Béjaïa"
             },
             "startDate": "2026-05-09T15:10:00Z",
             "endDate": "2026-05-09T17:30:00Z",
             "ctxMetadata": {
-                "kickOffTime": "2026-05-09T15:00:00Z"
+                "kickOffTime": "2026-05-09T15:20:00Z"
             },
             "isRegistrationRequired": false,
             "shownPrices": null,
@@ -3176,6 +2996,130 @@
                     "kind": "title",
                     "p": 0,
                     "value": "Rouen v Versailles"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Championnat National 2025/2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 33"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "France"
+                }
+            ]
+        },
+        {
+            "id": "93a7942d-0d46-4ac6-9820-36b352e3e94b",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "93a7942d-0d46-4ac6-9820-36b352e3e94b",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "SM Caen v Concarneau | Championnat National 2025/2026",
+            "category": "livestream",
+            "urlSlug": "sm-caen-vs-us-concarneau",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/81/49/01/20/81490120-d0f3-4857-ad6e-10b7cf961389.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/be/1f/eb/89/be1feb89-2e55-435a-88d4-fa589a1119e6.png",
+            "freeMode": "FREE_ADS",
+            "title": "SM Caen v Concarneau | Championnat National 2025/2026",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "city": "Caen",
+                "team:sm-caen": "SM Caen",
+                "association": "France",
+                "publisher-channel": "MA | France | Championnat National 2025/26",
+                "country": "France",
+                "publisher": "MA | France",
+                "season": "Championnat National 2025/2026",
+                "stadium": "Stade Michel-d'Ornano",
+                "competition": "Championnat National",
+                "global-stage": "Round 33",
+                "team:us-concarneau": "Concarneau",
+                "match": "SM Caen v Concarneau",
+                "video-type": "Live Streams",
+                "organizer": "France",
+                "organizer-country": "France"
+            },
+            "startDate": "2026-05-09T17:20:00Z",
+            "endDate": "2026-05-09T20:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T17:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "SM Caen v Concarneau"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Championnat National 2025/2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 33"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "France"
+                }
+            ]
+        },
+        {
+            "id": "3706e00c-2cd3-49c9-b6cd-430b7e5c8ad3",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "3706e00c-2cd3-49c9-b6cd-430b7e5c8ad3",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Stade Briochin v Quevilly-Rouen Métropole | Championnat National 2025/2026",
+            "category": "livestream",
+            "urlSlug": "stade-briochin-vs-qrm",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/81/49/01/20/81490120-d0f3-4857-ad6e-10b7cf961389.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/cc/87/4a/09/cc874a09-e002-491a-b8ba-e2a5f0a86819.png",
+            "freeMode": "FREE_ADS",
+            "title": "Stade Briochin v Quevilly-Rouen Métropole | Championnat National 2025/2026",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "team:stade-briochin": "Stade Briochin",
+                "city": "Saint-Brieuc",
+                "stadium": "Stade Fred-Aubert",
+                "association": "France",
+                "publisher-channel": "MA | France | Championnat National 2025/26",
+                "country": "France",
+                "publisher": "MA | France",
+                "season": "Championnat National 2025/2026",
+                "competition": "Championnat National",
+                "global-stage": "Round 33",
+                "team:qrm": "Quevilly-Rouen Métropole",
+                "match": "Stade Briochin v Quevilly-Rouen Métropole",
+                "video-type": "Live Streams",
+                "organizer": "France",
+                "organizer-country": "France"
+            },
+            "startDate": "2026-05-09T17:20:00Z",
+            "endDate": "2026-05-09T20:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T17:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Stade Briochin v Quevilly-Rouen Métropole"
                 },
                 {
                     "kind": "subtitle",

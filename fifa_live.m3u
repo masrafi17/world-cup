@@ -1,30 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:45:19 PM 09-05-2026
+#last update time: 09:00:35 PM 09-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e9/12/3f/7c/e9123f7c-eb80-4145-972b-1a07ad2246e5.png" group-title="FIFA Live", Civil Service United v Ekhaya FC | FDH Bank Premiership
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7cddb7e2d6713cf0a4e6a1fd4c1edc76:50c4060c15bde2e2f1cc3421964b0f82
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_47_58_67a39ab8-5597-4a22-91af-5b3607b665fe/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778329140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4c/2a/4c/15/4c2a4c15-e891-4cdb-af5f-5d786105ecba.png" group-title="FIFA Live", MAFCO FC v Creck Sporting FC | FDH Bank Premiership
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c5db8afc40630ccba1c47baa43be7f8:a7b2d5e5f0c050d75febb30447cca313
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_47_55_1dd5546a-3415-4948-a7ce-9cd5a824a65c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778329140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5f/95/32/6d/5f95326d-9f6c-4eda-9194-212066d0b345.png" group-title="FIFA Live", Moyale Barracks v Chitipa United | FDH Bank Premiership
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5cf8130bb00e38eeb77725103acad10a:025f5fdd8e382c01f5914ffa7f2e554a
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_48_01_df357fc6-23c6-42b0-a3ea-de9a450d6b10/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778329140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c1/64/a5/ac/c164a5ac-a824-453c-8f06-e1b1664ed160.png" group-title="FIFA Live", CF Akbou v US Biskra | Ligue Nationale du Football Féminin 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26db19f9eed13a4f9ca89008215ea639:2f6d573ea451db7ba128e2e91875b023
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_14_35_43_ca1cce20-2f9c-480c-83ac-3ccd1d3b758b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/32/97/1b/ee/32971bee-c709-46ff-b7d5-6f3a41d4f5c0.png" group-title="FIFA Live", University of Macau v Gala | Macau First Division 2026
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/32/97/1b/ee/32971bee-c709-46ff-b7d5-6f3a41d4f5c0.png" group-title="FIFA Live", University of Macau v Gala | Macau First Division 2026 | Full Match Replay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c96c774d174b38a09f898cd969611484:4311f16870a741194135d33be5f57ed1
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_10_30_10_e8ca4e76-f3e9-476d-bb60-85533914dde6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778330940
@@ -88,3 +73,23 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_10_13_08_936f7eba-0807-4ee0-9180
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b3fa2ddf0119378d851607a8955129b6:2e495b878a090898d4e394e514e7ac3d
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_13_30_40_9728a9f0-c148-4f0f-a46b-98ab2eda6f13/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778336940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d5/f2/73/dc/d5f273dc-11cf-4ed8-a0bc-e1eb1957aeae.png" group-title="FIFA Live", Bani Ganse FC v Hodio FC | Ligue 1 2025
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff9196d6b7bc394f885cdbc972551279:766e92bf94676745db2c2e9acd454da3
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_39_19_2adf30bf-00ee-44a3-b98e-3f5abbee4696/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778338140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f5/c9/e6/cb/f5c9e6cb-48b5-40d4-a11d-65ddc3b8be5d.png" group-title="FIFA Live", Espoir FC v Coton FC | Ligue 1 2025
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0dc872f79ed738fa9530350f3d34b9fa:2d877f0a82f23ada261e9d36949812ca
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_39_22_ae0e327e-14b7-41d1-91d1-01e5b6d1eff8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778338140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/50/1a/8d/14/501a8d14-3d0b-4ee5-90b5-3e6f51869bec.png" group-title="FIFA Live", CA Batna v USM Annaba | Ligue 2 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b18d0fdc5e13b3da073d102ce7a1d27:ca151cf62d72782c53e6c23a83f20ce3
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_34_56_9f1edd5a-77e6-444c-b4d0-5aa50528de5c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778338140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/76/13/33/6c761333-1478-4d26-9d76-4735fe7557f7.png" group-title="FIFA Live", MO Constantine v HB Chelghoum Laïd | Ligue 2 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c1bef22b84e38e9afde0cf72c027a6d:ca941aaac53e5c42f026bedee59578b8
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_34_28_2cd864e5-f6f8-4c44-b8e5-5452a898cfb5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778338140
