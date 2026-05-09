@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:30:23 PM 09-05-2026
+#last update time: 07:45:28 PM 09-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/75/d5/33/49/75d53349-76aa-40fa-8a19-c3a05c40584a.png" group-title="FIFA Live", Pius Njawe FC v SCAF | Central African Republic Super League 2026
@@ -68,11 +68,6 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_28_bb95881f-f5d3-4818-9b6e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34c33d1e1e5733c98012056023c6a930:f5e1e1bc8d92ebe57a243f40f1746f96
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_14_11_12_42d844b9-98a1-44d2-81b0-1963aeea9a27/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7a/b9/c8/7d/7ab9c87d-6029-4057-9bb6-b6620a87c4ce.png" group-title="FIFA Live", Musongati FC v Bumamuru FC | Primus Ligue Burundi 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=533ed033638e3912a8c8b45eab89f47a:a33eacf69bfdaddd382e0fb74ac04ea2
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_11_07e5f0d4-614c-418e-8e2e-7840cba180e8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778330940
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7a/32/89/3d/7a32893d-20a8-4f12-9a67-6499cf07c00e.png" group-title="FIFA Live", Olympic Star v Ngozi City | Primus Ligue Burundi 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
