@@ -1,25 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:00:34 AM 09-05-2026
+#last update time: 11:15:21 AM 09-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/fe/44/4a/9c/fe444a9c-2154-4ab0-a812-21413687f9ed.jpg" group-title="FIFA Live", Auckland United v Fencibles United | New Zealand Men's National League 2026 | Full Match Replay
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=95d0b91ee22130f59ccdf34257477f5d:c7aa3e79c653397457004484692d786f
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_17_10_80809a4c-82d1-479a-82cb-31367b008104/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/31/85/b3/61/3185b361-2814-4ab0-ade1-7cec63524e0e.jpg" group-title="FIFA Live", Eastern Suburbs v Bay Olympic | New Zealand Men's National League 2026 | Full Match Replay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fb657847f4938d9a4b2edc998a4916a:4c483d5f48228430605cb202f3086cb5
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_16_57_b5ca8c3c-68d9-48fc-b7a6-57851f7e7ed8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a7/f6/74/04/a7f67404-a988-4cb7-aa22-814643d5aa22.jpg" group-title="FIFA Live", Upper Hutt City v Island Bay United | New Zealand Men's National League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84bcca0cea1d3d78b2d825f3099c273d:0999f01732a234a93fcec159441081b3
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_16_53_a31686a3-6ddb-4ecf-89c7-9fd333854929/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e2/5f/06/60/e25f0660-ee24-4968-b90e-5aaaff0bead3.jpg" group-title="FIFA Live", Birkenhead United v Tauranga City | New Zealand Men's National League 2026
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e2/5f/06/60/e25f0660-ee24-4968-b90e-5aaaff0bead3.jpg" group-title="FIFA Live", Birkenhead United v Tauranga City | New Zealand Men's National League 2026 | Full Match Replay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09b1aaf431893394888c150ddaa4f145:4938ace4cb7bbe29d3b34501a78b2239
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_16_50_1b4a5c6b-6e47-4323-af17-61ed429db119/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940

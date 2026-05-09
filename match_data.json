@@ -3,80 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:00:34 AM 09-05-2026",
-        "total_live": 7,
-        "total_upcoming": 43
+        "last_update_time": "11:15:21 AM 09-05-2026",
+        "total_live": 5,
+        "total_upcoming": 45
     },
     "matches": [
-        {
-            "id": "41dbb091-79c3-4286-bf14-0d021262c6f9",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "41dbb091-79c3-4286-bf14-0d021262c6f9",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Auckland United v Fencibles United | New Zealand Men's National League 2026 | Full Match Replay",
-            "category": "livestream",
-            "urlSlug": "auckland-united-fc-vs-fencibles-united-afc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/fe/44/4a/9c/fe444a9c-2154-4ab0-a812-21413687f9ed.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Auckland United v Fencibles United | New Zealand Men's National League 2026 | Full Match Replay",
-            "titleTemplateValues": {
-                "competition": "Men's National League",
-                "publisher": "MA | New Zealand",
-                "publisher-channel": "MA | New Zealand | Men's National League 2026 - Regional Phase (Channel)",
-                "global-stage": "Northern League",
-                "team:auckland-united-fc": "Auckland United",
-                "season": "New Zealand Men's National League 2026",
-                "stage": "Regional Phase - Northern League",
-                "association": "New Zealand",
-                "stadium": "Keith Hay Park",
-                "city": "Auckland",
-                "video-type": "Full Match Replays",
-                "team:fencibles-united-afc": "Fencibles United",
-                "country": "New Zealand",
-                "match": "Auckland United v Fencibles United",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "organizer": "New Zealand",
-                "organizer-country": "New Zealand"
-            },
-            "startDate": "2026-05-09T02:50:00Z",
-            "endDate": "2026-05-09T05:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T03:00:00Z"
-            },
-            "isRegistrationRequired": true,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Auckland United v Fencibles United"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "New Zealand Men's National League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Northern League"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "New Zealand"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_17_10_80809a4c-82d1-479a-82cb-31367b008104/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940",
-                "decryption_keys": [
-                    "95d0b91ee22130f59ccdf34257477f5d:c7aa3e79c653397457004484692d786f"
-                ]
-            }
-        },
         {
             "id": "c9661db4-a77a-4c8a-ac18-c6e71b01a20e",
             "channelId": "fifa-tournaments",
@@ -147,86 +78,17 @@
             }
         },
         {
-            "id": "86ccc5b8-8122-409d-9c78-b522c32a9de1",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "86ccc5b8-8122-409d-9c78-b522c32a9de1",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Upper Hutt City v Island Bay United | New Zealand Men's National League 2026",
-            "category": "livestream",
-            "urlSlug": "upper-hutt-city-fc-vs-island-bay-united-afc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/a7/f6/74/04/a7f67404-a988-4cb7-aa22-814643d5aa22.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Upper Hutt City v Island Bay United | New Zealand Men's National League 2026",
-            "titleTemplateValues": {
-                "competition": "Men's National League",
-                "publisher": "MA | New Zealand",
-                "publisher-channel": "MA | New Zealand | Men's National League 2026 - Regional Phase (Channel)",
-                "city": "Wellington",
-                "stage": "Regional Phase - Central League",
-                "team:upper-hutt-city-fc": "Upper Hutt City",
-                "season": "New Zealand Men's National League 2026",
-                "team:island-bay-united-afc": "Island Bay United",
-                "association": "New Zealand",
-                "global-stage": "Central League",
-                "country": "New Zealand",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "match": "Upper Hutt City v Island Bay United",
-                "stadium": "Maidstone Park",
-                "video-type": "Live Streams",
-                "organizer": "New Zealand",
-                "organizer-country": "New Zealand"
-            },
-            "startDate": "2026-05-09T02:50:00Z",
-            "endDate": "2026-05-09T05:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T03:00:00Z"
-            },
-            "isRegistrationRequired": true,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Upper Hutt City v Island Bay United"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "New Zealand Men's National League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Central League"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "New Zealand"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_16_53_a31686a3-6ddb-4ecf-89c7-9fd333854929/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778294940",
-                "decryption_keys": [
-                    "84bcca0cea1d3d78b2d825f3099c273d:0999f01732a234a93fcec159441081b3"
-                ]
-            }
-        },
-        {
             "id": "9028a241-9a64-420d-a6c0-7837bc12cd0d",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "9028a241-9a64-420d-a6c0-7837bc12cd0d",
             "catalogRedirectType": "EVENT",
-            "standardTitle": "Birkenhead United v Tauranga City | New Zealand Men's National League 2026",
+            "standardTitle": "Birkenhead United v Tauranga City | New Zealand Men's National League 2026 | Full Match Replay",
             "category": "livestream",
             "urlSlug": "birkenhead-united-afc-vs-tauranga-city-afc",
             "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
             "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/e2/5f/06/60/e25f0660-ee24-4968-b90e-5aaaff0bead3.jpg",
             "freeMode": "FREE_ADS",
-            "title": "Birkenhead United v Tauranga City | New Zealand Men's National League 2026",
+            "title": "Birkenhead United v Tauranga City | New Zealand Men's National League 2026 | Full Match Replay",
             "titleTemplateValues": {
                 "competition": "Men's National League",
                 "publisher": "MA | New Zealand",
@@ -239,10 +101,10 @@
                 "stage": "Regional Phase - Northern League",
                 "association": "New Zealand",
                 "city": "Auckland",
+                "video-type": "Full Match Replays",
                 "country": "New Zealand",
                 "team:tauranga-city-afc": "Tauranga City",
                 "fifa-plus": "Mens (FIFA Plus)",
-                "video-type": "Live Streams",
                 "organizer": "New Zealand",
                 "organizer-country": "New Zealand"
             },
@@ -3159,6 +3021,130 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Algeria"
+                }
+            ]
+        },
+        {
+            "id": "53218a7f-268f-4c76-8246-2fc59041af38",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "53218a7f-268f-4c76-8246-2fc59041af38",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "AS OTR v AS Tambo | D1 Lonato 2025/26",
+            "category": "livestream",
+            "urlSlug": "as-otr-vs-as-tambo",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/a7/db/8d/db/a7db8ddb-8d1e-4263-ab6d-5d3a43919ef1.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/1e/40/f3/df/1e40f3df-19bc-4e7e-9b42-807c0a2bac22.png",
+            "freeMode": "FREE_ADS",
+            "title": "AS OTR v AS Tambo | D1 Lonato 2025/26",
+            "titleTemplateValues": {
+                "country": "Togo",
+                "association": "Togo",
+                "global-stage": "Round 23",
+                "match": "AS OTR v AS Tambo",
+                "stadium": "Omnisport Stadium",
+                "stage": "Regular Season",
+                "team:as-tambo": "AS Tambo",
+                "publisher": "MA | Togo",
+                "publisher-channel": "MA | Togo | D1 Lonato 2025/2026",
+                "season": "D1 Lonato 2025/26",
+                "city": "Lomé",
+                "team:as-otr": "AS OTR",
+                "video-type": "Live Streams",
+                "competition": "Championnat de Première Division D1",
+                "organizer": "Togo",
+                "organizer-country": "Togo"
+            },
+            "startDate": "2026-05-09T15:20:00Z",
+            "endDate": "2026-05-09T18:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T15:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "AS OTR v AS Tambo"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "D1 Lonato 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 23"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Togo"
+                }
+            ]
+        },
+        {
+            "id": "afd9d3dd-5b2d-4203-b047-37b5fa829196",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "afd9d3dd-5b2d-4203-b047-37b5fa829196",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Semassi FC v Dyto FC | D1 Lonato 2025/26",
+            "category": "livestream",
+            "urlSlug": "semassi-fc-vs-dyto-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/a7/db/8d/db/a7db8ddb-8d1e-4263-ab6d-5d3a43919ef1.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/42/de/a6/12/42dea612-4d8e-4bbc-8042-fdff1b77c671.png",
+            "freeMode": "FREE_ADS",
+            "title": "Semassi FC v Dyto FC | D1 Lonato 2025/26",
+            "titleTemplateValues": {
+                "country": "Togo",
+                "association": "Togo",
+                "global-stage": "Round 23",
+                "match": "Semassi FC v Dyto FC",
+                "stage": "Regular Season",
+                "publisher": "MA | Togo",
+                "stadium": "Atakpamé Municipal Stadium",
+                "publisher-channel": "MA | Togo | Championnat de Première Division D1 2023/2024",
+                "team:dyto-fc": "Dyto FC",
+                "season": "D1 Lonato 2025/26",
+                "city": "Atakpamé",
+                "video-type": "Live Streams",
+                "team:semassi-fc": "Semassi FC",
+                "competition": "Championnat de Première Division D1",
+                "organizer": "Togo",
+                "organizer-country": "Togo"
+            },
+            "startDate": "2026-05-09T15:20:00Z",
+            "endDate": "2026-05-09T18:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T15:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Semassi FC v Dyto FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "D1 Lonato 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 23"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Togo"
                 }
             ]
         }
