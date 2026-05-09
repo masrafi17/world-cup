@@ -3,80 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:30:23 PM 09-05-2026",
-        "total_live": 2,
-        "total_upcoming": 48
+        "last_update_time": "01:45:21 PM 09-05-2026",
+        "total_live": 1,
+        "total_upcoming": 49
     },
     "matches": [
-        {
-            "id": "66f728c4-7f3b-4081-9118-15980f2bf252",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "66f728c4-7f3b-4081-9118-15980f2bf252",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Western Springs v Manukau United | New Zealand Men's National League 2026",
-            "category": "livestream",
-            "urlSlug": "western-springs-afc-vs-manukau-united",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/59/60/c8/24/5960c824-bdd7-43f3-8ff0-df8cfc91f5c5.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Western Springs v Manukau United | New Zealand Men's National League 2026",
-            "titleTemplateValues": {
-                "competition": "Men's National League",
-                "publisher": "MA | New Zealand",
-                "stadium": "Seddon Fields",
-                "team:western-springs-afc": "Western Springs",
-                "publisher-channel": "MA | New Zealand | Men's National League 2026 - Regional Phase (Channel)",
-                "team:manukau-united": "Manukau United",
-                "global-stage": "Northern League",
-                "season": "New Zealand Men's National League 2026",
-                "stage": "Regional Phase - Northern League",
-                "association": "New Zealand",
-                "city": "Auckland",
-                "country": "New Zealand",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "match": "Western Springs v Manukau United",
-                "video-type": "Live Streams",
-                "organizer": "New Zealand",
-                "organizer-country": "New Zealand"
-            },
-            "startDate": "2026-05-09T05:20:00Z",
-            "endDate": "2026-05-09T08:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T05:30:00Z"
-            },
-            "isRegistrationRequired": true,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Western Springs v Manukau United"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "New Zealand Men's National League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Northern League"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "New Zealand"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_10_17_13_08fcbc24-d59a-4e7e-8396-941d3bf453bd/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778303940",
-                "decryption_keys": [
-                    "bc738d5f14bb32319f1bdea62a8fea02:a92a4c0f4c6567d009f51451a75e014c"
-                ]
-            }
-        },
         {
             "id": "f8ec3e47-8867-45f3-a7e6-a770c6e28cb1",
             "channelId": "fifa-tournaments",
@@ -3098,6 +3029,68 @@
                     "kind": "caption",
                     "p": 0,
                     "value": "Round 28"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Liberia"
+                }
+            ]
+        },
+        {
+            "id": "3c4fd9a5-ffc1-4584-85fb-48e3f4a7a463",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "3c4fd9a5-ffc1-4584-85fb-48e3f4a7a463",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Paynesville FC v FC Fassell | LFA First Division League 2025/26",
+            "category": "livestream",
+            "urlSlug": "paynesville-fc-vs-fc-fassell",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/7f/31/a0/71/7f31a071-da0f-4823-9501-a6e2c94fa994.png",
+            "freeMode": "FREE_ADS",
+            "title": "Paynesville FC v FC Fassell | LFA First Division League 2025/26",
+            "titleTemplateValues": {
+                "team:paynesville-fc": "Paynesville FC",
+                "stage": "Regular Season",
+                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
+                "association": "Liberia",
+                "season": "LFA First Division League 2025/26",
+                "competition": "Liberia National League",
+                "global-stage": "Round 27",
+                "team:fc-fassell": "FC Fassell",
+                "country": "Liberia",
+                "match": "Paynesville FC v FC Fassell",
+                "publisher": "MA | Liberia",
+                "city": "Paynesville",
+                "video-type": "Live Streams",
+                "stadium": "SKD Annex",
+                "organizer": "Liberia",
+                "organizer-country": "Liberia"
+            },
+            "startDate": "2026-05-09T15:50:00Z",
+            "endDate": "2026-05-09T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-09T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Paynesville FC v FC Fassell"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "LFA First Division League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 27"
                 },
                 {
                     "kind": "caption",
