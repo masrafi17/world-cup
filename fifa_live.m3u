@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:45:28 PM 09-05-2026
+#last update time: 08:00:25 PM 09-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/75/d5/33/49/75d53349-76aa-40fa-8a19-c3a05c40584a.png" group-title="FIFA Live", Pius Njawe FC v SCAF | Central African Republic Super League 2026
@@ -88,3 +88,28 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_31_23_80db55d5-aa22-4491-9403
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b0012290095336d3bd17d25b8789a532:bb3108c53a50a6dcf074f225d4b885be
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_44_16_9a269593-4bec-4e61-8743-4bbc2716408f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778330940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5b/da/e4/62/5bdae462-aa86-4d7c-9eef-14e3d0ebc16f.png" group-title="FIFA Live", AF Luftëtari v KF Sopoti | Kategoria e Parë 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=786fb4485a853763acfddb5339c7c447:11d4a736d6c796f119a4360fe4deffef
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_12_36_31_108eb7d6-787e-4447-9fcc-7ee5d3cf04f0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778334540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/42/8a/ac/f9/428aacf9-8647-4756-ad1d-88f6c7048132.png" group-title="FIFA Live", Kukësi v Bylis B | Kategoria e Parë 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4aa4567c99cc3553b065cdd5661cca2d:7e329c8d66a4472c39efc2576c5e5475
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_12_37_25_6402e818-6b0e-422e-a8c8-2aebbce1ba9f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778334540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/78/9b/cf/1c/789bcf1c-5b46-4f31-94c5-f8300e790892.png" group-title="FIFA Live", JS El Biar v RC Arbaâ | Ligue 2 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2dc8dcbf16b53e7eb5c129ff96cf92c9:77fe66faeae7a9371c3f6a24c78db055
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_12_35_05_b16eef24-41c4-4375-a733-6ef7ba989c88/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778334540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3c/51/59/68/3c515968-f420-4847-b366-91f7c75933bf.png" group-title="FIFA Live", KFF Feronikeli v Dukagjini | Siguria Superliga e Femrave 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00ba484ae60e3550bd9eabf2770d699c:b1be2686312535aa6556448719999303
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_10_13_11_cb07307e-0f5a-4fa4-9e2a-a0799df660ed/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778334540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e5/9a/ec/00/e59aec00-e129-4f67-8ad9-c5b0bb821c1e.png" group-title="FIFA Live", Mitrovica v KFV Prishtina | Siguria Superliga e Femrave 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c26b2f9df25e34b5be583bd372b3cf29:45722bb4d50e299022736a7a1585b438
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_10_13_08_936f7eba-0807-4ee0-9180-76bbad0da5a1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778334540
