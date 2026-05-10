@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:30:21 PM 10-05-2026",
-        "total_live": 3,
-        "total_upcoming": 47
+        "last_update_time": "05:45:25 PM 10-05-2026",
+        "total_live": 2,
+        "total_upcoming": 48
     },
     "matches": [
-        {
-            "id": "98e8abbf-ee7a-4033-8b24-41bd0976e994",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "98e8abbf-ee7a-4033-8b24-41bd0976e994",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "FK Banga v MFA Žalgiris–MRU | Moterų A lyga 2026",
-            "category": "livestream",
-            "urlSlug": "fk-banga-vs-mfa-zalgiris-mru",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/bd/c4/94/1b/bdc4941b-d298-4af7-aae1-86bcc62032fd.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/89/39/db/1f/8939db1f-4bcc-4be7-b475-589dc1bf7086.png",
-            "freeMode": "FREE_ADS",
-            "title": "FK Banga v MFA Žalgiris–MRU | Moterų A lyga 2026",
-            "titleTemplateValues": {
-                "team:fk-banga": "FK Banga",
-                "season": "Moterų A lyga 2026",
-                "match": "FK Banga v MFA Žalgiris–MRU",
-                "publisher-channel": "MA | Lithuania | Moterų A Lyga 2026 (Channel)",
-                "country": "Lithuania",
-                "team:mfa-zalgiris-mru": "MFA Žalgiris–MRU",
-                "competition": "Women's A league",
-                "publisher": "MA | Lithuania ",
-                "stadium": "Gargždai Stadium",
-                "association": "Lithuania",
-                "stage": "Moterų A Lyga",
-                "city": "Gargždai",
-                "global-stage": "Round 6",
-                "video-type": "Live Streams",
-                "organizer": "Lithuania",
-                "organizer-country": "Lithuania"
-            },
-            "startDate": "2026-05-10T09:20:00Z",
-            "endDate": "2026-05-10T12:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T09:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "FK Banga v MFA Žalgiris–MRU"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Moterų A lyga 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 6"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lithuania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_12_49_53_3f55cfb3-5eac-4faa-8671-f9eec11f29c6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778404740",
-                "decryption_keys": [
-                    "477e5dcf18b436bd98b9ad855a6b25f7:7bb323dfa0fbb43566d9856c8434507a"
-                ]
-            }
-        },
         {
             "id": "2f0b49bd-3ce6-4846-8e16-dca1f83217c2",
             "channelId": "fifa-tournaments",
@@ -276,69 +208,6 @@
             ]
         },
         {
-            "id": "64df058e-324b-4fb2-915d-014f0b731356",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "64df058e-324b-4fb2-915d-014f0b731356",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Shao Jiang v Chiba | Macau First Division 2026",
-            "category": "livestream",
-            "urlSlug": "shao-jiang-sa-vs-macau-chiba-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/7e/17/fb/a2/7e17fba2-2a73-45d5-b26c-5bc6ffdd5b08.jpg",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/dd/a2/73/50/dda27350-ef15-487e-bab8-02d8dcc6d671.png",
-            "freeMode": "FREE_ADS",
-            "title": "Shao Jiang v Chiba | Macau First Division 2026",
-            "titleTemplateValues": {
-                "publisher": "MA | Macau",
-                "stage": "Regular Season",
-                "country": "Macau",
-                "city": "Macao",
-                "publisher-channel": "MA | Macau | Macau First Division 2026 (Channel)",
-                "team:macau-chiba-fc": "Chiba",
-                "season": "Macau First Division 2026",
-                "match": "Shao Jiang v Chiba",
-                "global-stage": "Round 11",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "competition": "Macau Liga de Elite",
-                "stadium": "Macau Stadium",
-                "team:shao-jiang-sa": "Shao Jiang",
-                "association": "Macau",
-                "video-type": "Live Streams",
-                "organizer": "Macau",
-                "organizer-country": "Macau"
-            },
-            "startDate": "2026-05-10T11:50:00Z",
-            "endDate": "2026-05-10T14:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T12:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Shao Jiang v Chiba"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Macau First Division 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 11"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Macau"
-                }
-            ]
-        },
-        {
             "id": "13b7f1d1-2936-4bcf-89fb-77045ce2a06d",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "13b7f1d1-2936-4bcf-89fb-77045ce2a06d",
@@ -398,6 +267,69 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Mauritius"
+                }
+            ]
+        },
+        {
+            "id": "64df058e-324b-4fb2-915d-014f0b731356",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "64df058e-324b-4fb2-915d-014f0b731356",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Shao Jiang v Chiba | Macau First Division 2026",
+            "category": "livestream",
+            "urlSlug": "shao-jiang-sa-vs-macau-chiba-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/7e/17/fb/a2/7e17fba2-2a73-45d5-b26c-5bc6ffdd5b08.jpg",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/dd/a2/73/50/dda27350-ef15-487e-bab8-02d8dcc6d671.png",
+            "freeMode": "FREE_ADS",
+            "title": "Shao Jiang v Chiba | Macau First Division 2026",
+            "titleTemplateValues": {
+                "publisher": "MA | Macau",
+                "stage": "Regular Season",
+                "country": "Macau",
+                "city": "Macao",
+                "publisher-channel": "MA | Macau | Macau First Division 2026 (Channel)",
+                "team:macau-chiba-fc": "Chiba",
+                "season": "Macau First Division 2026",
+                "match": "Shao Jiang v Chiba",
+                "global-stage": "Round 11",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "competition": "Macau Liga de Elite",
+                "stadium": "Macau Stadium",
+                "team:shao-jiang-sa": "Shao Jiang",
+                "association": "Macau",
+                "video-type": "Live Streams",
+                "organizer": "Macau",
+                "organizer-country": "Macau"
+            },
+            "startDate": "2026-05-10T11:55:00Z",
+            "endDate": "2026-05-10T14:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T12:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Shao Jiang v Chiba"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Macau First Division 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 11"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Macau"
                 }
             ]
         },
@@ -3126,6 +3058,68 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Guinea-Bissau"
+                }
+            ]
+        },
+        {
+            "id": "d0edf94e-a57d-4d55-b41f-5105f322b6ec",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "d0edf94e-a57d-4d55-b41f-5105f322b6ec",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "FC Nouadhibou v ASC Police | Super D-1 2025/26",
+            "category": "livestream",
+            "urlSlug": "fc-nouadhibou-vs-asc-police",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/39/61/d8/4a/3961d84a-2170-4737-8a7c-42d7ae00e8f7.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/4d/14/a8/6d/4d14a86d-aad5-44d1-821e-22d5722d2f8b.png",
+            "freeMode": "FREE_ADS",
+            "title": "FC Nouadhibou v ASC Police | Super D-1 2025/26",
+            "titleTemplateValues": {
+                "stage": "Regular season",
+                "publisher": "MA | Mauritania",
+                "global-stage": "Round 24",
+                "competition": "Super D-1",
+                "city": "Nouakchott",
+                "association": "Mauritania",
+                "stadium": "Stade Cheikha Ould Boïdiya",
+                "match": "FC Nouadhibou v ASC Police",
+                "publisher-channel": "MA | Mauritania | Super D1 2025/2026",
+                "season": "Super D-1 2025/26",
+                "team:asc-police": "ASC Police",
+                "team:fc-nouadhibou": "FC Nouadhibou",
+                "country": "Mauritania",
+                "video-type": "Live Streams",
+                "organizer": "Mauritania",
+                "organizer-country": "Mauritania"
+            },
+            "startDate": "2026-05-10T16:35:00Z",
+            "endDate": "2026-05-10T19:15:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T16:45:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "FC Nouadhibou v ASC Police"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Super D-1 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 24"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mauritania"
                 }
             ]
         }
