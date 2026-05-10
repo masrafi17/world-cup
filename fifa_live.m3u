@@ -1,28 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:45:31 PM 10-05-2026
+#last update time: 12:00:24 AM 11-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/99/c4/1b/4d/99c41b4d-3012-4c06-b37d-900d8d098eac.png" group-title="FIFA Live", AC Barracuda v ASCK | D1 Lonato 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfb0b316d3b435c1a258bae156cf920b:deddfecea3ea89cde266278a13081a0c
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_23_34_7ef56141-4c08-4ef7-8bde-ef12febda03f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778426340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/fa/0f/05/6d/fa0f056d-9389-4309-bbe3-abcd6d7fb173.png" group-title="FIFA Live", FC Espoir v Entente II | D1 Lonato 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=760f11e98d3f3086be5408dab22c01ca:3e8bb2d12893845464279d98d5a216e8
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_23_41_e05a26e6-d6cf-4409-ab4f-b1d93a66983b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778426340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/42/de/a6/12/42dea612-4d8e-4bbc-8042-fdff1b77c671.png" group-title="FIFA Live", Semassi FC v Dyto FC | D1 Lonato 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1bfe49cebef3a23ace6861cc8bfa675:ac9c57537467b95947effd088409b438
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_23_29_8a4b11a4-77f7-486c-879d-2f941471db53/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778426340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e4/a3/0c/6c/e4a30c6c-e5c9-4d95-bcfc-dcfbc380cacc.png" group-title="FIFA Live", FA Šiauliai v FK Žalgiris | Moterų A lyga 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=131c3cd083b2378d9b8e034a12b2a410:50cc468f64d6609d711f5de7f3c4e1e6
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_12_49_56_d7cf0118-793e-4dbb-aece-8acf99a0b590/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778426340
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0c/f9/c7/90/0cf9c790-c458-4104-a805-27c646b86498.png" group-title="FIFA Live", ASN Nigelec v AS Police | Super Ligue 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -133,3 +113,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_23_50_5457b8c3-f288-44ef-8e49
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c02a8b48b613555a8f26abc51606999:5183922620abff7e0478e32ecc412950
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_10_21_8c8b8db9-6bec-44f3-be63-1216d029a5a8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778431740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/14/e9/f9/3e/14e9f93e-855b-477f-a581-542a11dc9139.png" group-title="FIFA Live", Campobasso v Potenza | National Phase Play-offs - First Round - First Leg | Serie C 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69e0bd1cacde3672857816c017594a9a:251a1a8d41ce46eca4bce18b206e1a63
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_12_23_52_8c749f12-147f-4f10-a0a9-c4c3d848d3ee/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aita%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778435340
