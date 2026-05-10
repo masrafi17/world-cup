@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:15:23 AM 10-05-2026
+#last update time: 06:30:23 AM 10-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c4/ab/ba/1d/c4abba1d-ee8e-4133-a3af-1473ae86d438.png" group-title="FIFA Live", Newtown United FC v St. Peters FC | SKNFA Premier League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=898cee7249bc38f9bfe25dc30b987fcf:fb97684211ad18aa4149e6c262344f5b
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_22_57_c6ca776f-7e74-4e9c-a0cc-06f34964bee5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778363340
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/38/9a/e4/13/389ae413-b501-417b-a2c3-c3c91875fdec.png" group-title="FIFA Live", Mighty Avengers v Mahaut Soca Strikers FC | DFA Premier League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -33,3 +28,13 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_12_46_02_2caee600-6c79-46fe-be81
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a83ccdb63f9366582d67cae898858a9:6ebfc388d060b6f9f2ae272a12b38ae4
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_23_00_bc0a4c86-d2de-429e-9b40-c59258d8709c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778370540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/48/ee/36/d0/48ee36d0-a3b1-466e-a5ca-5c68a5482f4c.png" group-title="FIFA Live", La Fama v Britannia | Division Honor 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7138abef457a34b2823c2db9a023e001:54501d2b03a7b65d12501a3c12b628c5
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_59_24_8afc53d6-62cf-4dd0-b342-cb51b3760fef/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778372340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/19/45/03/f7/194503f7-6cff-47c5-b808-d8f4b4991a6f.png" group-title="FIFA Live", Beaches FC v Teachers YS | Provo Premier League 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee70d0489b9d3a1293e7dd5b30c6db8f:68f2d20cc6025a13b2f141917cda81a4
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_13_47_22_26b1cd84-fdcd-482a-934c-4a8c852d43e5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778372940
