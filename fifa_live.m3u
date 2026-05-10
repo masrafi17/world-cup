@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:45:25 PM 10-05-2026
+#last update time: 06:00:33 PM 10-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ba/fc/4c/2c/bafc4c2c-6bbd-4a89-af4c-bea53c383096.png" group-title="FIFA Live", G. Universe v Must IPO | Macau First Division 2026
@@ -13,3 +13,18 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_10_30_13_6b05ed77-ca1f-4b79-9756
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d30c7c06c9af3c2b89ad191898ec6902:87ed4c998b680b16083ae478c7b0ce7a
 https://d7pd9oqdl4d44.cloudfront.net/2026_04_30_13_18_18_ad9f307b-3fc0-41fa-8ae4-a9d6bc3bfad2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778411940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a9/a8/ef/4f/a9a8ef4f-9195-488a-8b32-91052954b3b6.png" group-title="FIFA Live", Blue Eagles v Silver Strikers FC | FDH Bank Premiership
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd065f4463bf35f1bb2c4c4721b987ee:465656880c74545275ccefbcc3d28a55
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_48_04_096c9dc9-9c1d-42d7-89d4-0f24b6383ccf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778413740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/53/f8/0f/99/53f80f99-9c3b-4711-960e-cb8533731d4e.png" group-title="FIFA Live", AS Port-Louis 2000 v La Cure Waves SC | MFA Cup 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9172e87e0c13109bfd1a56b62d2d101:599200a530c0db699aa5ea7cc7979df9
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_08_14_06_105bdd82-0641-472f-aea1-cabcf6431245/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778413740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/dd/a2/73/50/dda27350-ef15-487e-bab8-02d8dcc6d671.png" group-title="FIFA Live", Shao Jiang v Chiba | Macau First Division 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e0fea0fca8931a99cb028c812de34b2:43e3477b664356728bc8e06add5c6386
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_10_30_16_e758b757-fa68-42da-bc52-e144f3c3685c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778414040
