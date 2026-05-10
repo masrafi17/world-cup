@@ -1,23 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:45:19 AM 11-05-2026
+#last update time: 05:00:32 AM 11-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/2b/f9/53/d3/2bf953d3-501b-4704-9154-580471382bf4.png" group-title="FIFA Live", Inter Moengo Tapoe v Voorwaarts | Suriname Major League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfa06739034635ada1177e1a4ae20b14:823b2079965fc8ef1ca071bf8d18195e
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_14_06_41_59590662-332e-46a6-bc9f-b1417745d550/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778444340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d8/08/be/d8/d808bed8-cb79-42a5-84a2-b2f5e4c01972.png" group-title="FIFA Live", San Ramón FF v Cubujuquí | Women's Second Division 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1d8b56ff6ce323cb65bfeeeb9cd8365:4d4cb61b2669db4136271d281494ac15
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_07_28_25_6d079ab8-27e9-409f-a382-23d5183e378e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778444340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/39/1f/cf/14/391fcf14-c86b-4262-9bca-46ee5c83aa0a.png" group-title="FIFA Live", VG United  v Lion Heart FC | BVIFA National League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5bfd579077b34f8a780d8a53cd47c5c:89fb4a3695c559a94c9a2d4c026dc084
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_10_45_28_6c1e4f76-c678-4afa-a64e-14dc2bff4ab6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778445240
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/26/ce/53/10/26ce5310-319b-4135-9790-094aaf0aaea2.png" group-title="FIFA Live", Attackers FC v Spartans FC | Anguilla Senior Men's League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -48,3 +33,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_08_57_49_1951df9b-a088-4cc7-8d0e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=259c3466ced43eedb94cc16773e3a52b:8e5e836f2afada02f48a4a9c19eca822
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_08_57_33_1876b45f-f14c-4e5a-9e09-a1234cf0a3e6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778451540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6a/ce/5b/b6/6ace5bb6-76d3-41f2-b0ca-7b208e17013f.png" group-title="FIFA Live", Flora v Broki | Suriname Major League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb6ab8a29b923963994f377c76251927:85264a8c0aa7ee0b554ca9e03880724a
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_14_06_44_91a450c9-088c-493f-bcba-cf9908cc7d2b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778453340
