@@ -1,23 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:45:20 AM 10-05-2026
+#last update time: 07:00:33 AM 10-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/38/9a/e4/13/389ae413-b501-417b-a2c3-c3c91875fdec.png" group-title="FIFA Live", Mighty Avengers v Mahaut Soca Strikers FC | DFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc6fa14c9c5732bc82d18eb756942ff8:920d596769454ace8696c764c4ebaae2
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_08_57_27_5041ab6e-6d05-45da-ad94-fcd7d08bc3d2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778365140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a5/7e/82/74/a57e8274-0635-4bc7-b1f8-6f69a3c272ff.png" group-title="FIFA Live", Bubali v Dakota | Division Honor 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a8e2fc378bf37e9b8cd7a129df6698d:310cfcd45102f0b6e6a5a8ef58416fc0
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_59_20_594ad389-aaf6-41e8-baff-044656571098/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778365140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/56/b1/cb/b2/56b1cbb2-bcf5-4f1c-957b-689794050e7b.png" group-title="FIFA Live", Provo United FC v Cheshire Hall FC | Provo Premier League 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=81f4b1fc97ec3fe58bb6f2f4db488968:a6f1e56fa7a17ab9497ee02643f260e9
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_13_47_19_83a13ff1-a004-4e98-90a2-313b1d9c406a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778365140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c7/7c/2f/ed/c77c2fed-2b48-459d-8df5-1fd9ec24f788.png" group-title="FIFA Live", Grenades FC v All Saints United | Antigua Premier League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -38,3 +23,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_59_24_8afc53d6-62cf-4dd0-b342
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee70d0489b9d3a1293e7dd5b30c6db8f:68f2d20cc6025a13b2f141917cda81a4
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_13_47_22_26b1cd84-fdcd-482a-934c-4a8c852d43e5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778372940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/83/ca/85/48/83ca8548-f725-455d-8015-d220be141701.jpg" group-title="FIFA Live", Solomon Kings FC v Vanuatu United FC | OFC Professional League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34cb647fb27c3deb97be5a1141f2d93b:365273d98f3cc3717de9461d4f556df6
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_27_03_82167c98-36d2-4887-b481-78345e5a7030/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778374140

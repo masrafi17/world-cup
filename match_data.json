@@ -3,215 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:45:20 AM 10-05-2026",
-        "total_live": 7,
-        "total_upcoming": 43
+        "last_update_time": "07:00:33 AM 10-05-2026",
+        "total_live": 5,
+        "total_upcoming": 45
     },
     "matches": [
-        {
-            "id": "adf8c0bc-6851-435c-b981-07e24e7a853d",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "adf8c0bc-6851-435c-b981-07e24e7a853d",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Mighty Avengers v Mahaut Soca Strikers FC | DFA Premier League 2026",
-            "category": "livestream",
-            "urlSlug": "mighty-avengers-vs-mahaut-soca-strikers-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/cd/54/de/4a/cd54de4a-9ed2-47df-822e-cc0094b8e336.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/38/9a/e4/13/389ae413-b501-417b-a2c3-c3c91875fdec.png",
-            "freeMode": "FREE_ADS",
-            "title": "Mighty Avengers v Mahaut Soca Strikers FC | DFA Premier League 2026",
-            "titleTemplateValues": {
-                "season": "DFA Premier League 2026",
-                "country": "Dominica",
-                "global-stage": "Round 3",
-                "competition": "DFA Premier League",
-                "match": "Mighty Avengers v Mahaut Soca Strikers FC",
-                "stadium": "DFA Technical Centre",
-                "stage": "Regular Season",
-                "team:mahaut-soca-strikers-fc": "Mahaut Soca Strikers FC",
-                "team:mighty-avengers": "Mighty Avengers",
-                "publisher": "MA | Dominica",
-                "city": "Roseau ",
-                "publisher-channel": "MA | Dominica | DFA Premier League 2026",
-                "association": "Dominica",
-                "video-type": "Live Streams",
-                "organizer": "Dominica",
-                "organizer-country": "Dominica"
-            },
-            "startDate": "2026-05-09T22:20:00Z",
-            "endDate": "2026-05-10T01:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T22:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Mighty Avengers v Mahaut Soca Strikers FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "DFA Premier League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 3"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Dominica"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_08_57_27_5041ab6e-6d05-45da-ad94-fcd7d08bc3d2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778365140",
-                "decryption_keys": [
-                    "fc6fa14c9c5732bc82d18eb756942ff8:920d596769454ace8696c764c4ebaae2"
-                ]
-            }
-        },
-        {
-            "id": "5789a7af-697b-49cf-9194-5490f6477d29",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "5789a7af-697b-49cf-9194-5490f6477d29",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Bubali v Dakota | Division Honor 2025-26",
-            "category": "livestream",
-            "urlSlug": "bubali-vs-dakota",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/22/1d/cb/0b/221dcb0b-c792-4d48-903e-b725b280c421.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/a5/7e/82/74/a57e8274-0635-4bc7-b1f8-6f69a3c272ff.png",
-            "freeMode": "FREE_ADS",
-            "title": "Bubali v Dakota | Division Honor 2025-26",
-            "titleTemplateValues": {
-                "stage": "Division Honor Liga-Oro Round 2",
-                "team:bubali": "Bubali",
-                "country": "Aruba",
-                "association": "Aruba",
-                "season": "Division Honor 2025-26",
-                "team:dakota": "Dakota",
-                "publisher": "MA | Aruba",
-                "competition": "Division Honor",
-                "stadium": "Sports Complex Guillermo Prospero Trinidad",
-                "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
-                "match": "Bubali v Dakota",
-                "global-stage": "Division Honor Oro",
-                "city": "Dakota",
-                "video-type": "Live Streams",
-                "organizer": "Aruba",
-                "organizer-country": "Aruba"
-            },
-            "startDate": "2026-05-09T22:20:00Z",
-            "endDate": "2026-05-10T01:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T22:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Bubali v Dakota"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Division Honor 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Division Honor Oro"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Aruba"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_59_20_594ad389-aaf6-41e8-baff-044656571098/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778365140",
-                "decryption_keys": [
-                    "2a8e2fc378bf37e9b8cd7a129df6698d:310cfcd45102f0b6e6a5a8ef58416fc0"
-                ]
-            }
-        },
-        {
-            "id": "d6add332-edcd-4a4a-ad8a-d12a37b3d24f",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "d6add332-edcd-4a4a-ad8a-d12a37b3d24f",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Provo United FC v Cheshire Hall FC | Provo Premier League 2025-26",
-            "category": "livestream",
-            "urlSlug": "provo-united-sc-vs-cheshire-hall-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/87/67/83/32/87678332-8da2-44c0-ab94-759e5e5f208a.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/56/b1/cb/b2/56b1cbb2-bcf5-4f1c-957b-689794050e7b.png",
-            "freeMode": "FREE_ADS",
-            "title": "Provo United FC v Cheshire Hall FC | Provo Premier League 2025-26",
-            "titleTemplateValues": {
-                "competition": "Provo Premier League",
-                "publisher-channel": "MA | Turks and Caicos | Provo Premier League 2025/26",
-                "stage": "Knockout Round",
-                "stadium": "TCIFA National Academy",
-                "season": "Provo Premier League 2025-26",
-                "team:cheshire-hall-fc": "Cheshire Hall FC",
-                "video-type": "Full Match Replays",
-                "association": "Turks and Caicos Islands",
-                "team:provo-united-sc": "Provo United FC",
-                "global-stage": "Playoffs",
-                "publisher": "MA | Turks and Caicos",
-                "match": "Provo United FC v Cheshire Hall FC",
-                "city": "Venetian Road Settlement",
-                "country": "Turks and Caicos Islands",
-                "organizer": "Turks and Caicos Islands",
-                "organizer-country": "Turks and Caicos Islands"
-            },
-            "startDate": "2026-05-09T22:20:00Z",
-            "endDate": "2026-05-10T01:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-09T22:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Provo United FC v Cheshire Hall FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Provo Premier League 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Playoffs"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Turks and Caicos Islands"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_13_47_19_83a13ff1-a004-4e98-90a2-313b1d9c406a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778365140",
-                "decryption_keys": [
-                    "81f4b1fc97ec3fe58bb6f2f4db488968:a6f1e56fa7a17ab9497ee02643f260e9"
-                ]
-            }
-        },
         {
             "id": "9991a888-4dfc-4f0d-a575-d316623ae42d",
             "channelId": "fifa-tournaments",
@@ -526,7 +322,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -543,7 +339,13 @@
                     "p": 0,
                     "value": "Round 6"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_27_03_82167c98-36d2-4887-b481-78345e5a7030/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778374140",
+                "decryption_keys": [
+                    "34cb647fb27c3deb97be5a1141f2d93b:365273d98f3cc3717de9461d4f556df6"
+                ]
+            }
         },
         {
             "id": "5db2c70c-49aa-4078-8640-3af1037e5e89",
@@ -3148,6 +2950,192 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Burkina Faso"
+                }
+            ]
+        },
+        {
+            "id": "7e228378-fc4b-4dc4-a9b5-e7ae2b7390be",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "7e228378-fc4b-4dc4-a9b5-e7ae2b7390be",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Vitesse FC v Rahimo FC | Burkina Faso Ligue 1 2025-26",
+            "category": "livestream",
+            "urlSlug": "vitesse-fc-vs-rahimo-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/3b/13/b3/ef/3b13b3ef-4be4-44d7-a870-91a28d0a18a9.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/0e/6b/9f/0b/0e6b9f0b-79da-4a4f-a0ef-61c46753466e.png",
+            "freeMode": "FREE_ADS",
+            "title": "Vitesse FC v Rahimo FC | Burkina Faso Ligue 1 2025-26",
+            "titleTemplateValues": {
+                "team:vitesse-fc": "Vitesse FC",
+                "global-stage": "Round 30",
+                "stadium": "Stade Wobi de Bobo-Dioulasso",
+                "city": "Bobo-Dioulasso",
+                "publisher": "MA | Burkina Faso",
+                "stage": "Regular Season",
+                "association": "Burkina Faso",
+                "season": "Burkina Faso Ligue 1 2025-26",
+                "competition": "Ligue 1",
+                "team:rahimo-fc": "Rahimo FC",
+                "country": "Burkina Faso",
+                "match": "Vitesse FC v Rahimo FC",
+                "video-type": "Live Streams",
+                "publisher-channel": "MA | Burkina Faso | Ligue 1 Masculine 2025/2026",
+                "organizer": "Burkina Faso",
+                "organizer-country": "Burkina Faso"
+            },
+            "startDate": "2026-05-10T15:50:00Z",
+            "endDate": "2026-05-10T19:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Vitesse FC v Rahimo FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Burkina Faso Ligue 1 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 30"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Burkina Faso"
+                }
+            ]
+        },
+        {
+            "id": "7039a942-98e9-409e-9d91-c455a6158843",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "7039a942-98e9-409e-9d91-c455a6158843",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Africa Sports v ES Bafing | Côte d'Ivoire Ligue 2 2025/26",
+            "category": "livestream",
+            "urlSlug": "africa-sports-vs-es-bafing",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/2f/8c/0a/ac/2f8c0aac-82dd-41cc-afa6-b8ace2bf4263.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/f3/3b/34/93/f33b3493-7339-4f39-8e15-835df5c8a4ad.png",
+            "freeMode": "FREE_ADS",
+            "title": "Africa Sports v ES Bafing | Côte d'Ivoire Ligue 2 2025/26",
+            "titleTemplateValues": {
+                "stadium": "Parc des Sports de Treichville",
+                "competition": "Ligue 2",
+                "association": "Côte d'Ivoire",
+                "team:es-bafing": "ES Bafing",
+                "city": "Abidjan",
+                "global-stage": "Round 25",
+                "match": "Africa Sports v ES Bafing",
+                "publisher-channel": "MA | Côte d'Ivoire | Ligue 2 2025-2026",
+                "season": "Côte d'Ivoire Ligue 2 2025/26",
+                "country": "Côte d'Ivoire",
+                "team:africa-sports": "Africa Sports",
+                "stage": "Regular Season",
+                "publisher": "MA | Côte d'Ivoire",
+                "video-type": "Live Streams",
+                "organizer": "Côte d'Ivoire",
+                "organizer-country": "Côte d'Ivoire"
+            },
+            "startDate": "2026-05-10T15:50:00Z",
+            "endDate": "2026-05-10T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Africa Sports v ES Bafing"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Côte d'Ivoire Ligue 2 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 25"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Côte d'Ivoire"
+                }
+            ]
+        },
+        {
+            "id": "a3ca1d1d-5f24-48a4-bac8-c4cb318199a0",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "a3ca1d1d-5f24-48a4-bac8-c4cb318199a0",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Hilal Témara v Phoenix Football Academy | D1 Women's Championship  2025-26",
+            "category": "livestream",
+            "urlSlug": "hilal-temara-vs-phoenix-football-academy",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/de/e7/40/33/dee74033-f15f-4c9b-b864-56d00c2765ee.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/81/a4/c7/7c/81a4c77c-caca-4240-a7bb-951cc39f5044.png",
+            "freeMode": "FREE_ADS",
+            "title": "Hilal Témara v Phoenix Football Academy | D1 Women's Championship  2025-26",
+            "titleTemplateValues": {
+                "competition": "Championnat Féminin D1",
+                "stage": "Regular Season",
+                "team:phoenix-football-academy": "Phoenix Football Academy",
+                "global-stage": "Round 21",
+                "association": "Morocco",
+                "publisher": "MA | Morocco",
+                "publisher-channel": "MA | Morocco | Championnat Féminin D1 2025/2026",
+                "season": "D1 Women's Championship  2025-26",
+                "country": "Morocco",
+                "team:hilal-temara": "Hilal Témara",
+                "match": "Hilal Témara v Phoenix Football Academy",
+                "city": "Témara",
+                "video-type": "Live Streams",
+                "stadium": "Témara Municipal Stadium",
+                "organizer": "Morocco",
+                "organizer-country": "Morocco"
+            },
+            "startDate": "2026-05-10T15:50:00Z",
+            "endDate": "2026-05-10T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Hilal Témara v Phoenix Football Academy"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "D1 Women's Championship  2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 21"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Morocco"
                 }
             ]
         }
