@@ -1,18 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:00:24 AM 11-05-2026
+#last update time: 01:15:20 AM 11-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/23/14/7c/0d/23147c0d-2814-40ae-a7e3-68f82b809c0e.png" group-title="FIFA Live", Flamengo de Pefine v FC Pelundo | Campeonato Nacional de Futebol da 1a Divisão 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a4cd67fe28539b08b9075ac6a2925c4:243dad024837ef00b87b0139b6681605
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_25_40_492d26be-4d88-4e23-89e3-e61e77a22441/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778430840
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4d/14/a8/6d/4d14a86d-aad5-44d1-821e-22d5722d2f8b.png" group-title="FIFA Live", FC Nouadhibou v ASC Police | Super D-1 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60b738b440b6306ca3f464ef90d0c91f:2ff6673b8f06201e32cc32c01dbeb15a
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_23_50_5457b8c3-f288-44ef-8e49-d41988ec45dc/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778430840
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8a/f5/4f/ea/8af54fea-4f70-4fb9-bbd8-fcf8558878cb.png" group-title="FIFA Live", Atlético São Nicolau v África Show | Cape Verdean Football Championship 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
