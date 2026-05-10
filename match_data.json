@@ -3,74 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:15:19 AM 10-05-2026",
+        "last_update_time": "10:30:22 AM 10-05-2026",
         "total_live": 0,
-        "total_upcoming": 49
+        "total_upcoming": 50
     },
     "matches": [
-        {
-            "id": "5db2c70c-49aa-4078-8640-3af1037e5e89",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "5db2c70c-49aa-4078-8640-3af1037e5e89",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Napier City Rovers v Waterside Karori | New Zealand Men's National League 2026",
-            "category": "livestream",
-            "urlSlug": "napier-city-rovers-afc-vs-waterside-karori-afc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/b1/4f/01/f8/b14f01f8-ae9d-4edb-ae1c-784a9b932bbf.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Napier City Rovers v Waterside Karori | New Zealand Men's National League 2026",
-            "titleTemplateValues": {
-                "competition": "Men's National League",
-                "publisher": "MA | New Zealand",
-                "publisher-channel": "MA | New Zealand | Men's National League 2026 - Regional Phase (Channel)",
-                "stage": "Regional Phase - Central League",
-                "season": "New Zealand Men's National League 2026",
-                "match": "Napier City Rovers v Waterside Karori",
-                "association": "New Zealand",
-                "global-stage": "Central League",
-                "video-type": "Full Match Replays",
-                "country": "New Zealand",
-                "city": "Napier",
-                "stadium": "Bluewater Stadium",
-                "team:napier-city-rovers-afc": "Napier City Rovers",
-                "team:waterside-karori-afc": "Waterside Karori",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "organizer": "New Zealand",
-                "organizer-country": "New Zealand"
-            },
-            "startDate": "2026-05-10T01:50:00Z",
-            "endDate": "2026-05-10T04:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T02:00:00Z"
-            },
-            "isRegistrationRequired": true,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Napier City Rovers v Waterside Karori"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "New Zealand Men's National League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Central League"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "New Zealand"
-                }
-            ]
-        },
         {
             "id": "6bce66d7-dcce-4058-b693-0e3561805846",
             "channelId": "fifa-tournaments",
@@ -3093,6 +3030,68 @@
                     "kind": "title",
                     "p": 0,
                     "value": "Kamboi Eagles FC v Wusum Stars FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Leone Rock Premier League 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Sierra Leone"
+                }
+            ]
+        },
+        {
+            "id": "08649128-0387-4d24-a454-23726fa7d99c",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "08649128-0387-4d24-a454-23726fa7d99c",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Mighty Blackpool FC v SLIFA FC | Leone Rock Premier League 2025-26",
+            "category": "livestream",
+            "urlSlug": "mighty-blackpool-fc-vs-slifa-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/0b/c8/62/f7/0bc862f7-bf39-43ca-b3e9-4f61e8f10216.png",
+            "freeMode": "FREE_ADS",
+            "title": "Mighty Blackpool FC v SLIFA FC | Leone Rock Premier League 2025-26",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "country": "Sierra Leone",
+                "competition": "Premier League",
+                "team:mighty-blackpool-fc": "Mighty Blackpool FC",
+                "team:slifa-fc": "SLIFA FC",
+                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
+                "association": "Sierra Leone",
+                "match": "Mighty Blackpool FC v SLIFA FC",
+                "stadium": "SLFA Academy Field",
+                "city": "Freetown",
+                "global-stage": "Round 26",
+                "season": "Leone Rock Premier League 2025-26",
+                "publisher": "MA | Sierra Leone",
+                "video-type": "Live Streams",
+                "organizer": "Sierra Leone",
+                "organizer-country": "Sierra Leone"
+            },
+            "startDate": "2026-05-10T16:20:00Z",
+            "endDate": "2026-05-10T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Mighty Blackpool FC v SLIFA FC"
                 },
                 {
                     "kind": "subtitle",
