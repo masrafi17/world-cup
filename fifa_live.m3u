@@ -1,23 +1,13 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:21 PM 10-05-2026
+#last update time: 10:45:21 PM 10-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/37/d1/10/9d/37d1109d-69cc-49d8-8d85-a87fe63f3853.png" group-title="FIFA Live", Dibba Al-Hisn v Al-Ittifaq | Round 27 | First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84dfac5957d33bde9f16c0e02c139971:7e2f0020b92e8665160b6c75d738092e
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_10_10_26091aca-baa2-49b5-aa5b-0a423aa06c47/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421240
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/89/bd/5e/29/89bd5e29-6b22-423b-95f5-7bb86de682e9.png" group-title="FIFA Live", Fujairah Club v Al Dhaid Club | Round 27 | First Division League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90bda59e7d1231e49a14f31f75ae4b79:a81421f0eb8bbd407f3fbe8d79d75a1c
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_10_23_a750adc5-35aa-4ce5-9e74-b09605357324/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421240
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/59/f8/2c/5a/59f82c5a-3f01-401d-a52a-d658b2ae4f84.png" group-title="FIFA Live", Gulf United v Masfout Club | Round 27 | First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=97a98f6f94d23052a6c073bc668bccaf:234ae3d2a39b7c90845768d5cfc25375
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_10_14_558e15b1-8c45-4301-b928-2dc3aed12c97/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421720
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/29/a2/1f/57/29a21f57-99c0-4bee-9618-dfb90e4616c8.png" group-title="FIFA Live", Sobemap FC v USS Krake FC | Ligue 1 2025
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -148,3 +138,13 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_06_34_c88b0bb4-bcee-411a-8756
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=118f6f09050f3dc497546a474ee761e1:f7d5390f53ee6a1eb38bf816e1805a4a
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_23_38_a3b02aa5-a0c6-4a71-88e6-df197de95575/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778426340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/23/14/7c/0d/23147c0d-2814-40ae-a7e3-68f82b809c0e.png" group-title="FIFA Live", Flamengo de Pefine v FC Pelundo | Campeonato Nacional de Futebol da 1a Divisão 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a4cd67fe28539b08b9075ac6a2925c4:243dad024837ef00b87b0139b6681605
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_25_40_492d26be-4d88-4e23-89e3-e61e77a22441/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778430840
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4d/14/a8/6d/4d14a86d-aad5-44d1-821e-22d5722d2f8b.png" group-title="FIFA Live", FC Nouadhibou v ASC Police | Super D-1 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60b738b440b6306ca3f464ef90d0c91f:2ff6673b8f06201e32cc32c01dbeb15a
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_23_50_5457b8c3-f288-44ef-8e49-d41988ec45dc/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778430840

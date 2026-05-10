@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:30:21 PM 10-05-2026",
+        "last_update_time": "10:45:21 PM 10-05-2026",
         "total_live": 29,
-        "total_upcoming": 4
+        "total_upcoming": 2
     },
     "matches": [
-        {
-            "id": "57dad657-710c-48fc-86aa-8f1fcd478980",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "57dad657-710c-48fc-86aa-8f1fcd478980",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Dibba Al-Hisn v Al-Ittifaq | Round 27 | First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "dibba-al-hisn-vs-al-ittifaq",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/c9/13/52/b0/c91352b0-2f4e-4315-b9be-cc2ce4247b3c.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/37/d1/10/9d/37d1109d-69cc-49d8-8d85-a87fe63f3853.png",
-            "freeMode": "FREE_ADS",
-            "title": "Dibba Al-Hisn v Al-Ittifaq | Round 27 | First Division League 2025/26",
-            "titleTemplateValues": {
-                "city": "Dibba Al-Hisn",
-                "country": "United Arab Emirates",
-                "match": "Dibba Al-Hisn v Al-Ittifaq",
-                "competition": "First Division League",
-                "stage": "Second Leg",
-                "season": "First Division League 2025/26",
-                "team:dibba-al-hisn": "Dibba Al-Hisn",
-                "publisher-channel": "MA | UAE | First Division League 2025/2026",
-                "publisher": "MA | UAE",
-                "team:al-ittifaq": "Al-Ittifaq",
-                "global-stage": "Round 27",
-                "stadium": "Dibba Al-Hisn Club ",
-                "association": "United Arab Emirates",
-                "video-type": "Live Streams",
-                "organizer": "United Arab Emirates",
-                "organizer-country": "United Arab Emirates"
-            },
-            "startDate": "2026-05-10T13:55:00Z",
-            "endDate": "2026-05-10T16:35:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T14:05:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Dibba Al-Hisn v Al-Ittifaq"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 27"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "United Arab Emirates"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_10_10_26091aca-baa2-49b5-aa5b-0a423aa06c47/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421240",
-                "decryption_keys": [
-                    "84dfac5957d33bde9f16c0e02c139971:7e2f0020b92e8665160b6c75d738092e"
-                ]
-            }
-        },
         {
             "id": "5961bbe3-59cd-42d2-8cc1-586e02e151b3",
             "channelId": "fifa-tournaments",
@@ -141,74 +73,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_10_23_a750adc5-35aa-4ce5-9e74-b09605357324/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421240",
                 "decryption_keys": [
                     "90bda59e7d1231e49a14f31f75ae4b79:a81421f0eb8bbd407f3fbe8d79d75a1c"
-                ]
-            }
-        },
-        {
-            "id": "48ba79fa-4635-44d1-930d-4ea37dc6fd6a",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "48ba79fa-4635-44d1-930d-4ea37dc6fd6a",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Gulf United v Masfout Club | Round 27 | First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "gulf-united-vs-masfout-club",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/c9/13/52/b0/c91352b0-2f4e-4315-b9be-cc2ce4247b3c.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/59/f8/2c/5a/59f82c5a-3f01-401d-a52a-d658b2ae4f84.png",
-            "freeMode": "FREE_ADS",
-            "title": "Gulf United v Masfout Club | Round 27 | First Division League 2025/26",
-            "titleTemplateValues": {
-                "team:masfout-club": "Masfout Club",
-                "team:gulf-united": "Gulf United",
-                "country": "United Arab Emirates",
-                "competition": "First Division League",
-                "city": "Masfout",
-                "stage": "Second Leg",
-                "season": "First Division League 2025/26",
-                "stadium": "Masfout Club",
-                "publisher-channel": "MA | UAE | First Division League 2025/2026",
-                "publisher": "MA | UAE",
-                "global-stage": "Round 27",
-                "association": "United Arab Emirates",
-                "match": "Gulf United v Masfout Club",
-                "video-type": "Live Streams",
-                "organizer": "United Arab Emirates",
-                "organizer-country": "United Arab Emirates"
-            },
-            "startDate": "2026-05-10T14:03:00Z",
-            "endDate": "2026-05-10T16:50:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T14:05:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Gulf United v Masfout Club"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 27"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "United Arab Emirates"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_10_14_558e15b1-8c45-4301-b928-2dc3aed12c97/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421720",
-                "decryption_keys": [
-                    "97a98f6f94d23052a6c073bc668bccaf:234ae3d2a39b7c90845768d5cfc25375"
                 ]
             }
         },
@@ -2019,7 +1883,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -2041,7 +1905,13 @@
                     "p": 1,
                     "value": "Guinea-Bissau"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_25_40_492d26be-4d88-4e23-89e3-e61e77a22441/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778430840",
+                "decryption_keys": [
+                    "6a4cd67fe28539b08b9075ac6a2925c4:243dad024837ef00b87b0139b6681605"
+                ]
+            }
         },
         {
             "id": "d0edf94e-a57d-4d55-b41f-5105f322b6ec",
@@ -2081,7 +1951,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -2103,7 +1973,13 @@
                     "p": 1,
                     "value": "Mauritania"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_23_50_5457b8c3-f288-44ef-8e49-d41988ec45dc/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778430840",
+                "decryption_keys": [
+                    "60b738b440b6306ca3f464ef90d0c91f:2ff6673b8f06201e32cc32c01dbeb15a"
+                ]
+            }
         },
         {
             "id": "c0ba28fa-c6c2-4c04-ad68-10a6fd158f8f",
@@ -2199,7 +2075,7 @@
                 "organizer": "Cabo Verde",
                 "organizer-country": "Cabo Verde"
             },
-            "startDate": "2026-05-10T16:50:00Z",
+            "startDate": "2026-05-10T16:59:00Z",
             "endDate": "2026-05-10T19:30:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-10T17:00:00Z"
