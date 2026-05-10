@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:30:23 AM 10-05-2026",
+        "last_update_time": "06:45:20 AM 10-05-2026",
         "total_live": 7,
         "total_upcoming": 43
     },
@@ -163,6 +163,7 @@
                 "stadium": "TCIFA National Academy",
                 "season": "Provo Premier League 2025-26",
                 "team:cheshire-hall-fc": "Cheshire Hall FC",
+                "video-type": "Full Match Replays",
                 "association": "Turks and Caicos Islands",
                 "team:provo-united-sc": "Provo United FC",
                 "global-stage": "Playoffs",
@@ -170,7 +171,6 @@
                 "match": "Provo United FC v Cheshire Hall FC",
                 "city": "Venetian Road Settlement",
                 "country": "Turks and Caicos Islands",
-                "video-type": "Live Streams",
                 "organizer": "Turks and Caicos Islands",
                 "organizer-country": "Turks and Caicos Islands"
             },
