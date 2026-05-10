@@ -3,78 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:15:27 PM 10-05-2026",
-        "total_live": 1,
-        "total_upcoming": 49
+        "last_update_time": "01:30:22 PM 10-05-2026",
+        "total_live": 0,
+        "total_upcoming": 50
     },
     "matches": [
-        {
-            "id": "6bce66d7-dcce-4058-b693-0e3561805846",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "6bce66d7-dcce-4058-b693-0e3561805846",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Tahiti United v PNG Hekari FC | OFC Professional League 2026 | Full Match Replay",
-            "category": "livestream",
-            "urlSlug": "tahiti-united-vs-png-hekari-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f7/3e/d0/a0/f73ed0a0-89b0-481d-882e-8a7959a34a71.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ae/41/ff/12/ae41ff12-6450-4dfd-a56c-1adfbad621ff.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Tahiti United v PNG Hekari FC | OFC Professional League 2026 | Full Match Replay",
-            "titleTemplateValues": {
-                "match": "Tahiti United v PNG Hekari FC",
-                "stage": "Round 6 - Challengers Group",
-                "association:papua-new-guinea": "Papua New Guinea",
-                "publisher": "OFC",
-                "association:tahiti": "Tahiti",
-                "video-type": "Full Match Replays",
-                "publisher-channel": "OFC | OFC Pro League 2026 (Channel)",
-                "country:new-zealand": "New Zealand",
-                "city": "Penrose",
-                "season": "OFC Professional League 2026",
-                "confederation": "OFC",
-                "team:png-hekari-fc": "PNG Hekari FC",
-                "team:tahiti-united": "Tahiti United",
-                "stadium": "Go Media Stadium",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "global-stage": "Round 6",
-                "competition": "OFC Professional League ",
-                "country:papua-new-guinea": "Papua New Guinea",
-                "country:tahiti": "Tahiti",
-                "organizer": "OFC"
-            },
-            "startDate": "2026-05-10T04:50:00Z",
-            "endDate": "2026-05-10T07:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T05:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Tahiti United v PNG Hekari FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "OFC Professional League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 6"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_12_27_06_911a3977-80fd-4b4d-9e0f-49ad38681dc4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778388540",
-                "decryption_keys": [
-                    "8330d1a56848338b9f8160e163e4cd33:5dbc93a43290694b11c4a73fb5fcbea4"
-                ]
-            }
-        },
         {
             "id": "47d84083-ee4b-497a-b454-8e8b8d7a0684",
             "channelId": "fifa-tournaments",
@@ -3113,6 +3046,68 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Sierra Leone"
+                }
+            ]
+        },
+        {
+            "id": "25a39e49-0d11-4dbf-a99d-122100d56c59",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "25a39e49-0d11-4dbf-a99d-122100d56c59",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Onze Createurs v Stade Malien | Ligue 1 Pro Orange 2025/26",
+            "category": "livestream",
+            "urlSlug": "onze-createurs-vs-stade-malien",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/40/5f/cb/f2/405fcbf2-dab9-4929-a56c-afba6c186b8f.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/b7/14/49/a7/b71449a7-f9c6-4c5d-ac12-03f673134082.png",
+            "freeMode": "FREE_ADS",
+            "title": "Onze Createurs v Stade Malien | Ligue 1 Pro Orange 2025/26",
+            "titleTemplateValues": {
+                "competition": "Ligue 1 Pro Orange",
+                "city": "Bamako",
+                "team:stade-malien": "Stade Malien",
+                "association": "Mali",
+                "team:onze-createurs": "Onze Createurs",
+                "publisher": "MA | Mali",
+                "country": "Mali",
+                "match": "Onze Createurs v Stade Malien",
+                "season": "Ligue 1 Pro Orange 2025/26",
+                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
+                "stage": "Regular Season",
+                "stadium": "Mamadou Konate Stadium",
+                "global-stage": "Round 20",
+                "video-type": "Live Streams",
+                "organizer": "Mali",
+                "organizer-country": "Mali"
+            },
+            "startDate": "2026-05-10T16:20:00Z",
+            "endDate": "2026-05-10T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Onze Createurs v Stade Malien"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 1 Pro Orange 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 20"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mali"
                 }
             ]
         }
