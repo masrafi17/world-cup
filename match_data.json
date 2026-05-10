@@ -3,80 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:00:33 PM 10-05-2026",
-        "total_live": 5,
-        "total_upcoming": 45
+        "last_update_time": "06:15:21 PM 10-05-2026",
+        "total_live": 4,
+        "total_upcoming": 46
     },
     "matches": [
-        {
-            "id": "2f0b49bd-3ce6-4846-8e16-dca1f83217c2",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "2f0b49bd-3ce6-4846-8e16-dca1f83217c2",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "G. Universe v Must IPO | Macau First Division 2026",
-            "category": "livestream",
-            "urlSlug": "g-universe-vs-must-ipo-sc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/7e/17/fb/a2/7e17fba2-2a73-45d5-b26c-5bc6ffdd5b08.jpg",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ba/fc/4c/2c/bafc4c2c-6bbd-4a89-af4c-bea53c383096.png",
-            "freeMode": "FREE_ADS",
-            "title": "G. Universe v Must IPO | Macau First Division 2026",
-            "titleTemplateValues": {
-                "publisher": "MA | Macau",
-                "stage": "Regular Season",
-                "team:g-universe": "G. Universe",
-                "country": "Macau",
-                "city": "Macao",
-                "publisher-channel": "MA | Macau | Macau First Division 2026 (Channel)",
-                "team:must-ipo-sc": "Must IPO",
-                "season": "Macau First Division 2026",
-                "match": "G. Universe v Must IPO",
-                "global-stage": "Round 11",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "competition": "Macau Liga de Elite",
-                "stadium": "Macau Stadium",
-                "association": "Macau",
-                "video-type": "Live Streams",
-                "organizer": "Macau",
-                "organizer-country": "Macau"
-            },
-            "startDate": "2026-05-10T09:50:00Z",
-            "endDate": "2026-05-10T12:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T10:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "G. Universe v Must IPO"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Macau First Division 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 11"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Macau"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_10_30_13_6b05ed77-ca1f-4b79-9756-8b04e112fa52/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778406540",
-                "decryption_keys": [
-                    "b9693762bd0a3a71a08d44b4ce38c600:348687045c0c15e74aa4199d9abd992f"
-                ]
-            }
-        },
         {
             "id": "b01ef7a9-ee19-4d69-b318-73808e1a3324",
             "channelId": "fifa-tournaments",
@@ -3138,6 +3069,69 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Mauritania"
+                }
+            ]
+        },
+        {
+            "id": "c0ba28fa-c6c2-4c04-ad68-10a6fd158f8f",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "c0ba28fa-c6c2-4c04-ad68-10a6fd158f8f",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Atlético São Nicolau v África Show | Cape Verdean Football Championship 2026",
+            "category": "livestream",
+            "urlSlug": "atletico-sao-nicolau-vs-africa-show",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/e2/de/a5/df/e2dea5df-b115-46c7-896c-b14873589822.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/8a/f5/4f/ea/8af54fea-4f70-4fb9-bbd8-fcf8558878cb.png",
+            "freeMode": "FREE_ADS",
+            "title": "Atlético São Nicolau v África Show | Cape Verdean Football Championship 2026",
+            "titleTemplateValues": {
+                "city": "Fogo",
+                "team:atletico-sao-nicolau": "Atlético São Nicolau",
+                "match": "Atlético São Nicolau v África Show",
+                "stage": "Group Stage",
+                "publisher-channel": "MA | Cape Verde | Cape Verdean Football Championship 2026 (Channel)",
+                "competition": "Cape Verdean Football Championship",
+                "team:africa-show": "África Show",
+                "global-stage": "Round 2",
+                "country": "Cabo Verde",
+                "season": "Cape Verdean Football Championship 2026",
+                "publisher": "MA | Cape Verde",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "stadium": "Di Deus",
+                "association": "Cabo Verde",
+                "video-type": "Live Streams",
+                "organizer": "Cabo Verde",
+                "organizer-country": "Cabo Verde"
+            },
+            "startDate": "2026-05-10T16:50:00Z",
+            "endDate": "2026-05-10T19:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T17:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Atlético São Nicolau v África Show"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Cape Verdean Football Championship 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 2"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Cabo Verde"
                 }
             ]
         }
