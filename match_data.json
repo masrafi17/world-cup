@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:00:32 PM 10-05-2026",
+        "last_update_time": "10:15:30 PM 10-05-2026",
         "total_live": 34,
-        "total_upcoming": 11
+        "total_upcoming": 10
     },
     "matches": [
         {
@@ -2862,69 +2862,6 @@
                     "kind": "title",
                     "p": 0,
                     "value": "Atlético São Nicolau v África Show"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Cape Verdean Football Championship 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 2"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Cabo Verde"
-                }
-            ]
-        },
-        {
-            "id": "0b210914-359d-497a-a0c3-7f9f47ede5a5",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "0b210914-359d-497a-a0c3-7f9f47ede5a5",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Benfica da Brava v Scorpion Vermelho | Cape Verdean Football Championship 2026",
-            "category": "livestream",
-            "urlSlug": "benfica-da-brava-vs-scorpion-vermelho",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/e2/de/a5/df/e2dea5df-b115-46c7-896c-b14873589822.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/31/84/1c/2e/31841c2e-1679-45ce-829c-5413d870e358.png",
-            "freeMode": "FREE_ADS",
-            "title": "Benfica da Brava v Scorpion Vermelho | Cape Verdean Football Championship 2026",
-            "titleTemplateValues": {
-                "stadium": "Aquiles de Oliveira",
-                "team:benfica-da-brava": "Benfica da Brava",
-                "stage": "Group Stage",
-                "publisher-channel": "MA | Cape Verde | Cape Verdean Football Championship 2026 (Channel)",
-                "team:scorpion-vermelho": "Scorpion Vermelho",
-                "competition": "Cape Verdean Football Championship",
-                "match": "Benfica da Brava v Scorpion Vermelho",
-                "global-stage": "Round 2",
-                "country": "Cabo Verde",
-                "season": "Cape Verdean Football Championship 2026",
-                "publisher": "MA | Cape Verde",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "city": "Mindelo",
-                "association": "Cabo Verde",
-                "video-type": "Live Streams",
-                "organizer": "Cabo Verde",
-                "organizer-country": "Cabo Verde"
-            },
-            "startDate": "2026-05-10T16:50:00Z",
-            "endDate": "2026-05-10T19:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T17:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Benfica da Brava v Scorpion Vermelho"
                 },
                 {
                     "kind": "subtitle",
