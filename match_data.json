@@ -3,147 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:45:19 AM 10-05-2026",
-        "total_live": 3,
-        "total_upcoming": 46
+        "last_update_time": "09:00:24 AM 10-05-2026",
+        "total_live": 1,
+        "total_upcoming": 48
     },
     "matches": [
-        {
-            "id": "e1915f65-bba1-46ee-9de2-da5ef853f821",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "e1915f65-bba1-46ee-9de2-da5ef853f821",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "La Fama v Britannia | Division Honor 2025-26",
-            "category": "livestream",
-            "urlSlug": "la-fama-vs-britannia",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/22/1d/cb/0b/221dcb0b-c792-4d48-903e-b725b280c421.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/48/ee/36/d0/48ee36d0-a3b1-466e-a5ca-5c68a5482f4c.png",
-            "freeMode": "FREE_ADS",
-            "title": "La Fama v Britannia | Division Honor 2025-26",
-            "titleTemplateValues": {
-                "match": "La Fama v Britannia",
-                "stage": "Division Honor Liga-Oro Round 2",
-                "country": "Aruba",
-                "association": "Aruba",
-                "season": "Division Honor 2025-26",
-                "publisher": "MA | Aruba",
-                "competition": "Division Honor",
-                "team:britannia": "Britannia",
-                "stadium": "Sports Complex Guillermo Prospero Trinidad",
-                "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
-                "global-stage": "Division Honor Oro",
-                "team:la-fama": "La Fama",
-                "city": "Dakota",
-                "video-type": "Live Streams",
-                "organizer": "Aruba",
-                "organizer-country": "Aruba"
-            },
-            "startDate": "2026-05-10T00:20:00Z",
-            "endDate": "2026-05-10T03:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T00:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "La Fama v Britannia"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Division Honor 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Division Honor Oro"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Aruba"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_59_24_8afc53d6-62cf-4dd0-b342-cb51b3760fef/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778372340",
-                "decryption_keys": [
-                    "7138abef457a34b2823c2db9a023e001:54501d2b03a7b65d12501a3c12b628c5"
-                ]
-            }
-        },
-        {
-            "id": "f43c6c6c-3a27-4bce-8476-f100a9620dc8",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "f43c6c6c-3a27-4bce-8476-f100a9620dc8",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Beaches FC v Teachers YS | Provo Premier League 2025-26",
-            "category": "livestream",
-            "urlSlug": "beaches-fc-vs-teachers-ys",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/87/67/83/32/87678332-8da2-44c0-ab94-759e5e5f208a.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/19/45/03/f7/194503f7-6cff-47c5-b808-d8f4b4991a6f.png",
-            "freeMode": "FREE_ADS",
-            "title": "Beaches FC v Teachers YS | Provo Premier League 2025-26",
-            "titleTemplateValues": {
-                "competition": "Provo Premier League",
-                "team:beaches-fc": "Beaches FC",
-                "publisher-channel": "MA | Turks and Caicos | Provo Premier League 2025/26",
-                "stage": "Knockout Round",
-                "team:teachers-ys": "Teachers YS",
-                "stadium": "TCIFA National Academy",
-                "season": "Provo Premier League 2025-26",
-                "association": "Turks and Caicos Islands",
-                "global-stage": "Playoffs",
-                "publisher": "MA | Turks and Caicos",
-                "city": "Venetian Road Settlement",
-                "country": "Turks and Caicos Islands",
-                "match": "Beaches FC v Teachers YS",
-                "video-type": "Live Streams",
-                "organizer": "Turks and Caicos Islands",
-                "organizer-country": "Turks and Caicos Islands"
-            },
-            "startDate": "2026-05-10T00:30:00Z",
-            "endDate": "2026-05-10T03:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T00:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Beaches FC v Teachers YS"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Provo Premier League 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Playoffs"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Turks and Caicos Islands"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_13_47_22_26b1cd84-fdcd-482a-934c-4a8c852d43e5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778372940",
-                "decryption_keys": [
-                    "ee70d0489b9d3a1293e7dd5b30c6db8f:68f2d20cc6025a13b2f141917cda81a4"
-                ]
-            }
-        },
         {
             "id": "e23ace30-95a1-4141-9526-e538d730a1bb",
             "channelId": "fifa-tournaments",
@@ -3125,6 +2989,130 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Morocco"
+                }
+            ]
+        },
+        {
+            "id": "451e4ea8-a9e8-442d-b0a1-6548b4947ccd",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "451e4ea8-a9e8-442d-b0a1-6548b4947ccd",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Abacha City FC v Diamond Stars FC | Leone Rock Premier League 2025-26",
+            "category": "livestream",
+            "urlSlug": "abacha-city-fc-vs-diamond-stars-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/da/5a/b7/84/da5ab784-238c-44b9-86e0-3f00ee4d9140.png",
+            "freeMode": "FREE_ADS",
+            "title": "Abacha City FC v Diamond Stars FC | Leone Rock Premier League 2025-26",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "country": "Sierra Leone",
+                "competition": "Premier League",
+                "team:abacha-city-fc": "Abacha City FC",
+                "team:diamond-stars-fc": "Diamond Stars FC",
+                "match": "Abacha City FC v Diamond Stars FC",
+                "stadium": "Approved School Field",
+                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
+                "association": "Sierra Leone",
+                "city": "Freetown",
+                "global-stage": "Round 26",
+                "season": "Leone Rock Premier League 2025-26",
+                "publisher": "MA | Sierra Leone",
+                "video-type": "Live Streams",
+                "organizer": "Sierra Leone",
+                "organizer-country": "Sierra Leone"
+            },
+            "startDate": "2026-05-10T16:20:00Z",
+            "endDate": "2026-05-10T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Abacha City FC v Diamond Stars FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Leone Rock Premier League 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Sierra Leone"
+                }
+            ]
+        },
+        {
+            "id": "0826c15b-df24-45b1-996b-62e623b05a6f",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "0826c15b-df24-45b1-996b-62e623b05a6f",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Bo Rangers FC v Star Sports Academy | Leone Rock Premier League 2025-26",
+            "category": "livestream",
+            "urlSlug": "bo-rangers-fc-vs-star-sports-academy",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/64/07/48/4d/6407484d-d194-4bc4-82a3-84e3707f3dd0.png",
+            "freeMode": "FREE_ADS",
+            "title": "Bo Rangers FC v Star Sports Academy | Leone Rock Premier League 2025-26",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "country": "Sierra Leone",
+                "competition": "Premier League",
+                "city": "Bo",
+                "stadium": "Southern Arena Stadium",
+                "team:star-sports-academy": "Star Sports Academy",
+                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
+                "team:bo-rangers-fc": "Bo Rangers FC",
+                "association": "Sierra Leone",
+                "global-stage": "Round 26",
+                "season": "Leone Rock Premier League 2025-26",
+                "publisher": "MA | Sierra Leone",
+                "match": "Bo Rangers FC v Star Sports Academy",
+                "video-type": "Live Streams",
+                "organizer": "Sierra Leone",
+                "organizer-country": "Sierra Leone"
+            },
+            "startDate": "2026-05-10T16:20:00Z",
+            "endDate": "2026-05-10T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Bo Rangers FC v Star Sports Academy"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Leone Rock Premier League 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Sierra Leone"
                 }
             ]
         }
