@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:30:19 PM 10-05-2026
+#last update time: 09:45:23 PM 10-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/53/f8/0f/99/53f80f99-9c3b-4711-960e-cb8533731d4e.png" group-title="FIFA Live", AS Port-Louis 2000 v La Cure Waves SC | MFA Cup 2025/26
@@ -109,7 +109,7 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_07_23_29_8a4b11a4-77f7-486c-879d
 #KODIPROP:inputstream.adaptive.license_key=131c3cd083b2378d9b8e034a12b2a410:50cc468f64d6609d711f5de7f3c4e1e6
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_12_49_56_d7cf0118-793e-4dbb-aece-8acf99a0b590/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778426340
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/18/31/83/3f/1831833f-bc1d-4036-ac4f-682a8df1acc8.png" group-title="FIFA Live", Ayema FC v Loto Popo FC | Ligue 1 2025
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0c/f9/c7/90/0cf9c790-c458-4104-a805-27c646b86498.png" group-title="FIFA Live", ASN Nigelec v AS Police | Super Ligue 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fb1e14450d4433f48c2b40007c345820:83623c5679ee7cd117368d288d18de26
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_39_27_d607ef8c-ca49-4f31-9c6e-64a91a4ab24c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778426940
+#KODIPROP:inputstream.adaptive.license_key=d6e121307c6f31cb923c4572d7c29e65:3723f0fa8d99a78166bf260a563745e9
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_03_05_ac8126ec-1574-44a4-bb77-76200b0e2b59/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778427240
