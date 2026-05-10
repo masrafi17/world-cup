@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:45:17 PM 10-05-2026",
+        "last_update_time": "09:00:27 PM 10-05-2026",
         "total_live": 18,
-        "total_upcoming": 31
+        "total_upcoming": 29
     },
     "matches": [
         {
@@ -74,142 +74,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_08_14_06_105bdd82-0641-472f-aea1-cabcf6431245/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778413740",
                 "decryption_keys": [
                     "b9172e87e0c13109bfd1a56b62d2d101:599200a530c0db699aa5ea7cc7979df9"
-                ]
-            }
-        },
-        {
-            "id": "5efff3c7-b22b-45fe-a8d9-49586da4425d",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "5efff3c7-b22b-45fe-a8d9-49586da4425d",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Kamuzu Barracks FC v Karonga United | FDH Bank Premiership",
-            "category": "livestream",
-            "urlSlug": "kamuzu-barracks-fc-vs-karonga-united",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/80/65/93/8e/8065938e-a1a7-4e07-bc92-5382309a4c23.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/f0/8a/f4/b6/f08af4b6-a008-4c65-8e1b-2539f351adef.png",
-            "freeMode": "FREE_ADS",
-            "title": "Kamuzu Barracks FC v Karonga United | FDH Bank Premiership",
-            "titleTemplateValues": {
-                "country": "Malawi",
-                "global-stage": "Round 3",
-                "association": "Malawi",
-                "city": "Dowa",
-                "team:karonga-united": "Karonga United",
-                "match": "Kamuzu Barracks FC v Karonga United",
-                "stadium": "Champion Stadium",
-                "season": "FDH Bank Premiership",
-                "publisher": "MA | Malawi",
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
-                "team:kamuzu-barracks-fc": "Kamuzu Barracks FC",
-                "competition": "Super League",
-                "video-type": "Live Streams",
-                "organizer": "Malawi",
-                "organizer-country": "Malawi"
-            },
-            "startDate": "2026-05-10T12:20:00Z",
-            "endDate": "2026-05-10T15:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T12:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Kamuzu Barracks FC v Karonga United"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "FDH Bank Premiership"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 3"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Malawi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_48_10_bd8c6526-867e-4461-9cc4-d9db8fb8962e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778415540",
-                "decryption_keys": [
-                    "b3094dd3920a3573b9c40a8c95eab15f:9ab80d8f38c5edbe6ce4258daad662d0"
-                ]
-            }
-        },
-        {
-            "id": "02a4363c-a003-4713-88de-82836ceaed7c",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "02a4363c-a003-4713-88de-82836ceaed7c",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Red Lions v Dedza Dynamos FC | FDH Bank Premiership",
-            "category": "livestream",
-            "urlSlug": "red-lions-vs-dedza-dynamos-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/80/65/93/8e/8065938e-a1a7-4e07-bc92-5382309a4c23.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/38/d5/98/61/38d59861-6cb9-4e32-9e5a-42eb568ab253.png",
-            "freeMode": "FREE_ADS",
-            "title": "Red Lions v Dedza Dynamos FC | FDH Bank Premiership",
-            "titleTemplateValues": {
-                "country": "Malawi",
-                "global-stage": "Round 3",
-                "city": "Zomba",
-                "association": "Malawi",
-                "match": "Red Lions v Dedza Dynamos FC",
-                "season": "FDH Bank Premiership",
-                "publisher": "MA | Malawi",
-                "stage": "Regular Season",
-                "team:red-lions": "Red Lions",
-                "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
-                "team:dedza-dynamos-fc": "Dedza Dynamos FC",
-                "competition": "Super League",
-                "stadium": "Zomba Stadium",
-                "video-type": "Live Streams",
-                "organizer": "Malawi",
-                "organizer-country": "Malawi"
-            },
-            "startDate": "2026-05-10T12:20:00Z",
-            "endDate": "2026-05-10T15:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T12:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Red Lions v Dedza Dynamos FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "FDH Bank Premiership"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 3"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Malawi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_48_07_08e570cd-94e9-4022-b3e5-899e3221628f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778415540",
-                "decryption_keys": [
-                    "e099b194fafd39cf83f3a11f082e10ac:f3c1a1a558bbe933f22980fe97e7a913"
                 ]
             }
         },
@@ -1233,68 +1097,6 @@
             }
         },
         {
-            "id": "89ea8c15-3228-4a2c-bcb9-422fb7e89319",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "89ea8c15-3228-4a2c-bcb9-422fb7e89319",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Ayema FC v Loto Popo FC | Ligue 1 2025",
-            "category": "livestream",
-            "urlSlug": "ayema-fc-vs-loto-popo-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/76/8b/f5/a3/768bf5a3-8d1c-41c2-b76e-25e7995e467a.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/18/31/83/3f/1831833f-bc1d-4036-ac4f-682a8df1acc8.png",
-            "freeMode": "FREE_ADS",
-            "title": "Ayema FC v Loto Popo FC | Ligue 1 2025",
-            "titleTemplateValues": {
-                "competition": "Super Ligue Pro",
-                "country": "Benin",
-                "publisher": "MA | Benin",
-                "stadium": "Pobè Stadium",
-                "season": "Ligue 1 2025",
-                "stage": "Regular Stage",
-                "association": "Benin",
-                "city": "Pobè",
-                "match": "Ayema FC v Loto Popo FC",
-                "team:ayema-fc": "Ayema FC",
-                "global-stage": "Round 28",
-                "publisher-channel": "MA | Benin | Ligue 1 2025/2026",
-                "video-type": "Live Streams",
-                "team:loto-popo-fc": "Loto Popo FC",
-                "organizer": "Benin",
-                "organizer-country": "Benin"
-            },
-            "startDate": "2026-05-10T14:50:00Z",
-            "endDate": "2026-05-10T17:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T15:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Ayema FC v Loto Popo FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue 1 2025"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 28"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Benin"
-                }
-            ]
-        },
-        {
             "id": "16038d15-213b-46d0-bec3-3838cf0e1d2b",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "16038d15-213b-46d0-bec3-3838cf0e1d2b",
@@ -1332,7 +1134,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1354,7 +1156,81 @@
                     "p": 1,
                     "value": "Benin"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_39_24_4d002d99-a358-46fc-98ff-89d6f5deadfc/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778424540",
+                "decryption_keys": [
+                    "b0b566c940bc32b995259412c754d479:00c1249c95cfe89ebea94bcf3ffb9629"
+                ]
+            }
+        },
+        {
+            "id": "89ea8c15-3228-4a2c-bcb9-422fb7e89319",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "89ea8c15-3228-4a2c-bcb9-422fb7e89319",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Ayema FC v Loto Popo FC | Ligue 1 2025",
+            "category": "livestream",
+            "urlSlug": "ayema-fc-vs-loto-popo-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/76/8b/f5/a3/768bf5a3-8d1c-41c2-b76e-25e7995e467a.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/18/31/83/3f/1831833f-bc1d-4036-ac4f-682a8df1acc8.png",
+            "freeMode": "FREE_ADS",
+            "title": "Ayema FC v Loto Popo FC | Ligue 1 2025",
+            "titleTemplateValues": {
+                "publisher-channel": "MA | Benin | Ligue 1 2025/2026",
+                "country": "Benin",
+                "city": "Pobè",
+                "match": "Ayema FC v Loto Popo FC",
+                "association": "Benin",
+                "competition": "Super Ligue Pro",
+                "team:ayema-fc": "Ayema FC",
+                "organizer-country": "Benin",
+                "team:loto-popo-fc": "Loto Popo FC",
+                "global-stage": "Round 28",
+                "stage": "Regular Stage",
+                "organizer": "Benin",
+                "publisher": "MA | Benin",
+                "stadium": "Pobè Stadium",
+                "season": "Ligue 1 2025",
+                "video-type": "Live Streams"
+            },
+            "startDate": "2026-05-10T15:00:00Z",
+            "endDate": "2026-05-10T17:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T15:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "started",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Ayema FC v Loto Popo FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 1 2025"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 28"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Benin"
+                }
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_39_27_d607ef8c-ca49-4f31-9c6e-64a91a4ab24c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778425140",
+                "decryption_keys": [
+                    "fb1e14450d4433f48c2b40007c345820:83623c5679ee7cd117368d288d18de26"
+                ]
+            }
         },
         {
             "id": "38d6d72b-42f3-40ed-a727-8f4a6fb41082",
