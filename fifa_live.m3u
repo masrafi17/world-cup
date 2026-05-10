@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:15:21 PM 10-05-2026
+#last update time: 06:30:22 PM 10-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8d/8a/a8/83/8d8aa883-7599-4911-a777-2626d6b82f3f.png" group-title="FIFA Live", FK Gintra v Kauno rajono FA | Moterų A lyga 2026
@@ -23,3 +23,13 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_08_14_06_105bdd82-0641-472f-aea1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e0fea0fca8931a99cb028c812de34b2:43e3477b664356728bc8e06add5c6386
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_04_10_30_16_e758b757-fa68-42da-bc52-e144f3c3685c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778414040
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f0/8a/f4/b6/f08af4b6-a008-4c65-8e1b-2539f351adef.png" group-title="FIFA Live", Kamuzu Barracks FC v Karonga United | FDH Bank Premiership
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3094dd3920a3573b9c40a8c95eab15f:9ab80d8f38c5edbe6ce4258daad662d0
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_48_10_bd8c6526-867e-4461-9cc4-d9db8fb8962e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778415540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/38/d5/98/61/38d59861-6cb9-4e32-9e5a-42eb568ab253.png" group-title="FIFA Live", Red Lions v Dedza Dynamos FC | FDH Bank Premiership
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e099b194fafd39cf83f3a11f082e10ac:f3c1a1a558bbe933f22980fe97e7a913
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_48_07_08e570cd-94e9-4022-b3e5-899e3221628f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778415540
