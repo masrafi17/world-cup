@@ -1,18 +1,13 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:15:27 PM 10-05-2026
+#last update time: 11:30:21 PM 10-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/89/bd/5e/29/89bd5e29-6b22-423b-95f5-7bb86de682e9.png" group-title="FIFA Live", Fujairah Club v Al Dhaid Club | Round 27 | First Division League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90bda59e7d1231e49a14f31f75ae4b79:a81421f0eb8bbd407f3fbe8d79d75a1c
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_10_23_a750adc5-35aa-4ce5-9e74-b09605357324/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421240
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/29/a2/1f/57/29a21f57-99c0-4bee-9618-dfb90e4616c8.png" group-title="FIFA Live", Sobemap FC v USS Krake FC | Ligue 1 2025
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b0b566c940bc32b995259412c754d479:00c1249c95cfe89ebea94bcf3ffb9629
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_39_24_4d002d99-a358-46fc-98ff-89d6f5deadfc/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778424540
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/99/c4/1b/4d/99c41b4d-3012-4c06-b37d-900d8d098eac.png" group-title="FIFA Live", AC Barracuda v ASCK | D1 Lonato 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -148,8 +143,3 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_23_50_5457b8c3-f288-44ef-8e49
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c02a8b48b613555a8f26abc51606999:5183922620abff7e0478e32ecc412950
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_10_21_8c8b8db9-6bec-44f3-be63-1216d029a5a8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778431740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/18/0a/b8/f5/180ab8f5-6254-4127-bbbf-a1f5517232d3.png" group-title="FIFA Live", Cutelinho v Onze Unidos | Cape Verdean Football Championship 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b448b6f5eaef33e7b313b4c51c380953:925737eb94b0e312e86c0f73a438dcce
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_10_11_af11f11f-9989-4a69-a030-7d59f3f16050/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778432460

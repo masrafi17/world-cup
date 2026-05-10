@@ -3,8 +3,8 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:15:27 PM 10-05-2026",
-        "total_live": 30,
+        "last_update_time": "11:30:21 PM 10-05-2026",
+        "total_live": 28,
         "total_upcoming": 0
     },
     "matches": [
@@ -73,74 +73,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_15_10_23_a750adc5-35aa-4ce5-9e74-b09605357324/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778421240",
                 "decryption_keys": [
                     "90bda59e7d1231e49a14f31f75ae4b79:a81421f0eb8bbd407f3fbe8d79d75a1c"
-                ]
-            }
-        },
-        {
-            "id": "16038d15-213b-46d0-bec3-3838cf0e1d2b",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "16038d15-213b-46d0-bec3-3838cf0e1d2b",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Sobemap FC v USS Krake FC | Ligue 1 2025",
-            "category": "livestream",
-            "urlSlug": "sobemap-fc-vs-uss-krake-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/76/8b/f5/a3/768bf5a3-8d1c-41c2-b76e-25e7995e467a.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/29/a2/1f/57/29a21f57-99c0-4bee-9618-dfb90e4616c8.png",
-            "freeMode": "FREE_ADS",
-            "title": "Sobemap FC v USS Krake FC | Ligue 1 2025",
-            "titleTemplateValues": {
-                "competition": "Super Ligue Pro",
-                "country": "Benin",
-                "match": "Sobemap FC v USS Krake FC",
-                "publisher": "MA | Benin",
-                "season": "Ligue 1 2025",
-                "team:uss-krake-fc": "USS Krake FC",
-                "stage": "Regular Stage",
-                "association": "Benin",
-                "team:sobemap-fc": "Sobemap FC",
-                "global-stage": "Round 28",
-                "stadium": "Avrankou Municipal Stadium",
-                "city": "Avrankou",
-                "publisher-channel": "MA | Benin | Ligue 1 2025/2026",
-                "video-type": "Live Streams",
-                "organizer": "Benin",
-                "organizer-country": "Benin"
-            },
-            "startDate": "2026-05-10T14:50:00Z",
-            "endDate": "2026-05-10T17:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T15:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Sobemap FC v USS Krake FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue 1 2025"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 28"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Benin"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_39_24_4d002d99-a358-46fc-98ff-89d6f5deadfc/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778424540",
-                "decryption_keys": [
-                    "b0b566c940bc32b995259412c754d479:00c1249c95cfe89ebea94bcf3ffb9629"
                 ]
             }
         },
@@ -1979,75 +1911,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_10_21_8c8b8db9-6bec-44f3-be63-1216d029a5a8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778431740",
                 "decryption_keys": [
                     "0c02a8b48b613555a8f26abc51606999:5183922620abff7e0478e32ecc412950"
-                ]
-            }
-        },
-        {
-            "id": "18fa052c-97f2-464e-a8c3-b98c1011d2c1",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "18fa052c-97f2-464e-a8c3-b98c1011d2c1",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Cutelinho v Onze Unidos | Cape Verdean Football Championship 2026",
-            "category": "livestream",
-            "urlSlug": "cutelinho-vs-onze-unidos",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/e2/de/a5/df/e2dea5df-b115-46c7-896c-b14873589822.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/18/0a/b8/f5/180ab8f5-6254-4127-bbbf-a1f5517232d3.png",
-            "freeMode": "FREE_ADS",
-            "title": "Cutelinho v Onze Unidos | Cape Verdean Football Championship 2026",
-            "titleTemplateValues": {
-                "match": "Cutelinho v Onze Unidos",
-                "stage": "Group Stage",
-                "stadium": "Municipal Stadium Adérito Sena",
-                "publisher-channel": "MA | Cape Verde | Cape Verdean Football Championship 2026 (Channel)",
-                "team:cutelinho": "Cutelinho",
-                "competition": "Cape Verdean Football Championship",
-                "team:onze-unidos": "Onze Unidos",
-                "global-stage": "Round 2",
-                "country": "Cabo Verde",
-                "season": "Cape Verdean Football Championship 2026",
-                "publisher": "MA | Cape Verde",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "city": "Mindelo",
-                "association": "Cabo Verde",
-                "video-type": "Live Streams",
-                "organizer": "Cabo Verde",
-                "organizer-country": "Cabo Verde"
-            },
-            "startDate": "2026-05-10T17:02:00Z",
-            "endDate": "2026-05-10T19:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T17:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Cutelinho v Onze Unidos"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Cape Verdean Football Championship 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 2"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Cabo Verde"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_10_11_af11f11f-9989-4a69-a030-7d59f3f16050/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778432460",
-                "decryption_keys": [
-                    "b448b6f5eaef33e7b313b4c51c380953:925737eb94b0e312e86c0f73a438dcce"
                 ]
             }
         }
