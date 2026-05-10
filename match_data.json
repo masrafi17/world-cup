@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:00:27 PM 10-05-2026",
-        "total_live": 18,
-        "total_upcoming": 29
+        "last_update_time": "09:15:18 PM 10-05-2026",
+        "total_live": 16,
+        "total_upcoming": 30
     },
     "matches": [
         {
@@ -40,7 +40,7 @@
                 "organizer-country": "Mauritius"
             },
             "startDate": "2026-05-10T11:50:00Z",
-            "endDate": "2026-05-10T15:30:00Z",
+            "endDate": "2026-05-10T16:00:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-10T12:00:00Z"
             },
@@ -74,73 +74,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_08_14_06_105bdd82-0641-472f-aea1-cabcf6431245/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778413740",
                 "decryption_keys": [
                     "b9172e87e0c13109bfd1a56b62d2d101:599200a530c0db699aa5ea7cc7979df9"
-                ]
-            }
-        },
-        {
-            "id": "d71936b4-e3d7-44e5-9af3-a774a9e8a4d3",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "d71936b4-e3d7-44e5-9af3-a774a9e8a4d3",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "UCV FC v Caracas FC | Liga FUTVE Femenina 2026",
-            "category": "livestream",
-            "urlSlug": "ucv-fc-vs-caracas-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/3b/73/9f/e2/3b739fe2-a58f-4d2c-b017-2bc4fd4e71f9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/db/bb/c1/45/dbbbc145-a4fe-4610-b662-0b43a67d697a.png",
-            "freeMode": "FREE_ADS",
-            "title": "UCV FC v Caracas FC | Liga FUTVE Femenina 2026",
-            "titleTemplateValues": {
-                "global-stage": "Round 4",
-                "team:ucv-fc": "UCV FC",
-                "city": "Caracas",
-                "association": "Venezuela",
-                "season": "Liga FUTVE Femenina 2026",
-                "stage": "Regular Season",
-                "publisher": "MA | Venezuela",
-                "team:caracas-fc": "Caracas FC",
-                "competition": "Liga FUTVE Femenina",
-                "country": "Venezuela",
-                "match": "UCV FC v Caracas FC",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Venezuela | Liga FUTVE 2 2026 (Channel)",
-                "organizer": "Venezuela",
-                "organizer-country": "Venezuela"
-            },
-            "startDate": "2026-05-10T12:50:00Z",
-            "endDate": "2026-05-10T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T13:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "UCV FC v Caracas FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga FUTVE Femenina 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 4"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Venezuela"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_13_28_50_1a952ffc-c6dc-435d-8da8-27524bfb3833/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778417340",
-                "decryption_keys": [
-                    "7e000cd630df317388345fd72296aa1a:69d4c68dd74d1c25f69260399698920f"
                 ]
             }
         },
@@ -787,7 +720,7 @@
                 "organizer-country": "United Arab Emirates"
             },
             "startDate": "2026-05-10T13:55:00Z",
-            "endDate": "2026-05-10T16:35:00Z",
+            "endDate": "2026-05-10T17:35:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-10T14:05:00Z"
             },
@@ -1165,74 +1098,6 @@
             }
         },
         {
-            "id": "89ea8c15-3228-4a2c-bcb9-422fb7e89319",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "89ea8c15-3228-4a2c-bcb9-422fb7e89319",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Ayema FC v Loto Popo FC | Ligue 1 2025",
-            "category": "livestream",
-            "urlSlug": "ayema-fc-vs-loto-popo-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/76/8b/f5/a3/768bf5a3-8d1c-41c2-b76e-25e7995e467a.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/18/31/83/3f/1831833f-bc1d-4036-ac4f-682a8df1acc8.png",
-            "freeMode": "FREE_ADS",
-            "title": "Ayema FC v Loto Popo FC | Ligue 1 2025",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Benin | Ligue 1 2025/2026",
-                "country": "Benin",
-                "city": "Pobè",
-                "match": "Ayema FC v Loto Popo FC",
-                "association": "Benin",
-                "competition": "Super Ligue Pro",
-                "team:ayema-fc": "Ayema FC",
-                "organizer-country": "Benin",
-                "team:loto-popo-fc": "Loto Popo FC",
-                "global-stage": "Round 28",
-                "stage": "Regular Stage",
-                "organizer": "Benin",
-                "publisher": "MA | Benin",
-                "stadium": "Pobè Stadium",
-                "season": "Ligue 1 2025",
-                "video-type": "Live Streams"
-            },
-            "startDate": "2026-05-10T15:00:00Z",
-            "endDate": "2026-05-10T17:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-10T15:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Ayema FC v Loto Popo FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue 1 2025"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 28"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Benin"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_08_39_27_d607ef8c-ca49-4f31-9c6e-64a91a4ab24c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778425140",
-                "decryption_keys": [
-                    "fb1e14450d4433f48c2b40007c345820:83623c5679ee7cd117368d288d18de26"
-                ]
-            }
-        },
-        {
             "id": "38d6d72b-42f3-40ed-a727-8f4a6fb41082",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "38d6d72b-42f3-40ed-a727-8f4a6fb41082",
@@ -1539,6 +1404,68 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Lithuania"
+                }
+            ]
+        },
+        {
+            "id": "89ea8c15-3228-4a2c-bcb9-422fb7e89319",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "89ea8c15-3228-4a2c-bcb9-422fb7e89319",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Ayema FC v Loto Popo FC | Ligue 1 2025",
+            "category": "livestream",
+            "urlSlug": "ayema-fc-vs-loto-popo-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/76/8b/f5/a3/768bf5a3-8d1c-41c2-b76e-25e7995e467a.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/18/31/83/3f/1831833f-bc1d-4036-ac4f-682a8df1acc8.png",
+            "freeMode": "FREE_ADS",
+            "title": "Ayema FC v Loto Popo FC | Ligue 1 2025",
+            "titleTemplateValues": {
+                "competition": "Super Ligue Pro",
+                "country": "Benin",
+                "publisher": "MA | Benin",
+                "stadium": "Pobè Stadium",
+                "season": "Ligue 1 2025",
+                "stage": "Regular Stage",
+                "association": "Benin",
+                "city": "Pobè",
+                "match": "Ayema FC v Loto Popo FC",
+                "team:ayema-fc": "Ayema FC",
+                "global-stage": "Round 28",
+                "publisher-channel": "MA | Benin | Ligue 1 2025/2026",
+                "video-type": "Live Streams",
+                "team:loto-popo-fc": "Loto Popo FC",
+                "organizer": "Benin",
+                "organizer-country": "Benin"
+            },
+            "startDate": "2026-05-10T15:30:00Z",
+            "endDate": "2026-05-10T17:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-10T15:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Ayema FC v Loto Popo FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 1 2025"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 28"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Benin"
                 }
             ]
         },
