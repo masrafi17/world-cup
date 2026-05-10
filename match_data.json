@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:45:21 PM 10-05-2026",
-        "total_live": 29,
-        "total_upcoming": 2
+        "last_update_time": "11:00:36 PM 10-05-2026",
+        "total_live": 30,
+        "total_upcoming": 1
     },
     "matches": [
         {
@@ -2020,7 +2020,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -2042,7 +2042,13 @@
                     "p": 1,
                     "value": "Cabo Verde"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_10_21_8c8b8db9-6bec-44f3-be63-1216d029a5a8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778431740",
+                "decryption_keys": [
+                    "0c02a8b48b613555a8f26abc51606999:5183922620abff7e0478e32ecc412950"
+                ]
+            }
         },
         {
             "id": "18fa052c-97f2-464e-a8c3-b98c1011d2c1",
@@ -2075,7 +2081,7 @@
                 "organizer": "Cabo Verde",
                 "organizer-country": "Cabo Verde"
             },
-            "startDate": "2026-05-10T16:59:00Z",
+            "startDate": "2026-05-10T17:02:00Z",
             "endDate": "2026-05-10T19:30:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-10T17:00:00Z"

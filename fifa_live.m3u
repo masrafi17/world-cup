@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:45:21 PM 10-05-2026
+#last update time: 11:00:36 PM 10-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/89/bd/5e/29/89bd5e29-6b22-423b-95f5-7bb86de682e9.png" group-title="FIFA Live", Fujairah Club v Al Dhaid Club | Round 27 | First Division League 2025/26
@@ -148,3 +148,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_13_25_40_492d26be-4d88-4e23-89e3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60b738b440b6306ca3f464ef90d0c91f:2ff6673b8f06201e32cc32c01dbeb15a
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_05_09_23_50_5457b8c3-f288-44ef-8e49-d41988ec45dc/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778430840
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8a/f5/4f/ea/8af54fea-4f70-4fb9-bbd8-fcf8558878cb.png" group-title="FIFA Live", Atlético São Nicolau v África Show | Cape Verdean Football Championship 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c02a8b48b613555a8f26abc51606999:5183922620abff7e0478e32ecc412950
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_09_10_21_8c8b8db9-6bec-44f3-be63-1216d029a5a8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778431740
