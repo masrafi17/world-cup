@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:45:27 AM 11-05-2026
+#last update time: 03:00:39 AM 11-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0b/b8/89/10/0bb88910-aef9-4fa0-8837-4977ac1c9a59.png" group-title="FIFA Live", FC Diarra v Derby Academie | Ligue 1 Pro Orange 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a79b05bd2f063a85a33e7281ac598c05:8c0cc724ef42ecbd7d2dc39a07ee04af
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_06_39_8f02c91f-a59e-4a07-aa66-76e196cd1ad1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778437140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/15/41/59/fa/154159fa-9cfe-4cb7-8e33-d97d6aa84484.png" group-title="FIFA Live", Puerto Cabello B v El Vigía FC | Liga FUTVE 2 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
