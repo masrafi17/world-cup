@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:45:20 AM 11-05-2026",
-        "total_live": 6,
-        "total_upcoming": 7
+        "last_update_time": "06:00:27 AM 11-05-2026",
+        "total_live": 7,
+        "total_upcoming": 5
     },
     "matches": [
         {
@@ -454,7 +454,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -476,69 +476,13 @@
                     "p": 1,
                     "value": "Anguilla"
                 }
-            ]
-        },
-        {
-            "id": "3c17d40b-0e81-46c5-8f52-6b0cef1a5893",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "3c17d40b-0e81-46c5-8f52-6b0cef1a5893",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Kickstart Rush v Weymouth Wales | BFA Premier League 2026",
-            "category": "livestream",
-            "urlSlug": "kickstart-rush-vs-weymouth-wales",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/fc/5b/ae/f9fc5bae-7cbc-4802-a3c3-a6a0be479692.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/40/4f/f0/87/404ff087-7730-422b-9b80-77db01f2644f.png",
-            "freeMode": "FREE_ADS",
-            "title": "Kickstart Rush v Weymouth Wales | BFA Premier League 2026",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Barbados | BFA Premier League 2026 (Channel)",
-                "stadium": "BFA Technical Centre",
-                "global-stage": "Round 16",
-                "association": "Barbados",
-                "team:weymouth-wales": "Weymouth Wales",
-                "team:kickstart-rush": "Kickstart Rush",
-                "publisher": "MA | Barbados",
-                "stage": "Regular Season",
-                "city": "Saint Michael",
-                "competition": "BFA Premier League",
-                "country": "Barbados",
-                "season": "BFA Premier League 2026",
-                "match": "Kickstart Rush v Weymouth Wales",
-                "video-type": "Live Streams",
-                "organizer": "Barbados",
-                "organizer-country": "Barbados"
-            },
-            "startDate": "2026-05-10T23:50:00Z",
-            "endDate": "2026-05-11T02:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-11T00:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Kickstart Rush v Weymouth Wales"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "BFA Premier League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 16"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Barbados"
-                }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_41_39_fe762be0-31c7-478f-a893-af1f03760df1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778456940",
+                "decryption_keys": [
+                    "acaf7c326fcd371db65868dad907d1de:4ca42a02cd4b0c84c033c93011a4b843"
+                ]
+            }
         },
         {
             "id": "c876f732-2b53-481d-8e2b-22a907a96969",
@@ -570,7 +514,7 @@
                 "organizer": "Aruba",
                 "organizer-country": "Aruba"
             },
-            "startDate": "2026-05-10T23:58:00Z",
+            "startDate": "2026-05-11T00:05:00Z",
             "endDate": "2026-05-11T02:30:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-11T00:00:00Z"

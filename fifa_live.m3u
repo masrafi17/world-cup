@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:45:20 AM 11-05-2026
+#last update time: 06:00:27 AM 11-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/26/ce/53/10/26ce5310-319b-4135-9790-094aaf0aaea2.png" group-title="FIFA Live", Attackers FC v Spartans FC | Anguilla Senior Men's League 2026
@@ -33,3 +33,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_08_57_33_1876b45f-f14c-4e5a-9e09
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb6ab8a29b923963994f377c76251927:85264a8c0aa7ee0b554ca9e03880724a
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_14_06_44_91a450c9-088c-493f-bcba-cf9908cc7d2b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778453340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/41/8e/77/c4/418e77c4-429e-4e56-adba-c056226f7fd4.png" group-title="FIFA Live", Lymers FC v Diamond FC | Anguilla Senior Men's League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=acaf7c326fcd371db65868dad907d1de:4ca42a02cd4b0c84c033c93011a4b843
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_41_39_fe762be0-31c7-478f-a893-af1f03760df1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778456940
