@@ -1,18 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:15:30 AM 11-05-2026
+#last update time: 06:30:29 AM 11-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/26/ce/53/10/26ce5310-319b-4135-9790-094aaf0aaea2.png" group-title="FIFA Live", Attackers FC v Spartans FC | Anguilla Senior Men's League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d25e6f82a446356d9dc51578e4b5ed4c:b3f82c22fd99c3b04ea20cc9c4d6139a
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_41_35_c437df83-b954-44c7-845e-30d8c789f0d8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778449740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f2/06/fd/2f/f206fd2f-49b9-48d6-814e-08c77fcf5daa.png" group-title="FIFA Live", Unistars v River Plate Aruba | Division Honor 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51e59295913135a9a9e3b3a52d1d18f1:f94ffdcae22914321eaa55256aa0ac4b
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_06_15_59_30_12fc4729-e39c-49bf-8971-518eea7181fb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778450940
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a0/4c/f6/9a/a04cf69a-664b-44b1-93fe-e9933992eb43.png" group-title="FIFA Live", Bombers FC v Bath Estate FC | DFA Premier League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
