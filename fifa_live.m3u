@@ -1,10 +1,5 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:30:21 AM 12-05-2026
+#last update time: 08:45:16 AM 12-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/06/8f/2e/43/068f2e43-e6fa-406a-84ab-022790435375.png" group-title="FIFA Live", Nacional v Estudiantes | Division Honor 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26b3ea26ee533a53a291ba7b6787092a:8ddee54935ae4cc9b2da5a238fbfb240
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_08_59_17_417de9d9-3df9-4165-877c-33d04d6b9a80/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778545140

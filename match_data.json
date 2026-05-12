@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:30:21 AM 12-05-2026",
-        "total_live": 1,
+        "last_update_time": "08:45:16 AM 12-05-2026",
+        "total_live": 0,
         "total_upcoming": 9
     },
     "matches": [
-        {
-            "id": "898fe3a2-9f30-491f-aa53-7d5000e490bb",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "898fe3a2-9f30-491f-aa53-7d5000e490bb",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Nacional v Estudiantes | Division Honor 2025-26",
-            "category": "livestream",
-            "urlSlug": "nacional-vs-estudiantes-aruba",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/22/1d/cb/0b/221dcb0b-c792-4d48-903e-b725b280c421.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/06/8f/2e/43/068f2e43-e6fa-406a-84ab-022790435375.png",
-            "freeMode": "FREE_ADS",
-            "title": "Nacional v Estudiantes | Division Honor 2025-26",
-            "titleTemplateValues": {
-                "stage": "Division Honor Liga-Plata Pool A Round 2",
-                "match": "Nacional v Estudiantes",
-                "country": "Aruba",
-                "association": "Aruba",
-                "team:estudiantes-aruba": "Estudiantes",
-                "season": "Division Honor 2025-26",
-                "publisher": "MA | Aruba",
-                "competition": "Division Honor",
-                "stadium": "Sports Complex Guillermo Prospero Trinidad",
-                "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
-                "team:nacional": "Nacional",
-                "global-stage": "Division Honor Plata",
-                "city": "Dakota",
-                "video-type": "Live Streams",
-                "organizer": "Aruba",
-                "organizer-country": "Aruba"
-            },
-            "startDate": "2026-05-12T00:20:00Z",
-            "endDate": "2026-05-12T03:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-12T00:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Nacional v Estudiantes"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Division Honor 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Division Honor Plata"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Aruba"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_08_59_17_417de9d9-3df9-4165-877c-33d04d6b9a80/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778545140",
-                "decryption_keys": [
-                    "26b3ea26ee533a53a291ba7b6787092a:8ddee54935ae4cc9b2da5a238fbfb240"
-                ]
-            }
-        },
         {
             "id": "a4335142-378d-444e-85dc-2a135acf7266",
             "channelId": "fifa-tournaments",
