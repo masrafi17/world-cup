@@ -1,10 +1,5 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:00:33 AM 13-05-2026
+#last update time: 03:15:23 AM 13-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/43/f8/4c/2d/43f84c2d-e7e3-4801-89f6-834059b72036.png" group-title="FIFA Live", Domagnano v Virtus | Semi-finals - Second Leg | Campionato Sammarinese 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa02074c6a693eafb614b2cb478d10b4:7f4a4b23d4d45050428fe71366a1f427
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_13_06_51_982f09e1-9592-4a13-9086-ebc5dd91c53c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aita%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778610840
