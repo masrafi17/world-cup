@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:24 AM 13-05-2026
+#last update time: 12:45:23 AM 13-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/67/22/19/59/67221959-5ff5-45c4-949f-e4b2dcd9566e.png" group-title="FIFA Live", Bombada v Gambian Dutch Lions | Gambia GFF League 25/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cea5bdd3cd8a3d308c42a2299cf507bc:f2ac3c40aab06b45090fcd693c4af1e1
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_07_20_15_03217fc6-7b04-47aa-8daa-992defdc9a8f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778602740
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/87/66/db/e0/8766dbe0-cf41-49ba-981f-00131b7ca8c5.png" group-title="FIFA Live", Hart FC v Hawks | Gambia GFF League 25/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -28,3 +23,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_07_20_19_bfc279f3-fa10-42ff-a116
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c295db6444ac3ec094a960fdcf3a6bf6:d55f645d51b0c1b9b13ee3b983fe8c35
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_09_53_52_111bb595-d543-4b52-be74-4b01382b3619/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778603640
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/43/f8/4c/2d/43f84c2d-e7e3-4801-89f6-834059b72036.png" group-title="FIFA Live", Domagnano v Virtus | Semi-finals - Second Leg | Campionato Sammarinese 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa02074c6a693eafb614b2cb478d10b4:7f4a4b23d4d45050428fe71366a1f427
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_13_06_51_982f09e1-9592-4a13-9086-ebc5dd91c53c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aita%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778610840

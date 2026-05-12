@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:30:24 AM 13-05-2026",
+        "last_update_time": "12:45:23 AM 13-05-2026",
         "total_live": 5,
-        "total_upcoming": 15
+        "total_upcoming": 14
     },
     "matches": [
-        {
-            "id": "93f11481-fa7d-41b3-9ef4-16cb0d7b32d5",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "93f11481-fa7d-41b3-9ef4-16cb0d7b32d5",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Bombada v Gambian Dutch Lions | Gambia GFF League 25/26",
-            "category": "livestream",
-            "urlSlug": "bombada-fc-vs-gambian-dutch-lions",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/64/be/27/b9/64be27b9-9540-4e4f-8075-8bda82775782.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/67/22/19/59/67221959-5ff5-45c4-949f-e4b2dcd9566e.png",
-            "freeMode": "FREE_ADS",
-            "title": "Bombada v Gambian Dutch Lions | Gambia GFF League 25/26",
-            "titleTemplateValues": {
-                "city": "Brikama",
-                "global-stage": "Round 24",
-                "country": "The Gambia",
-                "publisher": "MA | Gambia",
-                "stage": "Regular Season",
-                "competition": "Gambia GFF League",
-                "association": "The Gambia",
-                "publisher-channel": "MA | Gambia | GFF League 2025/2026 (Channel)",
-                "stadium": "Brikama Box Bar Stadium",
-                "season": "Gambia GFF League 25/26",
-                "match": "Bombada v Gambian Dutch Lions",
-                "team:gambian-dutch-lions": "Gambian Dutch Lions",
-                "team:bombada-fc": "Bombada",
-                "video-type": "Live Streams",
-                "organizer": "The Gambia",
-                "organizer-country": "The Gambia"
-            },
-            "startDate": "2026-05-12T16:20:00Z",
-            "endDate": "2026-05-12T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-12T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Bombada v Gambian Dutch Lions"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Gambia GFF League 25/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 24"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "The Gambia"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_07_20_15_03217fc6-7b04-47aa-8daa-992defdc9a8f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778602740",
-                "decryption_keys": [
-                    "cea5bdd3cd8a3d308c42a2299cf507bc:f2ac3c40aab06b45090fcd693c4af1e1"
-                ]
-            }
-        },
         {
             "id": "04fc1fa8-5dd9-4c82-9916-3b9b3c04ac3e",
             "channelId": "fifa-tournaments",
@@ -383,14 +315,20 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
                     "p": 0,
                     "value": "Domagnano v Virtus | Semi-finals - Second Leg | Campionato Sammarinese 2025/26"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_07_13_06_51_982f09e1-9592-4a13-9086-ebc5dd91c53c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aita%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778610840",
+                "decryption_keys": [
+                    "aa02074c6a693eafb614b2cb478d10b4:7f4a4b23d4d45050428fe71366a1f427"
+                ]
+            }
         },
         {
             "id": "814009fa-1b20-415f-b9fc-20e56c539ebc",
