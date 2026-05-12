@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:00:37 AM 13-05-2026",
-        "total_live": 2,
+        "last_update_time": "01:15:23 AM 13-05-2026",
+        "total_live": 1,
         "total_upcoming": 14
     },
     "matches": [
-        {
-            "id": "366f1e69-b72b-4572-8684-6da46c08c2a1",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "366f1e69-b72b-4572-8684-6da46c08c2a1",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Chemal FC v Nouakchott Kings | Super D-1 2025/26",
-            "category": "livestream",
-            "urlSlug": "chemal-fc-vs-nouakchott-kings",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/39/61/d8/4a/3961d84a-2170-4737-8a7c-42d7ae00e8f7.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/e0/bd/e9/ee/e0bde9ee-cca5-4512-b762-3494e1ccbcc2.png",
-            "freeMode": "FREE_ADS",
-            "title": "Chemal FC v Nouakchott Kings | Super D-1 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular season",
-                "publisher": "MA | Mauritania",
-                "global-stage": "Round 24",
-                "competition": "Super D-1",
-                "city": "Nouakchott",
-                "team:nouakchott-kings": "Nouakchott Kings",
-                "association": "Mauritania",
-                "match": "Chemal FC v Nouakchott Kings",
-                "stadium": "Stade Cheikha Ould Boïdiya",
-                "team:chemal-fc": "Chemal FC",
-                "publisher-channel": "MA | Mauritania | Super D1 2025/2026",
-                "season": "Super D-1 2025/26",
-                "country": "Mauritania",
-                "video-type": "Live Streams",
-                "organizer": "Mauritania",
-                "organizer-country": "Mauritania"
-            },
-            "startDate": "2026-05-12T16:35:00Z",
-            "endDate": "2026-05-12T19:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-12T16:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Chemal FC v Nouakchott Kings"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Super D-1 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 24"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mauritania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_08_09_53_52_111bb595-d543-4b52-be74-4b01382b3619/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778603640",
-                "decryption_keys": [
-                    "c295db6444ac3ec094a960fdcf3a6bf6:d55f645d51b0c1b9b13ee3b983fe8c35"
-                ]
-            }
-        },
         {
             "id": "6a45d47d-fad9-412d-9b1b-68265ad4eacb",
             "channelId": "fifa-tournaments",
