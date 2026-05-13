@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:30:33 AM 14-05-2026",
+        "last_update_time": "12:45:22 AM 14-05-2026",
         "total_live": 8,
         "total_upcoming": 7
     },
@@ -32,9 +32,9 @@
                 "publisher-channel": "MA | Gambia | GFF League 2025/2026 (Channel)",
                 "stadium": "Brikama Box Bar Stadium",
                 "team:falcons-fc": "Falcons",
+                "video-type": "Full Match Replays",
                 "season": "Gambia GFF League 25/26",
                 "match": "Brikama United v Falcons",
-                "video-type": "Live Streams",
                 "organizer": "The Gambia",
                 "organizer-country": "The Gambia"
             },
@@ -99,10 +99,10 @@
                 "association": "The Gambia",
                 "team:gambia-ports-authority-fc": "Gambia Ports Authority FC",
                 "publisher-channel": "MA | Gambia | GFF League 2025/2026 (Channel)",
+                "video-type": "Full Match Replays",
                 "season": "Gambia GFF League 25/26",
                 "team:greater-tomorrow": "Greater Tomorrow",
                 "match": "Greater Tomorrow v Gambia Ports Authority FC",
-                "video-type": "Live Streams",
                 "organizer": "The Gambia",
                 "organizer-country": "The Gambia"
             },
