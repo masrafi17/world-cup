@@ -1,18 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:15:20 AM 13-05-2026
+#last update time: 07:30:33 AM 13-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/84/9e/dd/55/849edd55-1f2d-429f-87cb-71b0786d0c24.png" group-title="FIFA Live", St.Andrew Lions FC v Ellerton FC | BFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5b33ed4887c43401ad7ad8a6a979722e:f46c7d50558bb2866fee2a3ae9c72240
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_09_17_13_324dd4b5-10f1-490e-be37-aa388da294dd/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778626140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ec/65/cf/a7/ec65cfa7-2857-44f5-ab7e-648e2cba100a.png" group-title="FIFA Live", Mahaut Soca Strikers FC v Middleham United FC | DFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f91c1ac8cea3436b7078f926f5cf2f6:1f6783d90edba1cf180d7f80f5bd9379
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_09_22_34_730cb1bf-f868-47ca-9979-7e46fd3e44ea/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778626140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c5/04/09/24/c5040924-4528-453e-9761-e8d81f103a83.png" group-title="FIFA Live", Brazil Juniors v Estrella | Division Honor 2025-26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
