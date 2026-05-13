@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:15:24 AM 14-05-2026",
-        "total_live": 2,
+        "last_update_time": "02:30:26 AM 14-05-2026",
+        "total_live": 1,
         "total_upcoming": 7
     },
     "matches": [
-        {
-            "id": "db42530a-9d86-4400-84d9-0822a6db7262",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "db42530a-9d86-4400-84d9-0822a6db7262",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Lecco v Pianese | National Phase Play-offs - First Round - Second Leg | Serie C 2025/26",
-            "category": "livestream",
-            "urlSlug": "lecco-vs-pianese",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/d0/1e/d9/ad/d01ed9ad-e393-4bc8-a854-ef423b346f2f.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/95/2a/a7/ab/952aa7ab-3cc6-4fb7-831d-d8eec425b2a6.png",
-            "freeMode": "FREE_ADS",
-            "title": "Lecco v Pianese | National Phase Play-offs - First Round - Second Leg | Serie C 2025/26",
-            "titleTemplateValues": {
-                "competition": "Serie C",
-                "stadium": "Rigamonti-Ceppi Stadium",
-                "publisher": "MA | Italy",
-                "city": "Lecco",
-                "association": "Italy",
-                "match": "Lecco v Pianese",
-                "team:pianese": "Pianese",
-                "team:lecco": "Lecco",
-                "country": "Italy",
-                "season": "Serie C 2025/26",
-                "publisher-channel": "MA | Italy | Serie C 2025/26",
-                "global-stage": "National Phase Play-offs - First Round - Second Leg",
-                "video-type": "Live Streams",
-                "stage": "Promotion Play-offs",
-                "organizer": "Italy",
-                "organizer-country": "Italy"
-            },
-            "startDate": "2026-05-13T17:50:00Z",
-            "endDate": "2026-05-13T20:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-13T18:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Lecco v Pianese"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Serie C 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "National Phase Play-offs - First Round - Second Leg"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Italy"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_09_42_00_d2fe44e2-8723-4bba-aa80-39bb2655b729/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aita%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778694540",
-                "decryption_keys": [
-                    "d1ed689a1320344b824a233bc4f24a7b:159aaab864fb3f8c855bd50c7a97c27b"
-                ]
-            }
-        },
         {
             "id": "e80a87d4-fee6-4e2c-9dbd-9db60f38df01",
             "channelId": "fifa-tournaments",

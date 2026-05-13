@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:15:24 AM 14-05-2026
+#last update time: 02:30:26 AM 14-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/95/2a/a7/ab/952aa7ab-3cc6-4fb7-831d-d8eec425b2a6.png" group-title="FIFA Live", Lecco v Pianese | National Phase Play-offs - First Round - Second Leg | Serie C 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1ed689a1320344b824a233bc4f24a7b:159aaab864fb3f8c855bd50c7a97c27b
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_09_42_00_d2fe44e2-8723-4bba-aa80-39bb2655b729/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aita%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778694540
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5f/7e/0b/e7/5f7e0be7-1fac-477a-9417-ea656fd62e52.png" group-title="FIFA Live", AS Bakaridjan v ASKO | Ligue 1 Pro Orange 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
