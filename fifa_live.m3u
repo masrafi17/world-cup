@@ -1,5 +1,10 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:45:22 PM 13-05-2026
+#last update time: 01:00:35 PM 13-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c1/42/1b/38/c1421b38-9ea3-4ea4-8277-55305180fcef.jpg" group-title="FIFA Live", Tahiti United v Vanuatu United FC | OFC Professional League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5f7834793413b4dbae6d101e9eed7d6:58d8f1049a352f864b061873c1f2223a
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_07_10_15_e6fd99fd-73b1-4548-9754-0a2a66234f51/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778654940
