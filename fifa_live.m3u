@@ -1,5 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:45:30 AM 14-05-2026
+#last update time: 05:00:28 AM 14-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ab/5c/5c/e2/ab5c5ce2-865f-4c9d-8804-3adcea3dcf6a.png" group-title="FIFA Live", Bath Estate FC v We United FC | DFA Premier League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be27f5b08f3c392d8f9e83e7e484245d:3679e5e2159b4265d695290f7a1e1359
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_09_22_38_96b563e7-e9c8-4ce8-9bdf-b295fafc4765/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778712540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/bc/23/46/b1/bc2346b1-38bd-42e8-8dde-42f5700d1b9d.png" group-title="FIFA Live", Voorwaarts v Inter Moengo Tapoe | Suriname Major League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bdf78108b8d39e18f9c0c463e582adb:ca0995a179a4831c5f486cc5bddc2a8c
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_08_43_00_33866cf0-52e0-48f5-a00a-766d7ffd224b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778712540
