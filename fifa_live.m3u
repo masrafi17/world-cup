@@ -1,15 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:45:27 AM 13-05-2026
+#last update time: 09:00:27 AM 13-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c5/04/09/24/c5040924-4528-453e-9761-e8d81f103a83.png" group-title="FIFA Live", Brazil Juniors v Estrella | Division Honor 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74d404c2404833409cb92ffa9856b65c:4f0a2fc3264bacfe52535e9b5b3b4b75
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_08_59_21_872a5507-3a9c-4b9b-8468-7cdb5fdce3dc/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778631540
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/68/77/9e/1f/68779e1f-cf52-40b1-95f3-88fa79d8fb6b.png" group-title="FIFA Live", Wotton FC v Gall Hill | BFA Premier League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba4e94530f6b34799ffcabcf768fac3b:d84b2d799c327e4f9a2dbf8ef092e129
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_09_17_17_0758766c-3d03-41e0-837a-bd2c989a34db/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778633700
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f4/ea/9e/24/f4ea9e24-aad5-4675-b073-be242b6cef3b.jpg" group-title="FIFA Live", Solomon Kings FC v PNG Hekari FC | OFC Professional League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9ebdb035f493185a07f7780eac19b54:0fe52637973c1618bdd742739c80ee5a
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_07_12_48_61139c04-1e30-4305-ae4c-6a6c33bbc537/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778640240
