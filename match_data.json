@@ -3,147 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:15:30 AM 14-05-2026",
-        "total_live": 9,
-        "total_upcoming": 8
+        "last_update_time": "12:30:33 AM 14-05-2026",
+        "total_live": 8,
+        "total_upcoming": 7
     },
     "matches": [
-        {
-            "id": "db6e3027-9748-4670-96fd-b0b06e69695c",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "db6e3027-9748-4670-96fd-b0b06e69695c",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "FC Fassell v Watanga FC | LFA First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "fc-fassell-vs-watanga-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/e8/df/e3/6c/e8dfe36c-88e0-4130-830d-61fe2d3572bc.png",
-            "freeMode": "FREE_ADS",
-            "title": "FC Fassell v Watanga FC | LFA First Division League 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
-                "global-stage": "Round 29",
-                "association": "Liberia",
-                "season": "LFA First Division League 2025/26",
-                "competition": "Liberia National League",
-                "team:fc-fassell": "FC Fassell",
-                "country": "Liberia",
-                "match": "FC Fassell v Watanga FC",
-                "team:watanga-fc": "Watanga FC",
-                "publisher": "MA | Liberia",
-                "city": "Paynesville",
-                "video-type": "Live Streams",
-                "stadium": "SKD Annex",
-                "organizer": "Liberia",
-                "organizer-country": "Liberia"
-            },
-            "startDate": "2026-05-13T15:50:00Z",
-            "endDate": "2026-05-13T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-13T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "FC Fassell v Watanga FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "LFA First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 29"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Liberia"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_13_30_00_ac5d7bdd-3424-4ef9-b8ed-336e9842f144/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778687340",
-                "decryption_keys": [
-                    "4ec9e7497bf73c4f8cd7dce72dfb01be:4ba8ab7e12e84cfacff77873504dabe6"
-                ]
-            }
-        },
-        {
-            "id": "a42a0aca-6b75-4502-88ac-79061bfe5d70",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "a42a0aca-6b75-4502-88ac-79061bfe5d70",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Paynesville FC v LPRC Oilers | LFA First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "paynesville-fc-vs-lprc-oilers",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/79/60/e2/3b/7960e23b-e955-4a9c-962d-7075be646105.png",
-            "freeMode": "FREE_ADS",
-            "title": "Paynesville FC v LPRC Oilers | LFA First Division League 2025/26",
-            "titleTemplateValues": {
-                "team:paynesville-fc": "Paynesville FC",
-                "stage": "Regular Season",
-                "match": "Paynesville FC v LPRC Oilers",
-                "team:lprc-oilers": "LPRC Oilers",
-                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
-                "stadium": "TUSA Field",
-                "global-stage": "Round 29",
-                "association": "Liberia",
-                "season": "LFA First Division League 2025/26",
-                "competition": "Liberia National League",
-                "country": "Liberia",
-                "publisher": "MA | Liberia",
-                "city": "Gardnersville",
-                "video-type": "Live Streams",
-                "organizer": "Liberia",
-                "organizer-country": "Liberia"
-            },
-            "startDate": "2026-05-13T15:50:00Z",
-            "endDate": "2026-05-13T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-13T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Paynesville FC v LPRC Oilers"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "LFA First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 29"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Liberia"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_13_29_55_966846b0-9b1a-4424-852a-c3314154724d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778687340",
-                "decryption_keys": [
-                    "1167a9234f2e36d980940c4bd8a852b7:81ed80a76f0748d5942bf82ebd9bbd43"
-                ]
-            }
-        },
         {
             "id": "0b66f09d-decf-4a91-89ea-ec9509780f4d",
             "channelId": "fifa-tournaments",
@@ -658,7 +522,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -680,7 +544,13 @@
                     "p": 1,
                     "value": "Mali"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_08_17_50_efc1e054-390e-492c-bbcd-a4edd1362183/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778696340",
+                "decryption_keys": [
+                    "1d5b00ff03d933b3a198cb8cdcd4d0d3:6c1ba9fbdddfe14176a021c4ceea390e"
+                ]
+            }
         },
         {
             "id": "a322097e-014d-43fc-8e95-04fd27cfdde0",
