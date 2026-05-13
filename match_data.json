@@ -3,78 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:15:31 PM 13-05-2026",
-        "total_live": 1,
+        "last_update_time": "03:30:34 PM 13-05-2026",
+        "total_live": 0,
         "total_upcoming": 8
     },
     "matches": [
-        {
-            "id": "f59bf778-7459-4a20-a12f-28f146146710",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "f59bf778-7459-4a20-a12f-28f146146710",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Tahiti United v Vanuatu United FC | OFC Professional League 2026",
-            "category": "livestream",
-            "urlSlug": "tahiti-united-vs-vanuatu-united",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f7/3e/d0/a0/f73ed0a0-89b0-481d-882e-8a7959a34a71.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/c1/42/1b/38/c1421b38-9ea3-4ea4-8277-55305180fcef.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Tahiti United v Vanuatu United FC | OFC Professional League 2026",
-            "titleTemplateValues": {
-                "stage": "Round 6 - Challengers Group",
-                "publisher": "OFC",
-                "association:tahiti": "Tahiti",
-                "association:vanuatu": "Vanuatu",
-                "publisher-channel": "OFC | OFC Pro League 2026 (Channel)",
-                "country:new-zealand": "New Zealand",
-                "team:vanuatu-united": "Vanuatu United FC",
-                "city": "Penrose",
-                "season": "OFC Professional League 2026",
-                "country:vanuatu": "Vanuatu",
-                "confederation": "OFC",
-                "team:tahiti-united": "Tahiti United",
-                "stadium": "Go Media Stadium",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "global-stage": "Round 6",
-                "competition": "OFC Professional League ",
-                "match": "Tahiti United v Vanuatu United FC",
-                "video-type": "Live Streams",
-                "country:tahiti": "Tahiti",
-                "organizer": "OFC"
-            },
-            "startDate": "2026-05-13T06:50:00Z",
-            "endDate": "2026-05-13T09:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-13T07:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Tahiti United v Vanuatu United FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "OFC Professional League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 6"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_07_10_15_e6fd99fd-73b1-4548-9754-0a2a66234f51/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778654940",
-                "decryption_keys": [
-                    "f5f7834793413b4dbae6d101e9eed7d6:58d8f1049a352f864b061873c1f2223a"
-                ]
-            }
-        },
         {
             "id": "db6e3027-9748-4670-96fd-b0b06e69695c",
             "channelId": "fifa-tournaments",
