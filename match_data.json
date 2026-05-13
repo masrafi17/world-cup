@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:45:31 PM 13-05-2026",
-        "total_live": 8,
-        "total_upcoming": 0
+        "last_update_time": "12:00:33 AM 14-05-2026",
+        "total_live": 9,
+        "total_upcoming": 8
     },
     "matches": [
         {
@@ -551,6 +551,570 @@
                     "e92bced59fff3309ac2281403e9e9b80:624c786ab6057e9fe0643f55ad6834a9"
                 ]
             }
+        },
+        {
+            "id": "db42530a-9d86-4400-84d9-0822a6db7262",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "db42530a-9d86-4400-84d9-0822a6db7262",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Lecco v Pianese | National Phase Play-offs - First Round - Second Leg | Serie C 2025/26",
+            "category": "livestream",
+            "urlSlug": "lecco-vs-pianese",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/d0/1e/d9/ad/d01ed9ad-e393-4bc8-a854-ef423b346f2f.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/95/2a/a7/ab/952aa7ab-3cc6-4fb7-831d-d8eec425b2a6.png",
+            "freeMode": "FREE_ADS",
+            "title": "Lecco v Pianese | National Phase Play-offs - First Round - Second Leg | Serie C 2025/26",
+            "titleTemplateValues": {
+                "competition": "Serie C",
+                "stadium": "Rigamonti-Ceppi Stadium",
+                "publisher": "MA | Italy",
+                "city": "Lecco",
+                "association": "Italy",
+                "match": "Lecco v Pianese",
+                "team:pianese": "Pianese",
+                "team:lecco": "Lecco",
+                "country": "Italy",
+                "season": "Serie C 2025/26",
+                "publisher-channel": "MA | Italy | Serie C 2025/26",
+                "global-stage": "National Phase Play-offs - First Round - Second Leg",
+                "video-type": "Live Streams",
+                "stage": "Promotion Play-offs",
+                "organizer": "Italy",
+                "organizer-country": "Italy"
+            },
+            "startDate": "2026-05-13T17:50:00Z",
+            "endDate": "2026-05-13T20:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-13T18:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "started",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Lecco v Pianese"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Serie C 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "National Phase Play-offs - First Round - Second Leg"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Italy"
+                }
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_09_42_00_d2fe44e2-8723-4bba-aa80-39bb2655b729/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aita%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778694540",
+                "decryption_keys": [
+                    "d1ed689a1320344b824a233bc4f24a7b:159aaab864fb3f8c855bd50c7a97c27b"
+                ]
+            }
+        },
+        {
+            "id": "e80a87d4-fee6-4e2c-9dbd-9db60f38df01",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "e80a87d4-fee6-4e2c-9dbd-9db60f38df01",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "AS Bakaridjan v ASKO | Ligue 1 Pro Orange 2025/26",
+            "category": "livestream",
+            "urlSlug": "as-bakaridjan-vs-asko",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/ca/dd/f0/22/caddf022-976b-4947-9b20-3b85417c8c5a.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/5f/7e/0b/e7/5f7e0be7-1fac-477a-9417-ea656fd62e52.png",
+            "freeMode": "FREE_ADS",
+            "title": "AS Bakaridjan v ASKO | Ligue 1 Pro Orange 2025/26",
+            "titleTemplateValues": {
+                "competition": "Ligue 1 Pro Orange",
+                "team:asko": "ASKO",
+                "city": "Bamako",
+                "match": "AS Bakaridjan v ASKO",
+                "association": "Mali",
+                "team:as-bakaridjan": "AS Bakaridjan",
+                "publisher": "MA | Mali",
+                "country": "Mali",
+                "season": "Ligue 1 Pro Orange 2025/26",
+                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
+                "stage": "Regular Season",
+                "stadium": "Stade Ouezzin Coulibaly",
+                "global-stage": "Round 20",
+                "video-type": "Live Streams",
+                "organizer": "Mali",
+                "organizer-country": "Mali"
+            },
+            "startDate": "2026-05-13T18:20:00Z",
+            "endDate": "2026-05-13T21:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-13T18:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "AS Bakaridjan v ASKO"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 1 Pro Orange 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 20"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mali"
+                }
+            ]
+        },
+        {
+            "id": "a322097e-014d-43fc-8e95-04fd27cfdde0",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "a322097e-014d-43fc-8e95-04fd27cfdde0",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Bath Estate FC v We United FC | DFA Premier League 2026",
+            "category": "livestream",
+            "urlSlug": "bath-estate-fc-vs-we-united-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/cd/54/de/4a/cd54de4a-9ed2-47df-822e-cc0094b8e336.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ab/5c/5c/e2/ab5c5ce2-865f-4c9d-8804-3adcea3dcf6a.png",
+            "freeMode": "FREE_ADS",
+            "title": "Bath Estate FC v We United FC | DFA Premier League 2026",
+            "titleTemplateValues": {
+                "season": "DFA Premier League 2026",
+                "country": "Dominica",
+                "competition": "DFA Premier League",
+                "team:bath-estate-fc": "Bath Estate FC",
+                "stadium": "DFA Technical Centre",
+                "stage": "Regular Season",
+                "team:we-united-fc": "We United FC",
+                "global-stage": "Round 1",
+                "publisher": "MA | Dominica",
+                "city": "Roseau ",
+                "publisher-channel": "MA | Dominica | DFA Premier League 2026",
+                "association": "Dominica",
+                "match": "Bath Estate FC v We United FC",
+                "video-type": "Live Streams",
+                "organizer": "Dominica",
+                "organizer-country": "Dominica"
+            },
+            "startDate": "2026-05-13T22:50:00Z",
+            "endDate": "2026-05-14T01:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-13T23:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Bath Estate FC v We United FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "DFA Premier League 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 1"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Dominica"
+                }
+            ]
+        },
+        {
+            "id": "7bc69893-429c-4343-bbe9-49fcfe500091",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "7bc69893-429c-4343-bbe9-49fcfe500091",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Voorwaarts v Inter Moengo Tapoe | Suriname Major League 2025/26",
+            "category": "livestream",
+            "urlSlug": "voorwaarts-vs-inter-moengotapoe",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/20/6d/20/4c/206d204c-c4a8-4272-b812-4a5930e5d86d.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/bc/23/46/b1/bc2346b1-38bd-42e8-8dde-42f5700d1b9d.png",
+            "freeMode": "FREE_ADS",
+            "title": "Voorwaarts v Inter Moengo Tapoe | Suriname Major League 2025/26",
+            "titleTemplateValues": {
+                "stadium": "Franklin Essed Stadium",
+                "season": "Suriname Major League 2025/26",
+                "team:inter-moengotapoe": "Inter Moengo Tapoe",
+                "global-stage": "Playoffs",
+                "publisher": "MA | Suriname",
+                "city": "Paramaribo",
+                "country": "Suriname",
+                "competition": "Suriname Major League",
+                "team:voorwaarts": "Voorwaarts",
+                "association": "Suriname",
+                "match": "Voorwaarts v Inter Moengo Tapoe",
+                "stage": "Playoffs",
+                "video-type": "Live Streams",
+                "publisher-channel": "MA | Suriname | Suriname's SML Season III 2025/2026",
+                "organizer": "Suriname",
+                "organizer-country": "Suriname"
+            },
+            "startDate": "2026-05-13T22:50:00Z",
+            "endDate": "2026-05-14T01:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-13T23:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Voorwaarts v Inter Moengo Tapoe"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Suriname Major League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Playoffs"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Suriname"
+                }
+            ]
+        },
+        {
+            "id": "085f1122-848c-4bf2-ae95-f2ea74bd3bc2",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "085f1122-848c-4bf2-ae95-f2ea74bd3bc2",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Real Koyari v Caravel | Division Honor 2025-26",
+            "category": "livestream",
+            "urlSlug": "real-koyari-vs-caravel",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/22/1d/cb/0b/221dcb0b-c792-4d48-903e-b725b280c421.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/e5/c7/d4/48/e5c7d448-6425-4314-bc59-9353d0b32576.png",
+            "freeMode": "FREE_ADS",
+            "title": "Real Koyari v Caravel | Division Honor 2025-26",
+            "titleTemplateValues": {
+                "stage": "Division Honor Liga-Plata Pool A Round 2",
+                "team:real-koyari": "Real Koyari",
+                "country": "Aruba",
+                "association": "Aruba",
+                "season": "Division Honor 2025-26",
+                "match": "Real Koyari v Caravel",
+                "publisher": "MA | Aruba",
+                "competition": "Division Honor",
+                "stadium": "Sports Complex Guillermo Prospero Trinidad",
+                "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
+                "global-stage": "Division Honor Plata",
+                "city": "Dakota",
+                "video-type": "Live Streams",
+                "team:caravel": "Caravel",
+                "organizer": "Aruba",
+                "organizer-country": "Aruba"
+            },
+            "startDate": "2026-05-14T00:20:00Z",
+            "endDate": "2026-05-14T03:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-14T00:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Real Koyari v Caravel"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Division Honor 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Division Honor Plata"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Aruba"
+                }
+            ]
+        },
+        {
+            "id": "f6558c1f-2802-4765-8fcd-c814b3065234",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "f6558c1f-2802-4765-8fcd-c814b3065234",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "ASEC Mimosas v SOA | Coupe Nationale de Côte d'Ivoire 2026",
+            "category": "livestream",
+            "urlSlug": "asec-mimosas-vs-soa",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/2a/80/33/d7/2a8033d7-a899-4ff0-a158-c205372f102c.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/25/d8/76/59/25d87659-0a4d-4fef-a2aa-7263e7016c01.png",
+            "freeMode": "FREE_ADS",
+            "title": "ASEC Mimosas v SOA | Coupe Nationale de Côte d'Ivoire 2026",
+            "titleTemplateValues": {
+                "publisher-channel": "MA | Côte d'Ivoire | CIV / Cup - Coupe Nationale de Côte d'Ivoire 2026 (Channel)",
+                "competition": "Coupe Nationale de Côte d'Ivoire",
+                "association": "Côte d'Ivoire",
+                "match": "ASEC Mimosas v SOA",
+                "season": "Coupe Nationale de Côte d'Ivoire 2026",
+                "team:soa": "SOA",
+                "team:asec-mimosas": "ASEC Mimosas",
+                "stage": "Demi-finale",
+                "city": "Bingerville",
+                "country": "Côte d'Ivoire",
+                "global-stage": "Semi-finals",
+                "stadium": "Complexe sportif de Bingerville",
+                "publisher": "MA | Côte d'Ivoire",
+                "video-type": "Live Streams",
+                "organizer": "Côte d'Ivoire",
+                "organizer-country": "Côte d'Ivoire"
+            },
+            "startDate": "2026-05-14T15:20:00Z",
+            "endDate": "2026-05-14T18:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-14T15:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "ASEC Mimosas v SOA"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Coupe Nationale de Côte d'Ivoire 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Semi-finals"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Côte d'Ivoire"
+                }
+            ]
+        },
+        {
+            "id": "b5ef0568-db09-46da-93a0-9d8a4651ebdf",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "b5ef0568-db09-46da-93a0-9d8a4651ebdf",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Downtown FC v Borough FC | LFA First Division League 2025/26",
+            "category": "livestream",
+            "urlSlug": "downtown-fc-vs-borough-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/3b/72/a6/2d/3b72a62d-d3f5-4b2a-b080-3aefde5a43c1.png",
+            "freeMode": "FREE_ADS",
+            "title": "Downtown FC v Borough FC | LFA First Division League 2025/26",
+            "titleTemplateValues": {
+                "match": "Downtown FC v Borough FC",
+                "team:downtown-fc": "Downtown FC",
+                "stage": "Regular Season",
+                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
+                "team:borough-fc": "Borough FC",
+                "association": "Liberia",
+                "season": "LFA First Division League 2025/26",
+                "competition": "Liberia National League",
+                "global-stage": "Round 27",
+                "country": "Liberia",
+                "publisher": "MA | Liberia",
+                "city": "Paynesville",
+                "video-type": "Live Streams",
+                "stadium": "SKD Annex",
+                "organizer": "Liberia",
+                "organizer-country": "Liberia"
+            },
+            "startDate": "2026-05-14T15:50:00Z",
+            "endDate": "2026-05-14T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-14T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Downtown FC v Borough FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "LFA First Division League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 27"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Liberia"
+                }
+            ]
+        },
+        {
+            "id": "bcd09aee-e2ab-4a12-ba18-d78b8243015f",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "bcd09aee-e2ab-4a12-ba18-d78b8243015f",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Gardnersville FC v Black Man Warriors FC | LFA First Division League 2025/26",
+            "category": "livestream",
+            "urlSlug": "gardnersville-fc-vs-black-man-warriors",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/5b/83/e8/f7/5b83e8f7-4233-498b-87d7-7dccff0b284b.png",
+            "freeMode": "FREE_ADS",
+            "title": "Gardnersville FC v Black Man Warriors FC | LFA First Division League 2025/26",
+            "titleTemplateValues": {
+                "stadium": "Doris Williams Sports Stadium",
+                "team:black-man-warriors": "Black Man Warriors FC",
+                "city": "Buchanan",
+                "stage": "Regular Season",
+                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
+                "match": "Gardnersville FC v Black Man Warriors FC",
+                "association": "Liberia",
+                "team:gardnersville-fc": "Gardnersville FC",
+                "season": "LFA First Division League 2025/26",
+                "competition": "Liberia National League",
+                "global-stage": "Round 27",
+                "country": "Liberia",
+                "publisher": "MA | Liberia",
+                "video-type": "Live Streams",
+                "organizer": "Liberia",
+                "organizer-country": "Liberia"
+            },
+            "startDate": "2026-05-14T15:50:00Z",
+            "endDate": "2026-05-14T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-14T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Gardnersville FC v Black Man Warriors FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "LFA First Division League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 27"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Liberia"
+                }
+            ]
+        },
+        {
+            "id": "a0464741-ad3b-419e-9da6-641a1784799c",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "a0464741-ad3b-419e-9da6-641a1784799c",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "LISCR FC v Freeport FC | LFA First Division League 2025/26",
+            "category": "livestream",
+            "urlSlug": "liscr-fc-vs-freeport",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ed/ae/57/76/edae5776-68b7-4656-aab5-4e56f37ece48.png",
+            "freeMode": "FREE_ADS",
+            "title": "LISCR FC v Freeport FC | LFA First Division League 2025/26",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
+                "stadium": "TUSA Field",
+                "team:liscr-fc": "LISCR FC",
+                "team:freeport": "Freeport FC",
+                "association": "Liberia",
+                "season": "LFA First Division League 2025/26",
+                "competition": "Liberia National League",
+                "global-stage": "Round 27",
+                "match": "LISCR FC v Freeport FC",
+                "country": "Liberia",
+                "publisher": "MA | Liberia",
+                "city": "Gardnersville",
+                "video-type": "Live Streams",
+                "organizer": "Liberia",
+                "organizer-country": "Liberia"
+            },
+            "startDate": "2026-05-14T15:50:00Z",
+            "endDate": "2026-05-14T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-14T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "LISCR FC v Freeport FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "LFA First Division League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 27"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Liberia"
+                }
+            ]
         }
     ]
 }
