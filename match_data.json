@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:15:19 AM 15-05-2026",
-        "total_live": 1,
+        "last_update_time": "12:30:30 AM 15-05-2026",
+        "total_live": 0,
         "total_upcoming": 25
     },
     "matches": [
-        {
-            "id": "a0464741-ad3b-419e-9da6-641a1784799c",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "a0464741-ad3b-419e-9da6-641a1784799c",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "LISCR FC v Freeport FC | LFA First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "liscr-fc-vs-freeport",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ed/ae/57/76/edae5776-68b7-4656-aab5-4e56f37ece48.png",
-            "freeMode": "FREE_ADS",
-            "title": "LISCR FC v Freeport FC | LFA First Division League 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
-                "stadium": "TUSA Field",
-                "team:liscr-fc": "LISCR FC",
-                "team:freeport": "Freeport FC",
-                "association": "Liberia",
-                "season": "LFA First Division League 2025/26",
-                "competition": "Liberia National League",
-                "global-stage": "Round 27",
-                "match": "LISCR FC v Freeport FC",
-                "country": "Liberia",
-                "publisher": "MA | Liberia",
-                "city": "Gardnersville",
-                "video-type": "Live Streams",
-                "organizer": "Liberia",
-                "organizer-country": "Liberia"
-            },
-            "startDate": "2026-05-14T15:50:00Z",
-            "endDate": "2026-05-14T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-14T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "LISCR FC v Freeport FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "LFA First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 27"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Liberia"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_13_30_07_98b522e6-f1a6-4bde-877f-ba9cb877c3b4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778773740",
-                "decryption_keys": [
-                    "e1e029a51f713b6a931cc7c298a5f4d5:71cd325fd7803040a3daeec251537d39"
-                ]
-            }
-        },
         {
             "id": "92842b86-e296-4ce6-939e-3af4874b0dd6",
             "channelId": "fifa-tournaments",
