@@ -1,10 +1,10 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:15:29 PM 14-05-2026
+#last update time: 09:30:28 PM 14-05-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5b/83/e8/f7/5b83e8f7-4233-498b-87d7-7dccff0b284b.png" group-title="FIFA Live", Gardnersville FC v Black Man Warriors FC | LFA First Division League 2025/26
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/25/d8/76/59/25d87659-0a4d-4fef-a2aa-7263e7016c01.png" group-title="FIFA Live", ASEC Mimosas v SOA | Coupe Nationale de Côte d'Ivoire 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b3d6bab386230018be10f2d6ec1334a:1f839909bc38ea9ad111e7d4021a96c5
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_13_30_09_cafe3b6f-8d0a-484f-8fbc-7ddbfe8b1d2a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778763540
+#KODIPROP:inputstream.adaptive.license_key=136f007805953e358ce65d858955c166:e7f2f90431d944780697f63f3e10f35e
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_08_42_34_ad12f229-60df-4445-8cdd-bc1493b4d32d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778771940
