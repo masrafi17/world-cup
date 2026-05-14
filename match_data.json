@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:15:23 PM 14-05-2026",
+        "last_update_time": "07:30:32 PM 14-05-2026",
         "total_live": 1,
         "total_upcoming": 3
     },
@@ -21,27 +21,27 @@
             "freeMode": "FREE_ADS",
             "title": "Gardnersville FC v Black Man Warriors FC | LFA First Division League 2025/26",
             "titleTemplateValues": {
-                "stadium": "Doris Williams Sports Stadium",
-                "team:black-man-warriors": "Black Man Warriors FC",
-                "city": "Buchanan",
-                "stage": "Regular Season",
                 "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
+                "country": "Liberia",
+                "city": "Buchanan",
+                "team:gardnersville-fc": "Gardnersville FC",
                 "match": "Gardnersville FC v Black Man Warriors FC",
                 "association": "Liberia",
-                "team:gardnersville-fc": "Gardnersville FC",
-                "season": "LFA First Division League 2025/26",
                 "competition": "Liberia National League",
+                "organizer-country": "Liberia",
                 "global-stage": "Round 27",
-                "country": "Liberia",
-                "publisher": "MA | Liberia",
-                "video-type": "Live Streams",
+                "stage": "Regular Season",
+                "team:black-man-warriors": "Black Man Warriors FC",
                 "organizer": "Liberia",
-                "organizer-country": "Liberia"
+                "stadium": "Doris Williams Sports Stadium",
+                "season": "LFA First Division League 2025/26",
+                "publisher": "MA | Liberia",
+                "video-type": "Live Streams"
             },
             "startDate": "2026-05-14T13:00:00Z",
             "endDate": "2026-05-14T18:30:00Z",
             "ctxMetadata": {
-                "kickOffTime": "2026-05-14T16:00:00Z"
+                "kickOffTime": "2026-05-14T13:00:00Z"
             },
             "isRegistrationRequired": false,
             "shownPrices": null,
