@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:30:23 AM 15-05-2026",
+        "last_update_time": "05:45:19 AM 15-05-2026",
         "total_live": 1,
         "total_upcoming": 24
     },
@@ -106,7 +106,7 @@
                 "organizer": "St Kitts and Nevis",
                 "organizer-country": "St Kitts and Nevis"
             },
-            "startDate": "2026-05-14T23:50:00Z",
+            "startDate": "2026-05-14T23:59:00Z",
             "endDate": "2026-05-15T02:30:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-15T00:00:00Z"
