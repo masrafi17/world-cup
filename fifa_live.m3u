@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:00:29 AM 15-05-2026
+#last update time: 12:15:19 AM 15-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3b/72/a6/2d/3b72a62d-d3f5-4b2a-b080-3aefde5a43c1.png" group-title="FIFA Live", Downtown FC v Borough FC | LFA First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=98395c9ab6343ee8824e5253870745d3:f45a3c6eda56bd19fccd6096c91a3059
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_13_30_04_1fd8a35c-b9d6-434b-98f6-0f56b537a3df/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778773740
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ed/ae/57/76/edae5776-68b7-4656-aab5-4e56f37ece48.png" group-title="FIFA Live", LISCR FC v Freeport FC | LFA First Division League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
