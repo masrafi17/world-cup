@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:30:23 PM 15-05-2026
+#last update time: 09:45:20 PM 15-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/fb/e9/31/40/fbe93140-09bd-49ab-a694-03d3b06058fe.png" group-title="FIFA Live", Al Arabi v Gulf United | Round 28 | First Division League 2025/26
@@ -39,12 +39,17 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_12_29_14_2a8057ec-a9a9-4f82-b15a
 #KODIPROP:inputstream.adaptive.license_key=e7c51bfe027e3bb98a6e644286b1a961:61538151d001f9d007a933bb151c862a
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_12_29_27_56a8875b-c9ec-4fc8-b565-8f3f2210db9e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778853240
 
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/bb/85/a6/8a/bb85a68a-937b-4272-9549-7ceff1988a20.png" group-title="FIFA Live", Babrungas v Žalgiris B | Pirma Lyga 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=23be165eb79a39e687dacb60109ee02e:ac45f3f9e7cfcf04255ca6898e882de0
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_08_38_00_9460a38a-dbd5-4c33-98ad-312c398dde49/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778856540
+
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e4/93/03/b0/e49303b0-782d-4e34-b45d-ed6fbbe4698c.png" group-title="FIFA Live", Inter Bom-Bom v Agrosport de Monte Café | National Football Championship 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0522754fed5632c18c004adf1dfd9912:614ca488113eb239c10a738772112120
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_10_25_02_c3432cc4-342c-468f-8a7f-c3716009c769/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778856540
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/bb/85/a6/8a/bb85a68a-937b-4272-9549-7ceff1988a20.png" group-title="FIFA Live", Babrungas v Žalgiris B | Pirma Lyga 2026
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5c/be/b7/35/5cbeb735-369a-4b48-b1f3-3a417a61deb0.png" group-title="FIFA Live", AS ZAM v AS Police | Super Ligue 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=23be165eb79a39e687dacb60109ee02e:ac45f3f9e7cfcf04255ca6898e882de0
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_08_38_00_9460a38a-dbd5-4c33-98ad-312c398dde49/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778856540
+#KODIPROP:inputstream.adaptive.license_key=eb63176347163b3b95b81182f85ac33a:e22b76fdc7faa0e79aa8fe05ed532556
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_24_31_2e0bb4dd-97e7-4155-8dc5-92a42001dd8c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778859240
