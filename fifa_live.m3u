@@ -1,5 +1,10 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:45:18 AM 16-05-2026
+#last update time: 05:00:23 AM 16-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/30/02/a5/23/3002a523-56a0-421a-8ce5-b2aa8bd07f89.png" group-title="FIFA Live", Mahaut Soca Strikers FC v South East FC | DFA Premier League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=75fb7ee3290c38be94f8407e5c3e3398:489eecf7c592eb52076430a6f23e21fa
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_16_08_e6c53767-b427-4847-926b-893c70a8170b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778885340
