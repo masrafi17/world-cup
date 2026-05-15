@@ -1,10 +1,5 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:15:21 AM 16-05-2026
+#last update time: 02:30:32 AM 16-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0c/5b/7e/84/0c5b7e84-b2c7-4bab-ae6d-1d89fcc501f5.png" group-title="FIFA Live", Sochaux v Le Puy Foot | Championnat National 2025/2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c92602da790a3204bd8a58dc2b9800ce:ce8855e2f45a9da58bbc9ea256a4b347
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_21_10_3fadb751-b925-4e68-a687-1dbfd95961fb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778865840

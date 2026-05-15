@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:15:21 AM 16-05-2026",
-        "total_live": 1,
+        "last_update_time": "02:30:32 AM 16-05-2026",
+        "total_live": 0,
         "total_upcoming": 49
     },
     "matches": [
-        {
-            "id": "0d463ba0-94ef-4dc4-aa69-efef74b04b33",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "0d463ba0-94ef-4dc4-aa69-efef74b04b33",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Sochaux v Le Puy Foot | Championnat National 2025/2026",
-            "category": "livestream",
-            "urlSlug": "fc-sochaux-montbeliard-vs-le-puy-foot-43",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/81/49/01/20/81490120-d0f3-4857-ad6e-10b7cf961389.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/0c/5b/7e/84/0c5b7e84-b2c7-4bab-ae6d-1d89fcc501f5.png",
-            "freeMode": "FREE_ADS",
-            "title": "Sochaux v Le Puy Foot | Championnat National 2025/2026",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "association": "France",
-                "global-stage": "Round 34",
-                "publisher-channel": "MA | France | Championnat National 2025/26",
-                "country": "France",
-                "team:fc-sochaux-montbeliard": "Sochaux",
-                "publisher": "MA | France",
-                "team:le-puy-foot-43": "Le Puy Foot",
-                "season": "Championnat National 2025/2026",
-                "competition": "Championnat National",
-                "match": "Sochaux v Le Puy Foot",
-                "city": "Montbéliard",
-                "stadium": "Stade Auguste-Bonal",
-                "video-type": "Live Streams",
-                "organizer": "France",
-                "organizer-country": "France"
-            },
-            "startDate": "2026-05-15T17:25:00Z",
-            "endDate": "2026-05-15T21:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-15T17:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Sochaux v Le Puy Foot"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Championnat National 2025/2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 34"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "France"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_21_10_3fadb751-b925-4e68-a687-1dbfd95961fb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778865840",
-                "decryption_keys": [
-                    "c92602da790a3204bd8a58dc2b9800ce:ce8855e2f45a9da58bbc9ea256a4b347"
-                ]
-            }
-        },
         {
             "id": "faa36362-a931-480c-a103-e42913fc465f",
             "channelId": "fifa-tournaments",
