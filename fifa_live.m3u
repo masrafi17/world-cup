@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:00:24 AM 16-05-2026
+#last update time: 12:15:25 AM 16-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5c/be/b7/35/5cbeb735-369a-4b48-b1f3-3a417a61deb0.png" group-title="FIFA Live", AS ZAM v AS Police | Super Ligue 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb63176347163b3b95b81182f85ac33a:e22b76fdc7faa0e79aa8fe05ed532556
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_24_31_2e0bb4dd-97e7-4155-8dc5-92a42001dd8c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778859240
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/31/03/9c/22/31039c22-6b70-4354-8cfd-a1578958cd9a.png" group-title="FIFA Live", FK TransINVEST B v Be1 NFA | Pirma Lyga 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey

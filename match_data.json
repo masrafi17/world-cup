@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:00:24 AM 16-05-2026",
-        "total_live": 10,
-        "total_upcoming": 40
+        "last_update_time": "12:15:25 AM 16-05-2026",
+        "total_live": 9,
+        "total_upcoming": 41
     },
     "matches": [
-        {
-            "id": "44829776-8162-4fc9-a553-472376853d9e",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "44829776-8162-4fc9-a553-472376853d9e",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "AS ZAM v AS Police | Super Ligue 2025/26",
-            "category": "livestream",
-            "urlSlug": "as-zam-vs-as-police",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9e/ec/cd/44/9eeccd44-ac8e-414d-a647-f8fe021614d5.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/5c/be/b7/35/5cbeb735-369a-4b48-b1f3-3a417a61deb0.png",
-            "freeMode": "FREE_ADS",
-            "title": "AS ZAM v AS Police | Super Ligue 2025/26",
-            "titleTemplateValues": {
-                "publisher": "MA | Niger ",
-                "season": "Super Ligue 2025/26",
-                "stage": "Regular stage",
-                "association": "Niger",
-                "global-stage": "Round 25",
-                "team:as-zam": "AS ZAM",
-                "match": "AS ZAM v AS Police",
-                "competition": "Super Ligue",
-                "country": "Niger",
-                "city": "Niamey",
-                "team:as-police": "AS Police",
-                "publisher-channel": "MA | Niger | Super Ligue 2025/2026",
-                "stadium": "Municipal Stadium",
-                "video-type": "Live Streams",
-                "organizer": "Niger",
-                "organizer-country": "Niger"
-            },
-            "startDate": "2026-05-15T15:35:00Z",
-            "endDate": "2026-05-15T18:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-15T15:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "AS ZAM v AS Police"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Super Ligue 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 25"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Niger"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_24_31_2e0bb4dd-97e7-4155-8dc5-92a42001dd8c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778859240",
-                "decryption_keys": [
-                    "eb63176347163b3b95b81182f85ac33a:e22b76fdc7faa0e79aa8fe05ed532556"
-                ]
-            }
-        },
         {
             "id": "5432c5c3-4fad-4fb0-bcb4-845a5f6e888b",
             "channelId": "fifa-tournaments",
@@ -3144,6 +3076,68 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Israel"
+                }
+            ]
+        },
+        {
+            "id": "d554a4e1-3970-47a2-8b6b-b7f585bba488",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "d554a4e1-3970-47a2-8b6b-b7f585bba488",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "ASN Nigelec v AS GNN | Super Ligue 2025/26",
+            "category": "livestream",
+            "urlSlug": "asn-nigelec-vs-as-gnn",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9e/ec/cd/44/9eeccd44-ac8e-414d-a647-f8fe021614d5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/78/52/d2/8c/7852d28c-c4cd-40a5-9053-cc57c5672209.png",
+            "freeMode": "FREE_ADS",
+            "title": "ASN Nigelec v AS GNN | Super Ligue 2025/26",
+            "titleTemplateValues": {
+                "publisher": "MA | Niger ",
+                "season": "Super Ligue 2025/26",
+                "stage": "Regular stage",
+                "association": "Niger",
+                "global-stage": "Round 25",
+                "stadium": "SGSK Stadium",
+                "competition": "Super Ligue",
+                "team:asn-nigelec": "ASN Nigelec",
+                "match": "ASN Nigelec v AS GNN",
+                "country": "Niger",
+                "city": "Niamey",
+                "publisher-channel": "MA | Niger | Super Ligue 2025/2026",
+                "team:as-gnn": "AS GNN",
+                "video-type": "Live Streams",
+                "organizer": "Niger",
+                "organizer-country": "Niger"
+            },
+            "startDate": "2026-05-16T15:35:00Z",
+            "endDate": "2026-05-16T18:15:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-16T15:45:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "ASN Nigelec v AS GNN"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Super Ligue 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 25"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Niger"
                 }
             ]
         }
