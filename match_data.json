@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:30:33 AM 16-05-2026",
+        "last_update_time": "05:45:23 AM 16-05-2026",
         "total_live": 1,
         "total_upcoming": 48
     },
@@ -77,130 +77,6 @@
             }
         },
         {
-            "id": "d2c8e05b-9fc4-4a12-a326-7cd2483bc5a4",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "d2c8e05b-9fc4-4a12-a326-7cd2483bc5a4",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Attackers FC v Diamond FC | Anguilla Senior Men's League 2026",
-            "category": "livestream",
-            "urlSlug": "attackers-fc-vs-diamond-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/dd/e9/e6/85/dde9e685-9b37-4e43-be25-92b494a4eba8.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/46/ff/7b/e8/46ff7be8-2338-42da-a61e-2486b93ded07.png",
-            "freeMode": "FREE_ADS",
-            "title": "Attackers FC v Diamond FC | Anguilla Senior Men's League 2026",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "association": "Anguilla",
-                "team:attackers-fc": "Attackers FC",
-                "competition": "Senior Men's League",
-                "stadium": "Raymond E. Guishard Stadium",
-                "publisher-channel": "MA | Anguilla | Senior Men's League 2026 (Channel)",
-                "season": "Anguilla Senior Men's League 2026",
-                "global-stage": "Round 11",
-                "team:diamond-fc": "Diamond FC",
-                "match": "Attackers FC v Diamond FC",
-                "country": "Anguilla",
-                "city": "The Valley",
-                "publisher": "MA | Anguilla",
-                "video-type": "Live Streams",
-                "organizer": "Anguilla",
-                "organizer-country": "Anguilla"
-            },
-            "startDate": "2026-05-15T23:50:00Z",
-            "endDate": "2026-05-16T02:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T00:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Attackers FC v Diamond FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Anguilla Senior Men's League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 11"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Anguilla"
-                }
-            ]
-        },
-        {
-            "id": "91c82b24-5ea8-4615-ae07-74785fbcd358",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "91c82b24-5ea8-4615-ae07-74785fbcd358",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "R.K.S.V. Centro Dominguito v Inter Willemstad | Curaçao Promé Divishon 2025/26",
-            "category": "livestream",
-            "urlSlug": "r-k-s-v-centro-dominguito-vs-inter-willemstad",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/8f/f7/93/69/8ff79369-5be3-4435-99e4-3ff4d2e38b4f.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/0e/c4/b4/c8/0ec4b4c8-4d49-4a77-8333-caa1da2ffdf9.png",
-            "freeMode": "FREE_ADS",
-            "title": "R.K.S.V. Centro Dominguito v Inter Willemstad | Curaçao Promé Divishon 2025/26",
-            "titleTemplateValues": {
-                "competition": "Curaçao Promé Divishon",
-                "city": "Willemstad",
-                "association": "Curaçao",
-                "team:inter-willemstad": "Inter Willemstad",
-                "publisher-channel": "MA | Curaçao | Curaçao Promé Divishon 2025/26",
-                "stage": "Round of Four",
-                "publisher": "MA | Curaçao",
-                "team:r-k-s-v-centro-dominguito": "R.K.S.V. Centro Dominguito",
-                "global-stage": "Playoffs",
-                "stadium": "Stadion Rignaal Jean Francisca",
-                "season": "Curaçao Promé Divishon 2025/26",
-                "country": "Curaçao",
-                "match": "R.K.S.V. Centro Dominguito v Inter Willemstad",
-                "video-type": "Live Streams",
-                "organizer": "Curaçao",
-                "organizer-country": "Curaçao"
-            },
-            "startDate": "2026-05-15T23:50:00Z",
-            "endDate": "2026-05-16T02:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T00:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "R.K.S.V. Centro Dominguito v Inter Willemstad"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Curaçao Promé Divishon 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Playoffs"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Curaçao"
-                }
-            ]
-        },
-        {
             "id": "2e92b9a1-9b99-4e92-be9d-2944ab70e2b2",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "2e92b9a1-9b99-4e92-be9d-2944ab70e2b2",
@@ -260,6 +136,130 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "New Zealand"
+                }
+            ]
+        },
+        {
+            "id": "91c82b24-5ea8-4615-ae07-74785fbcd358",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "91c82b24-5ea8-4615-ae07-74785fbcd358",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "R.K.S.V. Centro Dominguito v Inter Willemstad | Curaçao Promé Divishon 2025/26",
+            "category": "livestream",
+            "urlSlug": "r-k-s-v-centro-dominguito-vs-inter-willemstad",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/8f/f7/93/69/8ff79369-5be3-4435-99e4-3ff4d2e38b4f.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/0e/c4/b4/c8/0ec4b4c8-4d49-4a77-8333-caa1da2ffdf9.png",
+            "freeMode": "FREE_ADS",
+            "title": "R.K.S.V. Centro Dominguito v Inter Willemstad | Curaçao Promé Divishon 2025/26",
+            "titleTemplateValues": {
+                "publisher-channel": "MA | Curaçao | Curaçao Promé Divishon 2025/26",
+                "team:r-k-s-v-centro-dominguito": "R.K.S.V. Centro Dominguito",
+                "country": "Curaçao",
+                "city": "Willemstad",
+                "match": "R.K.S.V. Centro Dominguito v Inter Willemstad",
+                "association": "Curaçao",
+                "competition": "Curaçao Promé Divishon",
+                "organizer-country": "Curaçao",
+                "global-stage": "Playoffs",
+                "stage": "Round of Four",
+                "organizer": "Curaçao",
+                "publisher": "MA | Curaçao",
+                "stadium": "Stadion Rignaal Jean Francisca",
+                "season": "Curaçao Promé Divishon 2025/26",
+                "team:inter-willemstad": "Inter Willemstad",
+                "video-type": "Live Streams"
+            },
+            "startDate": "2026-05-15T23:59:00Z",
+            "endDate": "2026-05-16T02:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-16T00:11:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "R.K.S.V. Centro Dominguito v Inter Willemstad"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Curaçao Promé Divishon 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Playoffs"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Curaçao"
+                }
+            ]
+        },
+        {
+            "id": "d2c8e05b-9fc4-4a12-a326-7cd2483bc5a4",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "d2c8e05b-9fc4-4a12-a326-7cd2483bc5a4",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Attackers FC v Diamond FC | Anguilla Senior Men's League 2026",
+            "category": "livestream",
+            "urlSlug": "attackers-fc-vs-diamond-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/dd/e9/e6/85/dde9e685-9b37-4e43-be25-92b494a4eba8.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/46/ff/7b/e8/46ff7be8-2338-42da-a61e-2486b93ded07.png",
+            "freeMode": "FREE_ADS",
+            "title": "Attackers FC v Diamond FC | Anguilla Senior Men's League 2026",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "association": "Anguilla",
+                "team:attackers-fc": "Attackers FC",
+                "competition": "Senior Men's League",
+                "stadium": "Raymond E. Guishard Stadium",
+                "publisher-channel": "MA | Anguilla | Senior Men's League 2026 (Channel)",
+                "season": "Anguilla Senior Men's League 2026",
+                "global-stage": "Round 11",
+                "team:diamond-fc": "Diamond FC",
+                "match": "Attackers FC v Diamond FC",
+                "country": "Anguilla",
+                "city": "The Valley",
+                "publisher": "MA | Anguilla",
+                "video-type": "Live Streams",
+                "organizer": "Anguilla",
+                "organizer-country": "Anguilla"
+            },
+            "startDate": "2026-05-16T00:20:00Z",
+            "endDate": "2026-05-16T03:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-16T00:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Attackers FC v Diamond FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Anguilla Senior Men's League 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 11"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Anguilla"
                 }
             ]
         },
