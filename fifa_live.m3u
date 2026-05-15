@@ -1,45 +1,5 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:00:25 AM 16-05-2026
+#last update time: 04:00:25 AM 16-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/83/32/f9/06/8332f906-47c3-4eeb-882c-0cb391e6c023.png" group-title="FIFA Live", Concarneau v Villefranche | Championnat National 2025/2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d496681415935f380754b4e3c262dbd:6da5dc7fbc77a70f8960cde2547024a5
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_21_07_2a772a7b-52e6-44c3-8359-20e11511287c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778865540
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/98/46/3f/41/98463f41-b544-4228-afe4-1f5c057725f5.png" group-title="FIFA Live", Dijon FCO v Orléans | Championnat National 2025/2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=040034f371bc3fcaabf37f311d6e4f7f:c121edfdc0aafb75b66699878230e52c
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_21_20_4f9d11b0-b8d5-49ec-8142-eb665fe2186b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778865540
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/dc/81/a6/d2/dc81a6d2-52ac-4d08-a0d1-4f2a6fee19c7.png" group-title="FIFA Live", FC Fleury 91 v Rouen | Championnat National 2025/2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3239edd857423ffabb1d4ff1d092741f:a3cb859b646b7eb1a73e17831aab5989
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_21_32_5221e73c-0a41-457d-936b-fd7163e07dc3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778865540
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/05/d3/a3/89/05d3a389-97b9-4d81-996d-e5199d3e7389.png" group-title="FIFA Live", Quevilly-Rouen Métropole v Paris 13 Atletico | Championnat National 2025/2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f109190b170e3ceb99b7251b5250583c:cd034bd104d2a01e6f900d56c445732f
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_21_40_b319a965-1a38-4045-89d5-84800c523930/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778865540
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e5/d7/8f/34/e5d78f34-2deb-4743-af62-cecc72ee2f77.png" group-title="FIFA Live", SC Aubagne Air Bel v SM Caen | Championnat National 2025/2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=975c9efb9bd333b28ec47ad147f7d8b2:b23adf0905afdbc05a6b2875438871cb
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_21_04_25346e57-d048-4baa-a996-337b0bae53cb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778865540
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1a/e9/8c/67/1ae98c67-34e8-4dc6-88a2-7dc4c687adc6.png" group-title="FIFA Live", Valenciennes v Châteauroux | Championnat National 2025/2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2d737e742bb3d7bbcf133622bbc0b81:4674f131a87a260a93e74bc2cd9e4237
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_21_01_16ecfd72-837e-47b9-90ef-857f535e3034/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778865540
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a6/12/88/7a/a612887a-1e2a-41da-896b-24870641625a.png" group-title="FIFA Live", Versailles v Stade Briochin | Championnat National 2025/2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3df86022f0bb3d34aa092e22a8726c4f:7d0dac445c620998d49574a9ae74cb28
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_21_36_72e0b2ec-9359-428d-858e-a8de3c84d115/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778865540
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0c/5b/7e/84/0c5b7e84-b2c7-4bab-ae6d-1d89fcc501f5.png" group-title="FIFA Live", Sochaux v Le Puy Foot | Championnat National 2025/2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c92602da790a3204bd8a58dc2b9800ce:ce8855e2f45a9da58bbc9ea256a4b347
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_21_10_3fadb751-b925-4e68-a687-1dbfd95961fb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778865840
