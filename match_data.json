@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:15:20 AM 15-05-2026",
-        "total_live": 2,
+        "last_update_time": "07:30:27 AM 15-05-2026",
+        "total_live": 1,
         "total_upcoming": 23
     },
     "matches": [
-        {
-            "id": "92842b86-e296-4ce6-939e-3af4874b0dd6",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "92842b86-e296-4ce6-939e-3af4874b0dd6",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Broki v Flora | Suriname Major League 2025/26",
-            "category": "livestream",
-            "urlSlug": "broki-vs-flora",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/20/6d/20/4c/206d204c-c4a8-4272-b812-4a5930e5d86d.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/cd/de/57/65/cdde5765-0bd5-4972-bc3c-518a931e4bba.png",
-            "freeMode": "FREE_ADS",
-            "title": "Broki v Flora | Suriname Major League 2025/26",
-            "titleTemplateValues": {
-                "team:broki": "Broki",
-                "stadium": "Franklin Essed Stadium",
-                "season": "Suriname Major League 2025/26",
-                "global-stage": "Playoffs",
-                "publisher": "MA | Suriname",
-                "city": "Paramaribo",
-                "country": "Suriname",
-                "competition": "Suriname Major League",
-                "team:flora": "Flora",
-                "match": "Broki v Flora",
-                "association": "Suriname",
-                "stage": "Playoffs",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Suriname | Suriname's SML Season III 2025/2026",
-                "organizer": "Suriname",
-                "organizer-country": "Suriname"
-            },
-            "startDate": "2026-05-14T22:50:00Z",
-            "endDate": "2026-05-15T01:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-14T23:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Broki v Flora"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Suriname Major League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Playoffs"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Suriname"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_08_43_07_de846885-7161-4391-98c1-dad9e9581d55/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778798940",
-                "decryption_keys": [
-                    "5f64bddf6cb73088a14e72d3a198cf72:2493ac409f7224809f5744021f8a4756"
-                ]
-            }
-        },
         {
             "id": "246fdb15-2fcb-4c63-9074-f2bbeec4b6ea",
             "channelId": "fifa-tournaments",
