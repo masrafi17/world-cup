@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:30:22 AM 16-05-2026",
+        "last_update_time": "01:45:20 AM 16-05-2026",
         "total_live": 8,
         "total_upcoming": 42
     },
@@ -515,7 +515,7 @@
                 "organizer-country": "France"
             },
             "startDate": "2026-05-15T17:25:00Z",
-            "endDate": "2026-05-15T20:00:00Z",
+            "endDate": "2026-05-15T21:00:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-15T17:30:00Z"
             },
