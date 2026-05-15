@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:00:28 PM 15-05-2026",
+        "last_update_time": "10:15:21 PM 15-05-2026",
         "total_live": 11,
         "total_upcoming": 9
     },
@@ -234,11 +234,11 @@
                 "season": "First Division League 2025/26",
                 "publisher-channel": "MA | UAE | First Division League 2025/2026",
                 "publisher": "MA | UAE",
+                "video-type": "Full Match Replays",
                 "stadium": "Al Orooba Club / MS No.2.",
                 "association": "United Arab Emirates",
                 "global-stage": "Round 28",
                 "team:al-orooba": "Al Orooba",
-                "video-type": "Live Streams",
                 "organizer": "United Arab Emirates",
                 "organizer-country": "United Arab Emirates"
             },
