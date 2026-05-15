@@ -1,33 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:22 PM 15-05-2026
+#last update time: 10:45:21 PM 15-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1c/0b/3c/a5/1c0b3ca5-db2a-4f16-b1cb-169adf2a96bb.png" group-title="FIFA Live", Al Dhaid Club v Hatta Club | Round 28 | First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=76bd199d447132269d16f9a93b5ff445:814e2f6aebda5bbc3dafb477ac146397
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_12_29_18_2e0c6c18-d7f8-44da-96ae-c7ec07d3203d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778853240
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/57/1a/30/54/571a3054-3657-4551-ac4b-85257ba96ed4.png" group-title="FIFA Live", Al Hamriyah v Dibba Al-Hisn | Round 28 | First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc14c3fee0a53200aca350b4d948a82c:a9e7c23eebef433ac895a2162fd5fb3c
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_12_29_36_c5a56d83-cb87-42e1-8e99-78f48c4ad630/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778853240
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/50/3b/ea/97/503bea97-a296-45bc-8504-017a69bc83cb.png" group-title="FIFA Live", Al-Ittifaq v Emirates Club | Round 28 | First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=75f080d7b85135f7b1d7368ddfb55af0:3f902dd83afad5afa5b8f760d606f637
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_12_29_32_ae52fda1-3468-4912-852c-60b1b5964446/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778853240
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5a/01/48/0b/5a01480b-9289-48a8-9670-274ef2231889.png" group-title="FIFA Live", Dubai City F.C. v Fujairah Club | Round 28 | First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6af099263d3636b68927eb0c5a5e4f84:8a54e61c783aa89452d3388ad88d746e
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_12_29_14_2a8057ec-a9a9-4f82-b15a-a01d3a567b9f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778853240
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/54/4a/6b/0a/544a6b0a-df8b-4aeb-a566-776b1cd59e5d.png" group-title="FIFA Live", Majd FC v Al Jazira Al Hamra | Round 28 | First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7c51bfe027e3bb98a6e644286b1a961:61538151d001f9d007a933bb151c862a
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_12_29_27_56a8875b-c9ec-4fc8-b565-8f3f2210db9e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778853240
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/bb/85/a6/8a/bb85a68a-937b-4272-9549-7ceff1988a20.png" group-title="FIFA Live", Babrungas v Žalgiris B | Pirma Lyga 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
