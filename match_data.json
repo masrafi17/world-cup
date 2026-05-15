@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:15:25 AM 16-05-2026",
-        "total_live": 9,
-        "total_upcoming": 41
+        "last_update_time": "12:30:23 AM 16-05-2026",
+        "total_live": 8,
+        "total_upcoming": 42
     },
     "matches": [
-        {
-            "id": "5432c5c3-4fad-4fb0-bcb4-845a5f6e888b",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "5432c5c3-4fad-4fb0-bcb4-845a5f6e888b",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "FK TransINVEST B v Be1 NFA | Pirma Lyga 2026",
-            "category": "livestream",
-            "urlSlug": "fk-transinvest-b-vs-fk-be1",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f2/4c/3b/b0/f24c3bb0-e739-4ae5-95d3-6cbfe473d948.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/31/03/9c/22/31039c22-6b70-4354-8cfd-a1578958cd9a.png",
-            "freeMode": "FREE_ADS",
-            "title": "FK TransINVEST B v Be1 NFA | Pirma Lyga 2026",
-            "titleTemplateValues": {
-                "stadium": "FK TransINVEST stadionas",
-                "stage": "I Lyga Regular Season",
-                "team:fk-be1": "Be1 NFA",
-                "team:fk-transinvest-b": "FK TransINVEST B",
-                "season": "Pirma Lyga 2026",
-                "global-stage": "Round 10",
-                "country": "Lithuania",
-                "match": "FK TransINVEST B v Be1 NFA",
-                "publisher": "MA | Lithuania ",
-                "competition": "Pirma Lyga",
-                "city": "Vilnius",
-                "association": "Lithuania",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Lithuania | Pirma Lyga 2026 (Channel)",
-                "organizer": "Lithuania",
-                "organizer-country": "Lithuania"
-            },
-            "startDate": "2026-05-15T15:50:00Z",
-            "endDate": "2026-05-15T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-15T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "FK TransINVEST B v Be1 NFA"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Pirma Lyga 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 10"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lithuania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_08_38_03_a9f5e5bd-9f12-4b54-ad33-63aff6893f3a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778860140",
-                "decryption_keys": [
-                    "9da2cb9253b33a05851d4586f1f362b4:ffe4bf2c92ed2e59ee7776b15d79061f"
-                ]
-            }
-        },
         {
             "id": "c4bb37c1-4c52-4240-af79-6917a80ad996",
             "channelId": "fifa-tournaments",
@@ -3138,6 +3070,68 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Niger"
+                }
+            ]
+        },
+        {
+            "id": "e24cf9e4-0be6-4e20-94c9-2472f39979cc",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "e24cf9e4-0be6-4e20-94c9-2472f39979cc",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "AS Sonabel v KOZAF | Burkina Faso Ligue 1 2025-26",
+            "category": "livestream",
+            "urlSlug": "as-sonabel-vs-kozaf",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/3b/13/b3/ef/3b13b3ef-4be4-44d7-a870-91a28d0a18a9.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/2c/03/05/d4/2c0305d4-7d9b-40c1-a611-4da10b2fced8.png",
+            "freeMode": "FREE_ADS",
+            "title": "AS Sonabel v KOZAF | Burkina Faso Ligue 1 2025-26",
+            "titleTemplateValues": {
+                "city": "Ouagadougou",
+                "global-stage": "Relegation Playoff – First Leg",
+                "team:as-sonabel": "AS Sonabel",
+                "team:kozaf": "KOZAF",
+                "publisher": "MA | Burkina Faso",
+                "stage": "Regular Season",
+                "association": "Burkina Faso",
+                "season": "Burkina Faso Ligue 1 2025-26",
+                "competition": "Ligue 1",
+                "stadium": "Stade Municipal IJC",
+                "match": "AS Sonabel v KOZAF",
+                "country": "Burkina Faso",
+                "video-type": "Live Streams",
+                "publisher-channel": "MA | Burkina Faso | Ligue 1 Masculine 2025/2026",
+                "organizer": "Burkina Faso",
+                "organizer-country": "Burkina Faso"
+            },
+            "startDate": "2026-05-16T15:50:00Z",
+            "endDate": "2026-05-16T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-16T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "AS Sonabel v KOZAF"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Burkina Faso Ligue 1 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Relegation Playoff – First Leg"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Burkina Faso"
                 }
             ]
         }
