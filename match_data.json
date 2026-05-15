@@ -3,11 +3,79 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:30:25 PM 15-05-2026",
-        "total_live": 8,
+        "last_update_time": "08:45:21 PM 15-05-2026",
+        "total_live": 9,
         "total_upcoming": 13
     },
     "matches": [
+        {
+            "id": "acbcaa43-b3ff-42f7-ad6f-d5e3abf366b2",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "acbcaa43-b3ff-42f7-ad6f-d5e3abf366b2",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Aigle Noir CS v Rukinzo FC | Coupe du Président de Burundi 2026",
+            "category": "livestream",
+            "urlSlug": "aigle-noir-cs-vs-rukinzo-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/68/fc/35/95/68fc3595-ed57-4047-8b07-977a41c6fbb0.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/61/64/69/40/61646940-3689-443b-825d-a987457f8edb.png",
+            "freeMode": "FREE_ADS",
+            "title": "Aigle Noir CS v Rukinzo FC | Coupe du Président de Burundi 2026",
+            "titleTemplateValues": {
+                "match": "Aigle Noir CS v Rukinzo FC",
+                "publisher": "MA | Burundi",
+                "team:rukinzo-fc": "Rukinzo FC",
+                "association": "Burundi",
+                "team:aigle-noir-cs": "Aigle Noir CS",
+                "country": "Burundi",
+                "season": "Coupe du Président de Burundi 2026",
+                "stadium": "Stade Intwari",
+                "city": "Bujumbura",
+                "global-stage": "Final",
+                "competition": "President's Cup",
+                "stage": "Finale",
+                "video-type": "Live Streams",
+                "publisher-channel": "MA | Burundi | Coupe du Président de Burundi 2026 (Channel)",
+                "organizer": "Burundi",
+                "organizer-country": "Burundi"
+            },
+            "startDate": "2026-05-15T12:50:00Z",
+            "endDate": "2026-05-15T15:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-15T12:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "started",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Aigle Noir CS v Rukinzo FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Coupe du Président de Burundi 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Final"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Burundi"
+                }
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_19_30_ce6b7f5f-6ee8-419f-8d10-253d5c45b8c5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778849340",
+                "decryption_keys": [
+                    "c6a75978689636d1b599bf1d03349997:be3354d982e8e4e42f63233666343421"
+                ]
+            }
+        },
         {
             "id": "0230b215-9fdf-4404-8b46-acfb65c3076a",
             "channelId": "fifa-tournaments",

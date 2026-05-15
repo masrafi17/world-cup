@@ -1,8 +1,13 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:30:25 PM 15-05-2026
+#last update time: 08:45:21 PM 15-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/61/64/69/40/61646940-3689-443b-825d-a987457f8edb.png" group-title="FIFA Live", Aigle Noir CS v Rukinzo FC | Coupe du Président de Burundi 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6a75978689636d1b599bf1d03349997:be3354d982e8e4e42f63233666343421
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_19_30_ce6b7f5f-6ee8-419f-8d10-253d5c45b8c5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778849340
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0a/66/9e/bc/0a669ebc-32eb-4d19-902f-b33cf8841915.jpg" group-title="FIFA Live", Draw | FIFA U-20 Women's World Cup Poland 2026™
 #KODIPROP:inputstream.adaptive.license_type=clearkey
