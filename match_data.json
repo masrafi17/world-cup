@@ -3,487 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:45:20 AM 16-05-2026",
-        "total_live": 8,
-        "total_upcoming": 42
+        "last_update_time": "02:00:28 AM 16-05-2026",
+        "total_live": 1,
+        "total_upcoming": 49
     },
     "matches": [
-        {
-            "id": "c4bb37c1-4c52-4240-af79-6917a80ad996",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "c4bb37c1-4c52-4240-af79-6917a80ad996",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Concarneau v Villefranche | Championnat National 2025/2026",
-            "category": "livestream",
-            "urlSlug": "us-concarneau-vs-fc-villefranche-b",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/81/49/01/20/81490120-d0f3-4857-ad6e-10b7cf961389.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/83/32/f9/06/8332f906-47c3-4eeb-882c-0cb391e6c023.png",
-            "freeMode": "FREE_ADS",
-            "title": "Concarneau v Villefranche | Championnat National 2025/2026",
-            "titleTemplateValues": {
-                "city": "Concarneau",
-                "stage": "Regular Season",
-                "match": "Concarneau v Villefranche",
-                "team:fc-villefranche-b": "Villefranche",
-                "stadium": "Stade Guy-Piriou",
-                "association": "France",
-                "global-stage": "Round 34",
-                "publisher-channel": "MA | France | Championnat National 2025/26",
-                "country": "France",
-                "publisher": "MA | France",
-                "season": "Championnat National 2025/2026",
-                "competition": "Championnat National",
-                "team:us-concarneau": "Concarneau",
-                "video-type": "Live Streams",
-                "organizer": "France",
-                "organizer-country": "France"
-            },
-            "startDate": "2026-05-15T17:20:00Z",
-            "endDate": "2026-05-15T20:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-15T17:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Concarneau v Villefranche"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Championnat National 2025/2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 34"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "France"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_21_07_2a772a7b-52e6-44c3-8359-20e11511287c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778865540",
-                "decryption_keys": [
-                    "3d496681415935f380754b4e3c262dbd:6da5dc7fbc77a70f8960cde2547024a5"
-                ]
-            }
-        },
-        {
-            "id": "fb3f60f5-f946-4182-958f-49d30a8eb1ae",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "fb3f60f5-f946-4182-958f-49d30a8eb1ae",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Dijon FCO v Orléans | Championnat National 2025/2026",
-            "category": "livestream",
-            "urlSlug": "dijon-fco-vs-us-orleans",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/81/49/01/20/81490120-d0f3-4857-ad6e-10b7cf961389.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/98/46/3f/41/98463f41-b544-4228-afe4-1f5c057725f5.png",
-            "freeMode": "FREE_ADS",
-            "title": "Dijon FCO v Orléans | Championnat National 2025/2026",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "match": "Dijon FCO v Orléans",
-                "team:us-orleans": "Orléans",
-                "team:dijon-fco": "Dijon FCO",
-                "city": "Dijon",
-                "association": "France",
-                "global-stage": "Round 34",
-                "publisher-channel": "MA | France | Championnat National 2025/26",
-                "country": "France",
-                "publisher": "MA | France",
-                "season": "Championnat National 2025/2026",
-                "competition": "Championnat National",
-                "stadium": "Stade Gaston Gérard",
-                "video-type": "Live Streams",
-                "organizer": "France",
-                "organizer-country": "France"
-            },
-            "startDate": "2026-05-15T17:20:00Z",
-            "endDate": "2026-05-15T20:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-15T17:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Dijon FCO v Orléans"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Championnat National 2025/2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 34"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "France"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_21_20_4f9d11b0-b8d5-49ec-8142-eb665fe2186b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778865540",
-                "decryption_keys": [
-                    "040034f371bc3fcaabf37f311d6e4f7f:c121edfdc0aafb75b66699878230e52c"
-                ]
-            }
-        },
-        {
-            "id": "fd301553-5d92-496d-84c8-ca2e810acf08",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "fd301553-5d92-496d-84c8-ca2e810acf08",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "FC Fleury 91 v Rouen | Championnat National 2025/2026",
-            "category": "livestream",
-            "urlSlug": "fc-fleury-91-vs-fc-rouen-1899",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/81/49/01/20/81490120-d0f3-4857-ad6e-10b7cf961389.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/dc/81/a6/d2/dc81a6d2-52ac-4d08-a0d1-4f2a6fee19c7.png",
-            "freeMode": "FREE_ADS",
-            "title": "FC Fleury 91 v Rouen | Championnat National 2025/2026",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "match": "FC Fleury 91 v Rouen",
-                "association": "France",
-                "global-stage": "Round 34",
-                "publisher-channel": "MA | France | Championnat National 2025/26",
-                "country": "France",
-                "publisher": "MA | France",
-                "season": "Championnat National 2025/2026",
-                "team:fc-rouen-1899": "Rouen",
-                "competition": "Championnat National",
-                "team:fc-fleury-91": "FC Fleury 91",
-                "stadium": "Stade Auguste Gentelet",
-                "city": "Fleury-Mérogis",
-                "video-type": "Live Streams",
-                "organizer": "France",
-                "organizer-country": "France"
-            },
-            "startDate": "2026-05-15T17:20:00Z",
-            "endDate": "2026-05-15T20:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-15T17:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "FC Fleury 91 v Rouen"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Championnat National 2025/2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 34"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "France"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_21_32_5221e73c-0a41-457d-936b-fd7163e07dc3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778865540",
-                "decryption_keys": [
-                    "3239edd857423ffabb1d4ff1d092741f:a3cb859b646b7eb1a73e17831aab5989"
-                ]
-            }
-        },
-        {
-            "id": "a0793d43-ff13-4e9f-8011-fc88f2eaaa34",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "a0793d43-ff13-4e9f-8011-fc88f2eaaa34",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Quevilly-Rouen Métropole v Paris 13 Atletico | Championnat National 2025/2026",
-            "category": "livestream",
-            "urlSlug": "qrm-vs-paris-13-atletico",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/81/49/01/20/81490120-d0f3-4857-ad6e-10b7cf961389.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/05/d3/a3/89/05d3a389-97b9-4d81-996d-e5199d3e7389.png",
-            "freeMode": "FREE_ADS",
-            "title": "Quevilly-Rouen Métropole v Paris 13 Atletico | Championnat National 2025/2026",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "stadium": "Stade Robert-Diochon",
-                "match": "Quevilly-Rouen Métropole v Paris 13 Atletico",
-                "association": "France",
-                "global-stage": "Round 34",
-                "publisher-channel": "MA | France | Championnat National 2025/26",
-                "country": "France",
-                "team:paris-13-atletico": "Paris 13 Atletico",
-                "publisher": "MA | France",
-                "season": "Championnat National 2025/2026",
-                "competition": "Championnat National",
-                "team:qrm": "Quevilly-Rouen Métropole",
-                "city": "Le Petit-Quevilly",
-                "video-type": "Live Streams",
-                "organizer": "France",
-                "organizer-country": "France"
-            },
-            "startDate": "2026-05-15T17:20:00Z",
-            "endDate": "2026-05-15T20:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-15T17:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Quevilly-Rouen Métropole v Paris 13 Atletico"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Championnat National 2025/2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 34"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "France"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_21_40_b319a965-1a38-4045-89d5-84800c523930/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778865540",
-                "decryption_keys": [
-                    "f109190b170e3ceb99b7251b5250583c:cd034bd104d2a01e6f900d56c445732f"
-                ]
-            }
-        },
-        {
-            "id": "bc6e83e2-f64d-4037-8105-f09c659cc059",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "bc6e83e2-f64d-4037-8105-f09c659cc059",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "SC Aubagne Air Bel v SM Caen | Championnat National 2025/2026",
-            "category": "livestream",
-            "urlSlug": "s-c-aubagne-air-bel-vs-sm-caen",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/81/49/01/20/81490120-d0f3-4857-ad6e-10b7cf961389.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/e5/d7/8f/34/e5d78f34-2deb-4743-af62-cecc72ee2f77.png",
-            "freeMode": "FREE_ADS",
-            "title": "SC Aubagne Air Bel v SM Caen | Championnat National 2025/2026",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "team:s-c-aubagne-air-bel": "SC Aubagne Air Bel",
-                "team:sm-caen": "SM Caen",
-                "match": "SC Aubagne Air Bel v SM Caen",
-                "association": "France",
-                "global-stage": "Round 34",
-                "publisher-channel": "MA | France | Championnat National 2025/26",
-                "country": "France",
-                "publisher": "MA | France",
-                "season": "Championnat National 2025/2026",
-                "city": "Aubagne",
-                "competition": "Championnat National",
-                "video-type": "Live Streams",
-                "stadium": "Stade de Lattre de Tassigny",
-                "organizer": "France",
-                "organizer-country": "France"
-            },
-            "startDate": "2026-05-15T17:20:00Z",
-            "endDate": "2026-05-15T20:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-15T17:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "SC Aubagne Air Bel v SM Caen"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Championnat National 2025/2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 34"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "France"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_21_04_25346e57-d048-4baa-a996-337b0bae53cb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778865540",
-                "decryption_keys": [
-                    "975c9efb9bd333b28ec47ad147f7d8b2:b23adf0905afdbc05a6b2875438871cb"
-                ]
-            }
-        },
-        {
-            "id": "a4bbc275-7910-4425-9452-0033017edf0c",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "a4bbc275-7910-4425-9452-0033017edf0c",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Valenciennes v Châteauroux | Championnat National 2025/2026",
-            "category": "livestream",
-            "urlSlug": "valenciennes-fc-vs-lb-chateauroux",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/81/49/01/20/81490120-d0f3-4857-ad6e-10b7cf961389.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/1a/e9/8c/67/1ae98c67-34e8-4dc6-88a2-7dc4c687adc6.png",
-            "freeMode": "FREE_ADS",
-            "title": "Valenciennes v Châteauroux | Championnat National 2025/2026",
-            "titleTemplateValues": {
-                "stadium": "Stade du Hainaut",
-                "stage": "Regular Season",
-                "team:lb-chateauroux": "Châteauroux",
-                "team:valenciennes-fc": "Valenciennes",
-                "association": "France",
-                "global-stage": "Round 34",
-                "publisher-channel": "MA | France | Championnat National 2025/26",
-                "country": "France",
-                "publisher": "MA | France",
-                "city": "Valenciennes",
-                "season": "Championnat National 2025/2026",
-                "competition": "Championnat National",
-                "match": "Valenciennes v Châteauroux",
-                "video-type": "Live Streams",
-                "organizer": "France",
-                "organizer-country": "France"
-            },
-            "startDate": "2026-05-15T17:20:00Z",
-            "endDate": "2026-05-15T20:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-15T17:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Valenciennes v Châteauroux"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Championnat National 2025/2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 34"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "France"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_21_01_16ecfd72-837e-47b9-90ef-857f535e3034/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778865540",
-                "decryption_keys": [
-                    "a2d737e742bb3d7bbcf133622bbc0b81:4674f131a87a260a93e74bc2cd9e4237"
-                ]
-            }
-        },
-        {
-            "id": "494c7a68-92a0-416c-8317-2174c9d1161a",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "494c7a68-92a0-416c-8317-2174c9d1161a",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Versailles v Stade Briochin | Championnat National 2025/2026",
-            "category": "livestream",
-            "urlSlug": "fc-versailles-vs-stade-briochin",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/81/49/01/20/81490120-d0f3-4857-ad6e-10b7cf961389.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/a6/12/88/7a/a612887a-1e2a-41da-896b-24870641625a.png",
-            "freeMode": "FREE_ADS",
-            "title": "Versailles v Stade Briochin | Championnat National 2025/2026",
-            "titleTemplateValues": {
-                "city": "Versailles",
-                "stage": "Regular Season",
-                "team:stade-briochin": "Stade Briochin",
-                "match": "Versailles v Stade Briochin",
-                "association": "France",
-                "global-stage": "Round 34",
-                "publisher-channel": "MA | France | Championnat National 2025/26",
-                "country": "France",
-                "stadium": "Stade Municipal Montbauron",
-                "publisher": "MA | France",
-                "season": "Championnat National 2025/2026",
-                "competition": "Championnat National",
-                "team:fc-versailles": "Versailles",
-                "video-type": "Live Streams",
-                "organizer": "France",
-                "organizer-country": "France"
-            },
-            "startDate": "2026-05-15T17:20:00Z",
-            "endDate": "2026-05-15T20:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-15T17:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Versailles v Stade Briochin"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Championnat National 2025/2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 34"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "France"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_21_36_72e0b2ec-9359-428d-858e-a8de3c84d115/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778865540",
-                "decryption_keys": [
-                    "3df86022f0bb3d34aa092e22a8726c4f:7d0dac445c620998d49574a9ae74cb28"
-                ]
-            }
-        },
         {
             "id": "0d463ba0-94ef-4dc4-aa69-efef74b04b33",
             "channelId": "fifa-tournaments",
@@ -3132,6 +2656,440 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Burkina Faso"
+                }
+            ]
+        },
+        {
+            "id": "ad84efa9-43aa-44e4-b582-9be26239050f",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "ad84efa9-43aa-44e4-b582-9be26239050f",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "USCO v EFO | Burkina Faso Ligue 1 2025-26",
+            "category": "livestream",
+            "urlSlug": "usco-vs-efo",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/3b/13/b3/ef/3b13b3ef-4be4-44d7-a870-91a28d0a18a9.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/c4/83/b1/42/c483b142-ddc5-4c56-83dc-bc339bd5a920.png",
+            "freeMode": "FREE_ADS",
+            "title": "USCO v EFO | Burkina Faso Ligue 1 2025-26",
+            "titleTemplateValues": {
+                "team:usco": "USCO",
+                "match": "USCO v EFO",
+                "global-stage": "Relegation Playoff – First Leg",
+                "stadium": "Stade Municipal de Banfora",
+                "publisher": "MA | Burkina Faso",
+                "stage": "Regular Season",
+                "association": "Burkina Faso",
+                "season": "Burkina Faso Ligue 1 2025-26",
+                "competition": "Ligue 1",
+                "country": "Burkina Faso",
+                "city": "Banfora",
+                "team:efo": "EFO",
+                "video-type": "Live Streams",
+                "publisher-channel": "MA | Burkina Faso | Ligue 1 Masculine 2025/2026",
+                "organizer": "Burkina Faso",
+                "organizer-country": "Burkina Faso"
+            },
+            "startDate": "2026-05-16T15:50:00Z",
+            "endDate": "2026-05-16T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-16T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "USCO v EFO"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Burkina Faso Ligue 1 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Relegation Playoff – First Leg"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Burkina Faso"
+                }
+            ]
+        },
+        {
+            "id": "3be84133-b076-4ec0-a737-3e08d54d5d83",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "3be84133-b076-4ec0-a737-3e08d54d5d83",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "CA Batna v CR Témouchent | Ligue 2 2025/26",
+            "category": "livestream",
+            "urlSlug": "ca-batna-vs-cr-temouchent",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/dd/9e/f8/b4/dd9ef8b4-c2dd-4b1c-bfbf-c61decf09f11.png",
+            "freeMode": "FREE_ADS",
+            "title": "CA Batna v CR Témouchent | Ligue 2 2025/26",
+            "titleTemplateValues": {
+                "team:cr-temouchent": "CR Témouchent",
+                "team:ca-batna": "CA Batna",
+                "publisher": "MA | Algeria",
+                "association": "Algeria",
+                "match": "CA Batna v CR Témouchent",
+                "city": "Baraki",
+                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
+                "stadium": "Stade Nelson Mandela",
+                "competition": "Ligue 2",
+                "country": "Algeria",
+                "stage": "Playoffs",
+                "season": "Ligue 2 2025/26",
+                "video-type": "Live Streams",
+                "global-stage": "Promotion Playoff Semi-Final",
+                "organizer": "Algeria",
+                "organizer-country": "Algeria"
+            },
+            "startDate": "2026-05-16T15:50:00Z",
+            "endDate": "2026-05-16T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-16T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "CA Batna v CR Témouchent"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 2 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Promotion Playoff Semi-Final"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Algeria"
+                }
+            ]
+        },
+        {
+            "id": "4d34cc02-7e5a-47fa-8572-a30dab9de623",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "4d34cc02-7e5a-47fa-8572-a30dab9de623",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "USM El Harrach v US Chaouia | Promotion Playoff Semi-Final | Ligue 2 2025/26",
+            "category": "livestream",
+            "urlSlug": "usm-el-harrach-vs-us-chaouia",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/b4/93/0b/fe/b4930bfe-fe7b-45c2-ac72-ca79de59694a.png",
+            "freeMode": "FREE_ADS",
+            "title": "USM El Harrach v US Chaouia | Promotion Playoff Semi-Final | Ligue 2 2025/26",
+            "titleTemplateValues": {
+                "match": "USM El Harrach v US Chaouia",
+                "publisher": "MA | Algeria",
+                "association": "Algeria",
+                "team:us-chaouia": "US Chaouia",
+                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
+                "competition": "Ligue 2",
+                "stadium": "Miloud Hadefi Stadium",
+                "city": "Oran",
+                "country": "Algeria",
+                "team:usm-el-harrach": "USM El Harrach",
+                "stage": "Playoffs",
+                "season": "Ligue 2 2025/26",
+                "video-type": "Live Streams",
+                "global-stage": "Promotion Playoff Semi-Final",
+                "organizer": "Algeria",
+                "organizer-country": "Algeria"
+            },
+            "startDate": "2026-05-16T15:50:00Z",
+            "endDate": "2026-05-16T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-16T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "USM El Harrach v US Chaouia"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 2 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Promotion Playoff Semi-Final"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Algeria"
+                }
+            ]
+        },
+        {
+            "id": "d390d884-5c27-47ff-805c-ceaaec829d1f",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "d390d884-5c27-47ff-805c-ceaaec829d1f",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Gambia Ports Authority FC v Hart FC | Gambia GFF League 25/26",
+            "category": "livestream",
+            "urlSlug": "gambia-ports-authority-fc-vs-hart-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/64/be/27/b9/64be27b9-9540-4e4f-8075-8bda82775782.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/e1/8c/09/a9/e18c09a9-e0b4-443c-af28-c552cb7f1ab5.png",
+            "freeMode": "FREE_ADS",
+            "title": "Gambia Ports Authority FC v Hart FC | Gambia GFF League 25/26",
+            "titleTemplateValues": {
+                "country": "The Gambia",
+                "team:hart-fc": "Hart FC",
+                "publisher": "MA | Gambia",
+                "stage": "Regular Season",
+                "competition": "Gambia GFF League",
+                "association": "The Gambia",
+                "team:gambia-ports-authority-fc": "Gambia Ports Authority FC",
+                "global-stage": "Round 25",
+                "publisher-channel": "MA | Gambia | GFF League 2025/2026 (Channel)",
+                "stadium": "Serrekunda East Mini Stadium (SK East)",
+                "season": "Gambia GFF League 25/26",
+                "match": "Gambia Ports Authority FC v Hart FC",
+                "city": "Serrekunda",
+                "video-type": "Live Streams",
+                "organizer": "The Gambia",
+                "organizer-country": "The Gambia"
+            },
+            "startDate": "2026-05-16T16:20:00Z",
+            "endDate": "2026-05-16T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-16T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Gambia Ports Authority FC v Hart FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Gambia GFF League 25/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 25"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "The Gambia"
+                }
+            ]
+        },
+        {
+            "id": "b43d4b85-1755-440a-b1e9-80d625e71d63",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "b43d4b85-1755-440a-b1e9-80d625e71d63",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Sporting Clube GB v Tigres de Fronteira | Campeonato Nacional de Futebol da 1a Divisão 2025/26",
+            "category": "livestream",
+            "urlSlug": "sporting-clube-gb-vs-tigres-f-sao-domingos",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f5/aa/df/8d/f5aadf8d-fa6c-49d2-9a09-43ac1fc84e29.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ba/01/c3/35/ba01c335-3ede-4971-92c4-62ca2d3f7abb.png",
+            "freeMode": "FREE_ADS",
+            "title": "Sporting Clube GB v Tigres de Fronteira | Campeonato Nacional de Futebol da 1a Divisão 2025/26",
+            "titleTemplateValues": {
+                "publisher": "MA | Guinea-Bissau (Publisher)",
+                "global-stage": "Round 19",
+                "competition": "Campeonato Nacional de Futebol da 1a Divisão",
+                "team:sporting-clube-gb": "Sporting Clube GB",
+                "association": "Guinea-Bissau",
+                "city": "Bissau",
+                "season": "Campeonato Nacional de Futebol da 1a Divisão 2025/26",
+                "team:tigres-f-sao-domingos": "Tigres de Fronteira",
+                "country": "Guinea-Bissau",
+                "publisher-channel": "MA | Guinea-Bissau | Campeonato Nacional de Futebol da 1a Divisão 2025/26 (Channel)",
+                "stadium": "Lino Correia",
+                "stage": "Regular Season",
+                "video-type": "Live Streams",
+                "match": "Sporting Clube GB v Tigres de Fronteira",
+                "organizer": "Guinea-Bissau",
+                "organizer-country": "Guinea-Bissau"
+            },
+            "startDate": "2026-05-16T16:35:00Z",
+            "endDate": "2026-05-16T19:15:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-16T16:45:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Sporting Clube GB v Tigres de Fronteira"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Campeonato Nacional de Futebol da 1a Divisão 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 19"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Guinea-Bissau"
+                }
+            ]
+        },
+        {
+            "id": "5ac0c350-9083-4fb2-91e4-08d5dfa98d08",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "5ac0c350-9083-4fb2-91e4-08d5dfa98d08",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Inter Nouakchott v Chemal FC | Super D-1 2025/26",
+            "category": "livestream",
+            "urlSlug": "inter-nouakchott-vs-chemal-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/39/61/d8/4a/3961d84a-2170-4737-8a7c-42d7ae00e8f7.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/2f/65/47/19/2f654719-99c3-4ea0-885f-65ec77fdecf6.png",
+            "freeMode": "FREE_ADS",
+            "title": "Inter Nouakchott v Chemal FC | Super D-1 2025/26",
+            "titleTemplateValues": {
+                "stage": "Regular season",
+                "publisher": "MA | Mauritania",
+                "competition": "Super D-1",
+                "city": "Nouakchott",
+                "global-stage": "Round 25",
+                "association": "Mauritania",
+                "match": "Inter Nouakchott v Chemal FC",
+                "stadium": "Stade Cheikha Ould Boïdiya",
+                "team:chemal-fc": "Chemal FC",
+                "publisher-channel": "MA | Mauritania | Super D1 2025/2026",
+                "season": "Super D-1 2025/26",
+                "country": "Mauritania",
+                "video-type": "Live Streams",
+                "team:inter-nouakchott": "Inter Nouakchott",
+                "organizer": "Mauritania",
+                "organizer-country": "Mauritania"
+            },
+            "startDate": "2026-05-16T16:35:00Z",
+            "endDate": "2026-05-16T19:15:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-16T16:45:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Inter Nouakchott v Chemal FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Super D-1 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 25"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mauritania"
+                }
+            ]
+        },
+        {
+            "id": "69a322c6-e95e-4a2e-ab28-63d48098b113",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "69a322c6-e95e-4a2e-ab28-63d48098b113",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "KF Vllaznia v FC Dinamo City | Championship Playoff | Kategoria Superiore 2025/26",
+            "category": "livestream",
+            "urlSlug": "kf-vllaznia-vs-fc-dinamo-city",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1e/b8/b6/0d/1eb8b60d-ca73-4620-a12e-6d83b3142377.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/db/e6/4d/b7/dbe64db7-08b2-420f-9b27-10be33397ffd.png",
+            "freeMode": "FREE_ADS",
+            "title": "KF Vllaznia v FC Dinamo City | Championship Playoff | Kategoria Superiore 2025/26",
+            "titleTemplateValues": {
+                "global-stage": "Championship Playoff",
+                "stadium": "Air Albania Stadium",
+                "season": "Kategoria Superiore 2025/26",
+                "team:kf-vllaznia": "KF Vllaznia",
+                "country": "Albania",
+                "publisher-channel": "MA | Albania | Abissnet Superiore 2025/26",
+                "match": "KF Vllaznia v FC Dinamo City",
+                "publisher": "MA | Albania",
+                "stage": "Final 4",
+                "competition": "Kategoria Superiore",
+                "team:fc-dinamo-city": "FC Dinamo City",
+                "association": "Albania",
+                "video-type": "Live Streams",
+                "city": "Tirana",
+                "organizer": "Albania",
+                "organizer-country": "Albania"
+            },
+            "startDate": "2026-05-16T16:50:00Z",
+            "endDate": "2026-05-16T19:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-16T17:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "KF Vllaznia v FC Dinamo City"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Kategoria Superiore 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Championship Playoff"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Albania"
                 }
             ]
         }
