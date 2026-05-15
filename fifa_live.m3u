@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:15:21 PM 15-05-2026
+#last update time: 10:30:22 PM 15-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/fb/e9/31/40/fbe93140-09bd-49ab-a694-03d3b06058fe.png" group-title="FIFA Live", Al Arabi v Gulf United | Round 28 | First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0909a5adee063feb9cb86fa602b3aeaf:10888334623e551b234fbced3d3a246c
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_12_29_22_35baf06b-9512-41ab-8bf2-08430d6b765d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778853240
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1c/0b/3c/a5/1c0b3ca5-db2a-4f16-b1cb-169adf2a96bb.png" group-title="FIFA Live", Al Dhaid Club v Hatta Club | Round 28 | First Division League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -18,11 +13,6 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_12_29_18_2e0c6c18-d7f8-44da-96ae
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc14c3fee0a53200aca350b4d948a82c:a9e7c23eebef433ac895a2162fd5fb3c
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_12_29_36_c5a56d83-cb87-42e1-8e99-78f48c4ad630/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778853240
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/2d/f6/1c/f4/2df61cf4-5312-4a06-8434-d5ad53c03e34.png" group-title="FIFA Live", Al Orooba v United Club | Round 28 | First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3810b86a19b33472b360a2b8c49db90e:e1821c2a3545090c5d294c4f3e6a24fb
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_12_29_41_c9c3b4a1-094c-4552-aa92-dc0ba67ae0b6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778853240
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/50/3b/ea/97/503bea97-a296-45bc-8504-017a69bc83cb.png" group-title="FIFA Live", Al-Ittifaq v Emirates Club | Round 28 | First Division League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
