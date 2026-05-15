@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:15:18 AM 15-05-2026",
-        "total_live": 1,
+        "last_update_time": "08:30:22 AM 15-05-2026",
+        "total_live": 0,
         "total_upcoming": 23
     },
     "matches": [
-        {
-            "id": "246fdb15-2fcb-4c63-9074-f2bbeec4b6ea",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "246fdb15-2fcb-4c63-9074-f2bbeec4b6ea",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Old Road United Jets v St. Peters FC | SKNFA Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "old-road-united-jets-vs-st-peters-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/24/a4/56/de/24a456de-ef9a-414b-8fd0-37ee22ff3391.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d8/00/13/3a/d800133a-c2dd-4869-894b-bc5c5953666a.png",
-            "freeMode": "FREE_ADS",
-            "title": "Old Road United Jets v St. Peters FC | SKNFA Premier League 2025/26",
-            "titleTemplateValues": {
-                "stage": "Play Off",
-                "association": "St Kitts and Nevis",
-                "publisher": "MA | Saint Kitts and Nevis",
-                "match": "Old Road United Jets v St. Peters FC",
-                "publisher-channel": "MA | Saint Kitts and Nevis | SKNFA Premier League 2025/2026",
-                "competition": "SKNFA Premier League",
-                "team:old-road-united-jets": "Old Road United Jets",
-                "global-stage": "Final - First Leg",
-                "stadium": "SKNFA Technical Center",
-                "country": "St Kitts and Nevis",
-                "season": "SKNFA Premier League 2025/26",
-                "city": "Monkey Hill",
-                "video-type": "Live Streams",
-                "team:st-peters-fc": "St. Peters FC",
-                "organizer": "St Kitts and Nevis",
-                "organizer-country": "St Kitts and Nevis"
-            },
-            "startDate": "2026-05-14T23:55:00Z",
-            "endDate": "2026-05-15T02:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-15T00:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Old Road United Jets v St. Peters FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "SKNFA Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Final - First Leg"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "St Kitts and Nevis"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_28_00_c53caa41-54a8-40a0-8edc-49c587c2f92c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778802840",
-                "decryption_keys": [
-                    "f873fa513a6e3aa5a169128429962ec5:d71bfb9fcf77f61404b37d5fb48af546"
-                ]
-            }
-        },
         {
             "id": "168b0e6f-7c31-42fe-89f7-823ba33e1cc1",
             "channelId": "fifa-tournaments",
