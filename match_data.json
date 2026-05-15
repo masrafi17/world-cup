@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:45:21 PM 15-05-2026",
+        "last_update_time": "11:00:30 PM 15-05-2026",
         "total_live": 4,
-        "total_upcoming": 9
+        "total_upcoming": 8
     },
     "matches": [
         {
@@ -279,67 +279,6 @@
                     "9da2cb9253b33a05851d4586f1f362b4:ffe4bf2c92ed2e59ee7776b15d79061f"
                 ]
             }
-        },
-        {
-            "id": "eb88ced0-9eb1-49cc-b852-2ecca486663e",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "eb88ced0-9eb1-49cc-b852-2ecca486663e",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "ASC Gendrim v AS Douanes | President’s Cup 2025",
-            "category": "livestream",
-            "urlSlug": "asc-gendrim-vs-as-douanes",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f7/00/66/3b/f700663b-79b1-40df-8e7c-9495b626f87c.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/58/b5/bf/92/58b5bf92-a0c5-45d2-bc48-5a0ef0cc2d4a.png",
-            "freeMode": "FREE_ADS",
-            "title": "ASC Gendrim v AS Douanes | President’s Cup 2025",
-            "titleTemplateValues": {
-                "publisher": "MA | Mauritania",
-                "team:asc-gendrim": "ASC Gendrim",
-                "city": "Nouakchott",
-                "stadium": "Olympic Complex Stadium",
-                "season": "President’s Cup 2025",
-                "association": "Mauritania",
-                "competition": "Mauritanian Coupe du Président",
-                "publisher-channel": "MA | Mauritania | Coupe du Président 2025",
-                "global-stage": "Final",
-                "team:as-douanes": "AS Douanes",
-                "match": "ASC Gendrim v AS Douanes",
-                "country": "Mauritania",
-                "video-type": "Live Streams",
-                "organizer": "Mauritania",
-                "organizer-country": "Mauritania"
-            },
-            "startDate": "2026-05-15T16:55:00Z",
-            "endDate": "2026-05-15T20:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-15T17:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "ASC Gendrim v AS Douanes"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "President’s Cup 2025"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Final"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mauritania"
-                }
-            ]
         },
         {
             "id": "c4bb37c1-4c52-4240-af79-6917a80ad996",
