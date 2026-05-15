@@ -3,74 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:00:26 PM 15-05-2026",
-        "total_live": 0,
-        "total_upcoming": 22
+        "last_update_time": "07:15:27 PM 15-05-2026",
+        "total_live": 1,
+        "total_upcoming": 21
     },
     "matches": [
-        {
-            "id": "168b0e6f-7c31-42fe-89f7-823ba33e1cc1",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "168b0e6f-7c31-42fe-89f7-823ba33e1cc1",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Auckland FC v Auckland City | New Zealand Men's National League 2026 | Full Match Replay",
-            "category": "livestream",
-            "urlSlug": "auckland-fc-vs-auckland-city-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ca/5c/29/2e/ca5c292e-24bb-4f17-9f8f-2adf9de30613.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Auckland FC v Auckland City | New Zealand Men's National League 2026 | Full Match Replay",
-            "titleTemplateValues": {
-                "competition": "Men's National League",
-                "publisher": "MA | New Zealand",
-                "publisher-channel": "MA | New Zealand | Men's National League 2026 - Regional Phase (Channel)",
-                "global-stage": "Northern League",
-                "match": "Auckland FC v Auckland City",
-                "season": "New Zealand Men's National League 2026",
-                "team:auckland-fc": "Auckland FC",
-                "stage": "Regional Phase - Northern League",
-                "stadium": "Fred Taylor Park",
-                "association": "New Zealand",
-                "city": "Auckland",
-                "video-type": "Full Match Replays",
-                "country": "New Zealand",
-                "team:auckland-city-fc": "Auckland City",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "organizer": "New Zealand",
-                "organizer-country": "New Zealand"
-            },
-            "startDate": "2026-05-15T06:50:00Z",
-            "endDate": "2026-05-15T09:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-15T07:00:00Z"
-            },
-            "isRegistrationRequired": true,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Auckland FC v Auckland City"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "New Zealand Men's National League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Northern League"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "New Zealand"
-                }
-            ]
-        },
         {
             "id": "acbcaa43-b3ff-42f7-ad6f-d5e3abf366b2",
             "channelId": "fifa-tournaments",
@@ -101,7 +38,7 @@
                 "organizer": "Burundi",
                 "organizer-country": "Burundi"
             },
-            "startDate": "2026-05-15T11:50:00Z",
+            "startDate": "2026-05-15T12:50:00Z",
             "endDate": "2026-05-15T14:30:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-15T12:00:00Z"
@@ -109,7 +46,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -131,7 +68,13 @@
                     "p": 1,
                     "value": "Burundi"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_19_30_ce6b7f5f-6ee8-419f-8d10-253d5c45b8c5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778849340",
+                "decryption_keys": [
+                    "c6a75978689636d1b599bf1d03349997:be3354d982e8e4e42f63233666343421"
+                ]
+            }
         },
         {
             "id": "0230b215-9fdf-4404-8b46-acfb65c3076a",
