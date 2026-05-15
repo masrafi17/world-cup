@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:45:20 PM 15-05-2026
+#last update time: 10:00:28 PM 15-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/fb/e9/31/40/fbe93140-09bd-49ab-a694-03d3b06058fe.png" group-title="FIFA Live", Al Arabi v Gulf United | Round 28 | First Division League 2025/26
@@ -53,3 +53,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_10_25_02_c3432cc4-342c-468f-8a7f
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb63176347163b3b95b81182f85ac33a:e22b76fdc7faa0e79aa8fe05ed532556
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_24_31_2e0bb4dd-97e7-4155-8dc5-92a42001dd8c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778859240
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/31/03/9c/22/31039c22-6b70-4354-8cfd-a1578958cd9a.png" group-title="FIFA Live", FK TransINVEST B v Be1 NFA | Pirma Lyga 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9da2cb9253b33a05851d4586f1f362b4:ffe4bf2c92ed2e59ee7776b15d79061f
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_08_38_03_a9f5e5bd-9f12-4b54-ad33-63aff6893f3a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778860140
