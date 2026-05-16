@@ -1,10 +1,5 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:00:25 AM 16-05-2026
+#last update time: 09:15:20 AM 16-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/46/ff/7b/e8/46ff7be8-2338-42da-a61e-2486b93ded07.png" group-title="FIFA Live", Attackers FC v Diamond FC | Anguilla Senior Men's League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a10d8596f043a6199f01582457e78b4:a3ec4c1e345d3e820bd30c04aa3b8326
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_08_41_20_62e1221d-38cc-47be-a80e-29cdb19ece6c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778891040
