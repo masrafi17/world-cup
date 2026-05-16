@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:45:23 PM 16-05-2026
+#last update time: 05:00:24 PM 16-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c2/d3/fa/bf/c2d3fabf-0449-4928-85e6-dff7886c0cd6.png" group-title="FIFA Live", MFA Žalgiris–MRU v Kauno rajono FA | Moterų A lyga 2026
@@ -18,3 +18,13 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_41_58_7fa48bee-153a-4952-b97a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34987205f810330c9d866a0185a097a7:ad9452e1106eecc1892992d9da3c1911
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_12_29_52_8130f13f-219e-474d-9fde-b78259b14938/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778924940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/63/45/97/24/63459724-e2c7-4dbd-9c9b-d2d661bab72b.png" group-title="FIFA Live", Manzini Wanderers FC v Royal Leopards FC | MTN Premier League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65afb07e3adf34af8bb172580fb69e13:565a669ed453c8a27bb38c15aa15cdd9
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_12_54_c60a47bd-8d3c-40c3-9fc1-b46de29a3003/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778928540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d6/ee/5c/66/d6ee5c66-cc98-410a-9049-0ab6e6ebe7d5.png" group-title="FIFA Live", Neptūnas v Minija | Pirma Lyga 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33a5eb2dd62332129c05f39da6b8007d:6458fd24dca48c5d6382b9c9b1cfc026
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_08_38_07_c4e61e5a-275d-472d-9470-d77a880a9439/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778928540
