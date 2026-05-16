@@ -1,28 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:45:19 AM 17-05-2026
+#last update time: 04:00:23 AM 17-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/28/fa/8c/13/28fa8c13-dffd-4aa5-a31a-005c81ebe90a.png" group-title="FIFA Live", Atlético Barinas v Barquisimeto SC | Liga FUTVE 2 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c58496cdf7543ce6b39fb2368d1e6291:e418bc92fcbae7f74702b761dec451eb
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_04_14_27684ce8-ea19-4f06-97a0-802ebe96efb8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778959140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/88/e7/f9/bf/88e7f9bf-d332-412c-ad44-26626dd248b9.png" group-title="FIFA Live", El Vigía FC v Zamora FC (B) | Liga FUTVE 2 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30499d5a0ec133e19b365e6454b1de8b:702ee69cfa952ae61648c0f5eb4b9861
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_04_18_3bae39e7-0106-4ab2-839d-41142fc30664/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778959140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/26/09/ee/4c/2609ee4c-e830-47c1-b0e0-67d6f8d10974.png" group-title="FIFA Live", Mineros de Guayana v Miranda | Liga FUTVE 2 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3148af6fad6386791af2b57997c40f2:01876c236fec3755de13d9e876685777
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_04_23_a9592b11-c6db-426d-9096-ad174bf48019/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778959140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7b/35/04/32/7b350432-3792-4ff6-a7a8-d2f7b82ea946.png" group-title="FIFA Live", Yaracuyanos F.C. v Puerto Cabello B | Liga FUTVE 2 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fd58c898ff931189f317e1e6f45ae02:edff3ac7ea96b340a3757ced82f1436c
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_04_29_b1f6087f-9a80-493a-8373-db55b7d64749/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778959140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/80/fb/9c/50/80fb9c50-3ec2-4d08-be15-29d9e4737ac8.png" group-title="FIFA Live", Bath Estate FC v Harlem United SC | DFA Premier League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
