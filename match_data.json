@@ -3,8 +3,8 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:00:28 PM 16-05-2026",
-        "total_live": 13,
+        "last_update_time": "10:15:19 PM 16-05-2026",
+        "total_live": 11,
         "total_upcoming": 4
     },
     "matches": [
@@ -73,142 +73,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_13_24_58_69439394-2caf-49ad-a23c-ab5bc352137d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778939340",
                 "decryption_keys": [
                     "e6284c492a39396d9e55b85d371a7f52:e1f8e8978489820a0da82291c4bfd15a"
-                ]
-            }
-        },
-        {
-            "id": "0f67da1f-8cf5-40a5-856b-0c23c28093c4",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "0f67da1f-8cf5-40a5-856b-0c23c28093c4",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "FA Šiauliai v FK Gintra | Moterų A lyga 2026",
-            "category": "livestream",
-            "urlSlug": "fa-siauliai-vs-fk-gintra",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/bd/c4/94/1b/bdc4941b-d298-4af7-aae1-86bcc62032fd.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/4d/10/08/6e/4d10086e-5642-4ec9-9483-9732d754801a.png",
-            "freeMode": "FREE_ADS",
-            "title": "FA Šiauliai v FK Gintra | Moterų A lyga 2026",
-            "titleTemplateValues": {
-                "season": "Moterų A lyga 2026",
-                "city": "Šiauliai",
-                "publisher-channel": "MA | Lithuania | Moterų A Lyga 2026 (Channel)",
-                "country": "Lithuania",
-                "match": "FA Šiauliai v FK Gintra",
-                "competition": "Women's A league",
-                "stadium": "Gytariai Stadium",
-                "team:fa-siauliai": "FA Šiauliai",
-                "publisher": "MA | Lithuania ",
-                "association": "Lithuania",
-                "stage": "Moterų A Lyga",
-                "team:fk-gintra": "FK Gintra",
-                "video-type": "Live Streams",
-                "global-stage": "Round 8",
-                "organizer": "Lithuania",
-                "organizer-country": "Lithuania"
-            },
-            "startDate": "2026-05-16T13:50:00Z",
-            "endDate": "2026-05-16T16:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T14:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "FA Šiauliai v FK Gintra"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Moterų A lyga 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 8"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lithuania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_12_29_57_fde337d0-cf1a-493d-b22f-1f2fd2453e4c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778939340",
-                "decryption_keys": [
-                    "6c647285e43132999495937ab62dfe8d:0169b48e0879151701f831c1dfb363bb"
-                ]
-            }
-        },
-        {
-            "id": "953ec4cd-823d-4cdd-bd7a-efe9fdd4da6c",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "953ec4cd-823d-4cdd-bd7a-efe9fdd4da6c",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Mitrovica v KFF Feronikeli | Siguria Superliga e Femrave 2026",
-            "category": "livestream",
-            "urlSlug": "mitrovica-vs-kff-feronikeli",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/9f/e4/16/f99fe416-c506-4889-98a0-7682087e5bce.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/da/37/da/3e/da37da3e-6353-413d-92ac-7e22280756e9.png",
-            "freeMode": "FREE_ADS",
-            "title": "Mitrovica v KFF Feronikeli | Siguria Superliga e Femrave 2026",
-            "titleTemplateValues": {
-                "competition": "Superliga e Femrave",
-                "city": "Mitrovica",
-                "team:kff-feronikeli": "KFF Feronikeli",
-                "stage": "Regular Season",
-                "association": "Kosovo",
-                "publisher": "MA | Kosovo",
-                "stadium": "Xhevat Jusufi Stadium",
-                "match": "Mitrovica v KFF Feronikeli",
-                "team:mitrovica": "Mitrovica",
-                "publisher-channel": "MA | Kosovo | Siguria Superliga e Femrave 2026",
-                "season": "Siguria Superliga e Femrave 2026",
-                "country": "Kosovo",
-                "global-stage": "Round 9",
-                "video-type": "Live Streams",
-                "organizer": "Kosovo",
-                "organizer-country": "Kosovo"
-            },
-            "startDate": "2026-05-16T13:50:00Z",
-            "endDate": "2026-05-16T16:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T14:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Mitrovica v KFF Feronikeli"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Siguria Superliga e Femrave 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 9"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Kosovo"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_08_17_30_5609abe6-bcb7-4c35-b210-5b80c51de88b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778939340",
-                "decryption_keys": [
-                    "28205bd44ec63a3c86f0890b047187a7:18d6e1f820eb6dcafb0d2013b798b94b"
                 ]
             }
         },
