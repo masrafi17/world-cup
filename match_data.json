@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:15:19 PM 16-05-2026",
+        "last_update_time": "10:30:18 PM 16-05-2026",
         "total_live": 11,
-        "total_upcoming": 4
+        "total_upcoming": 3
     },
     "matches": [
-        {
-            "id": "faaf50c0-5929-4881-a0fd-6e6a3f52de9e",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "faaf50c0-5929-4881-a0fd-6e6a3f52de9e",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "KF Teuta v Pogradeci | Kategoria Superiore 2025/26",
-            "category": "livestream",
-            "urlSlug": "kf-teuta-vs-fk-pogradeci",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1e/b8/b6/0d/1eb8b60d-ca73-4620-a12e-6d83b3142377.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/07/60/6b/45/07606b45-9ee1-4c1f-af6e-d44c6af38c43.png",
-            "freeMode": "FREE_ADS",
-            "title": "KF Teuta v Pogradeci | Kategoria Superiore 2025/26",
-            "titleTemplateValues": {
-                "stage": "Relegation Play-off",
-                "city": "Durrës",
-                "team:kf-teuta": "KF Teuta",
-                "season": "Kategoria Superiore 2025/26",
-                "team:fk-pogradeci": "Pogradeci",
-                "country": "Albania",
-                "publisher-channel": "MA | Albania | Abissnet Superiore 2025/26",
-                "publisher": "MA | Albania",
-                "competition": "Kategoria Superiore",
-                "stadium": "Niko Dovana Stadium",
-                "match": "KF Teuta v Pogradeci",
-                "association": "Albania",
-                "video-type": "Live Streams",
-                "global-stage": "Relegation Playoff",
-                "organizer": "Albania",
-                "organizer-country": "Albania"
-            },
-            "startDate": "2026-05-16T13:50:00Z",
-            "endDate": "2026-05-16T16:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T14:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "KF Teuta v Pogradeci"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Kategoria Superiore 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Relegation Playoff"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Albania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_13_24_58_69439394-2caf-49ad-a23c-ab5bc352137d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778939340",
-                "decryption_keys": [
-                    "e6284c492a39396d9e55b85d371a7f52:e1f8e8978489820a0da82291c4bfd15a"
-                ]
-            }
-        },
         {
             "id": "42900119-55c3-46ed-8c1c-bded06ffe0c6",
             "channelId": "fifa-tournaments",
@@ -777,7 +709,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -799,7 +731,13 @@
                     "p": 1,
                     "value": "The Gambia"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_21_21_634e8796-4d56-4f92-af5d-81048fbfc6ad/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778948340",
+                "decryption_keys": [
+                    "8b4e32b7edd831ffab8c2d5f2dec205d:f5dadea4d3204f4d9cdcccd0263f2b3e"
+                ]
+            }
         },
         {
             "id": "b43d4b85-1755-440a-b1e9-80d625e71d63",
