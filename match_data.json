@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:15:18 PM 16-05-2026",
-        "total_live": 8,
+        "last_update_time": "09:30:28 PM 16-05-2026",
+        "total_live": 7,
         "total_upcoming": 10
     },
     "matches": [
-        {
-            "id": "eb5cda9f-d8d8-4352-836c-f5e80012e672",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "eb5cda9f-d8d8-4352-836c-f5e80012e672",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Green Mamba FC v Sisonkhe FC | MTN Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "green-mamba-fc-vs-sisonkhe-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9e/94/35/5d/9e94355d-7748-4afb-b681-3496922e3cb0.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/a4/51/4a/28/a4514a28-c3d9-48c4-ac09-31707725cba0.png",
-            "freeMode": "FREE_ADS",
-            "title": "Green Mamba FC v Sisonkhe FC | MTN Premier League 2025/26",
-            "titleTemplateValues": {
-                "city": "Manzini",
-                "competition": "Premier League of Eswatini",
-                "country": "Eswatini",
-                "association": "Eswatini",
-                "team:green-mamba-fc": "Green Mamba FC",
-                "season": "MTN Premier League 2025/26",
-                "stage": "Regular Season",
-                "stadium": "Mavuso Sports Centre",
-                "team:sisonkhe-fc": "Sisonkhe FC",
-                "publisher": "MA | Eswatini",
-                "global-stage": "Round 27",
-                "publisher-channel": "MA | Eswatini | Premier League 2025/2026",
-                "match": "Green Mamba FC v Sisonkhe FC",
-                "video-type": "Live Streams",
-                "organizer": "Eswatini",
-                "organizer-country": "Eswatini"
-            },
-            "startDate": "2026-05-16T13:05:00Z",
-            "endDate": "2026-05-16T15:45:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T13:15:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Green Mamba FC v Sisonkhe FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "MTN Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 27"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Eswatini"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_12_58_61224d98-a614-4a8d-aaa9-f2a52ba137d6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778936640",
-                "decryption_keys": [
-                    "ebb0c2f83fc438acb8c4ce3a93536eaa:e164339d1920aeebe8811f313951f123"
-                ]
-            }
-        },
         {
             "id": "faaf50c0-5929-4881-a0fd-6e6a3f52de9e",
             "channelId": "fifa-tournaments",
@@ -565,7 +497,7 @@
                 "organizer": "Israel",
                 "organizer-country": "Israel"
             },
-            "startDate": "2026-05-16T15:27:00Z",
+            "startDate": "2026-05-16T15:31:00Z",
             "endDate": "2026-05-16T18:00:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-16T15:30:00Z"
