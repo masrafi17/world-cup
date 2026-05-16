@@ -3,283 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:15:20 AM 17-05-2026",
-        "total_live": 9,
-        "total_upcoming": 41
+        "last_update_time": "12:30:20 AM 17-05-2026",
+        "total_live": 5,
+        "total_upcoming": 45
     },
     "matches": [
-        {
-            "id": "e24cf9e4-0be6-4e20-94c9-2472f39979cc",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "e24cf9e4-0be6-4e20-94c9-2472f39979cc",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "AS Sonabel v KOZAF | Burkina Faso Ligue 1 2025-26",
-            "category": "livestream",
-            "urlSlug": "as-sonabel-vs-kozaf",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/3b/13/b3/ef/3b13b3ef-4be4-44d7-a870-91a28d0a18a9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/2c/03/05/d4/2c0305d4-7d9b-40c1-a611-4da10b2fced8.png",
-            "freeMode": "FREE_ADS",
-            "title": "AS Sonabel v KOZAF | Burkina Faso Ligue 1 2025-26",
-            "titleTemplateValues": {
-                "city": "Ouagadougou",
-                "global-stage": "Relegation Playoff – First Leg",
-                "team:as-sonabel": "AS Sonabel",
-                "team:kozaf": "KOZAF",
-                "publisher": "MA | Burkina Faso",
-                "stage": "Regular Season",
-                "association": "Burkina Faso",
-                "season": "Burkina Faso Ligue 1 2025-26",
-                "competition": "Ligue 1",
-                "stadium": "Stade Municipal IJC",
-                "match": "AS Sonabel v KOZAF",
-                "country": "Burkina Faso",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Burkina Faso | Ligue 1 Masculine 2025/2026",
-                "organizer": "Burkina Faso",
-                "organizer-country": "Burkina Faso"
-            },
-            "startDate": "2026-05-16T15:50:00Z",
-            "endDate": "2026-05-16T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "AS Sonabel v KOZAF"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Burkina Faso Ligue 1 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Relegation Playoff – First Leg"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Burkina Faso"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_14_52_1479eae0-86cd-42c2-a47b-43cc05f57ca0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778946540",
-                "decryption_keys": [
-                    "87b4dc1ea2b03952b4d608a0864fac6c:1aac28a254fb9d36ca34d84750187d53"
-                ]
-            }
-        },
-        {
-            "id": "ad84efa9-43aa-44e4-b582-9be26239050f",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "ad84efa9-43aa-44e4-b582-9be26239050f",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "USCO v EFO | Burkina Faso Ligue 1 2025-26",
-            "category": "livestream",
-            "urlSlug": "usco-vs-efo",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/3b/13/b3/ef/3b13b3ef-4be4-44d7-a870-91a28d0a18a9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/c4/83/b1/42/c483b142-ddc5-4c56-83dc-bc339bd5a920.png",
-            "freeMode": "FREE_ADS",
-            "title": "USCO v EFO | Burkina Faso Ligue 1 2025-26",
-            "titleTemplateValues": {
-                "team:usco": "USCO",
-                "match": "USCO v EFO",
-                "global-stage": "Relegation Playoff – First Leg",
-                "stadium": "Stade Municipal de Banfora",
-                "publisher": "MA | Burkina Faso",
-                "stage": "Regular Season",
-                "association": "Burkina Faso",
-                "season": "Burkina Faso Ligue 1 2025-26",
-                "competition": "Ligue 1",
-                "country": "Burkina Faso",
-                "city": "Banfora",
-                "team:efo": "EFO",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Burkina Faso | Ligue 1 Masculine 2025/2026",
-                "organizer": "Burkina Faso",
-                "organizer-country": "Burkina Faso"
-            },
-            "startDate": "2026-05-16T15:50:00Z",
-            "endDate": "2026-05-16T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "USCO v EFO"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Burkina Faso Ligue 1 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Relegation Playoff – First Leg"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Burkina Faso"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_14_55_b3ab1200-6f37-4973-a243-f47e0cb6eea1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778946540",
-                "decryption_keys": [
-                    "71a02b1d6e8b3f90b836d98fbd094a99:78954eefcc4ac1fedaa1360d1892cc3f"
-                ]
-            }
-        },
-        {
-            "id": "3be84133-b076-4ec0-a737-3e08d54d5d83",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "3be84133-b076-4ec0-a737-3e08d54d5d83",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "CA Batna v CR Témouchent | Ligue 2 2025/26",
-            "category": "livestream",
-            "urlSlug": "ca-batna-vs-cr-temouchent",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/dd/9e/f8/b4/dd9ef8b4-c2dd-4b1c-bfbf-c61decf09f11.png",
-            "freeMode": "FREE_ADS",
-            "title": "CA Batna v CR Témouchent | Ligue 2 2025/26",
-            "titleTemplateValues": {
-                "team:cr-temouchent": "CR Témouchent",
-                "team:ca-batna": "CA Batna",
-                "publisher": "MA | Algeria",
-                "association": "Algeria",
-                "match": "CA Batna v CR Témouchent",
-                "city": "Baraki",
-                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
-                "stadium": "Stade Nelson Mandela",
-                "competition": "Ligue 2",
-                "country": "Algeria",
-                "stage": "Playoffs",
-                "season": "Ligue 2 2025/26",
-                "video-type": "Live Streams",
-                "global-stage": "Promotion Playoff Semi-Final",
-                "organizer": "Algeria",
-                "organizer-country": "Algeria"
-            },
-            "startDate": "2026-05-16T15:50:00Z",
-            "endDate": "2026-05-16T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "CA Batna v CR Témouchent"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue 2 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Promotion Playoff Semi-Final"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Algeria"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_14_08_4c9a5c6b-5c5e-4509-863b-09598cd0ea3d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778946540",
-                "decryption_keys": [
-                    "372b81a4afb33b9785cc6d1817148ddf:52d476c8081ffddb9de70419933b543c"
-                ]
-            }
-        },
-        {
-            "id": "4d34cc02-7e5a-47fa-8572-a30dab9de623",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "4d34cc02-7e5a-47fa-8572-a30dab9de623",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "USM El Harrach v US Chaouia | Promotion Playoff Semi-Final | Ligue 2 2025/26",
-            "category": "livestream",
-            "urlSlug": "usm-el-harrach-vs-us-chaouia",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/b4/93/0b/fe/b4930bfe-fe7b-45c2-ac72-ca79de59694a.png",
-            "freeMode": "FREE_ADS",
-            "title": "USM El Harrach v US Chaouia | Promotion Playoff Semi-Final | Ligue 2 2025/26",
-            "titleTemplateValues": {
-                "match": "USM El Harrach v US Chaouia",
-                "publisher": "MA | Algeria",
-                "association": "Algeria",
-                "team:us-chaouia": "US Chaouia",
-                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
-                "competition": "Ligue 2",
-                "stadium": "Miloud Hadefi Stadium",
-                "city": "Oran",
-                "country": "Algeria",
-                "team:usm-el-harrach": "USM El Harrach",
-                "stage": "Playoffs",
-                "season": "Ligue 2 2025/26",
-                "video-type": "Live Streams",
-                "global-stage": "Promotion Playoff Semi-Final",
-                "organizer": "Algeria",
-                "organizer-country": "Algeria"
-            },
-            "startDate": "2026-05-16T15:50:00Z",
-            "endDate": "2026-05-16T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "USM El Harrach v US Chaouia"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue 2 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Promotion Playoff Semi-Final"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Algeria"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_14_12_f38995b2-293e-44aa-aacb-9e0925061aa2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778946540",
-                "decryption_keys": [
-                    "536a06feffc83c21b735d86ef33ae21a:a225539a893762cfb3f5ebcf36057567"
-                ]
-            }
-        },
         {
             "id": "d390d884-5c27-47ff-805c-ceaaec829d1f",
             "channelId": "fifa-tournaments",
@@ -3142,6 +2870,254 @@
                     "kind": "title",
                     "p": 0,
                     "value": "Gambian Dutch Lions v Team Rhino"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Gambia GFF League 25/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 25"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "The Gambia"
+                }
+            ]
+        },
+        {
+            "id": "a02bd761-31ba-41a5-87c0-29bf721fe089",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "a02bd761-31ba-41a5-87c0-29bf721fe089",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Hawks v Bombada | Gambia GFF League 25/26",
+            "category": "livestream",
+            "urlSlug": "hawks-fc-vs-bombada-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/64/be/27/b9/64be27b9-9540-4e4f-8075-8bda82775782.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/b5/7f/cc/7e/b57fcc7e-4517-455d-8b9a-3224bfbacefc.png",
+            "freeMode": "FREE_ADS",
+            "title": "Hawks v Bombada | Gambia GFF League 25/26",
+            "titleTemplateValues": {
+                "country": "The Gambia",
+                "team:hawks-fc": "Hawks",
+                "publisher": "MA | Gambia",
+                "stage": "Regular Season",
+                "city": "Marakissa",
+                "competition": "Gambia GFF League",
+                "association": "The Gambia",
+                "global-stage": "Round 25",
+                "publisher-channel": "MA | Gambia | GFF League 2025/2026 (Channel)",
+                "season": "Gambia GFF League 25/26",
+                "stadium": "Kabakel",
+                "team:bombada-fc": "Bombada",
+                "video-type": "Live Streams",
+                "match": "Hawks v Bombada",
+                "organizer": "The Gambia",
+                "organizer-country": "The Gambia"
+            },
+            "startDate": "2026-05-17T16:20:00Z",
+            "endDate": "2026-05-17T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-17T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Hawks v Bombada"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Gambia GFF League 25/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 25"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "The Gambia"
+                }
+            ]
+        },
+        {
+            "id": "642c742d-3f1d-4dc4-9880-e0c6bc9a58f2",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "642c742d-3f1d-4dc4-9880-e0c6bc9a58f2",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Real de Banjul v Brikama United | Gambia GFF League 25/26",
+            "category": "livestream",
+            "urlSlug": "real-de-banjul-fc-vs-brikama-united",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/64/be/27/b9/64be27b9-9540-4e4f-8075-8bda82775782.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/c2/14/4c/df/c2144cdf-2318-4445-9c74-3476cbd6655e.png",
+            "freeMode": "FREE_ADS",
+            "title": "Real de Banjul v Brikama United | Gambia GFF League 25/26",
+            "titleTemplateValues": {
+                "city": "Brikama",
+                "country": "The Gambia",
+                "team:brikama-united": "Brikama United",
+                "stadium": "Basori",
+                "publisher": "MA | Gambia",
+                "stage": "Regular Season",
+                "competition": "Gambia GFF League",
+                "association": "The Gambia",
+                "global-stage": "Round 25",
+                "match": "Real de Banjul v Brikama United",
+                "publisher-channel": "MA | Gambia | GFF League 2025/2026 (Channel)",
+                "season": "Gambia GFF League 25/26",
+                "team:real-de-banjul-fc": "Real de Banjul",
+                "video-type": "Live Streams",
+                "organizer": "The Gambia",
+                "organizer-country": "The Gambia"
+            },
+            "startDate": "2026-05-17T16:20:00Z",
+            "endDate": "2026-05-17T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-17T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Real de Banjul v Brikama United"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Gambia GFF League 25/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 25"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "The Gambia"
+                }
+            ]
+        },
+        {
+            "id": "355b868f-3f9d-4583-a1b9-619cb35669c9",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "355b868f-3f9d-4583-a1b9-619cb35669c9",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Steve Biko v Medina United | Gambia GFF League 25/26",
+            "category": "livestream",
+            "urlSlug": "steve-biko-fc-vs-medina-united",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/64/be/27/b9/64be27b9-9540-4e4f-8075-8bda82775782.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/98/2f/50/f2/982f50f2-85bf-4c69-90fc-c3ef5768f66c.png",
+            "freeMode": "FREE_ADS",
+            "title": "Steve Biko v Medina United | Gambia GFF League 25/26",
+            "titleTemplateValues": {
+                "country": "The Gambia",
+                "publisher": "MA | Gambia",
+                "stage": "Regular Season",
+                "competition": "Gambia GFF League",
+                "association": "The Gambia",
+                "team:steve-biko-fc": "Steve Biko",
+                "global-stage": "Round 25",
+                "publisher-channel": "MA | Gambia | GFF League 2025/2026 (Channel)",
+                "team:medina-united": "Medina United",
+                "season": "Gambia GFF League 25/26",
+                "match": "Steve Biko v Medina United",
+                "city": "Bakau",
+                "stadium": "Bakau Mini Stadium",
+                "video-type": "Live Streams",
+                "organizer": "The Gambia",
+                "organizer-country": "The Gambia"
+            },
+            "startDate": "2026-05-17T16:20:00Z",
+            "endDate": "2026-05-17T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-17T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Steve Biko v Medina United"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Gambia GFF League 25/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 25"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "The Gambia"
+                }
+            ]
+        },
+        {
+            "id": "19f0dd9c-d4e5-40f6-9002-62259a833890",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "19f0dd9c-d4e5-40f6-9002-62259a833890",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "TMT FA v Greater Tomorrow | Gambia GFF League 25/26",
+            "category": "livestream",
+            "urlSlug": "tmt-fa-vs-greater-tomorrow",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/64/be/27/b9/64be27b9-9540-4e4f-8075-8bda82775782.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/0a/b6/33/ec/0ab633ec-3e21-48a2-952e-dc0f54b006ad.png",
+            "freeMode": "FREE_ADS",
+            "title": "TMT FA v Greater Tomorrow | Gambia GFF League 25/26",
+            "titleTemplateValues": {
+                "stadium": "Ousman Saho Football Field (LOSFF)",
+                "match": "TMT FA v Greater Tomorrow",
+                "country": "The Gambia",
+                "publisher": "MA | Gambia",
+                "stage": "Regular Season",
+                "competition": "Gambia GFF League",
+                "association": "The Gambia",
+                "city": "Old Yundum",
+                "global-stage": "Round 25",
+                "publisher-channel": "MA | Gambia | GFF League 2025/2026 (Channel)",
+                "season": "Gambia GFF League 25/26",
+                "team:greater-tomorrow": "Greater Tomorrow",
+                "team:tmt-fa": "TMT FA",
+                "video-type": "Live Streams",
+                "organizer": "The Gambia",
+                "organizer-country": "The Gambia"
+            },
+            "startDate": "2026-05-17T16:20:00Z",
+            "endDate": "2026-05-17T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-17T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "TMT FA v Greater Tomorrow"
                 },
                 {
                     "kind": "subtitle",
