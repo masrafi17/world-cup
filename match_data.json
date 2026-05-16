@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:00:26 PM 16-05-2026",
+        "last_update_time": "07:15:17 PM 16-05-2026",
         "total_live": 9,
-        "total_upcoming": 18
+        "total_upcoming": 17
     },
     "matches": [
-        {
-            "id": "d58fab0f-7378-425d-8244-215baec85e8a",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "d58fab0f-7378-425d-8244-215baec85e8a",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Manzini Wanderers FC v Royal Leopards FC | MTN Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "manzini-wanderers-fc-vs-royal-leopards-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9e/94/35/5d/9e94355d-7748-4afb-b681-3496922e3cb0.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/63/45/97/24/63459724-e2c7-4dbd-9c9b-d2d661bab72b.png",
-            "freeMode": "FREE_ADS",
-            "title": "Manzini Wanderers FC v Royal Leopards FC | MTN Premier League 2025/26",
-            "titleTemplateValues": {
-                "city": "Manzini",
-                "competition": "Premier League of Eswatini",
-                "country": "Eswatini",
-                "association": "Eswatini",
-                "season": "MTN Premier League 2025/26",
-                "stage": "Regular Season",
-                "stadium": "Mavuso Sports Centre",
-                "publisher": "MA | Eswatini",
-                "global-stage": "Round 27",
-                "team:manzini-wanderers-fc": "Manzini Wanderers FC",
-                "team:royal-leopards-fc": "Royal Leopards FC",
-                "publisher-channel": "MA | Eswatini | Premier League 2025/2026",
-                "match": "Manzini Wanderers FC v Royal Leopards FC",
-                "video-type": "Live Streams",
-                "organizer": "Eswatini",
-                "organizer-country": "Eswatini"
-            },
-            "startDate": "2026-05-16T10:50:00Z",
-            "endDate": "2026-05-16T13:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T11:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Manzini Wanderers FC v Royal Leopards FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "MTN Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 27"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Eswatini"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_12_54_c60a47bd-8d3c-40c3-9fc1-b46de29a3003/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778928540",
-                "decryption_keys": [
-                    "65afb07e3adf34af8bb172580fb69e13:565a669ed453c8a27bb38c15aa15cdd9"
-                ]
-            }
-        },
         {
             "id": "fa01dcc0-9bfc-46b6-93dc-625a5cdce53d",
             "channelId": "fifa-tournaments",
@@ -658,7 +590,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -680,7 +612,13 @@
                     "p": 1,
                     "value": "Eswatini"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_12_58_61224d98-a614-4a8d-aaa9-f2a52ba137d6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778936640",
+                "decryption_keys": [
+                    "ebb0c2f83fc438acb8c4ce3a93536eaa:e164339d1920aeebe8811f313951f123"
+                ]
+            }
         },
         {
             "id": "faaf50c0-5929-4881-a0fd-6e6a3f52de9e",
