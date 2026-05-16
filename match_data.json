@@ -3,587 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:45:23 PM 16-05-2026",
-        "total_live": 3,
-        "total_upcoming": 28
+        "last_update_time": "08:30:21 PM 16-05-2026",
+        "total_live": 8,
+        "total_upcoming": 14
     },
     "matches": [
-        {
-            "id": "51491ebe-b8a5-4ff9-ba82-d17d5561bde1",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "51491ebe-b8a5-4ff9-ba82-d17d5561bde1",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "MFA Žalgiris–MRU v Kauno rajono FA | Moterų A lyga 2026",
-            "category": "livestream",
-            "urlSlug": "mfa-zalgiris-mru-vs-kauno-rajono-fa",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/bd/c4/94/1b/bdc4941b-d298-4af7-aae1-86bcc62032fd.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/c2/d3/fa/bf/c2d3fabf-0449-4928-85e6-dff7886c0cd6.png",
-            "freeMode": "FREE_ADS",
-            "title": "MFA Žalgiris–MRU v Kauno rajono FA | Moterų A lyga 2026",
-            "titleTemplateValues": {
-                "season": "Moterų A lyga 2026",
-                "publisher-channel": "MA | Lithuania | Moterų A Lyga 2026 (Channel)",
-                "stadium": "Širvintų L. Stuokos-Gucevičiaus gimnazijos stadionas",
-                "country": "Lithuania",
-                "team:kauno-rajono-fa": "Kauno rajono FA",
-                "match": "MFA Žalgiris–MRU v Kauno rajono FA",
-                "team:mfa-zalgiris-mru": "MFA Žalgiris–MRU",
-                "competition": "Women's A league",
-                "publisher": "MA | Lithuania ",
-                "association": "Lithuania",
-                "city": "Širvintos",
-                "stage": "Moterų A Lyga",
-                "video-type": "Live Streams",
-                "global-stage": "Round 8",
-                "organizer": "Lithuania",
-                "organizer-country": "Lithuania"
-            },
-            "startDate": "2026-05-16T09:20:00Z",
-            "endDate": "2026-05-16T12:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T09:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "MFA Žalgiris–MRU v Kauno rajono FA"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Moterų A lyga 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 8"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lithuania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_12_29_49_80032b30-bbbe-4583-ab2e-5f8746d00dc6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778923140",
-                "decryption_keys": [
-                    "b0d193f6087c37c0b031190686307046:c1444481e1cd6a9171f233a7ca6998a3"
-                ]
-            }
-        },
-        {
-            "id": "4b801bae-ce09-4434-9b55-b2c6a3021472",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "4b801bae-ce09-4434-9b55-b2c6a3021472",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Lesotho Defence Force FC v Maroala FC | Vodacom Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "ldf-fc-vs-maroala-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/cc/13/d2/f7/cc13d2f7-b310-4a47-978c-9632cda4a205.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/14/08/66/90/14086690-2173-4c18-a29d-81ed89f253c0.png",
-            "freeMode": "FREE_ADS",
-            "title": "Lesotho Defence Force FC v Maroala FC | Vodacom Premier League 2025/26",
-            "titleTemplateValues": {
-                "country": "Lesotho",
-                "stadium": "Ratjomose Stadium",
-                "association": "Lesotho",
-                "publisher-channel": "MA | Lesotho | Vodacom Premier League 2025/26",
-                "stage": "Regular Season",
-                "publisher": "MA | Lesotho",
-                "global-stage": "Round 30",
-                "city": "Maseru",
-                "match": "Lesotho Defence Force FC v Maroala FC",
-                "team:ldf-fc": "Lesotho Defence Force FC",
-                "team:maroala-fc": "Maroala FC",
-                "competition": "Lesotho Premier League",
-                "season": "Vodacom Premier League 2025/26",
-                "video-type": "Live Streams",
-                "organizer": "Lesotho",
-                "organizer-country": "Lesotho"
-            },
-            "startDate": "2026-05-16T09:20:00Z",
-            "endDate": "2026-05-16T12:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T09:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Lesotho Defence Force FC v Maroala FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Vodacom Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 30"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lesotho"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_41_58_7fa48bee-153a-4952-b97a-ad0cc2f50519/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778923140",
-                "decryption_keys": [
-                    "8475285f496c30f2bb51f037a80772fd:b16b3746f0277350854a79911345bb93"
-                ]
-            }
-        },
-        {
-            "id": "5e0d121b-7cb5-42c7-99dc-413b58e2c154",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "5e0d121b-7cb5-42c7-99dc-413b58e2c154",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "FK Banga v FK Žalgiris | Moterų A lyga 2026",
-            "category": "livestream",
-            "urlSlug": "fk-banga-vs-fk-zalgiris",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/bd/c4/94/1b/bdc4941b-d298-4af7-aae1-86bcc62032fd.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/50/67/ab/b8/5067abb8-ea14-4760-acbd-cbcd1ff7a9ab.png",
-            "freeMode": "FREE_ADS",
-            "title": "FK Banga v FK Žalgiris | Moterų A lyga 2026",
-            "titleTemplateValues": {
-                "team:fk-banga": "FK Banga",
-                "season": "Moterų A lyga 2026",
-                "team:fk-zalgiris": "FK Žalgiris",
-                "publisher-channel": "MA | Lithuania | Moterų A Lyga 2026 (Channel)",
-                "country": "Lithuania",
-                "match": "FK Banga v FK Žalgiris",
-                "competition": "Women's A league",
-                "publisher": "MA | Lithuania ",
-                "stadium": "Gargždai Stadium",
-                "association": "Lithuania",
-                "stage": "Moterų A Lyga",
-                "city": "Gargždai",
-                "video-type": "Live Streams",
-                "global-stage": "Round 8",
-                "organizer": "Lithuania",
-                "organizer-country": "Lithuania"
-            },
-            "startDate": "2026-05-16T09:50:00Z",
-            "endDate": "2026-05-16T12:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T10:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "FK Banga v FK Žalgiris"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Moterų A lyga 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 8"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lithuania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_12_29_52_8130f13f-219e-474d-9fde-b78259b14938/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778924940",
-                "decryption_keys": [
-                    "34987205f810330c9d866a0185a097a7:ad9452e1106eecc1892992d9da3c1911"
-                ]
-            }
-        },
-        {
-            "id": "d58fab0f-7378-425d-8244-215baec85e8a",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "d58fab0f-7378-425d-8244-215baec85e8a",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Manzini Wanderers FC v Royal Leopards FC | MTN Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "manzini-wanderers-fc-vs-royal-leopards-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9e/94/35/5d/9e94355d-7748-4afb-b681-3496922e3cb0.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/63/45/97/24/63459724-e2c7-4dbd-9c9b-d2d661bab72b.png",
-            "freeMode": "FREE_ADS",
-            "title": "Manzini Wanderers FC v Royal Leopards FC | MTN Premier League 2025/26",
-            "titleTemplateValues": {
-                "city": "Manzini",
-                "competition": "Premier League of Eswatini",
-                "country": "Eswatini",
-                "association": "Eswatini",
-                "season": "MTN Premier League 2025/26",
-                "stage": "Regular Season",
-                "stadium": "Mavuso Sports Centre",
-                "publisher": "MA | Eswatini",
-                "global-stage": "Round 27",
-                "team:manzini-wanderers-fc": "Manzini Wanderers FC",
-                "team:royal-leopards-fc": "Royal Leopards FC",
-                "publisher-channel": "MA | Eswatini | Premier League 2025/2026",
-                "match": "Manzini Wanderers FC v Royal Leopards FC",
-                "video-type": "Live Streams",
-                "organizer": "Eswatini",
-                "organizer-country": "Eswatini"
-            },
-            "startDate": "2026-05-16T10:50:00Z",
-            "endDate": "2026-05-16T13:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T11:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Manzini Wanderers FC v Royal Leopards FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "MTN Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 27"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Eswatini"
-                }
-            ]
-        },
-        {
-            "id": "fa01dcc0-9bfc-46b6-93dc-625a5cdce53d",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "fa01dcc0-9bfc-46b6-93dc-625a5cdce53d",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Neptūnas v Minija | Pirma Lyga 2026",
-            "category": "livestream",
-            "urlSlug": "fc-neptunas-vs-fk-minija",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f2/4c/3b/b0/f24c3bb0-e739-4ae5-95d3-6cbfe473d948.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d6/ee/5c/66/d6ee5c66-cc98-410a-9049-0ab6e6ebe7d5.png",
-            "freeMode": "FREE_ADS",
-            "title": "Neptūnas v Minija | Pirma Lyga 2026",
-            "titleTemplateValues": {
-                "stage": "I Lyga Regular Season",
-                "season": "Pirma Lyga 2026",
-                "city": "Klaipėda",
-                "global-stage": "Round 10",
-                "team:fk-minija": "Minija",
-                "stadium": "Klaipėda Stadium",
-                "country": "Lithuania",
-                "team:fc-neptunas": "Neptūnas",
-                "match": "Neptūnas v Minija",
-                "publisher": "MA | Lithuania ",
-                "competition": "Pirma Lyga",
-                "association": "Lithuania",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Lithuania | Pirma Lyga 2026 (Channel)",
-                "organizer": "Lithuania",
-                "organizer-country": "Lithuania"
-            },
-            "startDate": "2026-05-16T10:50:00Z",
-            "endDate": "2026-05-16T13:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T11:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Neptūnas v Minija"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Pirma Lyga 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 10"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lithuania"
-                }
-            ]
-        },
-        {
-            "id": "36f1ad04-3f77-4dc9-81dd-3e5b96c7cfe5",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "36f1ad04-3f77-4dc9-81dd-3e5b96c7cfe5",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Ironi Nesher v Hapoel Umm al-Fahm | Liga Noar Leumit U19 2025/26",
-            "category": "livestream",
-            "urlSlug": "ironi-nesher-vs-hapoel-umm-al-fahm",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/06/55/1f/12/06551f12-3c69-42a3-a603-afd83719277e.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/8c/a5/d9/c1/8ca5d9c1-d679-41b6-a693-4c9c990e3ef1.png",
-            "freeMode": "FREE_ADS",
-            "title": "Ironi Nesher v Hapoel Umm al-Fahm | Liga Noar Leumit U19 2025/26",
-            "titleTemplateValues": {
-                "team:hapoel-umm-al-fahm": "Hapoel Umm al-Fahm",
-                "city": "Haifa",
-                "association": "Israel",
-                "global-stage": "Round 25",
-                "stage": "League North",
-                "publisher": "MA | Israel",
-                "season": "Liga Noar Leumit U19 2025/26",
-                "match": "Ironi Nesher v Hapoel Umm al-Fahm",
-                "publisher-channel": "MA | Israel | Israeli Noar Leumit League 2025/2026",
-                "stadium": "Nesher Stadium",
-                "team:ironi-nesher": "Ironi Nesher",
-                "competition": "Liga Noar Leumit U18",
-                "country": "Israel",
-                "video-type": "Live Streams",
-                "organizer": "Israel",
-                "organizer-country": "Israel"
-            },
-            "startDate": "2026-05-16T11:35:00Z",
-            "endDate": "2026-05-16T14:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T11:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Ironi Nesher v Hapoel Umm al-Fahm"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga Noar Leumit U19 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 25"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Israel"
-                }
-            ]
-        },
-        {
-            "id": "858cddf7-3c1a-40f9-b530-0731dcf2c2f1",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "858cddf7-3c1a-40f9-b530-0731dcf2c2f1",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Machokha FC v Liphakoe FC | Vodacom Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "machokha-fc-vs-liphakoe-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/cc/13/d2/f7/cc13d2f7-b310-4a47-978c-9632cda4a205.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/03/8f/70/67/038f7067-220a-4555-9f9e-7dd324377db6.png",
-            "freeMode": "FREE_ADS",
-            "title": "Machokha FC v Liphakoe FC | Vodacom Premier League 2025/26",
-            "titleTemplateValues": {
-                "country": "Lesotho",
-                "stadium": "Ratjomose Stadium",
-                "association": "Lesotho",
-                "publisher-channel": "MA | Lesotho | Vodacom Premier League 2025/26",
-                "match": "Machokha FC v Liphakoe FC",
-                "stage": "Regular Season",
-                "publisher": "MA | Lesotho",
-                "global-stage": "Round 30",
-                "city": "Maseru",
-                "team:machokha-fc": "Machokha FC",
-                "competition": "Lesotho Premier League",
-                "season": "Vodacom Premier League 2025/26",
-                "team:liphakoe-fc": "Liphakoe FC",
-                "video-type": "Live Streams",
-                "organizer": "Lesotho",
-                "organizer-country": "Lesotho"
-            },
-            "startDate": "2026-05-16T11:50:00Z",
-            "endDate": "2026-05-16T14:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T12:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Machokha FC v Liphakoe FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Vodacom Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 30"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lesotho"
-                }
-            ]
-        },
-        {
-            "id": "e8ce1736-c857-498a-917c-31699a67b853",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "e8ce1736-c857-498a-917c-31699a67b853",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Matlama Football Club v Lijabatho FC | Vodacom Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "matlama-football-club-vs-lijabatho-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/cc/13/d2/f7/cc13d2f7-b310-4a47-978c-9632cda4a205.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/3e/19/be/ce/3e19bece-ae91-43cf-83d9-75502c403386.png",
-            "freeMode": "FREE_ADS",
-            "title": "Matlama Football Club v Lijabatho FC | Vodacom Premier League 2025/26",
-            "titleTemplateValues": {
-                "country": "Lesotho",
-                "association": "Lesotho",
-                "team:lijabatho-fc": "Lijabatho FC",
-                "match": "Matlama Football Club v Lijabatho FC",
-                "publisher-channel": "MA | Lesotho | Vodacom Premier League 2025/26",
-                "stadium": "Setsoto Stadium",
-                "stage": "Regular Season",
-                "publisher": "MA | Lesotho",
-                "global-stage": "Round 30",
-                "city": "Maseru",
-                "team:matlama-football-club": "Matlama Football Club",
-                "competition": "Lesotho Premier League",
-                "season": "Vodacom Premier League 2025/26",
-                "video-type": "Live Streams",
-                "organizer": "Lesotho",
-                "organizer-country": "Lesotho"
-            },
-            "startDate": "2026-05-16T11:50:00Z",
-            "endDate": "2026-05-16T14:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T12:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Matlama Football Club v Lijabatho FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Vodacom Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 30"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lesotho"
-                }
-            ]
-        },
-        {
-            "id": "da696cc6-ec0d-4b4c-b80c-96b6789f9a69",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "da696cc6-ec0d-4b4c-b80c-96b6789f9a69",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Members FC v Lioli FC | Vodacom Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "members-fc-vs-lioli-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/cc/13/d2/f7/cc13d2f7-b310-4a47-978c-9632cda4a205.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/9c/56/62/cd/9c5662cd-2cac-41f6-b541-9ebe819ce531.png",
-            "freeMode": "FREE_ADS",
-            "title": "Members FC v Lioli FC | Vodacom Premier League 2025/26",
-            "titleTemplateValues": {
-                "country": "Lesotho",
-                "association": "Lesotho",
-                "team:lioli-fc": "Lioli FC",
-                "publisher-channel": "MA | Lesotho | Vodacom Premier League 2025/26",
-                "team:members-fc": "Members FC",
-                "match": "Members FC v Lioli FC",
-                "stage": "Regular Season",
-                "publisher": "MA | Lesotho",
-                "global-stage": "Round 30",
-                "city": "Maseru",
-                "stadium": "LCS Ground",
-                "competition": "Lesotho Premier League",
-                "season": "Vodacom Premier League 2025/26",
-                "video-type": "Live Streams",
-                "organizer": "Lesotho",
-                "organizer-country": "Lesotho"
-            },
-            "startDate": "2026-05-16T11:50:00Z",
-            "endDate": "2026-05-16T14:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T12:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Members FC v Lioli FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Vodacom Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 30"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lesotho"
-                }
-            ]
-        },
         {
             "id": "dbc24518-8edf-4fef-9e05-b8f824686511",
             "channelId": "fifa-tournaments",
@@ -622,7 +46,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -644,7 +68,13 @@
                     "p": 1,
                     "value": "Malawi"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_07_40_06_33f7418c-b2ba-41cf-ae8e-cdaab6531347/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778933940",
+                "decryption_keys": [
+                    "2ba620870988333b9380a70353d0c297:5aa9a0fc1d9778dc2ccbb124d76b3469"
+                ]
+            }
         },
         {
             "id": "7144cbc2-952a-47aa-8ede-a2821de4a759",
@@ -684,7 +114,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -706,7 +136,13 @@
                     "p": 1,
                     "value": "Malawi"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_07_40_15_d6ae48ee-6356-4d15-8fd6-dd955144df54/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778933940",
+                "decryption_keys": [
+                    "9c621dd3c12b323ba1560c3f12f94a30:f32284e5aa9f02119aa02d59b57b6fe9"
+                ]
+            }
         },
         {
             "id": "d339fca5-810d-41ec-9d4b-db898ef17b67",
@@ -746,7 +182,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -768,7 +204,13 @@
                     "p": 1,
                     "value": "Malawi"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_07_40_10_3efd694f-81cc-4967-8d58-91fd06c6b861/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778933940",
+                "decryption_keys": [
+                    "478c4c3da73f384ca7b3c86fa90f0c49:b59ebb1127f231641faaebb0df950ecc"
+                ]
+            }
         },
         {
             "id": "c0ee2ec6-cd07-43a7-822b-54cc7252165c",
@@ -808,7 +250,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -830,7 +272,13 @@
                     "p": 1,
                     "value": "Kosovo"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_08_17_27_ce4d457d-9b84-4bd1-a212-f9c3b20afc44/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778935740",
+                "decryption_keys": [
+                    "91779d8123b2352a8b8a57735a2c54c7:875e2bf7313ff50bca2b7b704ad5a121"
+                ]
+            }
         },
         {
             "id": "eb5cda9f-d8d8-4352-836c-f5e80012e672",
@@ -870,7 +318,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -892,7 +340,13 @@
                     "p": 1,
                     "value": "Eswatini"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_12_58_61224d98-a614-4a8d-aaa9-f2a52ba137d6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778936640",
+                "decryption_keys": [
+                    "ebb0c2f83fc438acb8c4ce3a93536eaa:e164339d1920aeebe8811f313951f123"
+                ]
+            }
         },
         {
             "id": "faaf50c0-5929-4881-a0fd-6e6a3f52de9e",
@@ -932,7 +386,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -954,7 +408,13 @@
                     "p": 1,
                     "value": "Albania"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_13_24_58_69439394-2caf-49ad-a23c-ab5bc352137d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778939340",
+                "decryption_keys": [
+                    "e6284c492a39396d9e55b85d371a7f52:e1f8e8978489820a0da82291c4bfd15a"
+                ]
+            }
         },
         {
             "id": "0f67da1f-8cf5-40a5-856b-0c23c28093c4",
@@ -994,7 +454,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1016,7 +476,13 @@
                     "p": 1,
                     "value": "Lithuania"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_12_29_57_fde337d0-cf1a-493d-b22f-1f2fd2453e4c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778939340",
+                "decryption_keys": [
+                    "6c647285e43132999495937ab62dfe8d:0169b48e0879151701f831c1dfb363bb"
+                ]
+            }
         },
         {
             "id": "953ec4cd-823d-4cdd-bd7a-efe9fdd4da6c",
@@ -1056,7 +522,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1078,7 +544,13 @@
                     "p": 1,
                     "value": "Kosovo"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_08_17_30_5609abe6-bcb7-4c35-b210-5b80c51de88b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778939340",
+                "decryption_keys": [
+                    "28205bd44ec63a3c86f0890b047187a7:18d6e1f820eb6dcafb0d2013b798b94b"
+                ]
+            }
         },
         {
             "id": "42900119-55c3-46ed-8c1c-bded06ffe0c6",
