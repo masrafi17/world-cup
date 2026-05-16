@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:30:26 PM 16-05-2026
+#last update time: 05:45:18 PM 16-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c2/d3/fa/bf/c2d3fabf-0449-4928-85e6-dff7886c0cd6.png" group-title="FIFA Live", MFA Žalgiris–MRU v Kauno rajono FA | Moterų A lyga 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b0d193f6087c37c0b031190686307046:c1444481e1cd6a9171f233a7ca6998a3
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_12_29_49_80032b30-bbbe-4583-ab2e-5f8746d00dc6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778923140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/14/08/66/90/14086690-2173-4c18-a29d-81ed89f253c0.png" group-title="FIFA Live", Lesotho Defence Force FC v Maroala FC | Vodacom Premier League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -28,3 +23,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_12_54_c60a47bd-8d3c-40c3-9fc1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33a5eb2dd62332129c05f39da6b8007d:6458fd24dca48c5d6382b9c9b1cfc026
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_08_38_07_c4e61e5a-275d-472d-9470-d77a880a9439/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778928540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8c/a5/d9/c1/8ca5d9c1-d679-41b6-a693-4c9c990e3ef1.png" group-title="FIFA Live", Ironi Nesher v Hapoel Umm al-Fahm | Liga Noar Leumit U19 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b4a39f2b97630e091d0b962700b1747:053333461a4cf08d2e322f47a6cc3368
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_11_07_54_b576a7d5-9f81-46a9-9457-e1d1778e587b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778931480
