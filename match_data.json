@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:45:18 PM 16-05-2026",
-        "total_live": 5,
-        "total_upcoming": 25
+        "last_update_time": "06:00:24 PM 16-05-2026",
+        "total_live": 6,
+        "total_upcoming": 23
     },
     "matches": [
-        {
-            "id": "4b801bae-ce09-4434-9b55-b2c6a3021472",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "4b801bae-ce09-4434-9b55-b2c6a3021472",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Lesotho Defence Force FC v Maroala FC | Vodacom Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "ldf-fc-vs-maroala-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/cc/13/d2/f7/cc13d2f7-b310-4a47-978c-9632cda4a205.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/14/08/66/90/14086690-2173-4c18-a29d-81ed89f253c0.png",
-            "freeMode": "FREE_ADS",
-            "title": "Lesotho Defence Force FC v Maroala FC | Vodacom Premier League 2025/26",
-            "titleTemplateValues": {
-                "country": "Lesotho",
-                "stadium": "Ratjomose Stadium",
-                "association": "Lesotho",
-                "publisher-channel": "MA | Lesotho | Vodacom Premier League 2025/26",
-                "stage": "Regular Season",
-                "publisher": "MA | Lesotho",
-                "global-stage": "Round 30",
-                "city": "Maseru",
-                "match": "Lesotho Defence Force FC v Maroala FC",
-                "team:ldf-fc": "Lesotho Defence Force FC",
-                "team:maroala-fc": "Maroala FC",
-                "competition": "Lesotho Premier League",
-                "season": "Vodacom Premier League 2025/26",
-                "video-type": "Live Streams",
-                "organizer": "Lesotho",
-                "organizer-country": "Lesotho"
-            },
-            "startDate": "2026-05-16T09:20:00Z",
-            "endDate": "2026-05-16T12:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T09:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Lesotho Defence Force FC v Maroala FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Vodacom Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 30"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lesotho"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_41_58_7fa48bee-153a-4952-b97a-ad0cc2f50519/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778923140",
-                "decryption_keys": [
-                    "8475285f496c30f2bb51f037a80772fd:b16b3746f0277350854a79911345bb93"
-                ]
-            }
-        },
         {
             "id": "5e0d121b-7cb5-42c7-99dc-413b58e2c154",
             "channelId": "fifa-tournaments",
@@ -386,7 +318,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -408,7 +340,13 @@
                     "p": 1,
                     "value": "Lesotho"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_42_14_836199a8-16f9-4b60-ba47-94c64d7209f6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778932140",
+                "decryption_keys": [
+                    "a2f8770d8a4c3b9e95a914283fcf4d93:bf9333b4f7f53f818cc3fd5b0bcebdf2"
+                ]
+            }
         },
         {
             "id": "e8ce1736-c857-498a-917c-31699a67b853",
@@ -448,7 +386,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -470,7 +408,13 @@
                     "p": 1,
                     "value": "Lesotho"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_42_02_205a8f61-b278-49b2-b486-9739bdd1db20/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778932140",
+                "decryption_keys": [
+                    "e6cf825124763b829700ba812c0c0cc7:1b5211deb351a7ac40f33316e0b7ebe0"
+                ]
+            }
         },
         {
             "id": "da696cc6-ec0d-4b4c-b80c-96b6789f9a69",
@@ -502,7 +446,7 @@
                 "organizer": "Lesotho",
                 "organizer-country": "Lesotho"
             },
-            "startDate": "2026-05-16T11:50:00Z",
+            "startDate": "2026-05-16T12:05:00Z",
             "endDate": "2026-05-16T14:30:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-16T12:00:00Z"

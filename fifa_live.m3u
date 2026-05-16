@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:45:18 PM 16-05-2026
+#last update time: 06:00:24 PM 16-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/14/08/66/90/14086690-2173-4c18-a29d-81ed89f253c0.png" group-title="FIFA Live", Lesotho Defence Force FC v Maroala FC | Vodacom Premier League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8475285f496c30f2bb51f037a80772fd:b16b3746f0277350854a79911345bb93
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_41_58_7fa48bee-153a-4952-b97a-ad0cc2f50519/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778923140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/50/67/ab/b8/5067abb8-ea14-4760-acbd-cbcd1ff7a9ab.png" group-title="FIFA Live", FK Banga v FK Žalgiris | Moterų A lyga 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -28,3 +23,13 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_08_38_07_c4e61e5a-275d-472d-9470
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b4a39f2b97630e091d0b962700b1747:053333461a4cf08d2e322f47a6cc3368
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_11_07_54_b576a7d5-9f81-46a9-9457-e1d1778e587b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778931480
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/03/8f/70/67/038f7067-220a-4555-9f9e-7dd324377db6.png" group-title="FIFA Live", Machokha FC v Liphakoe FC | Vodacom Premier League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2f8770d8a4c3b9e95a914283fcf4d93:bf9333b4f7f53f818cc3fd5b0bcebdf2
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_42_14_836199a8-16f9-4b60-ba47-94c64d7209f6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778932140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3e/19/be/ce/3e19bece-ae91-43cf-83d9-75502c403386.png" group-title="FIFA Live", Matlama Football Club v Lijabatho FC | Vodacom Premier League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6cf825124763b829700ba812c0c0cc7:1b5211deb351a7ac40f33316e0b7ebe0
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_42_02_205a8f61-b278-49b2-b486-9739bdd1db20/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778932140
