@@ -3,74 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:45:20 AM 16-05-2026",
+        "last_update_time": "12:00:27 PM 16-05-2026",
         "total_live": 2,
         "total_upcoming": 33
     },
     "matches": [
-        {
-            "id": "88ad1f4d-0275-4a5a-87a3-19e39416a104",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "88ad1f4d-0275-4a5a-87a3-19e39416a104",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Wellington Olympic v Petone | New Zealand Men's National League 2026",
-            "category": "livestream",
-            "urlSlug": "wellington-olympic-vs-petone-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/14/cb/e4/e8/14cbe4e8-4581-4fda-87a0-5f0d6e1faf86.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Wellington Olympic v Petone | New Zealand Men's National League 2026",
-            "titleTemplateValues": {
-                "competition": "Men's National League",
-                "publisher": "MA | New Zealand",
-                "publisher-channel": "MA | New Zealand | Men's National League 2026 - Regional Phase (Channel)",
-                "city": "Wellington",
-                "stage": "Regional Phase - Central League",
-                "season": "New Zealand Men's National League 2026",
-                "association": "New Zealand",
-                "global-stage": "Central League",
-                "country": "New Zealand",
-                "team:petone-fc": "Petone",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "match": "Wellington Olympic v Petone",
-                "stadium": "Wakefield Park",
-                "video-type": "Live Streams",
-                "team:wellington-olympic": "Wellington Olympic",
-                "organizer": "New Zealand",
-                "organizer-country": "New Zealand"
-            },
-            "startDate": "2026-05-16T03:35:00Z",
-            "endDate": "2026-05-16T06:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T03:45:00Z"
-            },
-            "isRegistrationRequired": true,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Wellington Olympic v Petone"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "New Zealand Men's National League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Central League"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "New Zealand"
-                }
-            ]
-        },
         {
             "id": "562b2f22-469d-464a-b900-d7f7779734ba",
             "channelId": "fifa-tournaments",
