@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:00:24 PM 16-05-2026
+#last update time: 06:15:22 PM 16-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/50/67/ab/b8/5067abb8-ea14-4760-acbd-cbcd1ff7a9ab.png" group-title="FIFA Live", FK Banga v FK Žalgiris | Moterų A lyga 2026
@@ -33,3 +33,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_42_14_836199a8-16f9-4b60-ba47
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6cf825124763b829700ba812c0c0cc7:1b5211deb351a7ac40f33316e0b7ebe0
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_42_02_205a8f61-b278-49b2-b486-9739bdd1db20/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778932140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/9c/56/62/cd/9c5662cd-2cac-41f6-b541-9ebe819ce531.png" group-title="FIFA Live", Members FC v Lioli FC | Vodacom Premier League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b74b471266c3f1c8ff835dd0878deb0:dececa06e49ab38ba0f26028c21d500f
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_42_06_6e3d59b8-d908-49a1-b239-e3a2737f42ca/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778933040
