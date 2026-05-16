@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:45:21 AM 16-05-2026",
-        "total_live": 2,
-        "total_upcoming": 42
+        "last_update_time": "09:00:25 AM 16-05-2026",
+        "total_live": 1,
+        "total_upcoming": 37
     },
     "matches": [
-        {
-            "id": "6b3b32e9-f7bf-4244-82bf-72c80291d759",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "6b3b32e9-f7bf-4244-82bf-72c80291d759",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "La Fama v RCA | Division Honor 2025-26",
-            "category": "livestream",
-            "urlSlug": "la-fama-vs-rca",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/22/1d/cb/0b/221dcb0b-c792-4d48-903e-b725b280c421.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/95/36/12/a9/953612a9-f391-436c-ad9a-633c962d1fac.png",
-            "freeMode": "FREE_ADS",
-            "title": "La Fama v RCA | Division Honor 2025-26",
-            "titleTemplateValues": {
-                "stage": "Division Honor Liga-Oro Round 2",
-                "country": "Aruba",
-                "association": "Aruba",
-                "season": "Division Honor 2025-26",
-                "publisher": "MA | Aruba",
-                "competition": "Division Honor",
-                "team:rca": "RCA",
-                "match": "La Fama v RCA",
-                "stadium": "Sports Complex Guillermo Prospero Trinidad",
-                "video-type": "Full Match Replays",
-                "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
-                "global-stage": "Division Honor Oro",
-                "team:la-fama": "La Fama",
-                "city": "Dakota",
-                "organizer": "Aruba",
-                "organizer-country": "Aruba"
-            },
-            "startDate": "2026-05-16T00:20:00Z",
-            "endDate": "2026-05-16T03:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T00:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "La Fama v RCA"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Division Honor 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Division Honor Oro"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Aruba"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_17_59_066e02ae-992b-4afd-adbd-290e89042a0f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778890740",
-                "decryption_keys": [
-                    "de13cd0b241d390a8fdd7b3a4e238e90:b0137967a19390039a557f4f65366f72"
-                ]
-            }
-        },
         {
             "id": "d2c8e05b-9fc4-4a12-a326-7cd2483bc5a4",
             "channelId": "fifa-tournaments",
@@ -309,7 +241,7 @@
             "isRegistrationRequired": true,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -372,7 +304,7 @@
             "isRegistrationRequired": true,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -435,7 +367,7 @@
             "isRegistrationRequired": true,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -498,7 +430,7 @@
             "isRegistrationRequired": true,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -561,7 +493,7 @@
             "isRegistrationRequired": true,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
