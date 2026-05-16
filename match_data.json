@@ -3,74 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:15:21 PM 16-05-2026",
+        "last_update_time": "02:30:27 PM 16-05-2026",
         "total_live": 1,
         "total_upcoming": 31
     },
     "matches": [
-        {
-            "id": "7e68a6db-5bdc-4be7-b472-837d357ecb8c",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "7e68a6db-5bdc-4be7-b472-837d357ecb8c",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Fencibles United v Birkenhead United | New Zealand Men's National League 2026",
-            "category": "livestream",
-            "urlSlug": "fencibles-united-afc-vs-birkenhead-united-afc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/bc/53/58/b2/bc5358b2-d189-4f39-811f-9c57dbca8158.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Fencibles United v Birkenhead United | New Zealand Men's National League 2026",
-            "titleTemplateValues": {
-                "competition": "Men's National League",
-                "publisher": "MA | New Zealand",
-                "publisher-channel": "MA | New Zealand | Men's National League 2026 - Regional Phase (Channel)",
-                "team:birkenhead-united-afc": "Birkenhead United",
-                "global-stage": "Northern League",
-                "match": "Fencibles United v Birkenhead United",
-                "season": "New Zealand Men's National League 2026",
-                "stage": "Regional Phase - Northern League",
-                "association": "New Zealand",
-                "city": "Auckland",
-                "team:fencibles-united-afc": "Fencibles United",
-                "country": "New Zealand",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "video-type": "Live Streams",
-                "stadium": "Riverhills Park",
-                "organizer": "New Zealand",
-                "organizer-country": "New Zealand"
-            },
-            "startDate": "2026-05-16T06:20:00Z",
-            "endDate": "2026-05-16T09:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T06:30:00Z"
-            },
-            "isRegistrationRequired": true,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Fencibles United v Birkenhead United"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "New Zealand Men's National League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Northern League"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "New Zealand"
-                }
-            ]
-        },
         {
             "id": "4137d75b-a6cd-49d3-844c-165c665573e9",
             "channelId": "fifa-tournaments",
