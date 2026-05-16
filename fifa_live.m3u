@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:45:17 AM 17-05-2026
+#last update time: 02:00:26 AM 17-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ff/fa/f9/c1/fffaf9c1-4dcb-470a-8055-ab6c390e2fd7.png" group-title="FIFA Live", ES Issia v Yamoussoukro FC | Côte d'Ivoire Ligue 2 2025/26
@@ -28,3 +28,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_04_23_a9592b11-c6db-426d-9096
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fd58c898ff931189f317e1e6f45ae02:edff3ac7ea96b340a3757ced82f1436c
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_04_29_b1f6087f-9a80-493a-8373-db55b7d64749/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778959140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/80/fb/9c/50/80fb9c50-3ec2-4d08-be15-29d9e4737ac8.png" group-title="FIFA Live", Bath Estate FC v Harlem United SC | DFA Premier League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c50f2bf5f9703aeb8817fc4e5a8b0ed0:b0759613b82c614f4ef67758a2f0edd7
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_16_12_622d8616-2c60-4f1c-aa2d-79f6c654868f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778960940
