@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:45:18 PM 16-05-2026
+#last update time: 08:00:24 PM 16-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/03/8f/70/67/038f7067-220a-4555-9f9e-7dd324377db6.png" group-title="FIFA Live", Machokha FC v Liphakoe FC | Vodacom Premier League 2025/26
@@ -43,3 +43,18 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_08_17_27_ce4d457d-9b84-4bd1-a212
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebb0c2f83fc438acb8c4ce3a93536eaa:e164339d1920aeebe8811f313951f123
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_12_58_61224d98-a614-4a8d-aaa9-f2a52ba137d6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778936640
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/07/60/6b/45/07606b45-9ee1-4c1f-af6e-d44c6af38c43.png" group-title="FIFA Live", KF Teuta v Pogradeci | Kategoria Superiore 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6284c492a39396d9e55b85d371a7f52:e1f8e8978489820a0da82291c4bfd15a
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_13_24_58_69439394-2caf-49ad-a23c-ab5bc352137d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778939340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4d/10/08/6e/4d10086e-5642-4ec9-9483-9732d754801a.png" group-title="FIFA Live", FA Šiauliai v FK Gintra | Moterų A lyga 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c647285e43132999495937ab62dfe8d:0169b48e0879151701f831c1dfb363bb
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_12_29_57_fde337d0-cf1a-493d-b22f-1f2fd2453e4c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778939340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/da/37/da/3e/da37da3e-6353-413d-92ac-7e22280756e9.png" group-title="FIFA Live", Mitrovica v KFF Feronikeli | Siguria Superliga e Femrave 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=28205bd44ec63a3c86f0890b047187a7:18d6e1f820eb6dcafb0d2013b798b94b
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_08_17_30_5609abe6-bcb7-4c35-b210-5b80c51de88b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778939340
