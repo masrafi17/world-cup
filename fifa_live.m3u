@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:15:18 PM 16-05-2026
+#last update time: 08:30:21 PM 16-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3e/19/be/ce/3e19bece-ae91-43cf-83d9-75502c403386.png" group-title="FIFA Live", Matlama Football Club v Lijabatho FC | Vodacom Premier League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6cf825124763b829700ba812c0c0cc7:1b5211deb351a7ac40f33316e0b7ebe0
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_42_02_205a8f61-b278-49b2-b486-9739bdd1db20/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778932140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/68/d5/f2/b1/68d5f2b1-0c28-43d1-8959-8ea68761673f.png" group-title="FIFA Live", Chitipa United v Civil Service United | FDH Bank Premiership
 #KODIPROP:inputstream.adaptive.license_type=clearkey

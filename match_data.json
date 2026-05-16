@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:15:18 PM 16-05-2026",
-        "total_live": 9,
+        "last_update_time": "08:30:21 PM 16-05-2026",
+        "total_live": 8,
         "total_upcoming": 14
     },
     "matches": [
-        {
-            "id": "e8ce1736-c857-498a-917c-31699a67b853",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "e8ce1736-c857-498a-917c-31699a67b853",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Matlama Football Club v Lijabatho FC | Vodacom Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "matlama-football-club-vs-lijabatho-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/cc/13/d2/f7/cc13d2f7-b310-4a47-978c-9632cda4a205.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/3e/19/be/ce/3e19bece-ae91-43cf-83d9-75502c403386.png",
-            "freeMode": "FREE_ADS",
-            "title": "Matlama Football Club v Lijabatho FC | Vodacom Premier League 2025/26",
-            "titleTemplateValues": {
-                "country": "Lesotho",
-                "association": "Lesotho",
-                "team:lijabatho-fc": "Lijabatho FC",
-                "match": "Matlama Football Club v Lijabatho FC",
-                "publisher-channel": "MA | Lesotho | Vodacom Premier League 2025/26",
-                "stadium": "Setsoto Stadium",
-                "stage": "Regular Season",
-                "publisher": "MA | Lesotho",
-                "global-stage": "Round 30",
-                "city": "Maseru",
-                "team:matlama-football-club": "Matlama Football Club",
-                "competition": "Lesotho Premier League",
-                "season": "Vodacom Premier League 2025/26",
-                "video-type": "Live Streams",
-                "organizer": "Lesotho",
-                "organizer-country": "Lesotho"
-            },
-            "startDate": "2026-05-16T11:50:00Z",
-            "endDate": "2026-05-16T14:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T12:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Matlama Football Club v Lijabatho FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Vodacom Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 30"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lesotho"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_42_02_205a8f61-b278-49b2-b486-9739bdd1db20/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778932140",
-                "decryption_keys": [
-                    "e6cf825124763b829700ba812c0c0cc7:1b5211deb351a7ac40f33316e0b7ebe0"
-                ]
-            }
-        },
         {
             "id": "dbc24518-8edf-4fef-9e05-b8f824686511",
             "channelId": "fifa-tournaments",
