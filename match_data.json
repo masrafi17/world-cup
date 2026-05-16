@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:30:27 AM 16-05-2026",
+        "last_update_time": "08:45:21 AM 16-05-2026",
         "total_live": 2,
-        "total_upcoming": 43
+        "total_upcoming": 42
     },
     "matches": [
         {
@@ -30,11 +30,11 @@
                 "team:rca": "RCA",
                 "match": "La Fama v RCA",
                 "stadium": "Sports Complex Guillermo Prospero Trinidad",
+                "video-type": "Full Match Replays",
                 "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
                 "global-stage": "Division Honor Oro",
                 "team:la-fama": "La Fama",
                 "city": "Dakota",
-                "video-type": "Live Streams",
                 "organizer": "Aruba",
                 "organizer-country": "Aruba"
             },
@@ -246,7 +246,7 @@
             "isRegistrationRequired": true,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
