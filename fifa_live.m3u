@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:18 PM 16-05-2026
+#last update time: 10:45:20 PM 16-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/03/35/5a/5c/03355a5c-5a95-49bd-bc81-d7663eb68c42.png" group-title="FIFA Live", Virtus v La Fiorita | Final | Campionato Sammarinese 2025/26
@@ -58,3 +58,13 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_14_12_f38995b2-293e-44aa-aacb
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b4e32b7edd831ffab8c2d5f2dec205d:f5dadea4d3204f4d9cdcccd0263f2b3e
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_21_21_634e8796-4d56-4f92-af5d-81048fbfc6ad/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778948340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ba/01/c3/35/ba01c335-3ede-4971-92c4-62ca2d3f7abb.png" group-title="FIFA Live", Sporting Clube GB v Tigres de Fronteira | Campeonato Nacional de Futebol da 1a Divisão 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8cade353433d34f8a021f5fe0c8b815e:f53376be406324e3d65ec214e575e1d7
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_30_33_6ed5bb5a-4d2e-4f0f-8513-e8ab9d5f96c5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778949240
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/2f/65/47/19/2f654719-99c3-4ea0-885f-65ec77fdecf6.png" group-title="FIFA Live", Inter Nouakchott v Chemal FC | Super D-1 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bfa6059b9de30ccbd106f4f07bfc982:e33a5248a1ee9ba02573b108764740c9
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_07_02_91779542-53e2-478e-b9f8-0f2b4240a31e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778949240
