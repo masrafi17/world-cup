@@ -3,74 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:00:23 AM 16-05-2026",
+        "last_update_time": "11:15:21 AM 16-05-2026",
         "total_live": 2,
-        "total_upcoming": 34
+        "total_upcoming": 33
     },
     "matches": [
-        {
-            "id": "3ff1d89a-aab0-4e0f-89bc-604df32822fa",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "3ff1d89a-aab0-4e0f-89bc-604df32822fa",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Nomads United v Ferrymead Bays | New Zealand Men's National League 2026 | Full Match Replay",
-            "category": "livestream",
-            "urlSlug": "nomads-united-afc-vs-ferrymead-bays-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/26/49/93/80/26499380-b51c-4f06-a998-ad3be1f262eb.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Nomads United v Ferrymead Bays | New Zealand Men's National League 2026 | Full Match Replay",
-            "titleTemplateValues": {
-                "competition": "Men's National League",
-                "publisher": "MA | New Zealand",
-                "publisher-channel": "MA | New Zealand | Men's National League 2026 - Regional Phase (Channel)",
-                "global-stage": "Southern League",
-                "stadium": "Tulett Park",
-                "season": "New Zealand Men's National League 2026",
-                "match": "Nomads United v Ferrymead Bays",
-                "city": "Christchurch",
-                "team:nomads-united-afc": "Nomads United",
-                "association": "New Zealand",
-                "stage": "Regional Phase - Southern League",
-                "video-type": "Full Match Replays",
-                "country": "New Zealand",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "team:ferrymead-bays-fc": "Ferrymead Bays",
-                "organizer": "New Zealand",
-                "organizer-country": "New Zealand"
-            },
-            "startDate": "2026-05-16T02:35:00Z",
-            "endDate": "2026-05-16T05:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T02:45:00Z"
-            },
-            "isRegistrationRequired": true,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Nomads United v Ferrymead Bays"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "New Zealand Men's National League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Southern League"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "New Zealand"
-                }
-            ]
-        },
         {
             "id": "b4460d84-9d41-407f-bd45-6aa6cfbdc6a4",
             "channelId": "fifa-tournaments",
@@ -202,13 +139,13 @@
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "3d5ff56d-dc7a-4f0d-b1a9-e12c9ccfec90",
             "catalogRedirectType": "EVENT",
-            "standardTitle": "Tauranga City v Western Springs | New Zealand Men's National League 2026",
+            "standardTitle": "Tauranga City v Western Springs | New Zealand Men's National League 2026 | Full Match Replay",
             "category": "livestream",
             "urlSlug": "tauranga-city-afc-vs-western-springs-afc",
             "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
             "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/fc/69/34/a7/fc6934a7-f89b-4062-aec7-e7b635fe634a.jpg",
             "freeMode": "FREE_ADS",
-            "title": "Tauranga City v Western Springs | New Zealand Men's National League 2026",
+            "title": "Tauranga City v Western Springs | New Zealand Men's National League 2026 | Full Match Replay",
             "titleTemplateValues": {
                 "competition": "Men's National League",
                 "publisher": "MA | New Zealand",
@@ -219,12 +156,12 @@
                 "stadium": "Links Avenue 1",
                 "stage": "Regional Phase - Northern League",
                 "association": "New Zealand",
+                "video-type": "Full Match Replays",
                 "city": "Tauranga",
                 "country": "New Zealand",
                 "team:tauranga-city-afc": "Tauranga City",
                 "fifa-plus": "Mens (FIFA Plus)",
                 "match": "Tauranga City v Western Springs",
-                "video-type": "Live Streams",
                 "organizer": "New Zealand",
                 "organizer-country": "New Zealand"
             },
@@ -460,51 +397,6 @@
                     "faf7061019e93bceb9337e1efaa099e1:38f0c461cb62be7090fdfca5066986da"
                 ]
             }
-        },
-        {
-            "id": "96c4027e-d918-4c5f-b4b4-eb3ce0fc9d7a",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "96c4027e-d918-4c5f-b4b4-eb3ce0fc9d7a",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "East Coast Bays v Eastern Suburbs | New Zealand Men's National League 2026",
-            "category": "livestream",
-            "urlSlug": "east-coast-bays-afc-vs-eastern-suburbs-afc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/1a/17/78/74/1a177874-45d2-44d0-973f-8c00a8a5975f.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "East Coast Bays v Eastern Suburbs | New Zealand Men's National League 2026",
-            "titleTemplateValues": {
-                "competition": "Men's National League",
-                "publisher": "MA | New Zealand",
-                "publisher-channel": "MA | New Zealand | Men's National League 2026 - Regional Phase (Channel)",
-                "global-stage": "Northern League",
-                "stadium": "Bay City Park",
-                "season": "New Zealand Men's National League 2026",
-                "team:east-coast-bays-afc": "East Coast Bays",
-                "stage": "Regional Phase - Northern League",
-                "association": "New Zealand",
-                "city": "Auckland",
-                "country": "New Zealand",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "team:eastern-suburbs-afc": "Eastern Suburbs",
-                "video-type": "Live Streams",
-                "organizer": "New Zealand",
-                "organizer-country": "New Zealand"
-            },
-            "startDate": "2026-05-16T05:50:00Z",
-            "endDate": "2026-05-16T08:30:00Z",
-            "ctxMetadata": {},
-            "isRegistrationRequired": true,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "East Coast Bays v Eastern Suburbs | New Zealand Men's National League 2026"
-                }
-            ]
         },
         {
             "id": "7e68a6db-5bdc-4be7-b472-837d357ecb8c",
