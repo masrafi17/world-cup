@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:21 AM 17-05-2026
+#last update time: 02:45:17 AM 17-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ff/fa/f9/c1/fffaf9c1-4dcb-470a-8055-ab6c390e2fd7.png" group-title="FIFA Live", ES Issia v Yamoussoukro FC | Côte d'Ivoire Ligue 2 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=585fc5c2dc4d30e38dc4659d5bc5545b:7c546caa992c08c44ffa7ede50be481e
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_21_29_e6f99492-ca03-477d-a24c-73e7e90d5393/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778953740
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/28/fa/8c/13/28fa8c13-dffd-4aa5-a31a-005c81ebe90a.png" group-title="FIFA Live", Atlético Barinas v Barquisimeto SC | Liga FUTVE 2 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
