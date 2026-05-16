@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:45:25 AM 17-05-2026",
-        "total_live": 6,
-        "total_upcoming": 44
+        "last_update_time": "01:00:22 AM 17-05-2026",
+        "total_live": 4,
+        "total_upcoming": 46
     },
     "matches": [
-        {
-            "id": "d390d884-5c27-47ff-805c-ceaaec829d1f",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "d390d884-5c27-47ff-805c-ceaaec829d1f",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Gambia Ports Authority FC v Hart FC | Gambia GFF League 25/26",
-            "category": "livestream",
-            "urlSlug": "gambia-ports-authority-fc-vs-hart-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/64/be/27/b9/64be27b9-9540-4e4f-8075-8bda82775782.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/e1/8c/09/a9/e18c09a9-e0b4-443c-af28-c552cb7f1ab5.png",
-            "freeMode": "FREE_ADS",
-            "title": "Gambia Ports Authority FC v Hart FC | Gambia GFF League 25/26",
-            "titleTemplateValues": {
-                "country": "The Gambia",
-                "team:hart-fc": "Hart FC",
-                "publisher": "MA | Gambia",
-                "stage": "Regular Season",
-                "competition": "Gambia GFF League",
-                "association": "The Gambia",
-                "team:gambia-ports-authority-fc": "Gambia Ports Authority FC",
-                "global-stage": "Round 25",
-                "publisher-channel": "MA | Gambia | GFF League 2025/2026 (Channel)",
-                "stadium": "Serrekunda East Mini Stadium (SK East)",
-                "season": "Gambia GFF League 25/26",
-                "match": "Gambia Ports Authority FC v Hart FC",
-                "city": "Serrekunda",
-                "video-type": "Live Streams",
-                "organizer": "The Gambia",
-                "organizer-country": "The Gambia"
-            },
-            "startDate": "2026-05-16T16:20:00Z",
-            "endDate": "2026-05-16T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Gambia Ports Authority FC v Hart FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Gambia GFF League 25/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 25"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "The Gambia"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_21_21_634e8796-4d56-4f92-af5d-81048fbfc6ad/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778948340",
-                "decryption_keys": [
-                    "8b4e32b7edd831ffab8c2d5f2dec205d:f5dadea4d3204f4d9cdcccd0263f2b3e"
-                ]
-            }
-        },
         {
             "id": "b43d4b85-1755-440a-b1e9-80d625e71d63",
             "channelId": "fifa-tournaments",
@@ -95,13 +27,13 @@
                 "team:sporting-clube-gb": "Sporting Clube GB",
                 "association": "Guinea-Bissau",
                 "city": "Bissau",
+                "video-type": "Full Match Replays",
                 "season": "Campeonato Nacional de Futebol da 1a Divisão 2025/26",
                 "team:tigres-f-sao-domingos": "Tigres de Fronteira",
                 "country": "Guinea-Bissau",
                 "publisher-channel": "MA | Guinea-Bissau | Campeonato Nacional de Futebol da 1a Divisão 2025/26 (Channel)",
                 "stadium": "Lino Correia",
                 "stage": "Regular Season",
-                "video-type": "Live Streams",
                 "match": "Sporting Clube GB v Tigres de Fronteira",
                 "organizer": "Guinea-Bissau",
                 "organizer-country": "Guinea-Bissau"
@@ -345,74 +277,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_21_29_e6f99492-ca03-477d-a24c-73e7e90d5393/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778953740",
                 "decryption_keys": [
                     "585fc5c2dc4d30e38dc4659d5bc5545b:7c546caa992c08c44ffa7ede50be481e"
-                ]
-            }
-        },
-        {
-            "id": "885e74fe-a82f-4471-b1db-87a09cd6f273",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "885e74fe-a82f-4471-b1db-87a09cd6f273",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Ranger's v FC Santa Coloma | Lliga Multissegur Assegurances 2025/2026",
-            "category": "livestream",
-            "urlSlug": "ranger-s-vs-fc-santa-coloma",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/79/e0/6a/24/79e06a24-b7e5-4b88-9db0-b96f154239ed.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/59/51/82/a5/595182a5-472b-408e-a12f-ad16e6071bef.png",
-            "freeMode": "FREE_ADS",
-            "title": "Ranger's v FC Santa Coloma | Lliga Multissegur Assegurances 2025/2026",
-            "titleTemplateValues": {
-                "publisher": "MA | Andorra (Publisher)",
-                "competition": "Lliga Multissegur Assegurances",
-                "stadium": "Centre d'Entrenament de la FAF",
-                "season": "Lliga Multissegur Assegurances 2025/2026",
-                "association": "Andorra",
-                "stage": "Round 2",
-                "team:fc-santa-coloma": "FC Santa Coloma",
-                "publisher-channel": "MA | Andorra | Andorra Lliga Multissegur Assegurances (Channel)",
-                "country": "Andorra",
-                "global-stage": "Round 27",
-                "team:ranger-s": "Ranger's",
-                "match": "Ranger's v FC Santa Coloma",
-                "city": "Andorra la Vella",
-                "video-type": "Live Streams",
-                "organizer": "Andorra",
-                "organizer-country": "Andorra"
-            },
-            "startDate": "2026-05-16T18:35:00Z",
-            "endDate": "2026-05-16T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T18:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Ranger's v FC Santa Coloma"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Lliga Multissegur Assegurances 2025/2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 27"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Andorra"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_12_23_12fb09fc-8bc9-4e27-b38b-50be03fa38ce/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Acat%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778956440",
-                "decryption_keys": [
-                    "fd75951142da3745ac79874871a6f203:ce908ba725eb234338308291212db3b8"
                 ]
             }
         },
@@ -3139,6 +3003,130 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "The Gambia"
+                }
+            ]
+        },
+        {
+            "id": "0e4a0155-fd3d-4ca2-b5b6-94c36ea4c4d1",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "0e4a0155-fd3d-4ca2-b5b6-94c36ea4c4d1",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Nouakchott Kings v FC Nouadhibou | Super D-1 2025/26",
+            "category": "livestream",
+            "urlSlug": "nouakchott-kings-vs-fc-nouadhibou",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/39/61/d8/4a/3961d84a-2170-4737-8a7c-42d7ae00e8f7.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/6f/dc/93/b9/6fdc93b9-8bf4-4638-a1d5-cc111ed68fe6.png",
+            "freeMode": "FREE_ADS",
+            "title": "Nouakchott Kings v FC Nouadhibou | Super D-1 2025/26",
+            "titleTemplateValues": {
+                "stage": "Regular season",
+                "publisher": "MA | Mauritania",
+                "match": "Nouakchott Kings v FC Nouadhibou",
+                "competition": "Super D-1",
+                "city": "Nouakchott",
+                "global-stage": "Round 25",
+                "team:nouakchott-kings": "Nouakchott Kings",
+                "association": "Mauritania",
+                "stadium": "Stade Cheikha Ould Boïdiya",
+                "publisher-channel": "MA | Mauritania | Super D1 2025/2026",
+                "season": "Super D-1 2025/26",
+                "team:fc-nouadhibou": "FC Nouadhibou",
+                "country": "Mauritania",
+                "video-type": "Live Streams",
+                "organizer": "Mauritania",
+                "organizer-country": "Mauritania"
+            },
+            "startDate": "2026-05-17T16:35:00Z",
+            "endDate": "2026-05-17T19:15:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-17T16:45:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Nouakchott Kings v FC Nouadhibou"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Super D-1 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 25"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mauritania"
+                }
+            ]
+        },
+        {
+            "id": "622f1d05-af3a-4c50-b65c-528b9a2c4a0c",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "622f1d05-af3a-4c50-b65c-528b9a2c4a0c",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "AF Elbasani v KF Egnatia | Championship Playoff | Kategoria Superiore 2025/26",
+            "category": "livestream",
+            "urlSlug": "af-elbasani-vs-kf-egnatia",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1e/b8/b6/0d/1eb8b60d-ca73-4620-a12e-6d83b3142377.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ab/a0/c1/d8/aba0c1d8-72d3-44cf-831f-5a81c4401c26.png",
+            "freeMode": "FREE_ADS",
+            "title": "AF Elbasani v KF Egnatia | Championship Playoff | Kategoria Superiore 2025/26",
+            "titleTemplateValues": {
+                "global-stage": "Championship Playoff",
+                "stadium": "Air Albania Stadium",
+                "team:kf-egnatia": "KF Egnatia",
+                "season": "Kategoria Superiore 2025/26",
+                "team:af-elbasani": "AF Elbasani",
+                "country": "Albania",
+                "match": "AF Elbasani v KF Egnatia",
+                "publisher-channel": "MA | Albania | Abissnet Superiore 2025/26",
+                "publisher": "MA | Albania",
+                "stage": "Final 4",
+                "competition": "Kategoria Superiore",
+                "association": "Albania",
+                "video-type": "Live Streams",
+                "city": "Tirana",
+                "organizer": "Albania",
+                "organizer-country": "Albania"
+            },
+            "startDate": "2026-05-17T16:50:00Z",
+            "endDate": "2026-05-17T19:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-17T17:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "AF Elbasani v KF Egnatia"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Kategoria Superiore 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Championship Playoff"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Albania"
                 }
             ]
         }
