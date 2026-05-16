@@ -1,15 +1,20 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:22 PM 16-05-2026
+#last update time: 04:45:23 PM 16-05-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/03/94/78/6c/0394786c-a126-40b4-86dd-b1ad4e13b59c.png" group-title="FIFA Live", Chuncheon FC v Jeonbuk FC | K3 League 2026
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c2/d3/fa/bf/c2d3fabf-0449-4928-85e6-dff7886c0cd6.png" group-title="FIFA Live", MFA Žalgiris–MRU v Kauno rajono FA | Moterų A lyga 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7531badb6d263b88a53e87b523ddbcac:d4f7fc48337a806e05060a1dda2b917a
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_46_31_ab04a346-fc1b-474d-9e20-2d9af9260234/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Akor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778906940
+#KODIPROP:inputstream.adaptive.license_key=b0d193f6087c37c0b031190686307046:c1444481e1cd6a9171f233a7ca6998a3
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_12_29_49_80032b30-bbbe-4583-ab2e-5f8746d00dc6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778923140
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d7/5d/23/49/d75d2349-b07f-4e1c-9b26-51c3913b4f8e.png" group-title="FIFA Live", Pocheon Citizen v Changwon FC | K3 League 2026
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/14/08/66/90/14086690-2173-4c18-a29d-81ed89f253c0.png" group-title="FIFA Live", Lesotho Defence Force FC v Maroala FC | Vodacom Premier League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=faf7061019e93bceb9337e1efaa099e1:38f0c461cb62be7090fdfca5066986da
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_46_28_3e79c0fa-8be2-46a3-80af-8063c451fe2e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Akor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778906940
+#KODIPROP:inputstream.adaptive.license_key=8475285f496c30f2bb51f037a80772fd:b16b3746f0277350854a79911345bb93
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_41_58_7fa48bee-153a-4952-b97a-ad0cc2f50519/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778923140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/50/67/ab/b8/5067abb8-ea14-4760-acbd-cbcd1ff7a9ab.png" group-title="FIFA Live", FK Banga v FK Žalgiris | Moterų A lyga 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34987205f810330c9d866a0185a097a7:ad9452e1106eecc1892992d9da3c1911
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_12_29_52_8130f13f-219e-474d-9fde-b78259b14938/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778924940
