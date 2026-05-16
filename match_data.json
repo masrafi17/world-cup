@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:15:17 PM 16-05-2026",
-        "total_live": 9,
+        "last_update_time": "07:30:22 PM 16-05-2026",
+        "total_live": 8,
         "total_upcoming": 17
     },
     "matches": [
-        {
-            "id": "fa01dcc0-9bfc-46b6-93dc-625a5cdce53d",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "fa01dcc0-9bfc-46b6-93dc-625a5cdce53d",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Neptūnas v Minija | Pirma Lyga 2026",
-            "category": "livestream",
-            "urlSlug": "fc-neptunas-vs-fk-minija",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f2/4c/3b/b0/f24c3bb0-e739-4ae5-95d3-6cbfe473d948.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d6/ee/5c/66/d6ee5c66-cc98-410a-9049-0ab6e6ebe7d5.png",
-            "freeMode": "FREE_ADS",
-            "title": "Neptūnas v Minija | Pirma Lyga 2026",
-            "titleTemplateValues": {
-                "stage": "I Lyga Regular Season",
-                "season": "Pirma Lyga 2026",
-                "city": "Klaipėda",
-                "global-stage": "Round 10",
-                "team:fk-minija": "Minija",
-                "stadium": "Klaipėda Stadium",
-                "country": "Lithuania",
-                "team:fc-neptunas": "Neptūnas",
-                "match": "Neptūnas v Minija",
-                "publisher": "MA | Lithuania ",
-                "competition": "Pirma Lyga",
-                "association": "Lithuania",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Lithuania | Pirma Lyga 2026 (Channel)",
-                "organizer": "Lithuania",
-                "organizer-country": "Lithuania"
-            },
-            "startDate": "2026-05-16T10:50:00Z",
-            "endDate": "2026-05-16T13:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T11:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Neptūnas v Minija"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Pirma Lyga 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 10"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lithuania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_08_38_07_c4e61e5a-275d-472d-9470-d77a880a9439/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778928540",
-                "decryption_keys": [
-                    "33a5eb2dd62332129c05f39da6b8007d:6458fd24dca48c5d6382b9c9b1cfc026"
-                ]
-            }
-        },
         {
             "id": "858cddf7-3c1a-40f9-b530-0731dcf2c2f1",
             "channelId": "fifa-tournaments",
