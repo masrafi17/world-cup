@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:30:18 PM 16-05-2026
+#last update time: 11:45:18 PM 16-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f5/96/ce/c3/f596cec3-8b25-48b7-beef-10444d95c240.png" group-title="FIFA Live", Sport Club Kfar Kasem v Sekzia Ness Ziona | Liga Noar Leumit U19 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca3743001e853198ae205d63603177ca:5b8e2b06297c61143bf1be1a644adf12
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_11_07_57_70f0e5cd-ded0-465b-8c3f-2c77b284550c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778945400
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/78/52/d2/8c/7852d28c-c4cd-40a5-9053-cc57c5672209.png" group-title="FIFA Live", ASN Nigelec v AS GNN | Super Ligue 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
