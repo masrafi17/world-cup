@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:45:18 AM 16-05-2026",
+        "last_update_time": "07:00:23 AM 16-05-2026",
         "total_live": 4,
-        "total_upcoming": 44
+        "total_upcoming": 43
     },
     "matches": [
         {
@@ -382,7 +382,7 @@
             "isRegistrationRequired": true,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
