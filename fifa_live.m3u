@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:20 AM 17-05-2026
+#last update time: 12:45:25 AM 17-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e1/8c/09/a9/e18c09a9-e0b4-443c-af28-c552cb7f1ab5.png" group-title="FIFA Live", Gambia Ports Authority FC v Hart FC | Gambia GFF League 25/26
@@ -28,3 +28,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_08_55_13_ef33f45e-8d72-45da-9bb6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=585fc5c2dc4d30e38dc4659d5bc5545b:7c546caa992c08c44ffa7ede50be481e
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_21_29_e6f99492-ca03-477d-a24c-73e7e90d5393/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778953740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/59/51/82/a5/595182a5-472b-408e-a12f-ad16e6071bef.png" group-title="FIFA Live", Ranger's v FC Santa Coloma | Lliga Multissegur Assegurances 2025/2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd75951142da3745ac79874871a6f203:ce908ba725eb234338308291212db3b8
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_12_23_12fb09fc-8bc9-4e27-b38b-50be03fa38ce/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Acat%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778956440
