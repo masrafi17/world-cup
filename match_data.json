@@ -3,419 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:00:26 AM 17-05-2026",
-        "total_live": 6,
-        "total_upcoming": 41
+        "last_update_time": "04:30:19 AM 17-05-2026",
+        "total_live": 4,
+        "total_upcoming": 36
     },
     "matches": [
-        {
-            "id": "370d99c9-5d4b-4131-8b95-82c8022db2a8",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "370d99c9-5d4b-4131-8b95-82c8022db2a8",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "ES Issia v Yamoussoukro FC | Côte d'Ivoire Ligue 2 2025/26",
-            "category": "livestream",
-            "urlSlug": "es-issia-vs-yamoussoukro-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/2f/8c/0a/ac/2f8c0aac-82dd-41cc-afa6-b8ace2bf4263.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ff/fa/f9/c1/fffaf9c1-4dcb-470a-8055-ab6c390e2fd7.png",
-            "freeMode": "FREE_ADS",
-            "title": "ES Issia v Yamoussoukro FC | Côte d'Ivoire Ligue 2 2025/26",
-            "titleTemplateValues": {
-                "competition": "Ligue 2",
-                "association": "Côte d'Ivoire",
-                "team:yamoussoukro-fc": "Yamoussoukro FC",
-                "city": "Yamoussoukro",
-                "match": "ES Issia v Yamoussoukro FC",
-                "publisher-channel": "MA | Côte d'Ivoire | Ligue 2 2025-2026",
-                "season": "Côte d'Ivoire Ligue 2 2025/26",
-                "country": "Côte d'Ivoire",
-                "global-stage": "Round 26",
-                "stage": "Regular Season",
-                "publisher": "MA | Côte d'Ivoire",
-                "team:es-issia": "ES Issia",
-                "stadium": "Stade Charles Konan Banny",
-                "video-type": "Live Streams",
-                "organizer": "Côte d'Ivoire",
-                "organizer-country": "Côte d'Ivoire"
-            },
-            "startDate": "2026-05-16T18:17:00Z",
-            "endDate": "2026-05-16T20:57:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T18:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "ES Issia v Yamoussoukro FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Côte d'Ivoire Ligue 2 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Côte d'Ivoire"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_21_29_e6f99492-ca03-477d-a24c-73e7e90d5393/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778953740",
-                "decryption_keys": [
-                    "585fc5c2dc4d30e38dc4659d5bc5545b:7c546caa992c08c44ffa7ede50be481e"
-                ]
-            }
-        },
-        {
-            "id": "6b88bb69-f14b-4410-9276-7f2d1192b629",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "6b88bb69-f14b-4410-9276-7f2d1192b629",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Atlético Barinas v Barquisimeto SC | Liga FUTVE 2 2026",
-            "category": "livestream",
-            "urlSlug": "atletico-barinas-vs-barquisimeto-sc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/57/b2/b9/56/57b2b956-2a4f-4b00-9e73-4c3ff15091b9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/28/fa/8c/13/28fa8c13-dffd-4aa5-a31a-005c81ebe90a.png",
-            "freeMode": "FREE_ADS",
-            "title": "Atlético Barinas v Barquisimeto SC | Liga FUTVE 2 2026",
-            "titleTemplateValues": {
-                "season": "Liga FUTVE 2 2026",
-                "city": "Sabaneta",
-                "team:barquisimeto-sc": "Barquisimeto SC",
-                "stage": "Regular Season",
-                "team:atletico-barinas": "Atlético Barinas",
-                "association": "Venezuela",
-                "publisher": "MA | Venezuela",
-                "match": "Atlético Barinas v Barquisimeto SC",
-                "global-stage": "Round 14",
-                "stadium": "Tito Salas Stadium",
-                "competition": "Liga FUTVE 2",
-                "country": "Venezuela",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Venezuela | Liga FUTVE 2 2026 (Channel)",
-                "organizer": "Venezuela",
-                "organizer-country": "Venezuela"
-            },
-            "startDate": "2026-05-16T19:20:00Z",
-            "endDate": "2026-05-16T22:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T19:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Atlético Barinas v Barquisimeto SC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga FUTVE 2 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 14"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Venezuela"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_04_14_27684ce8-ea19-4f06-97a0-802ebe96efb8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778959140",
-                "decryption_keys": [
-                    "c58496cdf7543ce6b39fb2368d1e6291:e418bc92fcbae7f74702b761dec451eb"
-                ]
-            }
-        },
-        {
-            "id": "be612e0f-3f68-433e-98ce-499005ea5a77",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "be612e0f-3f68-433e-98ce-499005ea5a77",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "El Vigía FC v Zamora FC (B) | Liga FUTVE 2 2026",
-            "category": "livestream",
-            "urlSlug": "el-vigia-fc-vs-zamora-b",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/57/b2/b9/56/57b2b956-2a4f-4b00-9e73-4c3ff15091b9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/88/e7/f9/bf/88e7f9bf-d332-412c-ad44-26626dd248b9.png",
-            "freeMode": "FREE_ADS",
-            "title": "El Vigía FC v Zamora FC (B) | Liga FUTVE 2 2026",
-            "titleTemplateValues": {
-                "season": "Liga FUTVE 2 2026",
-                "team:zamora-b": "Zamora FC (B)",
-                "stage": "Regular Season",
-                "association": "Venezuela",
-                "stadium": "Estadio Ramón Hernández",
-                "publisher": "MA | Venezuela",
-                "global-stage": "Round 14",
-                "match": "El Vigía FC v Zamora FC (B)",
-                "team:el-vigia-fc": "El Vigía FC",
-                "competition": "Liga FUTVE 2",
-                "city": "El Vigía",
-                "country": "Venezuela",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Venezuela | Liga FUTVE 2 2026 (Channel)",
-                "organizer": "Venezuela",
-                "organizer-country": "Venezuela"
-            },
-            "startDate": "2026-05-16T19:20:00Z",
-            "endDate": "2026-05-16T22:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T19:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "El Vigía FC v Zamora FC (B)"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga FUTVE 2 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 14"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Venezuela"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_04_18_3bae39e7-0106-4ab2-839d-41142fc30664/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778959140",
-                "decryption_keys": [
-                    "30499d5a0ec133e19b365e6454b1de8b:702ee69cfa952ae61648c0f5eb4b9861"
-                ]
-            }
-        },
-        {
-            "id": "1469b9c7-893a-4fe8-9217-6f2ddfa54b48",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "1469b9c7-893a-4fe8-9217-6f2ddfa54b48",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Mineros de Guayana v Miranda | Liga FUTVE 2 2026",
-            "category": "livestream",
-            "urlSlug": "mineros-de-guayana-vs-miranda",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/57/b2/b9/56/57b2b956-2a4f-4b00-9e73-4c3ff15091b9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/26/09/ee/4c/2609ee4c-e830-47c1-b0e0-67d6f8d10974.png",
-            "freeMode": "FREE_ADS",
-            "title": "Mineros de Guayana v Miranda | Liga FUTVE 2 2026",
-            "titleTemplateValues": {
-                "season": "Liga FUTVE 2 2026",
-                "stadium": "Cachamay Stadium",
-                "stage": "Regular Season",
-                "city": "Guayana City",
-                "association": "Venezuela",
-                "publisher": "MA | Venezuela",
-                "global-stage": "Round 11",
-                "team:miranda": "Miranda",
-                "competition": "Liga FUTVE 2",
-                "match": "Mineros de Guayana v Miranda",
-                "country": "Venezuela",
-                "team:mineros-de-guayana": "Mineros de Guayana",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Venezuela | Liga FUTVE 2 2026 (Channel)",
-                "organizer": "Venezuela",
-                "organizer-country": "Venezuela"
-            },
-            "startDate": "2026-05-16T19:20:00Z",
-            "endDate": "2026-05-16T22:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T19:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Mineros de Guayana v Miranda"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga FUTVE 2 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 11"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Venezuela"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_04_23_a9592b11-c6db-426d-9096-ad174bf48019/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778959140",
-                "decryption_keys": [
-                    "f3148af6fad6386791af2b57997c40f2:01876c236fec3755de13d9e876685777"
-                ]
-            }
-        },
-        {
-            "id": "0ec13801-e69d-414b-a3c0-01290d4321d1",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "0ec13801-e69d-414b-a3c0-01290d4321d1",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Yaracuyanos F.C. v Puerto Cabello B | Liga FUTVE 2 2026",
-            "category": "livestream",
-            "urlSlug": "yaracuyanos-f-c-vs-puerto-cabello-b",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/57/b2/b9/56/57b2b956-2a4f-4b00-9e73-4c3ff15091b9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/7b/35/04/32/7b350432-3792-4ff6-a7a8-d2f7b82ea946.png",
-            "freeMode": "FREE_ADS",
-            "title": "Yaracuyanos F.C. v Puerto Cabello B | Liga FUTVE 2 2026",
-            "titleTemplateValues": {
-                "team:puerto-cabello-b": "Puerto Cabello B",
-                "season": "Liga FUTVE 2 2026",
-                "match": "Yaracuyanos F.C. v Puerto Cabello B",
-                "stage": "Regular Season",
-                "team:yaracuyanos-f-c": "Yaracuyanos F.C.",
-                "association": "Venezuela",
-                "publisher": "MA | Venezuela",
-                "global-stage": "Round 14",
-                "stadium": "Florentino Oropeza",
-                "city": "San Felipe",
-                "competition": "Liga FUTVE 2",
-                "country": "Venezuela",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Venezuela | Liga FUTVE 2 2026 (Channel)",
-                "organizer": "Venezuela",
-                "organizer-country": "Venezuela"
-            },
-            "startDate": "2026-05-16T19:20:00Z",
-            "endDate": "2026-05-16T22:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T19:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Yaracuyanos F.C. v Puerto Cabello B"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga FUTVE 2 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 14"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Venezuela"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_04_29_b1f6087f-9a80-493a-8373-db55b7d64749/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778959140",
-                "decryption_keys": [
-                    "5fd58c898ff931189f317e1e6f45ae02:edff3ac7ea96b340a3757ced82f1436c"
-                ]
-            }
-        },
-        {
-            "id": "c6f18951-6c72-4eab-be78-dd52236ade55",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "c6f18951-6c72-4eab-be78-dd52236ade55",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Bath Estate FC v Harlem United SC | DFA Premier League 2026",
-            "category": "livestream",
-            "urlSlug": "bath-estate-fc-vs-harlem-united-sc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/cd/54/de/4a/cd54de4a-9ed2-47df-822e-cc0094b8e336.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/80/fb/9c/50/80fb9c50-3ec2-4d08-be15-29d9e4737ac8.png",
-            "freeMode": "FREE_ADS",
-            "title": "Bath Estate FC v Harlem United SC | DFA Premier League 2026",
-            "titleTemplateValues": {
-                "season": "DFA Premier League 2026",
-                "country": "Dominica",
-                "competition": "DFA Premier League",
-                "global-stage": "Round 4",
-                "team:bath-estate-fc": "Bath Estate FC",
-                "stadium": "DFA Technical Centre",
-                "stage": "Regular Season",
-                "team:harlem-united-sc": "Harlem United SC",
-                "publisher": "MA | Dominica",
-                "city": "Roseau ",
-                "publisher-channel": "MA | Dominica | DFA Premier League 2026",
-                "association": "Dominica",
-                "match": "Bath Estate FC v Harlem United SC",
-                "video-type": "Live Streams",
-                "organizer": "Dominica",
-                "organizer-country": "Dominica"
-            },
-            "startDate": "2026-05-16T19:50:00Z",
-            "endDate": "2026-05-16T22:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T20:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Bath Estate FC v Harlem United SC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "DFA Premier League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 4"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Dominica"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_16_12_622d8616-2c60-4f1c-aa2d-79f6c654868f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778960940",
-                "decryption_keys": [
-                    "c50f2bf5f9703aeb8817fc4e5a8b0ed0:b0759613b82c614f4ef67758a2f0edd7"
-                ]
-            }
-        },
         {
             "id": "190c8360-58c9-4f64-99db-04eff17fd4ff",
             "channelId": "fifa-tournaments",
@@ -454,7 +46,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -476,7 +68,13 @@
                     "p": 1,
                     "value": "Venezuela"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_04_39_572c581f-cedd-4dcb-b898-48367a116419/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778964540",
+                "decryption_keys": [
+                    "cc20c1600efd3c02a8170ec174d7be7c:15f3382fb460257d720f53e5785d6976"
+                ]
+            }
         },
         {
             "id": "e398acac-eaa9-4573-af8e-36a2084b0d39",
@@ -516,7 +114,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -538,69 +136,13 @@
                     "p": 1,
                     "value": "Venezuela"
                 }
-            ]
-        },
-        {
-            "id": "ca070b0a-35ab-40fa-8be6-eea8f9cdc221",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "ca070b0a-35ab-40fa-8be6-eea8f9cdc221",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Pointe Michel FC v Middleham United FC | DFA Premier League 2026",
-            "category": "livestream",
-            "urlSlug": "pointe-michel-fc-vs-middleham-united-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/cd/54/de/4a/cd54de4a-9ed2-47df-822e-cc0094b8e336.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/3f/89/2b/5b/3f892b5b-347a-42f8-a1b6-32df27d415b8.png",
-            "freeMode": "FREE_ADS",
-            "title": "Pointe Michel FC v Middleham United FC | DFA Premier League 2026",
-            "titleTemplateValues": {
-                "season": "DFA Premier League 2026",
-                "country": "Dominica",
-                "competition": "DFA Premier League",
-                "global-stage": "Round 4",
-                "stadium": "DFA Technical Centre",
-                "stage": "Regular Season",
-                "team:pointe-michel-fc": "Pointe Michel FC",
-                "publisher": "MA | Dominica",
-                "city": "Roseau ",
-                "match": "Pointe Michel FC v Middleham United FC",
-                "publisher-channel": "MA | Dominica | DFA Premier League 2026",
-                "team:middleham-united-fc": "Middleham United FC",
-                "association": "Dominica",
-                "video-type": "Live Streams",
-                "organizer": "Dominica",
-                "organizer-country": "Dominica"
-            },
-            "startDate": "2026-05-16T22:20:00Z",
-            "endDate": "2026-05-17T01:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T22:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Pointe Michel FC v Middleham United FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "DFA Premier League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 4"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Dominica"
-                }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_04_33_17802ef4-8a28-4738-b890-a9cfc0a539c5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778964540",
+                "decryption_keys": [
+                    "172b0c18bddd37edad98b1a2e3ffa211:003ddd3e8234db8bd6c9828c6f9e16ff"
+                ]
+            }
         },
         {
             "id": "03442a05-8363-47f0-aef2-c62e9fa336a2",
@@ -640,7 +182,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -662,7 +204,13 @@
                     "p": 1,
                     "value": "Aruba"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_18_02_7cfb13a1-8e37-4d97-b71c-62b35961bbad/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778969940",
+                "decryption_keys": [
+                    "53b681dff0353b40b82661dceb575117:459b765731d79a479c415ef5c2b48063"
+                ]
+            }
         },
         {
             "id": "9c8a4cc3-d6d0-4429-8d05-eb7078366709",
@@ -702,7 +250,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -724,7 +272,13 @@
                     "p": 1,
                     "value": "Turks and Caicos Islands"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_33_30_b77d6db3-1dde-4e88-9789-a7e8c9cde44a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778969940",
+                "decryption_keys": [
+                    "fea55225451933b7a53d8dd97babf572:8fae5f1b4668828566a320cefc523287"
+                ]
+            }
         },
         {
             "id": "d762fcf1-fc86-4448-adca-171ea8333cac",
