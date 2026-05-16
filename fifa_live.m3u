@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:45:17 PM 16-05-2026
+#last update time: 07:00:26 PM 16-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/63/45/97/24/63459724-e2c7-4dbd-9c9b-d2d661bab72b.png" group-title="FIFA Live", Manzini Wanderers FC v Royal Leopards FC | MTN Premier League 2025/26
@@ -43,3 +43,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_07_40_15_d6ae48ee-6356-4d15-8fd6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=478c4c3da73f384ca7b3c86fa90f0c49:b59ebb1127f231641faaebb0df950ecc
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_07_40_10_3efd694f-81cc-4967-8d58-91fd06c6b861/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778933940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/bb/eb/88/89/bbeb8889-529b-4e31-b75c-98316a507931.png" group-title="FIFA Live", KFV Prishtina v Malisheva | Siguria Superliga e Femrave 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91779d8123b2352a8b8a57735a2c54c7:875e2bf7313ff50bca2b7b704ad5a121
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_08_17_27_ce4d457d-9b84-4bd1-a212-f9c3b20afc44/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778935740
