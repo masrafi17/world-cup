@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:15:20 AM 17-05-2026",
-        "total_live": 3,
-        "total_upcoming": 38
+        "last_update_time": "04:30:19 AM 17-05-2026",
+        "total_live": 4,
+        "total_upcoming": 36
     },
     "matches": [
-        {
-            "id": "c6f18951-6c72-4eab-be78-dd52236ade55",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "c6f18951-6c72-4eab-be78-dd52236ade55",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Bath Estate FC v Harlem United SC | DFA Premier League 2026",
-            "category": "livestream",
-            "urlSlug": "bath-estate-fc-vs-harlem-united-sc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/cd/54/de/4a/cd54de4a-9ed2-47df-822e-cc0094b8e336.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/80/fb/9c/50/80fb9c50-3ec2-4d08-be15-29d9e4737ac8.png",
-            "freeMode": "FREE_ADS",
-            "title": "Bath Estate FC v Harlem United SC | DFA Premier League 2026",
-            "titleTemplateValues": {
-                "season": "DFA Premier League 2026",
-                "country": "Dominica",
-                "competition": "DFA Premier League",
-                "global-stage": "Round 4",
-                "team:bath-estate-fc": "Bath Estate FC",
-                "stadium": "DFA Technical Centre",
-                "stage": "Regular Season",
-                "team:harlem-united-sc": "Harlem United SC",
-                "publisher": "MA | Dominica",
-                "city": "Roseau ",
-                "publisher-channel": "MA | Dominica | DFA Premier League 2026",
-                "association": "Dominica",
-                "match": "Bath Estate FC v Harlem United SC",
-                "video-type": "Live Streams",
-                "organizer": "Dominica",
-                "organizer-country": "Dominica"
-            },
-            "startDate": "2026-05-16T19:50:00Z",
-            "endDate": "2026-05-16T22:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T20:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Bath Estate FC v Harlem United SC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "DFA Premier League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 4"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Dominica"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_16_12_622d8616-2c60-4f1c-aa2d-79f6c654868f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778960940",
-                "decryption_keys": [
-                    "c50f2bf5f9703aeb8817fc4e5a8b0ed0:b0759613b82c614f4ef67758a2f0edd7"
-                ]
-            }
-        },
         {
             "id": "190c8360-58c9-4f64-99db-04eff17fd4ff",
             "channelId": "fifa-tournaments",
@@ -250,7 +182,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -272,7 +204,13 @@
                     "p": 1,
                     "value": "Aruba"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_18_02_7cfb13a1-8e37-4d97-b71c-62b35961bbad/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778969940",
+                "decryption_keys": [
+                    "53b681dff0353b40b82661dceb575117:459b765731d79a479c415ef5c2b48063"
+                ]
+            }
         },
         {
             "id": "9c8a4cc3-d6d0-4429-8d05-eb7078366709",
@@ -312,7 +250,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -334,7 +272,13 @@
                     "p": 1,
                     "value": "Turks and Caicos Islands"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_33_30_b77d6db3-1dde-4e88-9789-a7e8c9cde44a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778969940",
+                "decryption_keys": [
+                    "fea55225451933b7a53d8dd97babf572:8fae5f1b4668828566a320cefc523287"
+                ]
+            }
         },
         {
             "id": "d762fcf1-fc86-4448-adca-171ea8333cac",
