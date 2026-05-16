@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:00:24 PM 16-05-2026",
-        "total_live": 11,
+        "last_update_time": "08:15:18 PM 16-05-2026",
+        "total_live": 9,
         "total_upcoming": 14
     },
     "matches": [
-        {
-            "id": "858cddf7-3c1a-40f9-b530-0731dcf2c2f1",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "858cddf7-3c1a-40f9-b530-0731dcf2c2f1",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Machokha FC v Liphakoe FC | Vodacom Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "machokha-fc-vs-liphakoe-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/cc/13/d2/f7/cc13d2f7-b310-4a47-978c-9632cda4a205.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/03/8f/70/67/038f7067-220a-4555-9f9e-7dd324377db6.png",
-            "freeMode": "FREE_ADS",
-            "title": "Machokha FC v Liphakoe FC | Vodacom Premier League 2025/26",
-            "titleTemplateValues": {
-                "country": "Lesotho",
-                "stadium": "Ratjomose Stadium",
-                "association": "Lesotho",
-                "publisher-channel": "MA | Lesotho | Vodacom Premier League 2025/26",
-                "match": "Machokha FC v Liphakoe FC",
-                "stage": "Regular Season",
-                "publisher": "MA | Lesotho",
-                "global-stage": "Round 30",
-                "city": "Maseru",
-                "team:machokha-fc": "Machokha FC",
-                "competition": "Lesotho Premier League",
-                "season": "Vodacom Premier League 2025/26",
-                "team:liphakoe-fc": "Liphakoe FC",
-                "video-type": "Live Streams",
-                "organizer": "Lesotho",
-                "organizer-country": "Lesotho"
-            },
-            "startDate": "2026-05-16T11:50:00Z",
-            "endDate": "2026-05-16T14:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T12:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Machokha FC v Liphakoe FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Vodacom Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 30"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lesotho"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_42_14_836199a8-16f9-4b60-ba47-94c64d7209f6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778932140",
-                "decryption_keys": [
-                    "a2f8770d8a4c3b9e95a914283fcf4d93:bf9333b4f7f53f818cc3fd5b0bcebdf2"
-                ]
-            }
-        },
         {
             "id": "e8ce1736-c857-498a-917c-31699a67b853",
             "channelId": "fifa-tournaments",
@@ -141,74 +73,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_42_02_205a8f61-b278-49b2-b486-9739bdd1db20/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778932140",
                 "decryption_keys": [
                     "e6cf825124763b829700ba812c0c0cc7:1b5211deb351a7ac40f33316e0b7ebe0"
-                ]
-            }
-        },
-        {
-            "id": "da696cc6-ec0d-4b4c-b80c-96b6789f9a69",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "da696cc6-ec0d-4b4c-b80c-96b6789f9a69",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Members FC v Lioli FC | Vodacom Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "members-fc-vs-lioli-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/cc/13/d2/f7/cc13d2f7-b310-4a47-978c-9632cda4a205.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/9c/56/62/cd/9c5662cd-2cac-41f6-b541-9ebe819ce531.png",
-            "freeMode": "FREE_ADS",
-            "title": "Members FC v Lioli FC | Vodacom Premier League 2025/26",
-            "titleTemplateValues": {
-                "country": "Lesotho",
-                "association": "Lesotho",
-                "team:lioli-fc": "Lioli FC",
-                "publisher-channel": "MA | Lesotho | Vodacom Premier League 2025/26",
-                "team:members-fc": "Members FC",
-                "match": "Members FC v Lioli FC",
-                "stage": "Regular Season",
-                "publisher": "MA | Lesotho",
-                "global-stage": "Round 30",
-                "city": "Maseru",
-                "stadium": "LCS Ground",
-                "competition": "Lesotho Premier League",
-                "season": "Vodacom Premier League 2025/26",
-                "video-type": "Live Streams",
-                "organizer": "Lesotho",
-                "organizer-country": "Lesotho"
-            },
-            "startDate": "2026-05-16T12:05:00Z",
-            "endDate": "2026-05-16T14:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T12:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Members FC v Lioli FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Vodacom Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 30"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lesotho"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_42_06_6e3d59b8-d908-49a1-b239-e3a2737f42ca/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778933040",
-                "decryption_keys": [
-                    "8b74b471266c3f1c8ff835dd0878deb0:dececa06e49ab38ba0f26028c21d500f"
                 ]
             }
         },
