@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:15:20 AM 16-05-2026
+#last update time: 06:30:22 AM 16-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/30/02/a5/23/3002a523-56a0-421a-8ce5-b2aa8bd07f89.png" group-title="FIFA Live", Mahaut Soca Strikers FC v South East FC | DFA Premier League 2026
@@ -13,3 +13,13 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_16_08_e6c53767-b427-4847-926b
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d660d9661fc831a38e6f7fd2daaccf56:6116d8349c48a51d2be8acc852b5b1aa
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_13_10_44_76f369a3-1a58-4b0c-bc41-cb43b1c53e6e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778889480
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/95/36/12/a9/953612a9-f391-436c-ad9a-633c962d1fac.png" group-title="FIFA Live", La Fama v RCA | Division Honor 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de13cd0b241d390a8fdd7b3a4e238e90:b0137967a19390039a557f4f65366f72
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_17_59_066e02ae-992b-4afd-adbd-290e89042a0f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778890740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/46/ff/7b/e8/46ff7be8-2338-42da-a61e-2486b93ded07.png" group-title="FIFA Live", Attackers FC v Diamond FC | Anguilla Senior Men's League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a10d8596f043a6199f01582457e78b4:a3ec4c1e345d3e820bd30c04aa3b8326
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_08_41_20_62e1221d-38cc-47be-a80e-29cdb19ece6c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778891040
