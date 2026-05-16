@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:00:26 PM 16-05-2026",
-        "total_live": 9,
+        "last_update_time": "09:15:18 PM 16-05-2026",
+        "total_live": 8,
         "total_upcoming": 10
     },
     "matches": [
-        {
-            "id": "c0ee2ec6-cd07-43a7-822b-54cc7252165c",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "c0ee2ec6-cd07-43a7-822b-54cc7252165c",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "KFV Prishtina v Malisheva | Siguria Superliga e Femrave 2026",
-            "category": "livestream",
-            "urlSlug": "kfv-prishtina-vs-kff-malisheva",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/9f/e4/16/f99fe416-c506-4889-98a0-7682087e5bce.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/bb/eb/88/89/bbeb8889-529b-4e31-b75c-98316a507931.png",
-            "freeMode": "FREE_ADS",
-            "title": "KFV Prishtina v Malisheva | Siguria Superliga e Femrave 2026",
-            "titleTemplateValues": {
-                "competition": "Superliga e Femrave",
-                "stadium": "Dobraja Stadium",
-                "stage": "Regular Season",
-                "association": "Kosovo",
-                "publisher": "MA | Kosovo",
-                "city": "Lipjan",
-                "team:kfv-prishtina": "KFV Prishtina",
-                "publisher-channel": "MA | Kosovo | Siguria Superliga e Femrave 2026",
-                "season": "Siguria Superliga e Femrave 2026",
-                "match": "KFV Prishtina v Malisheva",
-                "country": "Kosovo",
-                "global-stage": "Round 9",
-                "video-type": "Live Streams",
-                "team:kff-malisheva": "Malisheva",
-                "organizer": "Kosovo",
-                "organizer-country": "Kosovo"
-            },
-            "startDate": "2026-05-16T12:50:00Z",
-            "endDate": "2026-05-16T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T13:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "KFV Prishtina v Malisheva"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Siguria Superliga e Femrave 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 9"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Kosovo"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_08_17_27_ce4d457d-9b84-4bd1-a212-f9c3b20afc44/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778935740",
-                "decryption_keys": [
-                    "91779d8123b2352a8b8a57735a2c54c7:875e2bf7313ff50bca2b7b704ad5a121"
-                ]
-            }
-        },
         {
             "id": "eb5cda9f-d8d8-4352-836c-f5e80012e672",
             "channelId": "fifa-tournaments",
@@ -633,7 +565,7 @@
                 "organizer": "Israel",
                 "organizer-country": "Israel"
             },
-            "startDate": "2026-05-16T15:20:00Z",
+            "startDate": "2026-05-16T15:27:00Z",
             "endDate": "2026-05-16T18:00:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-16T15:30:00Z"
