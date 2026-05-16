@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:45:18 PM 16-05-2026
+#last update time: 12:00:22 AM 17-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/78/52/d2/8c/7852d28c-c4cd-40a5-9053-cc57c5672209.png" group-title="FIFA Live", ASN Nigelec v AS GNN | Super Ligue 2025/26
@@ -48,3 +48,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_07_02_91779542-53e2-478e-b9f8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebf1696a48893e09a55a64a3edeb5f82:b4f70ed921cd6d9af3623693858c3f8a
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_08_55_13_ef33f45e-8d72-45da-9bb6-c03796e21328/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778950140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ff/fa/f9/c1/fffaf9c1-4dcb-470a-8055-ab6c390e2fd7.png" group-title="FIFA Live", ES Issia v Yamoussoukro FC | Côte d'Ivoire Ligue 2 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=585fc5c2dc4d30e38dc4659d5bc5545b:7c546caa992c08c44ffa7ede50be481e
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_21_29_e6f99492-ca03-477d-a24c-73e7e90d5393/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778953740
