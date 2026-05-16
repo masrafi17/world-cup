@@ -3,80 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:45:19 PM 16-05-2026",
+        "last_update_time": "04:00:26 PM 16-05-2026",
         "total_live": 3,
-        "total_upcoming": 29
+        "total_upcoming": 28
     },
     "matches": [
-        {
-            "id": "4137d75b-a6cd-49d3-844c-165c665573e9",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "4137d75b-a6cd-49d3-844c-165c665573e9",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Araz-Nakhchivan PFC v Tahsil RIM | Azerbaijan Women's League 2025/26",
-            "category": "livestream",
-            "urlSlug": "araz-nakhchivan-pfc-vs-tahsil-rim",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/63/e4/3a/81/63e43a81-0179-4338-8ef9-a1a12bb023f6.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/13/66/66/6f/1366666f-7ea5-4bb3-988a-f97570adfd7d.png",
-            "freeMode": "FREE_ADS",
-            "title": "Araz-Nakhchivan PFC v Tahsil RIM | Azerbaijan Women's League 2025/26",
-            "titleTemplateValues": {
-                "team:araz-nakhchivan-pfc": "Araz-Nakhchivan PFC",
-                "country": "Azerbaijan",
-                "stage": "Regular Season",
-                "competition": "Azerbaijan Women's League",
-                "fifa-plus": "Womens (FIFA Plus)",
-                "team:tahsil-rim": "Tahsil RIM",
-                "publisher-channel": "MA | Azerbaijan | Azerbaijan Women's League 2025/26 (Channel)",
-                "stadium": "Record Arena",
-                "association": "Azerbaijan",
-                "season": "Azerbaijan Women's League 2025/26",
-                "city": "Baku",
-                "match": "Araz-Nakhchivan PFC v Tahsil RIM",
-                "publisher": "MA | Azerbaijan",
-                "global-stage": "Round 20",
-                "video-type": "Live Streams",
-                "organizer": "Azerbaijan",
-                "organizer-country": "Azerbaijan"
-            },
-            "startDate": "2026-05-16T07:50:00Z",
-            "endDate": "2026-05-16T10:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T08:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Araz-Nakhchivan PFC v Tahsil RIM"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Azerbaijan Women's League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 20"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Azerbaijan"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_08_12_08_7fe20f21-b876-47ac-a031-4bd5811305d7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778917740",
-                "decryption_keys": [
-                    "693a2b75f8d335c695f0791af2070dd1:69c61423098eda7b5978db0fd384162a"
-                ]
-            }
-        },
         {
             "id": "51491ebe-b8a5-4ff9-ba82-d17d5561bde1",
             "channelId": "fifa-tournaments",
@@ -251,7 +182,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -273,7 +204,13 @@
                     "p": 1,
                     "value": "Lithuania"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_12_29_52_8130f13f-219e-474d-9fde-b78259b14938/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778924940",
+                "decryption_keys": [
+                    "34987205f810330c9d866a0185a097a7:ad9452e1106eecc1892992d9da3c1911"
+                ]
+            }
         },
         {
             "id": "d58fab0f-7378-425d-8244-215baec85e8a",
