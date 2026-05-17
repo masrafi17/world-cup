@@ -1,18 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:15:20 AM 18-05-2026
+#last update time: 12:30:21 AM 18-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/81/c9/51/e3/81c951e3-32fc-434d-ac9b-5e201fed33f9.png" group-title="FIFA Live", Fath de Rabat v Lionnes Assa-Mahbès | D1 Women's Championship  2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a9c686fa3613682b00b0f97c6f8cf78:27d5972e866b8b7f5393ab02867e9488
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_12_52_06_0faaadf5-0090-4158-92ac-91a51711e9e8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779032940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1b/2a/6c/f9/1b2a6cf9-2ebb-444e-bb25-24168e1319ec.png" group-title="FIFA Live", RSB Berkane v Raja Ait Iazza | D1 Women's Championship  2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be55db5c8a3033eaaff1b5b3c8462eba:04af2ae04b13cfddd1041e7fd4eef9ee
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_12_52_16_351cf4ea-870b-438d-a359-91a380f29638/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779032940
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3f/bd/4b/3b/3fbd4b3b-f163-40d7-876c-40ee8bd588ee.png" group-title="FIFA Live", Fortune v Samger FC | Gambia GFF League 25/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -53,11 +43,6 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_07_09_a80ca1dc-8c63-4198-8780
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=282063794bb43e7b80020596a85a5f20:36629e820e48d895d5e6800188597604
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_08_55_17_37792770-7c53-488d-a7d0-069025503474/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779036540
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e2/48/21/c4/e24821c4-bbb4-4165-9a67-a690b930ef56.png" group-title="FIFA Live", Dynamo d'Abomey v Sobemap FC | Ligue 1 2025
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=33c1556ce6014b9f89d88f344dc24e49:7340cdfe484feb7b10ca3c307f6bf975
-https://du2yfy2plnh46.cloudfront.net/out/v1/84098ce06a7f464a8ba7cfde324a1104/8f1900706e91489c97d9bfa78cd54535/027a1ce70f5243389f55092171452030/index.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3c/41/80/0e/3c41800e-5c2d-44a1-8979-1dd1ee615e0f.png" group-title="FIFA Live", Potenza v Ascoli | National Phase Play-offs - Second Round - First Leg | Serie C 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
