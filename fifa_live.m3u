@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:00:24 AM 18-05-2026
+#last update time: 04:15:19 AM 18-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/01/23/ed/2e/0123ed2e-397a-4260-959a-5f338686e676.png" group-title="FIFA Live", Kickstart Rush v St.Andrew Lions FC | BFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d92f66fe9cc93880a0eb9da23092f784:8d980d4dcba7527b185c3f222a71de4d
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_43_51_5b2ca49e-a20d-401c-a27f-6c2092b9b6eb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779047340
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f1/d1/75/b5/f1d175b5-dda0-4f3d-b77c-1d5b196c0d12.png" group-title="FIFA Live", Jong Aruba v River Plate Aruba | Division Honor 2025-26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
