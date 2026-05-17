@@ -3,46 +3,45 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:30:23 PM 17-05-2026",
-        "total_live": 1,
-        "total_upcoming": 28
+        "last_update_time": "09:30:21 PM 17-05-2026",
+        "total_live": 10,
+        "total_upcoming": 12
     },
     "matches": [
         {
-            "id": "f82d547b-b337-498e-a565-fb97263f0e4d",
+            "id": "80cf4ec1-9362-4ad3-bee0-fec1f3a00f0b",
             "channelId": "fifa-tournaments",
-            "catalogRedirectId": "f82d547b-b337-498e-a565-fb97263f0e4d",
+            "catalogRedirectId": "80cf4ec1-9362-4ad3-bee0-fec1f3a00f0b",
             "catalogRedirectType": "EVENT",
-            "standardTitle": "Dirchalish FC v Gabala SC | Azerbaijan Women's League 2025/26",
+            "standardTitle": "Municipale Laayoune v Hilal Témara | D1 Women's Championship  2025-26",
             "category": "livestream",
-            "urlSlug": "dirchalish-fc-vs-gabala-sc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/63/e4/3a/81/63e43a81-0179-4338-8ef9-a1a12bb023f6.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/e3/7d/90/b7/e37d90b7-33e2-47ba-bce4-97bb0324ee93.png",
+            "urlSlug": "municipale-laayoune-vs-hilal-temara",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/de/e7/40/33/dee74033-f15f-4c9b-b864-56d00c2765ee.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/9f/ea/3b/73/9fea3b73-b5f7-4919-a34e-6e47ed153dda.png",
             "freeMode": "FREE_ADS",
-            "title": "Dirchalish FC v Gabala SC | Azerbaijan Women's League 2025/26",
+            "title": "Municipale Laayoune v Hilal Témara | D1 Women's Championship  2025-26",
             "titleTemplateValues": {
-                "team:gabala-sc": "Gabala SC",
-                "match": "Dirchalish FC v Gabala SC",
-                "country": "Azerbaijan",
+                "competition": "Championnat Féminin D1",
                 "stage": "Regular Season",
-                "competition": "Azerbaijan Women's League",
-                "fifa-plus": "Womens (FIFA Plus)",
-                "team:dirchalish-fc": "Dirchalish FC",
-                "publisher-channel": "MA | Azerbaijan | Azerbaijan Women's League 2025/26 (Channel)",
-                "stadium": "Zagatala City Stadium",
-                "association": "Azerbaijan",
-                "season": "Azerbaijan Women's League 2025/26",
-                "publisher": "MA | Azerbaijan",
-                "city": "Zagatala",
-                "global-stage": "Round 20",
+                "team:municipale-laayoune": "Municipale Laayoune",
+                "match": "Municipale Laayoune v Hilal Témara",
+                "association": "Morocco",
+                "publisher": "MA | Morocco",
+                "stadium": "Sheikh Mohamed Laghdaf Stadium",
+                "publisher-channel": "MA | Morocco | Championnat Féminin D1 2025/2026",
+                "city": "Laayoune",
+                "season": "D1 Women's Championship  2025-26",
+                "global-stage": "Round 22",
+                "country": "Morocco",
+                "team:hilal-temara": "Hilal Témara",
                 "video-type": "Live Streams",
-                "organizer": "Azerbaijan",
-                "organizer-country": "Azerbaijan"
+                "organizer": "Morocco",
+                "organizer-country": "Morocco"
             },
-            "startDate": "2026-05-17T10:50:00Z",
-            "endDate": "2026-05-17T13:30:00Z",
+            "startDate": "2026-05-17T14:50:00Z",
+            "endDate": "2026-05-17T17:30:00Z",
             "ctxMetadata": {
-                "kickOffTime": "2026-05-17T11:00:00Z"
+                "kickOffTime": "2026-05-17T15:00:00Z"
             },
             "isRegistrationRequired": false,
             "shownPrices": null,
@@ -52,340 +51,30 @@
                 {
                     "kind": "title",
                     "p": 0,
-                    "value": "Dirchalish FC v Gabala SC"
+                    "value": "Municipale Laayoune v Hilal Témara"
                 },
                 {
                     "kind": "subtitle",
                     "p": 0,
-                    "value": "Azerbaijan Women's League 2025/26"
+                    "value": "D1 Women's Championship  2025-26"
                 },
                 {
                     "kind": "caption",
                     "p": 0,
-                    "value": "Round 20"
+                    "value": "Round 22"
                 },
                 {
                     "kind": "caption",
                     "p": 1,
-                    "value": "Azerbaijan"
+                    "value": "Morocco"
                 }
             ],
             "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_08_12_12_964bf99c-949d-4b05-8389-972dd497fe1b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779014940",
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_12_52_27_f3f06f14-c395-4b98-960b-4e84f190c0f5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779029340",
                 "decryption_keys": [
-                    "0e57f504642b3e40911320accb459aef:d5a72a94e2614cda65b03b2318d3db8e"
+                    "02cf763c767b3bffae84542c7bfc6eae:ab143289271448d1429e0ae82ea97e8f"
                 ]
             }
-        },
-        {
-            "id": "a57ce827-65a7-4efe-b26c-6541bd27515a",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "a57ce827-65a7-4efe-b26c-6541bd27515a",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Dedza Dynamos FC v Blue Eagles | FDH Bank Premiership",
-            "category": "livestream",
-            "urlSlug": "dedza-dynamos-fc-vs-blue-eagles",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/80/65/93/8e/8065938e-a1a7-4e07-bc92-5382309a4c23.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/c8/40/fd/b9/c840fdb9-76f5-4366-9123-0a6a3df43e50.png",
-            "freeMode": "FREE_ADS",
-            "title": "Dedza Dynamos FC v Blue Eagles | FDH Bank Premiership",
-            "titleTemplateValues": {
-                "country": "Malawi",
-                "city": "Dedza",
-                "association": "Malawi",
-                "global-stage": "Round 4",
-                "match": "Dedza Dynamos FC v Blue Eagles",
-                "season": "FDH Bank Premiership",
-                "publisher": "MA | Malawi",
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
-                "team:dedza-dynamos-fc": "Dedza Dynamos FC",
-                "competition": "Super League",
-                "stadium": "Dedza Stadium",
-                "team:blue-eagles": "Blue Eagles",
-                "video-type": "Live Streams",
-                "organizer": "Malawi",
-                "organizer-country": "Malawi"
-            },
-            "startDate": "2026-05-17T12:20:00Z",
-            "endDate": "2026-05-17T15:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T12:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Dedza Dynamos FC v Blue Eagles"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "FDH Bank Premiership"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 4"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Malawi"
-                }
-            ]
-        },
-        {
-            "id": "cac31ded-79ce-423e-8ccb-84e8fa483772",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "cac31ded-79ce-423e-8ccb-84e8fa483772",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "FCB Nyasa Big Bullets v Red Lions | FDH Bank Premiership",
-            "category": "livestream",
-            "urlSlug": "fcb-nyasa-big-bullets-vs-red-lions",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/80/65/93/8e/8065938e-a1a7-4e07-bc92-5382309a4c23.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/48/56/d0/54/4856d054-8504-4085-862d-5f092f8cbb47.png",
-            "freeMode": "FREE_ADS",
-            "title": "FCB Nyasa Big Bullets v Red Lions | FDH Bank Premiership",
-            "titleTemplateValues": {
-                "country": "Malawi",
-                "association": "Malawi",
-                "team:fcb-nyasa-big-bullets": "FCB Nyasa Big Bullets",
-                "global-stage": "Round 4",
-                "season": "FDH Bank Premiership",
-                "publisher": "MA | Malawi",
-                "stage": "Regular Season",
-                "team:red-lions": "Red Lions",
-                "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
-                "match": "FCB Nyasa Big Bullets v Red Lions",
-                "stadium": "Joyce Chitsulo Stadium",
-                "competition": "Super League",
-                "city": "Mwanza",
-                "video-type": "Live Streams",
-                "organizer": "Malawi",
-                "organizer-country": "Malawi"
-            },
-            "startDate": "2026-05-17T12:20:00Z",
-            "endDate": "2026-05-17T15:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T12:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "FCB Nyasa Big Bullets v Red Lions"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "FDH Bank Premiership"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 4"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Malawi"
-                }
-            ]
-        },
-        {
-            "id": "da2dd64c-94af-4f75-91ef-a6284759a014",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "da2dd64c-94af-4f75-91ef-a6284759a014",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Karonga United v MAFCO FC | FDH Bank Premiership",
-            "category": "livestream",
-            "urlSlug": "karonga-united-vs-mafco-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/80/65/93/8e/8065938e-a1a7-4e07-bc92-5382309a4c23.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/04/fb/73/36/04fb7336-3b9a-4d55-9ead-d0556b130f8c.png",
-            "freeMode": "FREE_ADS",
-            "title": "Karonga United v MAFCO FC | FDH Bank Premiership",
-            "titleTemplateValues": {
-                "country": "Malawi",
-                "city": "Karonga",
-                "association": "Malawi",
-                "stadium": "Karonga Stadium",
-                "team:karonga-united": "Karonga United",
-                "global-stage": "Round 4",
-                "match": "Karonga United v MAFCO FC",
-                "season": "FDH Bank Premiership",
-                "publisher": "MA | Malawi",
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
-                "team:mafco-fc": "MAFCO FC",
-                "competition": "Super League",
-                "video-type": "Live Streams",
-                "organizer": "Malawi",
-                "organizer-country": "Malawi"
-            },
-            "startDate": "2026-05-17T12:20:00Z",
-            "endDate": "2026-05-17T15:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T12:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Karonga United v MAFCO FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "FDH Bank Premiership"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 4"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Malawi"
-                }
-            ]
-        },
-        {
-            "id": "045b6818-7500-469f-9d1e-ce997d16df23",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "045b6818-7500-469f-9d1e-ce997d16df23",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Silver Strikers FC v Masters FC | FDH Bank Premiership",
-            "category": "livestream",
-            "urlSlug": "silver-strikers-vs-masters-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/80/65/93/8e/8065938e-a1a7-4e07-bc92-5382309a4c23.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/6a/05/da/28/6a05da28-4b37-401f-8aa2-13b199d0fa6d.png",
-            "freeMode": "FREE_ADS",
-            "title": "Silver Strikers FC v Masters FC | FDH Bank Premiership",
-            "titleTemplateValues": {
-                "country": "Malawi",
-                "team:silver-strikers": "Silver Strikers FC",
-                "association": "Malawi",
-                "team:masters-fc": "Masters FC",
-                "global-stage": "Round 4",
-                "season": "FDH Bank Premiership",
-                "publisher": "MA | Malawi",
-                "stage": "Regular Season",
-                "stadium": "Silver Stadium",
-                "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
-                "match": "Silver Strikers FC v Masters FC",
-                "competition": "Super League",
-                "video-type": "Live Streams",
-                "city": "Lilongwe",
-                "organizer": "Malawi",
-                "organizer-country": "Malawi"
-            },
-            "startDate": "2026-05-17T12:20:00Z",
-            "endDate": "2026-05-17T15:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T12:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Silver Strikers FC v Masters FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "FDH Bank Premiership"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 4"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Malawi"
-                }
-            ]
-        },
-        {
-            "id": "cdad22e9-b796-4805-9898-514940be1374",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "cdad22e9-b796-4805-9898-514940be1374",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Kafue Celtic v Roan United | ZPL National League 2025/26",
-            "category": "livestream",
-            "urlSlug": "kafue-celtic-vs-roan-united",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/7c/ab/3b/59/7cab3b59-f1ac-4102-b4cc-20f26ee07a39.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/bc/15/b9/de/bc15b9de-cc0b-41c6-ba04-bbcdae8feac6.png",
-            "freeMode": "FREE_ADS",
-            "title": "Kafue Celtic v Roan United | ZPL National League 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular season",
-                "association": "Zambia",
-                "competition": "ZPL Men's National League",
-                "global-stage": "Round 34",
-                "season": "ZPL National League 2025/26",
-                "publisher": "MA | Zambia",
-                "country": "Zambia",
-                "publisher-channel": "MA | Zambia | ZPL National League 2025/26 (Channel)",
-                "city": "Lusaka",
-                "team:kafue-celtic": "Kafue Celtic",
-                "match": "Kafue Celtic v Roan United",
-                "team:roan-united": "Roan United",
-                "stadium": "Crocs Swamp",
-                "video-type": "Live Streams",
-                "organizer": "Zambia",
-                "organizer-country": "Zambia"
-            },
-            "startDate": "2026-05-17T12:50:00Z",
-            "endDate": "2026-05-17T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T13:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Kafue Celtic v Roan United"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "ZPL National League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 34"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Zambia"
-                }
-            ]
         },
         {
             "id": "114f5dd6-6b91-450c-a542-63c572d5c9ec",
@@ -425,7 +114,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -447,7 +136,13 @@
                     "p": 1,
                     "value": "Equatorial Guinea"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_51_30_9a5f3648-ee95-470e-ad86-2eda543793fd/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779029340",
+                "decryption_keys": [
+                    "31284084defa3b9a9a834e45c4e7af8c:04258b069c7e5154fb9068dc51b56c3c"
+                ]
+            }
         },
         {
             "id": "ac2dd462-0520-454e-a62a-a34999a41577",
@@ -486,7 +181,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -508,7 +203,13 @@
                     "p": 1,
                     "value": "Venezuela"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_15_12_30_05_cb49ccf9-1cf2-4dd2-a5e3-f4014a6f37d6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779029340",
+                "decryption_keys": [
+                    "d9f2e8ff785d36c3937c75141efd6a76:e573b264dc92a9f31a85c5a3436c2de2"
+                ]
+            }
         },
         {
             "id": "d99c6d9e-0d00-44ef-8d97-e68c9f3cc1d5",
@@ -548,7 +249,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -570,7 +271,13 @@
                     "p": 1,
                     "value": "Benin"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_28_36_5893b64d-9c30-4863-af71-d174387301de/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779029340",
+                "decryption_keys": [
+                    "72b004c5a31c3ab79f83871c93f4ac4a:4dba3df34a1e10eda873c36f35ce4c25"
+                ]
+            }
         },
         {
             "id": "3b7dac76-f4a7-410b-ad24-839b72e8e2a2",
@@ -610,7 +317,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -632,69 +339,13 @@
                     "p": 1,
                     "value": "Benin"
                 }
-            ]
-        },
-        {
-            "id": "acc8e6fc-0a54-4a25-a338-b0823fd5c824",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "acc8e6fc-0a54-4a25-a338-b0823fd5c824",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "AS Tambo v AS Binah | D1 Lonato 2025/26",
-            "category": "livestream",
-            "urlSlug": "as-tambo-vs-as-binah",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/a7/db/8d/db/a7db8ddb-8d1e-4263-ab6d-5d3a43919ef1.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/09/c6/17/91/09c61791-e8e2-4db0-b49b-7feccf2eaa94.png",
-            "freeMode": "FREE_ADS",
-            "title": "AS Tambo v AS Binah | D1 Lonato 2025/26",
-            "titleTemplateValues": {
-                "country": "Togo",
-                "association": "Togo",
-                "global-stage": "Round 24",
-                "stage": "Regular Season",
-                "team:as-tambo": "AS Tambo",
-                "publisher": "MA | Togo",
-                "stadium": "Atakpamé Municipal Stadium",
-                "publisher-channel": "MA | Togo | D1 Lonato 2025/2026",
-                "season": "D1 Lonato 2025/26",
-                "city": "Atakpamé",
-                "video-type": "Live Streams",
-                "team:as-binah": "AS Binah",
-                "match": "AS Tambo v AS Binah",
-                "competition": "Championnat de Première Division D1",
-                "organizer": "Togo",
-                "organizer-country": "Togo"
-            },
-            "startDate": "2026-05-17T15:20:00Z",
-            "endDate": "2026-05-17T18:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T15:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "AS Tambo v AS Binah"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "D1 Lonato 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 24"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Togo"
-                }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_28_33_14885140-7ed1-43d8-8723-44a87e950145/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779029340",
+                "decryption_keys": [
+                    "52becee8986a34918c822859519c7851:184c61799f2cf115612d75cd84cc997c"
+                ]
+            }
         },
         {
             "id": "e1e42c2e-4af2-4a12-aa1c-03245ed25882",
@@ -734,7 +385,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -756,7 +407,13 @@
                     "p": 1,
                     "value": "Togo"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_02_51_b8187d1a-3d4a-4456-a1ce-01d96d0d0a93/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779031140",
+                "decryption_keys": [
+                    "caa4bcb421c23e00b32cb01e25bd1d80:8a662415ece114f547a6d0ce0691ef97"
+                ]
+            }
         },
         {
             "id": "93e81689-13f3-4be1-b066-6a7047e0b3e9",
@@ -796,7 +453,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -818,7 +475,13 @@
                     "p": 1,
                     "value": "Togo"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_02_39_696cce60-58d6-47b1-bf5e-c8700b80c993/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779031140",
+                "decryption_keys": [
+                    "d1c1d971233231adad0a274ccaf6ee6d:af6f9256dd2bf388fde7d3e2c2d41e78"
+                ]
+            }
         },
         {
             "id": "27a06852-5d96-4c3c-9696-414c9ae27fa3",
@@ -858,7 +521,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -880,7 +543,13 @@
                     "p": 1,
                     "value": "Togo"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_02_36_6353a411-507e-460a-9188-6626c095da36/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779031140",
+                "decryption_keys": [
+                    "d6c0a6b5266a3a7886742d2100823e75:d0441c4b84bbe048a02f2a6514d0d933"
+                ]
+            }
         },
         {
             "id": "f0f15099-45da-43e0-baf2-e10ba4f5e41e",
@@ -920,7 +589,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -942,7 +611,13 @@
                     "p": 1,
                     "value": "Togo"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_02_33_4fe9ec80-9b0d-4af4-95a1-aa99df47ff63/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779031140",
+                "decryption_keys": [
+                    "f38474f39f03310abe7b65112fee0927:a49b3d3a0bfc9f2972a62960e6608585"
+                ]
+            }
         },
         {
             "id": "c0921c59-4396-48d8-bc76-d5027526fcdd",
@@ -982,12 +657,80 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
                     "p": 0,
                     "value": "Unisport FC v Semassi FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "D1 Lonato 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 24"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Togo"
+                }
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_02_46_90d4c22a-9ac1-40f8-848f-2504ffd1c220/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779031140",
+                "decryption_keys": [
+                    "a1efde1dd00f3636b6991c3f329e21d9:f9fa39c61d3b028c1be4c0963eb1d237"
+                ]
+            }
+        },
+        {
+            "id": "acc8e6fc-0a54-4a25-a338-b0823fd5c824",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "acc8e6fc-0a54-4a25-a338-b0823fd5c824",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "AS Tambo v AS Binah | D1 Lonato 2025/26",
+            "category": "livestream",
+            "urlSlug": "as-tambo-vs-as-binah",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/a7/db/8d/db/a7db8ddb-8d1e-4263-ab6d-5d3a43919ef1.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/09/c6/17/91/09c61791-e8e2-4db0-b49b-7feccf2eaa94.png",
+            "freeMode": "FREE_ADS",
+            "title": "AS Tambo v AS Binah | D1 Lonato 2025/26",
+            "titleTemplateValues": {
+                "country": "Togo",
+                "association": "Togo",
+                "global-stage": "Round 24",
+                "stage": "Regular Season",
+                "team:as-tambo": "AS Tambo",
+                "publisher": "MA | Togo",
+                "stadium": "Atakpamé Municipal Stadium",
+                "publisher-channel": "MA | Togo | D1 Lonato 2025/2026",
+                "season": "D1 Lonato 2025/26",
+                "city": "Atakpamé",
+                "video-type": "Live Streams",
+                "team:as-binah": "AS Binah",
+                "match": "AS Tambo v AS Binah",
+                "competition": "Championnat de Première Division D1",
+                "organizer": "Togo",
+                "organizer-country": "Togo"
+            },
+            "startDate": "2026-05-17T15:35:00Z",
+            "endDate": "2026-05-17T18:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-17T15:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "AS Tambo v AS Binah"
                 },
                 {
                     "kind": "subtitle",
@@ -1050,68 +793,6 @@
                     "kind": "title",
                     "p": 0,
                     "value": "Fath de Rabat v Lionnes Assa-Mahbès"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "D1 Women's Championship  2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 22"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Morocco"
-                }
-            ]
-        },
-        {
-            "id": "80cf4ec1-9362-4ad3-bee0-fec1f3a00f0b",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "80cf4ec1-9362-4ad3-bee0-fec1f3a00f0b",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Municipale Laayoune v Hilal Témara | D1 Women's Championship  2025-26",
-            "category": "livestream",
-            "urlSlug": "municipale-laayoune-vs-hilal-temara",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/de/e7/40/33/dee74033-f15f-4c9b-b864-56d00c2765ee.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/9f/ea/3b/73/9fea3b73-b5f7-4919-a34e-6e47ed153dda.png",
-            "freeMode": "FREE_ADS",
-            "title": "Municipale Laayoune v Hilal Témara | D1 Women's Championship  2025-26",
-            "titleTemplateValues": {
-                "competition": "Championnat Féminin D1",
-                "stage": "Regular Season",
-                "team:municipale-laayoune": "Municipale Laayoune",
-                "match": "Municipale Laayoune v Hilal Témara",
-                "association": "Morocco",
-                "publisher": "MA | Morocco",
-                "stadium": "Sheikh Mohamed Laghdaf Stadium",
-                "publisher-channel": "MA | Morocco | Championnat Féminin D1 2025/2026",
-                "city": "Laayoune",
-                "season": "D1 Women's Championship  2025-26",
-                "global-stage": "Round 22",
-                "country": "Morocco",
-                "team:hilal-temara": "Hilal Témara",
-                "video-type": "Live Streams",
-                "organizer": "Morocco",
-                "organizer-country": "Morocco"
-            },
-            "startDate": "2026-05-17T15:50:00Z",
-            "endDate": "2026-05-17T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Municipale Laayoune v Hilal Témara"
                 },
                 {
                     "kind": "subtitle",
@@ -1236,68 +917,6 @@
                     "kind": "title",
                     "p": 0,
                     "value": "RSB Berkane v Raja Ait Iazza"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "D1 Women's Championship  2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 22"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Morocco"
-                }
-            ]
-        },
-        {
-            "id": "e43078d1-beeb-4607-b870-42113df33b91",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "e43078d1-beeb-4607-b870-42113df33b91",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Union Touarga Sport v  Itehad de Tanger | D1 Women's Championship  2025-26",
-            "category": "livestream",
-            "urlSlug": "union-touarga-sport-vs-itehad-de-tanger",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/de/e7/40/33/dee74033-f15f-4c9b-b864-56d00c2765ee.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/98/63/0c/38/98630c38-b722-4087-bdfa-60204e69cc97.png",
-            "freeMode": "FREE_ADS",
-            "title": "Union Touarga Sport v  Itehad de Tanger | D1 Women's Championship  2025-26",
-            "titleTemplateValues": {
-                "competition": "Championnat Féminin D1",
-                "stage": "Regular Season",
-                "city": "Rabat",
-                "association": "Morocco",
-                "publisher": "MA | Morocco",
-                "publisher-channel": "MA | Morocco | Championnat Féminin D1 2025/2026",
-                "match": "Union Touarga Sport v  Itehad de Tanger",
-                "season": "D1 Women's Championship  2025-26",
-                "global-stage": "Round 22",
-                "country": "Morocco",
-                "team:union-touarga-sport": "Union Touarga Sport",
-                "team:itehad-de-tanger": " Itehad de Tanger",
-                "video-type": "Live Streams",
-                "stadium": "Ibn Sina Hilton",
-                "organizer": "Morocco",
-                "organizer-country": "Morocco"
-            },
-            "startDate": "2026-05-17T15:50:00Z",
-            "endDate": "2026-05-17T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Union Touarga Sport v  Itehad de Tanger"
                 },
                 {
                     "kind": "subtitle",
