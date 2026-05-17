@@ -3,8 +3,8 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:45:19 AM 17-05-2026",
-        "total_live": 6,
+        "last_update_time": "07:00:22 AM 17-05-2026",
+        "total_live": 4,
         "total_upcoming": 31
     },
     "matches": [
@@ -73,142 +73,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_08_44_49_7180b9aa-b110-42ed-ac0f-de13bfdf894f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778960727",
                 "decryption_keys": [
                     "24d252c8e0f23a57af9c45b859d653e7:b1b19dcbee257ceccfbfc3620f745ee2"
-                ]
-            }
-        },
-        {
-            "id": "03442a05-8363-47f0-aef2-c62e9fa336a2",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "03442a05-8363-47f0-aef2-c62e9fa336a2",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Britannia v Bubali | Division Honor 2025-26",
-            "category": "livestream",
-            "urlSlug": "britannia-vs-bubali",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/22/1d/cb/0b/221dcb0b-c792-4d48-903e-b725b280c421.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/70/dd/c0/c3/70ddc0c3-98cd-42cf-bd19-405b2e036e86.png",
-            "freeMode": "FREE_ADS",
-            "title": "Britannia v Bubali | Division Honor 2025-26",
-            "titleTemplateValues": {
-                "stage": "Division Honor Liga-Oro Round 2",
-                "team:bubali": "Bubali",
-                "country": "Aruba",
-                "association": "Aruba",
-                "season": "Division Honor 2025-26",
-                "publisher": "MA | Aruba",
-                "competition": "Division Honor",
-                "team:britannia": "Britannia",
-                "stadium": "Sports Complex Guillermo Prospero Trinidad",
-                "video-type": "Full Match Replays",
-                "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
-                "match": "Britannia v Bubali",
-                "global-stage": "Division Honor Oro",
-                "city": "Dakota",
-                "organizer": "Aruba",
-                "organizer-country": "Aruba"
-            },
-            "startDate": "2026-05-16T22:20:00Z",
-            "endDate": "2026-05-17T01:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T22:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Britannia v Bubali"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Division Honor 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Division Honor Oro"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Aruba"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_18_02_7cfb13a1-8e37-4d97-b71c-62b35961bbad/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778969940",
-                "decryption_keys": [
-                    "53b681dff0353b40b82661dceb575117:459b765731d79a479c415ef5c2b48063"
-                ]
-            }
-        },
-        {
-            "id": "9c8a4cc3-d6d0-4429-8d05-eb7078366709",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "9c8a4cc3-d6d0-4429-8d05-eb7078366709",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "SWA Sharks FC v Flamingo FC | Provo Premier League 2025-26",
-            "category": "livestream",
-            "urlSlug": "swa-sharks-fc-vs-flamingo-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/87/67/83/32/87678332-8da2-44c0-ab94-759e5e5f208a.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/c0/4d/ed/26/c04ded26-4a4f-42aa-b8ff-b2f7623a5834.png",
-            "freeMode": "FREE_ADS",
-            "title": "SWA Sharks FC v Flamingo FC | Provo Premier League 2025-26",
-            "titleTemplateValues": {
-                "competition": "Provo Premier League",
-                "publisher-channel": "MA | Turks and Caicos | Provo Premier League 2025/26",
-                "stage": "Knockout Round",
-                "match": "SWA Sharks FC v Flamingo FC",
-                "stadium": "TCIFA National Academy",
-                "season": "Provo Premier League 2025-26",
-                "association": "Turks and Caicos Islands",
-                "global-stage": "Playoffs",
-                "publisher": "MA | Turks and Caicos",
-                "team:swa-sharks-fc": "SWA Sharks FC",
-                "city": "Venetian Road Settlement",
-                "team:flamingo-fc": "Flamingo FC",
-                "country": "Turks and Caicos Islands",
-                "video-type": "Live Streams",
-                "organizer": "Turks and Caicos Islands",
-                "organizer-country": "Turks and Caicos Islands"
-            },
-            "startDate": "2026-05-16T22:20:00Z",
-            "endDate": "2026-05-17T01:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-16T22:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "SWA Sharks FC v Flamingo FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Provo Premier League 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Playoffs"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Turks and Caicos Islands"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_33_30_b77d6db3-1dde-4e88-9789-a7e8c9cde44a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778969940",
-                "decryption_keys": [
-                    "fea55225451933b7a53d8dd97babf572:8fae5f1b4668828566a320cefc523287"
                 ]
             }
         },
