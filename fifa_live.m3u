@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:45:20 PM 17-05-2026
+#last update time: 10:00:24 PM 17-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/9f/ea/3b/73/9fea3b73-b5f7-4919-a34e-6e47ed153dda.png" group-title="FIFA Live", Municipale Laayoune v Hilal Témara | D1 Women's Championship  2025-26
@@ -53,3 +53,23 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_02_33_4fe9ec80-9b0d-4af4-95a1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1efde1dd00f3636b6991c3f329e21d9:f9fa39c61d3b028c1be4c0963eb1d237
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_02_46_90d4c22a-9ac1-40f8-848f-2504ffd1c220/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779031140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/81/c9/51/e3/81c951e3-32fc-434d-ac9b-5e201fed33f9.png" group-title="FIFA Live", Fath de Rabat v Lionnes Assa-Mahbès | D1 Women's Championship  2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a9c686fa3613682b00b0f97c6f8cf78:27d5972e866b8b7f5393ab02867e9488
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_12_52_06_0faaadf5-0090-4158-92ac-91a51711e9e8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779032940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b6/70/2d/b6/b6702db6-2cad-44d8-9fd6-a67eced0611f.png" group-title="FIFA Live", Phoenix Football Academy v Sporting Casablanca | D1 Women's Championship  2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99553bb073333a289e3e2c7884f9d28f:90da6e9dc230d2966851223aa9467c4c
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_12_52_11_2b17d578-9256-4554-9d4f-4e69f4cee8e6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779032940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1b/2a/6c/f9/1b2a6cf9-2ebb-444e-bb25-24168e1319ec.png" group-title="FIFA Live", RSB Berkane v Raja Ait Iazza | D1 Women's Championship  2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be55db5c8a3033eaaff1b5b3c8462eba:04af2ae04b13cfddd1041e7fd4eef9ee
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_12_52_16_351cf4ea-870b-438d-a359-91a380f29638/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779032940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/09/c6/17/91/09c61791-e8e2-4db0-b49b-7feccf2eaa94.png" group-title="FIFA Live", AS Tambo v AS Binah | D1 Lonato 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee0f935e420b3330bbf5ff3bc33283c3:98f1052518b3c0740688050987412050
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_02_43_8363848f-ed13-4e80-a5e5-81fb9c99723e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779033240
