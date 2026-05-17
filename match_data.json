@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:00:26 PM 17-05-2026",
+        "last_update_time": "06:15:19 PM 17-05-2026",
         "total_live": 1,
         "total_upcoming": 28
     },
@@ -202,68 +202,6 @@
             ]
         },
         {
-            "id": "da2dd64c-94af-4f75-91ef-a6284759a014",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "da2dd64c-94af-4f75-91ef-a6284759a014",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Karonga United v MAFCO FC | FDH Bank Premiership",
-            "category": "livestream",
-            "urlSlug": "karonga-united-vs-mafco-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/80/65/93/8e/8065938e-a1a7-4e07-bc92-5382309a4c23.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/04/fb/73/36/04fb7336-3b9a-4d55-9ead-d0556b130f8c.png",
-            "freeMode": "FREE_ADS",
-            "title": "Karonga United v MAFCO FC | FDH Bank Premiership",
-            "titleTemplateValues": {
-                "country": "Malawi",
-                "city": "Karonga",
-                "association": "Malawi",
-                "stadium": "Karonga Stadium",
-                "team:karonga-united": "Karonga United",
-                "global-stage": "Round 4",
-                "match": "Karonga United v MAFCO FC",
-                "season": "FDH Bank Premiership",
-                "publisher": "MA | Malawi",
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
-                "team:mafco-fc": "MAFCO FC",
-                "competition": "Super League",
-                "video-type": "Live Streams",
-                "organizer": "Malawi",
-                "organizer-country": "Malawi"
-            },
-            "startDate": "2026-05-17T12:20:00Z",
-            "endDate": "2026-05-17T15:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T12:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Karonga United v MAFCO FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "FDH Bank Premiership"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 4"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Malawi"
-                }
-            ]
-        },
-        {
             "id": "045b6818-7500-469f-9d1e-ce997d16df23",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "045b6818-7500-469f-9d1e-ce997d16df23",
@@ -307,6 +245,68 @@
                     "kind": "title",
                     "p": 0,
                     "value": "Silver Strikers FC v Masters FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "FDH Bank Premiership"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 4"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Malawi"
+                }
+            ]
+        },
+        {
+            "id": "da2dd64c-94af-4f75-91ef-a6284759a014",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "da2dd64c-94af-4f75-91ef-a6284759a014",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Karonga United v MAFCO FC | FDH Bank Premiership",
+            "category": "livestream",
+            "urlSlug": "karonga-united-vs-mafco-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/80/65/93/8e/8065938e-a1a7-4e07-bc92-5382309a4c23.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/04/fb/73/36/04fb7336-3b9a-4d55-9ead-d0556b130f8c.png",
+            "freeMode": "FREE_ADS",
+            "title": "Karonga United v MAFCO FC | FDH Bank Premiership",
+            "titleTemplateValues": {
+                "country": "Malawi",
+                "city": "Karonga",
+                "association": "Malawi",
+                "stadium": "Karonga Stadium",
+                "team:karonga-united": "Karonga United",
+                "global-stage": "Round 4",
+                "match": "Karonga United v MAFCO FC",
+                "season": "FDH Bank Premiership",
+                "publisher": "MA | Malawi",
+                "stage": "Regular Season",
+                "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
+                "team:mafco-fc": "MAFCO FC",
+                "competition": "Super League",
+                "video-type": "Live Streams",
+                "organizer": "Malawi",
+                "organizer-country": "Malawi"
+            },
+            "startDate": "2026-05-17T12:30:00Z",
+            "endDate": "2026-05-17T15:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-17T12:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Karonga United v MAFCO FC"
                 },
                 {
                     "kind": "subtitle",
@@ -384,6 +384,68 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Zambia"
+                }
+            ]
+        },
+        {
+            "id": "80cf4ec1-9362-4ad3-bee0-fec1f3a00f0b",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "80cf4ec1-9362-4ad3-bee0-fec1f3a00f0b",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Municipale Laayoune v Hilal Témara | D1 Women's Championship  2025-26",
+            "category": "livestream",
+            "urlSlug": "municipale-laayoune-vs-hilal-temara",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/de/e7/40/33/dee74033-f15f-4c9b-b864-56d00c2765ee.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/9f/ea/3b/73/9fea3b73-b5f7-4919-a34e-6e47ed153dda.png",
+            "freeMode": "FREE_ADS",
+            "title": "Municipale Laayoune v Hilal Témara | D1 Women's Championship  2025-26",
+            "titleTemplateValues": {
+                "competition": "Championnat Féminin D1",
+                "stage": "Regular Season",
+                "team:municipale-laayoune": "Municipale Laayoune",
+                "match": "Municipale Laayoune v Hilal Témara",
+                "association": "Morocco",
+                "publisher": "MA | Morocco",
+                "stadium": "Sheikh Mohamed Laghdaf Stadium",
+                "publisher-channel": "MA | Morocco | Championnat Féminin D1 2025/2026",
+                "city": "Laayoune",
+                "season": "D1 Women's Championship  2025-26",
+                "global-stage": "Round 22",
+                "country": "Morocco",
+                "team:hilal-temara": "Hilal Témara",
+                "video-type": "Live Streams",
+                "organizer": "Morocco",
+                "organizer-country": "Morocco"
+            },
+            "startDate": "2026-05-17T14:50:00Z",
+            "endDate": "2026-05-17T17:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-17T15:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Municipale Laayoune v Hilal Témara"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "D1 Women's Championship  2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 22"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Morocco"
                 }
             ]
         },
@@ -1050,68 +1112,6 @@
                     "kind": "title",
                     "p": 0,
                     "value": "Fath de Rabat v Lionnes Assa-Mahbès"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "D1 Women's Championship  2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 22"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Morocco"
-                }
-            ]
-        },
-        {
-            "id": "80cf4ec1-9362-4ad3-bee0-fec1f3a00f0b",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "80cf4ec1-9362-4ad3-bee0-fec1f3a00f0b",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Municipale Laayoune v Hilal Témara | D1 Women's Championship  2025-26",
-            "category": "livestream",
-            "urlSlug": "municipale-laayoune-vs-hilal-temara",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/de/e7/40/33/dee74033-f15f-4c9b-b864-56d00c2765ee.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/9f/ea/3b/73/9fea3b73-b5f7-4919-a34e-6e47ed153dda.png",
-            "freeMode": "FREE_ADS",
-            "title": "Municipale Laayoune v Hilal Témara | D1 Women's Championship  2025-26",
-            "titleTemplateValues": {
-                "competition": "Championnat Féminin D1",
-                "stage": "Regular Season",
-                "team:municipale-laayoune": "Municipale Laayoune",
-                "match": "Municipale Laayoune v Hilal Témara",
-                "association": "Morocco",
-                "publisher": "MA | Morocco",
-                "stadium": "Sheikh Mohamed Laghdaf Stadium",
-                "publisher-channel": "MA | Morocco | Championnat Féminin D1 2025/2026",
-                "city": "Laayoune",
-                "season": "D1 Women's Championship  2025-26",
-                "global-stage": "Round 22",
-                "country": "Morocco",
-                "team:hilal-temara": "Hilal Témara",
-                "video-type": "Live Streams",
-                "organizer": "Morocco",
-                "organizer-country": "Morocco"
-            },
-            "startDate": "2026-05-17T15:50:00Z",
-            "endDate": "2026-05-17T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Municipale Laayoune v Hilal Témara"
                 },
                 {
                     "kind": "subtitle",
