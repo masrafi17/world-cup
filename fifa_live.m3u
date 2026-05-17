@@ -1,5 +1,10 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:45:18 PM 17-05-2026
+#last update time: 03:00:31 PM 17-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d8/77/be/d4/d877bed4-a315-42e4-be43-a3e50cb813c0.png" group-title="FIFA Live", Atlètic Club d'Escaldes v Penya Encarnada | Lliga Multissegur Assegurances 2025/2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f21ea616f103c8cb25c43d85e9843b7:08dfe3a0120b0af9178e2c50398f3cba
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_12_20_56940fa6-63bc-4744-9e83-b1cfde96a493/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Acat%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779007740
