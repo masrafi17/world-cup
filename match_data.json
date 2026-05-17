@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:30:21 PM 17-05-2026",
+        "last_update_time": "06:45:20 PM 17-05-2026",
         "total_live": 4,
         "total_upcoming": 25
     },
@@ -311,7 +311,7 @@
                 "organizer": "Malawi",
                 "organizer-country": "Malawi"
             },
-            "startDate": "2026-05-17T12:40:00Z",
+            "startDate": "2026-05-17T12:50:00Z",
             "endDate": "2026-05-17T15:00:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-17T12:30:00Z"
