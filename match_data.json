@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:15:19 PM 17-05-2026",
-        "total_live": 2,
+        "last_update_time": "05:30:23 PM 17-05-2026",
+        "total_live": 1,
         "total_upcoming": 28
     },
     "matches": [
-        {
-            "id": "89b86f6d-a39c-4eac-9fe6-9dece57f849f",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "89b86f6d-a39c-4eac-9fe6-9dece57f849f",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Atlètic Club d'Escaldes v Penya Encarnada | Lliga Multissegur Assegurances 2025/2026 | Full Match Replay",
-            "category": "livestream",
-            "urlSlug": "atletic-club-d-escaldes-vs-penya-encarnada",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/79/e0/6a/24/79e06a24-b7e5-4b88-9db0-b96f154239ed.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d8/77/be/d4/d877bed4-a315-42e4-be43-a3e50cb813c0.png",
-            "freeMode": "FREE_ADS",
-            "title": "Atlètic Club d'Escaldes v Penya Encarnada | Lliga Multissegur Assegurances 2025/2026 | Full Match Replay",
-            "titleTemplateValues": {
-                "publisher": "MA | Andorra (Publisher)",
-                "competition": "Lliga Multissegur Assegurances",
-                "stadium": "Centre d'Entrenament de la FAF",
-                "season": "Lliga Multissegur Assegurances 2025/2026",
-                "association": "Andorra",
-                "stage": "Round 2",
-                "publisher-channel": "MA | Andorra | Andorra Lliga Multissegur Assegurances (Channel)",
-                "country": "Andorra",
-                "video-type": "Full Match Replays",
-                "global-stage": "Round 27",
-                "team:penya-encarnada": "Penya Encarnada",
-                "match": "Atlètic Club d'Escaldes v Penya Encarnada",
-                "city": "Andorra la Vella",
-                "team:atletic-club-d-escaldes": "Atlètic Club d'Escaldes",
-                "organizer": "Andorra",
-                "organizer-country": "Andorra"
-            },
-            "startDate": "2026-05-17T08:50:00Z",
-            "endDate": "2026-05-17T11:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T09:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Atlètic Club d'Escaldes v Penya Encarnada"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Lliga Multissegur Assegurances 2025/2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 27"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Andorra"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_12_20_56940fa6-63bc-4744-9e83-b1cfde96a493/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Acat%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779007740",
-                "decryption_keys": [
-                    "7f21ea616f103c8cb25c43d85e9843b7:08dfe3a0120b0af9178e2c50398f3cba"
-                ]
-            }
-        },
         {
             "id": "f82d547b-b337-498e-a565-fb97263f0e4d",
             "channelId": "fifa-tournaments",
