@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:15:16 AM 18-05-2026",
+        "last_update_time": "02:30:23 AM 18-05-2026",
         "total_live": 6,
-        "total_upcoming": 20
+        "total_upcoming": 19
     },
     "matches": [
-        {
-            "id": "a84fc0e1-b2d7-4e14-8360-a310b991c552",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "a84fc0e1-b2d7-4e14-8360-a310b991c552",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Potenza v Ascoli | National Phase Play-offs - Second Round - First Leg | Serie C 2025/26",
-            "category": "livestream",
-            "urlSlug": "potenza-vs-ascoli",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/7e/cc/f8/1e/7eccf81e-8b86-450a-872d-00526ca3e1ec.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/3c/41/80/0e/3c41800e-5c2d-44a1-8979-1dd1ee615e0f.png",
-            "freeMode": "FREE_ADS",
-            "title": "Potenza v Ascoli | National Phase Play-offs - Second Round - First Leg | Serie C 2025/26",
-            "titleTemplateValues": {
-                "competition": "Serie C",
-                "team:ascoli": "Ascoli",
-                "publisher": "MA | Italy",
-                "association": "Italy",
-                "stadium": "Alfredo Viviani Municipal Stadium",
-                "country": "Italy",
-                "season": "Serie C 2025/26",
-                "publisher-channel": "MA | Italy | Serie C 2025/26",
-                "team:potenza": "Potenza",
-                "global-stage": "National Phase Play-offs - Second Round - First Leg",
-                "match": "Potenza v Ascoli",
-                "video-type": "Live Streams",
-                "stage": "Promotion Play-offs",
-                "city": "Potenza",
-                "organizer": "Italy",
-                "organizer-country": "Italy"
-            },
-            "startDate": "2026-05-17T17:50:00Z",
-            "endDate": "2026-05-17T20:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T18:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Potenza v Ascoli"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Serie C 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "National Phase Play-offs - Second Round - First Leg"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Italy"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_15_08_49_51_2bdd762c-5c60-4560-b9e6-1a15f1ad5c2f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aita%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779040140",
-                "decryption_keys": [
-                    "cb482588c3593eb29d77c78a78e9c54d:c5cbc183e5b7a9ec5d4d16fff2afac46"
-                ]
-            }
-        },
         {
             "id": "79b74f9c-dd0c-428c-9636-ad6ef35b128f",
             "channelId": "fifa-tournaments",
@@ -454,7 +386,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -476,7 +408,13 @@
                     "p": 1,
                     "value": "Suriname"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_17_15_54_48_f96d4326-c75c-412d-aff9-61f3e369ad13/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779049140",
+                "decryption_keys": [
+                    "1399a3abd29d32c59072fb92c356051a:959afe8ab1ab5b9ad782a6301a3347a4"
+                ]
+            }
         },
         {
             "id": "455a4038-f9f3-4375-a34a-1f4a2473e336",
@@ -508,7 +446,7 @@
                 "organizer": "Bahamas",
                 "organizer-country": "Bahamas"
             },
-            "startDate": "2026-05-17T20:50:00Z",
+            "startDate": "2026-05-17T20:31:00Z",
             "endDate": "2026-05-17T23:30:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-17T21:00:00Z"
