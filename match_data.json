@@ -3,215 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:15:19 AM 18-05-2026",
-        "total_live": 8,
-        "total_upcoming": 15
+        "last_update_time": "04:30:21 AM 18-05-2026",
+        "total_live": 7,
+        "total_upcoming": 13
     },
     "matches": [
-        {
-            "id": "84c6c671-55f2-4669-87de-0796ef6ad5ba",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "84c6c671-55f2-4669-87de-0796ef6ad5ba",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Jong Aruba v River Plate Aruba | Division Honor 2025-26",
-            "category": "livestream",
-            "urlSlug": "jong-aruba-vs-riverplate-aruba",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/22/1d/cb/0b/221dcb0b-c792-4d48-903e-b725b280c421.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/f1/d1/75/b5/f1d175b5-dda0-4f3d-b77c-1d5b196c0d12.png",
-            "freeMode": "FREE_ADS",
-            "title": "Jong Aruba v River Plate Aruba | Division Honor 2025-26",
-            "titleTemplateValues": {
-                "country": "Aruba",
-                "association": "Aruba",
-                "match": "Jong Aruba v River Plate Aruba",
-                "season": "Division Honor 2025-26",
-                "publisher": "MA | Aruba",
-                "competition": "Division Honor",
-                "stage": "Division Honor Liga-Plata Pool B Round 2",
-                "stadium": "Sports Complex Guillermo Prospero Trinidad",
-                "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
-                "global-stage": "Division Honor Plata",
-                "team:jong-aruba": "Jong Aruba",
-                "team:riverplate-aruba": "River Plate Aruba",
-                "city": "Dakota",
-                "video-type": "Live Streams",
-                "organizer": "Aruba",
-                "organizer-country": "Aruba"
-            },
-            "startDate": "2026-05-17T19:50:00Z",
-            "endDate": "2026-05-17T22:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T20:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Jong Aruba v River Plate Aruba"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Division Honor 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Division Honor Plata"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Aruba"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_18_09_2d554bf2-4cd8-4f0b-abb8-c13430194568/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779047340",
-                "decryption_keys": [
-                    "61ad0ac1010f3162b52c5a7d515a9f84:cd72e1de0ebf1256f241e0944d2f03a8"
-                ]
-            }
-        },
-        {
-            "id": "95ff54d8-8f22-4c50-aa99-83a61bc81e7d",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "95ff54d8-8f22-4c50-aa99-83a61bc81e7d",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Ávila FC v Dynamo Puerto | Liga FUTVE 2 2026",
-            "category": "livestream",
-            "urlSlug": "avila-f-c-vs-dynamo-puerto",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/57/b2/b9/56/57b2b956-2a4f-4b00-9e73-4c3ff15091b9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/73/97/03/55/73970355-bc87-4497-a818-6692b98c2ab0.png",
-            "freeMode": "FREE_ADS",
-            "title": "Ávila FC v Dynamo Puerto | Liga FUTVE 2 2026",
-            "titleTemplateValues": {
-                "season": "Liga FUTVE 2 2026",
-                "match": "Ávila FC v Dynamo Puerto",
-                "team:dynamo-puerto": "Dynamo Puerto",
-                "team:avila-f-c": "Ávila FC",
-                "stadium": "Brígido Iriarte",
-                "stage": "Regular Season",
-                "city": "Caracas",
-                "association": "Venezuela",
-                "publisher": "MA | Venezuela",
-                "global-stage": "Round 11",
-                "competition": "Liga FUTVE 2",
-                "country": "Venezuela",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Venezuela | Liga FUTVE 2 2026 (Channel)",
-                "organizer": "Venezuela",
-                "organizer-country": "Venezuela"
-            },
-            "startDate": "2026-05-17T19:50:00Z",
-            "endDate": "2026-05-17T22:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T20:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Ávila FC v Dynamo Puerto"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga FUTVE 2 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 11"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Venezuela"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_05_59_6a1cf4e6-e044-4c6d-8d6f-400f032984e4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779047340",
-                "decryption_keys": [
-                    "dfb141c89de93a20b9278410ce74e533:fb7b62920b71ae0a1e68d0c1a3695eda"
-                ]
-            }
-        },
-        {
-            "id": "d81e01ee-d06b-48b3-b4ea-1d87e04b85e1",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "d81e01ee-d06b-48b3-b4ea-1d87e04b85e1",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Upala FC v San Ramón FF | Women's Second Division 2026",
-            "category": "livestream",
-            "urlSlug": "upala-carrillo-vs-san-ramon-ff",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/64/40/22/1b/6440221b-bfd4-4877-ae83-eaa1aed35d1c.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/a3/fd/aa/ec/a3fdaaec-ab58-4879-bd50-c09f2198d017.png",
-            "freeMode": "FREE_ADS",
-            "title": "Upala FC v San Ramón FF | Women's Second Division 2026",
-            "titleTemplateValues": {
-                "team:upala-carrillo": "Upala FC",
-                "association": "Costa Rica",
-                "team:san-ramon-ff": "San Ramón FF",
-                "season": "Women's Second Division 2026",
-                "publisher": "MA | Costa Rica",
-                "match": "Upala FC v San Ramón FF",
-                "stage": "Semi Final ",
-                "publisher-channel": "MA | Costa Rica | Segunda DIvision Femenina 2026 (Channel)",
-                "global-stage": "Final - First Leg",
-                "country": "Costa Rica",
-                "stadium": "Carrillo Stadium",
-                "competition": "Segunda División Femenina de Costa Rica",
-                "city": "Carrillo",
-                "video-type": "Live Streams",
-                "organizer": "Costa Rica",
-                "organizer-country": "Costa Rica"
-            },
-            "startDate": "2026-05-17T19:50:00Z",
-            "endDate": "2026-05-17T22:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T20:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Upala FC v San Ramón FF"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Women's Second Division 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Final - First Leg"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Costa Rica"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_28_28_e68a08af-e277-4999-a42e-e4baab529917/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779047340",
-                "decryption_keys": [
-                    "8fea0167e27d3c24aa1d268763251f10:306f2c217589707c1cd736ee956823f7"
-                ]
-            }
-        },
         {
             "id": "232a2667-ecd9-46f9-b755-95738ec16bad",
             "channelId": "fifa-tournaments",
@@ -590,7 +386,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -612,7 +408,13 @@
                     "p": 1,
                     "value": "Dominica"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_16_22_1d035cfa-170b-4829-a389-2f88416311d2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779056340",
+                "decryption_keys": [
+                    "f71a8c17e7e33dc79233249186679d12:29add332a824dfd38330f803e64aba51"
+                ]
+            }
         },
         {
             "id": "ce3dbb30-ef7c-4e91-9ad3-9f3527a3cdf8",
@@ -652,7 +454,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -674,7 +476,13 @@
                     "p": 1,
                     "value": "Dominica"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_16_27_7bd897c8-e2d5-4b66-94b8-14e4c4bed687/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779056340",
+                "decryption_keys": [
+                    "aa42bb8b126a3f72a5fbe67c1692eced:d93d7979a0514205a82af923999f1fa8"
+                ]
+            }
         },
         {
             "id": "9e91807b-ef71-47ca-b60c-7ac6003fd105",
