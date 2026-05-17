@@ -3,11 +3,79 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:30:21 AM 17-05-2026",
-        "total_live": 5,
-        "total_upcoming": 32
+        "last_update_time": "06:45:19 AM 17-05-2026",
+        "total_live": 6,
+        "total_upcoming": 31
     },
     "matches": [
+        {
+            "id": "6545660f-1f8a-4f3e-a58b-ba5ee44f38bd",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "6545660f-1f8a-4f3e-a58b-ba5ee44f38bd",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Diriangén v Real Estelí | Liga Primera Nicaragua 2025/26",
+            "category": "livestream",
+            "urlSlug": "diriangen-vs-real-esteli",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/4e/c4/bc/9c/4ec4bc9c-6da8-4fc8-bbeb-6b138e284ef1.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/37/f2/64/41/37f26441-2f27-40cc-8f37-51a0adfde67e.png",
+            "freeMode": "FREE_ADS",
+            "title": "Diriangén v Real Estelí | Liga Primera Nicaragua 2025/26",
+            "titleTemplateValues": {
+                "publisher-channel": "MA | Nicaragua | Liga Primera de Nicaragua 2025/2026",
+                "competition": "Liga Primera",
+                "association": "Nicaragua",
+                "publisher": "MA | Nicaragua",
+                "stage": "Finals",
+                "city": "Managua",
+                "global-stage": "Final",
+                "stadium": "National Stadium",
+                "country": "Nicaragua",
+                "match": "Diriangén v Real Estelí",
+                "season": "Liga Primera Nicaragua 2025/26",
+                "team:real-esteli": "Real Estelí",
+                "video-type": "Live Streams",
+                "team:diriangen": "Diriangén",
+                "organizer": "Nicaragua",
+                "organizer-country": "Nicaragua"
+            },
+            "startDate": "2026-05-09T00:30:00Z",
+            "endDate": "2026-05-17T03:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-17T01:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "started",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Diriangén v Real Estelí"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Liga Primera Nicaragua 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Final"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Nicaragua"
+                }
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_08_44_49_7180b9aa-b110-42ed-ac0f-de13bfdf894f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778960727",
+                "decryption_keys": [
+                    "24d252c8e0f23a57af9c45b859d653e7:b1b19dcbee257ceccfbfc3620f745ee2"
+                ]
+            }
+        },
         {
             "id": "03442a05-8363-47f0-aef2-c62e9fa336a2",
             "channelId": "fifa-tournaments",
@@ -30,11 +98,11 @@
                 "competition": "Division Honor",
                 "team:britannia": "Britannia",
                 "stadium": "Sports Complex Guillermo Prospero Trinidad",
+                "video-type": "Full Match Replays",
                 "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
                 "match": "Britannia v Bubali",
                 "global-stage": "Division Honor Oro",
                 "city": "Dakota",
-                "video-type": "Live Streams",
                 "organizer": "Aruba",
                 "organizer-country": "Aruba"
             },
@@ -410,68 +478,6 @@
                     "3b5f0ac6befe3d2b8edc6c2b1a5b695f:01841ef7bd8805a11a53767bd28eaf1b"
                 ]
             }
-        },
-        {
-            "id": "6545660f-1f8a-4f3e-a58b-ba5ee44f38bd",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "6545660f-1f8a-4f3e-a58b-ba5ee44f38bd",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Diriangén v Real Estelí | Liga Primera Nicaragua 2025/26",
-            "category": "livestream",
-            "urlSlug": "diriangen-vs-real-esteli",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/4e/c4/bc/9c/4ec4bc9c-6da8-4fc8-bbeb-6b138e284ef1.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/37/f2/64/41/37f26441-2f27-40cc-8f37-51a0adfde67e.png",
-            "freeMode": "FREE_ADS",
-            "title": "Diriangén v Real Estelí | Liga Primera Nicaragua 2025/26",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Nicaragua | Liga Primera de Nicaragua 2025/2026",
-                "competition": "Liga Primera",
-                "association": "Nicaragua",
-                "publisher": "MA | Nicaragua",
-                "stage": "Finals",
-                "city": "Managua",
-                "global-stage": "Final",
-                "stadium": "National Stadium",
-                "country": "Nicaragua",
-                "match": "Diriangén v Real Estelí",
-                "season": "Liga Primera Nicaragua 2025/26",
-                "team:real-esteli": "Real Estelí",
-                "video-type": "Live Streams",
-                "team:diriangen": "Diriangén",
-                "organizer": "Nicaragua",
-                "organizer-country": "Nicaragua"
-            },
-            "startDate": "2026-05-17T00:50:00Z",
-            "endDate": "2026-05-17T03:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T01:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Diriangén v Real Estelí"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga Primera Nicaragua 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Final"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Nicaragua"
-                }
-            ]
         },
         {
             "id": "fe78df4e-b5b5-415b-8add-40c4b958506c",
