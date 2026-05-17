@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:00:23 AM 17-05-2026",
+        "last_update_time": "09:15:20 AM 17-05-2026",
         "total_live": 2,
         "total_upcoming": 30
     },
@@ -39,7 +39,7 @@
                 "organizer-country": "Nicaragua"
             },
             "startDate": "2026-05-09T00:30:00Z",
-            "endDate": "2026-05-17T03:30:00Z",
+            "endDate": "2026-05-17T04:30:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-17T01:00:00Z"
             },
