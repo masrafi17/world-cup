@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:30:21 AM 18-05-2026",
-        "total_live": 9,
+        "last_update_time": "12:45:18 AM 18-05-2026",
+        "total_live": 7,
         "total_upcoming": 25
     },
     "matches": [
-        {
-            "id": "8350d0d5-d814-4caf-bcd8-176dd26f9b9e",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "8350d0d5-d814-4caf-bcd8-176dd26f9b9e",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Fortune v Samger FC | Gambia GFF League 25/26",
-            "category": "livestream",
-            "urlSlug": "fortune-fc-vs-samger-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/64/be/27/b9/64be27b9-9540-4e4f-8075-8bda82775782.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/3f/bd/4b/3b/3fbd4b3b-f163-40d7-876c-40ee8bd588ee.png",
-            "freeMode": "FREE_ADS",
-            "title": "Fortune v Samger FC | Gambia GFF League 25/26",
-            "titleTemplateValues": {
-                "city": "Brikama",
-                "match": "Fortune v Samger FC",
-                "country": "The Gambia",
-                "team:samger-fc": "Samger FC",
-                "publisher": "MA | Gambia",
-                "stage": "Regular Season",
-                "competition": "Gambia GFF League",
-                "association": "The Gambia",
-                "global-stage": "Round 25",
-                "publisher-channel": "MA | Gambia | GFF League 2025/2026 (Channel)",
-                "stadium": "Brikama Box Bar Stadium",
-                "team:fortune-fc": "Fortune",
-                "season": "Gambia GFF League 25/26",
-                "video-type": "Live Streams",
-                "organizer": "The Gambia",
-                "organizer-country": "The Gambia"
-            },
-            "startDate": "2026-05-17T16:20:00Z",
-            "endDate": "2026-05-17T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Fortune v Samger FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Gambia GFF League 25/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 25"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "The Gambia"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_21_28_4f7dfa54-e2a2-4d19-9651-da39cb9b163f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779034740",
-                "decryption_keys": [
-                    "530207612ed639c49497b9e08f56638d:7846179b4a17760ef68cdffa3fe1bbf9"
-                ]
-            }
-        },
         {
             "id": "a727bc43-c166-4d5d-aa73-cbbe9b0238f0",
             "channelId": "fifa-tournaments",
@@ -277,74 +209,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_22_09_f0958fa2-71e1-4baa-bbef-eacb38d18255/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779034740",
                 "decryption_keys": [
                     "aec1a4e8e4bd307190bd21f1080d826d:b301ca112f95a4915c8ae6bd3a492dc6"
-                ]
-            }
-        },
-        {
-            "id": "355b868f-3f9d-4583-a1b9-619cb35669c9",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "355b868f-3f9d-4583-a1b9-619cb35669c9",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Steve Biko v Medina United | Gambia GFF League 25/26",
-            "category": "livestream",
-            "urlSlug": "steve-biko-fc-vs-medina-united",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/64/be/27/b9/64be27b9-9540-4e4f-8075-8bda82775782.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/98/2f/50/f2/982f50f2-85bf-4c69-90fc-c3ef5768f66c.png",
-            "freeMode": "FREE_ADS",
-            "title": "Steve Biko v Medina United | Gambia GFF League 25/26",
-            "titleTemplateValues": {
-                "country": "The Gambia",
-                "publisher": "MA | Gambia",
-                "stage": "Regular Season",
-                "competition": "Gambia GFF League",
-                "association": "The Gambia",
-                "team:steve-biko-fc": "Steve Biko",
-                "global-stage": "Round 25",
-                "publisher-channel": "MA | Gambia | GFF League 2025/2026 (Channel)",
-                "team:medina-united": "Medina United",
-                "season": "Gambia GFF League 25/26",
-                "match": "Steve Biko v Medina United",
-                "city": "Bakau",
-                "stadium": "Bakau Mini Stadium",
-                "video-type": "Live Streams",
-                "organizer": "The Gambia",
-                "organizer-country": "The Gambia"
-            },
-            "startDate": "2026-05-17T16:20:00Z",
-            "endDate": "2026-05-17T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Steve Biko v Medina United"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Gambia GFF League 25/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 25"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "The Gambia"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_21_36_849e597d-1524-44c3-b16a-7cda47dbc734/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779034740",
-                "decryption_keys": [
-                    "a8991dd6ed1d3e94bdc7bac60cf2e04b:2288aecac961a1779e1e7a3bc191ca1f"
                 ]
             }
         },

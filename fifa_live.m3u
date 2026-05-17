@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:21 AM 18-05-2026
+#last update time: 12:45:18 AM 18-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3f/bd/4b/3b/3fbd4b3b-f163-40d7-876c-40ee8bd588ee.png" group-title="FIFA Live", Fortune v Samger FC | Gambia GFF League 25/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=530207612ed639c49497b9e08f56638d:7846179b4a17760ef68cdffa3fe1bbf9
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_21_28_4f7dfa54-e2a2-4d19-9651-da39cb9b163f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779034740
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/2a/cb/73/e5/2acb73e5-fa50-47ce-8016-b75f8beb735b.png" group-title="FIFA Live", Gambian Dutch Lions v Team Rhino | Gambia GFF League 25/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -23,11 +18,6 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_21_32_74b46dd9-ff8f-436d-aff8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aec1a4e8e4bd307190bd21f1080d826d:b301ca112f95a4915c8ae6bd3a492dc6
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_22_09_f0958fa2-71e1-4baa-bbef-eacb38d18255/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779034740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/98/2f/50/f2/982f50f2-85bf-4c69-90fc-c3ef5768f66c.png" group-title="FIFA Live", Steve Biko v Medina United | Gambia GFF League 25/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8991dd6ed1d3e94bdc7bac60cf2e04b:2288aecac961a1779e1e7a3bc191ca1f
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_21_36_849e597d-1524-44c3-b16a-7cda47dbc734/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779034740
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0a/b6/33/ec/0ab633ec-3e21-48a2-952e-dc0f54b006ad.png" group-title="FIFA Live", TMT FA v Greater Tomorrow | Gambia GFF League 25/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
