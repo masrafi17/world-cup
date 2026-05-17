@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:45:19 PM 17-05-2026",
+        "last_update_time": "11:00:24 PM 17-05-2026",
         "total_live": 21,
-        "total_upcoming": 1
+        "total_upcoming": 0
     },
     "matches": [
         {
@@ -892,74 +892,6 @@
             }
         },
         {
-            "id": "acc8e6fc-0a54-4a25-a338-b0823fd5c824",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "acc8e6fc-0a54-4a25-a338-b0823fd5c824",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "AS Tambo v AS Binah | D1 Lonato 2025/26",
-            "category": "livestream",
-            "urlSlug": "as-tambo-vs-as-binah",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/a7/db/8d/db/a7db8ddb-8d1e-4263-ab6d-5d3a43919ef1.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/09/c6/17/91/09c61791-e8e2-4db0-b49b-7feccf2eaa94.png",
-            "freeMode": "FREE_ADS",
-            "title": "AS Tambo v AS Binah | D1 Lonato 2025/26",
-            "titleTemplateValues": {
-                "country": "Togo",
-                "association": "Togo",
-                "global-stage": "Round 24",
-                "stage": "Regular Season",
-                "team:as-tambo": "AS Tambo",
-                "publisher": "MA | Togo",
-                "stadium": "Atakpamé Municipal Stadium",
-                "publisher-channel": "MA | Togo | D1 Lonato 2025/2026",
-                "season": "D1 Lonato 2025/26",
-                "city": "Atakpamé",
-                "video-type": "Live Streams",
-                "team:as-binah": "AS Binah",
-                "match": "AS Tambo v AS Binah",
-                "competition": "Championnat de Première Division D1",
-                "organizer": "Togo",
-                "organizer-country": "Togo"
-            },
-            "startDate": "2026-05-17T15:55:00Z",
-            "endDate": "2026-05-17T18:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T15:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "AS Tambo v AS Binah"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "D1 Lonato 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 24"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Togo"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_02_43_8363848f-ed13-4e80-a5e5-81fb9c99723e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779033240",
-                "decryption_keys": [
-                    "ee0f935e420b3330bbf5ff3bc33283c3:98f1052518b3c0740688050987412050"
-                ]
-            }
-        },
-        {
             "id": "8350d0d5-d814-4caf-bcd8-176dd26f9b9e",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "8350d0d5-d814-4caf-bcd8-176dd26f9b9e",
@@ -1473,7 +1405,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1495,7 +1427,13 @@
                     "p": 1,
                     "value": "Albania"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_08_55_17_37792770-7c53-488d-a7d0-069025503474/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779036540",
+                "decryption_keys": [
+                    "282063794bb43e7b80020596a85a5f20:36629e820e48d895d5e6800188597604"
+                ]
+            }
         }
     ]
 }
