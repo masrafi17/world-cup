@@ -3,80 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:15:18 PM 17-05-2026",
-        "total_live": 6,
+        "last_update_time": "07:30:26 PM 17-05-2026",
+        "total_live": 5,
         "total_upcoming": 23
     },
     "matches": [
-        {
-            "id": "f82d547b-b337-498e-a565-fb97263f0e4d",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "f82d547b-b337-498e-a565-fb97263f0e4d",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Dirchalish FC v Gabala SC | Azerbaijan Women's League 2025/26",
-            "category": "livestream",
-            "urlSlug": "dirchalish-fc-vs-gabala-sc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/63/e4/3a/81/63e43a81-0179-4338-8ef9-a1a12bb023f6.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/e3/7d/90/b7/e37d90b7-33e2-47ba-bce4-97bb0324ee93.png",
-            "freeMode": "FREE_ADS",
-            "title": "Dirchalish FC v Gabala SC | Azerbaijan Women's League 2025/26",
-            "titleTemplateValues": {
-                "team:gabala-sc": "Gabala SC",
-                "match": "Dirchalish FC v Gabala SC",
-                "country": "Azerbaijan",
-                "stage": "Regular Season",
-                "competition": "Azerbaijan Women's League",
-                "fifa-plus": "Womens (FIFA Plus)",
-                "team:dirchalish-fc": "Dirchalish FC",
-                "publisher-channel": "MA | Azerbaijan | Azerbaijan Women's League 2025/26 (Channel)",
-                "stadium": "Zagatala City Stadium",
-                "association": "Azerbaijan",
-                "season": "Azerbaijan Women's League 2025/26",
-                "publisher": "MA | Azerbaijan",
-                "city": "Zagatala",
-                "global-stage": "Round 20",
-                "video-type": "Live Streams",
-                "organizer": "Azerbaijan",
-                "organizer-country": "Azerbaijan"
-            },
-            "startDate": "2026-05-17T10:50:00Z",
-            "endDate": "2026-05-17T13:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T11:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Dirchalish FC v Gabala SC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Azerbaijan Women's League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 20"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Azerbaijan"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_08_12_12_964bf99c-949d-4b05-8389-972dd497fe1b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779014940",
-                "decryption_keys": [
-                    "0e57f504642b3e40911320accb459aef:d5a72a94e2614cda65b03b2318d3db8e"
-                ]
-            }
-        },
         {
             "id": "a57ce827-65a7-4efe-b26c-6541bd27515a",
             "channelId": "fifa-tournaments",
