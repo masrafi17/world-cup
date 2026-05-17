@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:00:24 AM 18-05-2026",
-        "total_live": 4,
+        "last_update_time": "01:15:24 AM 18-05-2026",
+        "total_live": 3,
         "total_upcoming": 24
     },
     "matches": [
-        {
-            "id": "0e4a0155-fd3d-4ca2-b5b6-94c36ea4c4d1",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "0e4a0155-fd3d-4ca2-b5b6-94c36ea4c4d1",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Nouakchott Kings v FC Nouadhibou | Super D-1 2025/26",
-            "category": "livestream",
-            "urlSlug": "nouakchott-kings-vs-fc-nouadhibou",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/39/61/d8/4a/3961d84a-2170-4737-8a7c-42d7ae00e8f7.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/6f/dc/93/b9/6fdc93b9-8bf4-4638-a1d5-cc111ed68fe6.png",
-            "freeMode": "FREE_ADS",
-            "title": "Nouakchott Kings v FC Nouadhibou | Super D-1 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular season",
-                "publisher": "MA | Mauritania",
-                "match": "Nouakchott Kings v FC Nouadhibou",
-                "competition": "Super D-1",
-                "city": "Nouakchott",
-                "global-stage": "Round 25",
-                "team:nouakchott-kings": "Nouakchott Kings",
-                "association": "Mauritania",
-                "stadium": "Stade Cheikha Ould Boïdiya",
-                "publisher-channel": "MA | Mauritania | Super D1 2025/2026",
-                "season": "Super D-1 2025/26",
-                "team:fc-nouadhibou": "FC Nouadhibou",
-                "country": "Mauritania",
-                "video-type": "Live Streams",
-                "organizer": "Mauritania",
-                "organizer-country": "Mauritania"
-            },
-            "startDate": "2026-05-17T16:35:00Z",
-            "endDate": "2026-05-17T19:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T16:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Nouakchott Kings v FC Nouadhibou"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Super D-1 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 25"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mauritania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_07_09_a80ca1dc-8c63-4198-8780-3ef1cf2ab90c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779035640",
-                "decryption_keys": [
-                    "115e8822353233fe84067a643c7ac8f7:0543453a68e9dd11f6ea2fe48f25e7be"
-                ]
-            }
-        },
         {
             "id": "622f1d05-af3a-4c50-b65c-528b9a2c4a0c",
             "channelId": "fifa-tournaments",
