@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:30:19 PM 17-05-2026",
-        "total_live": 17,
+        "last_update_time": "11:45:18 PM 17-05-2026",
+        "total_live": 15,
         "total_upcoming": 0
     },
     "matches": [
-        {
-            "id": "3b7dac76-f4a7-410b-ad24-839b72e8e2a2",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "3b7dac76-f4a7-410b-ad24-839b72e8e2a2",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Dynamo d'Abomey v Sobemap FC | Ligue 1 2025",
-            "category": "livestream",
-            "urlSlug": "dynamo-fc-ab-vs-sobemap-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/76/8b/f5/a3/768bf5a3-8d1c-41c2-b76e-25e7995e467a.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/e2/48/21/c4/e24821c4-bbb4-4165-9a67-a690b930ef56.png",
-            "freeMode": "FREE_ADS",
-            "title": "Dynamo d'Abomey v Sobemap FC | Ligue 1 2025",
-            "titleTemplateValues": {
-                "competition": "Super Ligue Pro",
-                "country": "Benin",
-                "stadium": "Abomey Omnisport Stadium",
-                "publisher": "MA | Benin",
-                "season": "Ligue 1 2025",
-                "global-stage": "Round 29",
-                "stage": "Regular Stage",
-                "association": "Benin",
-                "team:sobemap-fc": "Sobemap FC",
-                "team:dynamo-fc-ab": "Dynamo d'Abomey",
-                "match": "Dynamo d'Abomey v Sobemap FC",
-                "city": "Abomey",
-                "publisher-channel": "MA | Benin | Ligue 1 2025/2026",
-                "video-type": "Live Streams",
-                "organizer": "Benin",
-                "organizer-country": "Benin"
-            },
-            "startDate": "2026-05-17T14:50:00Z",
-            "endDate": "2026-05-17T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T15:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Dynamo d'Abomey v Sobemap FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue 1 2025"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 29"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Benin"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_28_33_14885140-7ed1-43d8-8723-44a87e950145/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779029340",
-                "decryption_keys": [
-                    "52becee8986a34918c822859519c7851:184c61799f2cf115612d75cd84cc997c"
-                ]
-            }
-        },
         {
             "id": "e1e42c2e-4af2-4a12-aa1c-03245ed25882",
             "channelId": "fifa-tournaments",
@@ -277,74 +209,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_02_36_6353a411-507e-460a-9188-6626c095da36/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779031140",
                 "decryption_keys": [
                     "d6c0a6b5266a3a7886742d2100823e75:d0441c4b84bbe048a02f2a6514d0d933"
-                ]
-            }
-        },
-        {
-            "id": "f0f15099-45da-43e0-baf2-e10ba4f5e41e",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "f0f15099-45da-43e0-baf2-e10ba4f5e41e",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "FC Espoir v AS OTR | D1 Lonato 2025/26",
-            "category": "livestream",
-            "urlSlug": "fc-espoir-vs-as-otr",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/a7/db/8d/db/a7db8ddb-8d1e-4263-ab6d-5d3a43919ef1.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/f2/ee/77/7f/f2ee777f-1581-4432-a319-7d92c043a4b6.png",
-            "freeMode": "FREE_ADS",
-            "title": "FC Espoir v AS OTR | D1 Lonato 2025/26",
-            "titleTemplateValues": {
-                "match": "FC Espoir v AS OTR",
-                "country": "Togo",
-                "association": "Togo",
-                "global-stage": "Round 24",
-                "city": "Tsevie",
-                "stage": "Regular Season",
-                "publisher": "MA | Togo",
-                "stadium": "Dr Kaolo Tsévié Stadium",
-                "publisher-channel": "MA | Togo | D1 Lonato 2025/2026",
-                "season": "D1 Lonato 2025/26",
-                "team:fc-espoir": "FC Espoir",
-                "team:as-otr": "AS OTR",
-                "video-type": "Live Streams",
-                "competition": "Championnat de Première Division D1",
-                "organizer": "Togo",
-                "organizer-country": "Togo"
-            },
-            "startDate": "2026-05-17T15:20:00Z",
-            "endDate": "2026-05-17T18:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T15:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "FC Espoir v AS OTR"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "D1 Lonato 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 24"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Togo"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_02_33_4fe9ec80-9b0d-4af4-95a1-aa99df47ff63/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779031140",
-                "decryption_keys": [
-                    "f38474f39f03310abe7b65112fee0927:a49b3d3a0bfc9f2972a62960e6608585"
                 ]
             }
         },

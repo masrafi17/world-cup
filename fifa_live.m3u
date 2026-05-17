@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:30:19 PM 17-05-2026
+#last update time: 11:45:18 PM 17-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e2/48/21/c4/e24821c4-bbb4-4165-9a67-a690b930ef56.png" group-title="FIFA Live", Dynamo d'Abomey v Sobemap FC | Ligue 1 2025
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52becee8986a34918c822859519c7851:184c61799f2cf115612d75cd84cc997c
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_28_33_14885140-7ed1-43d8-8723-44a87e950145/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779029340
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e8/e2/b8/38/e8e2b838-5019-406e-a6ef-271c89ad6c5d.png" group-title="FIFA Live", ASCK v Gomido FC | D1 Lonato 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -23,11 +18,6 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_02_39_696cce60-58d6-47b1-bf5e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6c0a6b5266a3a7886742d2100823e75:d0441c4b84bbe048a02f2a6514d0d933
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_02_36_6353a411-507e-460a-9188-6626c095da36/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779031140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f2/ee/77/7f/f2ee777f-1581-4432-a319-7d92c043a4b6.png" group-title="FIFA Live", FC Espoir v AS OTR | D1 Lonato 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f38474f39f03310abe7b65112fee0927:a49b3d3a0bfc9f2972a62960e6608585
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_02_33_4fe9ec80-9b0d-4af4-95a1-aa99df47ff63/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779031140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/aa/bf/b3/af/aabfb3af-94a8-48dd-8b4b-d1aba608d083.png" group-title="FIFA Live", Unisport FC v Semassi FC | D1 Lonato 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
