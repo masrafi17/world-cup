@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:45:21 AM 17-05-2026",
-        "total_live": 2,
-        "total_upcoming": 36
+        "last_update_time": "06:00:26 AM 17-05-2026",
+        "total_live": 3,
+        "total_upcoming": 34
     },
     "matches": [
         {
@@ -182,7 +182,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -204,7 +204,13 @@
                     "p": 1,
                     "value": "Curaçao"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_13_10_47_66d7ca64-bdbd-4db8-9b23-2c05b86d78cf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778975340",
+                "decryption_keys": [
+                    "fe80085812f636eeb8cd7b8dbb7a0b91:e250a1bf9c707eba2f5ce43b02d5a005"
+                ]
+            }
         },
         {
             "id": "dcc45a03-210a-4800-a7ec-60cebe21d2d4",
@@ -245,7 +251,7 @@
             "isRegistrationRequired": true,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
