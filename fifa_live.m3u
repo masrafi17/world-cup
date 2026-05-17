@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:15:19 AM 17-05-2026
+#last update time: 06:30:21 AM 17-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/70/dd/c0/c3/70ddc0c3-98cd-42cf-bd19-405b2e036e86.png" group-title="FIFA Live", Britannia v Bubali | Division Honor 2025-26
@@ -18,3 +18,13 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_33_30_b77d6db3-1dde-4e88-9789
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe80085812f636eeb8cd7b8dbb7a0b91:e250a1bf9c707eba2f5ce43b02d5a005
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_13_10_47_66d7ca64-bdbd-4db8-9b23-2c05b86d78cf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778975340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/70/b0/43/73/70b04373-30be-43d3-a992-2450206ef58c.png" group-title="FIFA Live", Dakota v SV Sporting Aruba | Division Honor 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56d9f598a1d33b16b45de8b1c8376e62:1f689b54ec9989a8f373ac8eedee206d
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_18_05_842891a8-eaf6-4cbe-863c-1405188f37d9/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778977140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d3/8d/b7/8e/d38db78e-92f4-43da-af20-6be5c56029c6.png" group-title="FIFA Live", Academy Eagles FC v Teachers FC | Provo Premier League 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b5f0ac6befe3d2b8edc6c2b1a5b695f:01841ef7bd8805a11a53767bd28eaf1b
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_33_33_2d0397e1-5f94-435c-b75a-7b5b387e4886/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778977500
