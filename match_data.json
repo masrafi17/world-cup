@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:45:19 AM 17-05-2026",
-        "total_live": 3,
-        "total_upcoming": 31
+        "last_update_time": "09:00:23 AM 17-05-2026",
+        "total_live": 2,
+        "total_upcoming": 30
     },
     "matches": [
         {
@@ -77,142 +77,6 @@
             }
         },
         {
-            "id": "27565600-1a4f-43a3-92f0-8b6adb60b9d0",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "27565600-1a4f-43a3-92f0-8b6adb60b9d0",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Dakota v SV Sporting Aruba | Division Honor 2025-26",
-            "category": "livestream",
-            "urlSlug": "dakota-vs-sv-sporting-aruba",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/22/1d/cb/0b/221dcb0b-c792-4d48-903e-b725b280c421.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/70/b0/43/73/70b04373-30be-43d3-a992-2450206ef58c.png",
-            "freeMode": "FREE_ADS",
-            "title": "Dakota v SV Sporting Aruba | Division Honor 2025-26",
-            "titleTemplateValues": {
-                "stage": "Division Honor Liga-Oro Round 2",
-                "country": "Aruba",
-                "association": "Aruba",
-                "team:sv-sporting-aruba": "SV Sporting Aruba",
-                "season": "Division Honor 2025-26",
-                "team:dakota": "Dakota",
-                "publisher": "MA | Aruba",
-                "competition": "Division Honor",
-                "stadium": "Sports Complex Guillermo Prospero Trinidad",
-                "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
-                "global-stage": "Division Honor Oro",
-                "match": "Dakota v SV Sporting Aruba",
-                "city": "Dakota",
-                "video-type": "Live Streams",
-                "organizer": "Aruba",
-                "organizer-country": "Aruba"
-            },
-            "startDate": "2026-05-17T00:20:00Z",
-            "endDate": "2026-05-17T03:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T00:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Dakota v SV Sporting Aruba"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Division Honor 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Division Honor Oro"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Aruba"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_18_05_842891a8-eaf6-4cbe-863c-1405188f37d9/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778977140",
-                "decryption_keys": [
-                    "56d9f598a1d33b16b45de8b1c8376e62:1f689b54ec9989a8f373ac8eedee206d"
-                ]
-            }
-        },
-        {
-            "id": "9bee5c9f-e144-437b-a4f1-e93919e85202",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "9bee5c9f-e144-437b-a4f1-e93919e85202",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Academy Eagles FC v Teachers FC | Provo Premier League 2025-26",
-            "category": "livestream",
-            "urlSlug": "academy-eagles-fc-vs-teachers-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/87/67/83/32/87678332-8da2-44c0-ab94-759e5e5f208a.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d3/8d/b7/8e/d38db78e-92f4-43da-af20-6be5c56029c6.png",
-            "freeMode": "FREE_ADS",
-            "title": "Academy Eagles FC v Teachers FC | Provo Premier League 2025-26",
-            "titleTemplateValues": {
-                "competition": "Provo Premier League",
-                "publisher-channel": "MA | Turks and Caicos | Provo Premier League 2025/26",
-                "stage": "Knockout Round",
-                "team:teachers-fc": "Teachers FC",
-                "stadium": "TCIFA National Academy",
-                "season": "Provo Premier League 2025-26",
-                "association": "Turks and Caicos Islands",
-                "global-stage": "Playoffs",
-                "publisher": "MA | Turks and Caicos",
-                "team:academy-eagles-fc": "Academy Eagles FC",
-                "city": "Venetian Road Settlement",
-                "country": "Turks and Caicos Islands",
-                "video-type": "Live Streams",
-                "match": "Academy Eagles FC v Teachers FC",
-                "organizer": "Turks and Caicos Islands",
-                "organizer-country": "Turks and Caicos Islands"
-            },
-            "startDate": "2026-05-17T00:26:00Z",
-            "endDate": "2026-05-17T03:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T00:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Academy Eagles FC v Teachers FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Provo Premier League 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Playoffs"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Turks and Caicos Islands"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_33_33_2d0397e1-5f94-435c-b75a-7b5b387e4886/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1778977500",
-                "decryption_keys": [
-                    "3b5f0ac6befe3d2b8edc6c2b1a5b695f:01841ef7bd8805a11a53767bd28eaf1b"
-                ]
-            }
-        },
-        {
             "id": "fe78df4e-b5b5-415b-8add-40c4b958506c",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "fe78df4e-b5b5-415b-8add-40c4b958506c",
@@ -252,7 +116,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -269,7 +133,13 @@
                     "p": 0,
                     "value": "Play-off Round"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_10_04_00_373e842f-0684-448a-b7db-8ae7f5d428b4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1778986140",
+                "decryption_keys": [
+                    "31fb4192739c3825950f039087da8526:87a690dfc976a7c573888ad053fc691d"
+                ]
+            }
         },
         {
             "id": "89b86f6d-a39c-4eac-9fe6-9dece57f849f",
