@@ -1,55 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:30:21 PM 17-05-2026
+#last update time: 01:45:18 AM 18-05-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/9f/ea/3b/73/9fea3b73-b5f7-4919-a34e-6e47ed153dda.png" group-title="FIFA Live", Municipale Laayoune v Hilal Témara | D1 Women's Championship  2025-26
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3c/41/80/0e/3c41800e-5c2d-44a1-8979-1dd1ee615e0f.png" group-title="FIFA Live", Potenza v Ascoli | National Phase Play-offs - Second Round - First Leg | Serie C 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=02cf763c767b3bffae84542c7bfc6eae:ab143289271448d1429e0ae82ea97e8f
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_12_52_27_f3f06f14-c395-4b98-960b-4e84f190c0f5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779029340
+#KODIPROP:inputstream.adaptive.license_key=cb482588c3593eb29d77c78a78e9c54d:c5cbc183e5b7a9ec5d4d16fff2afac46
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_15_08_49_51_2bdd762c-5c60-4560-b9e6-1a15f1ad5c2f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aita%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779040140
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b7/dc/e0/5c/b7dce05c-f98c-42b2-b91b-368ceb23b997.png" group-title="FIFA Live", Leones Vegetarianos FC v The Panthers CF | Equatorial Guinea Football League 2025-26
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c7/77/3e/67/c7773e67-7400-4168-99fa-7e74388da7b3.png" group-title="FIFA Live", Bolívar SC v Monagas B | Liga FUTVE 2 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31284084defa3b9a9a834e45c4e7af8c:04258b069c7e5154fb9068dc51b56c3c
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_51_30_9a5f3648-ee95-470e-ad86-2eda543793fd/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779029340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/9d/4b/c8/eb/9d4bc8eb-96ed-4cdc-b0cb-ade4ad129df6.png" group-title="FIFA Live", Caracas FC v ADIFFEM | Liga FUTVE Femenina 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9f2e8ff785d36c3937c75141efd6a76:e573b264dc92a9f31a85c5a3436c2de2
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_15_12_30_05_cb49ccf9-1cf2-4dd2-a5e3-f4014a6f37d6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779029340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6e/84/b1/0b/6e84b10b-083c-4e9d-827a-56f6ae12f799.png" group-title="FIFA Live", Coton FC v USS Krake FC | Ligue 1 2025
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=72b004c5a31c3ab79f83871c93f4ac4a:4dba3df34a1e10eda873c36f35ce4c25
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_28_36_5893b64d-9c30-4863-af71-d174387301de/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779029340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e2/48/21/c4/e24821c4-bbb4-4165-9a67-a690b930ef56.png" group-title="FIFA Live", Dynamo d'Abomey v Sobemap FC | Ligue 1 2025
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52becee8986a34918c822859519c7851:184c61799f2cf115612d75cd84cc997c
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_28_33_14885140-7ed1-43d8-8723-44a87e950145/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779029340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e8/e2/b8/38/e8e2b838-5019-406e-a6ef-271c89ad6c5d.png" group-title="FIFA Live", ASCK v Gomido FC | D1 Lonato 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=caa4bcb421c23e00b32cb01e25bd1d80:8a662415ece114f547a6d0ce0691ef97
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_02_51_b8187d1a-3d4a-4456-a1ce-01d96d0d0a93/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779031140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/37/35/16/93/37351693-2f4e-4406-89fa-16980eeab4a5.png" group-title="FIFA Live", ASKO v Etoile Filante | D1 Lonato 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1c1d971233231adad0a274ccaf6ee6d:af6f9256dd2bf388fde7d3e2c2d41e78
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_02_39_696cce60-58d6-47b1-bf5e-c8700b80c993/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779031140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/23/ad/2f/c1/23ad2fc1-0fbd-462e-839a-ab5e154e6358.png" group-title="FIFA Live", Entente II v AS Gbohloesu | D1 Lonato 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d6c0a6b5266a3a7886742d2100823e75:d0441c4b84bbe048a02f2a6514d0d933
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_02_36_6353a411-507e-460a-9188-6626c095da36/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779031140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f2/ee/77/7f/f2ee777f-1581-4432-a319-7d92c043a4b6.png" group-title="FIFA Live", FC Espoir v AS OTR | D1 Lonato 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f38474f39f03310abe7b65112fee0927:a49b3d3a0bfc9f2972a62960e6608585
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_02_33_4fe9ec80-9b0d-4af4-95a1-aa99df47ff63/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779031140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/aa/bf/b3/af/aabfb3af-94a8-48dd-8b4b-d1aba608d083.png" group-title="FIFA Live", Unisport FC v Semassi FC | D1 Lonato 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1efde1dd00f3636b6991c3f329e21d9:f9fa39c61d3b028c1be4c0963eb1d237
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_02_46_90d4c22a-9ac1-40f8-848f-2504ffd1c220/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779031140
+#KODIPROP:inputstream.adaptive.license_key=1a23b2a1c4983c55bb5f7e4b9f6d9791:99fb530d8299f8eb508896fe8ba59462
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_04_43_045274c6-28ac-44ec-b563-3198e66c9123/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779043740
