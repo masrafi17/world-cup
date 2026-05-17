@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:15:24 AM 18-05-2026",
-        "total_live": 3,
+        "last_update_time": "01:30:22 AM 18-05-2026",
+        "total_live": 2,
         "total_upcoming": 24
     },
     "matches": [
-        {
-            "id": "622f1d05-af3a-4c50-b65c-528b9a2c4a0c",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "622f1d05-af3a-4c50-b65c-528b9a2c4a0c",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "AF Elbasani v KF Egnatia | Championship Playoff | Kategoria Superiore 2025/26",
-            "category": "livestream",
-            "urlSlug": "af-elbasani-vs-kf-egnatia",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1e/b8/b6/0d/1eb8b60d-ca73-4620-a12e-6d83b3142377.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ab/a0/c1/d8/aba0c1d8-72d3-44cf-831f-5a81c4401c26.png",
-            "freeMode": "FREE_ADS",
-            "title": "AF Elbasani v KF Egnatia | Championship Playoff | Kategoria Superiore 2025/26",
-            "titleTemplateValues": {
-                "global-stage": "Championship Playoff",
-                "stadium": "Air Albania Stadium",
-                "team:kf-egnatia": "KF Egnatia",
-                "season": "Kategoria Superiore 2025/26",
-                "team:af-elbasani": "AF Elbasani",
-                "country": "Albania",
-                "match": "AF Elbasani v KF Egnatia",
-                "publisher-channel": "MA | Albania | Abissnet Superiore 2025/26",
-                "publisher": "MA | Albania",
-                "stage": "Final 4",
-                "competition": "Kategoria Superiore",
-                "association": "Albania",
-                "video-type": "Live Streams",
-                "city": "Tirana",
-                "organizer": "Albania",
-                "organizer-country": "Albania"
-            },
-            "startDate": "2026-05-17T16:50:00Z",
-            "endDate": "2026-05-17T19:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T17:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "AF Elbasani v KF Egnatia"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Kategoria Superiore 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Championship Playoff"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Albania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_08_55_17_37792770-7c53-488d-a7d0-069025503474/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779036540",
-                "decryption_keys": [
-                    "282063794bb43e7b80020596a85a5f20:36629e820e48d895d5e6800188597604"
-                ]
-            }
-        },
         {
             "id": "a84fc0e1-b2d7-4e14-8360-a310b991c552",
             "channelId": "fifa-tournaments",
