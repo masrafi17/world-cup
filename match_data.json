@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:45:40 AM 17-05-2026",
+        "last_update_time": "12:00:23 PM 17-05-2026",
         "total_live": 1,
         "total_upcoming": 30
     },
@@ -41,7 +41,7 @@
                 "organizer": "OFC"
             },
             "startDate": "2026-05-17T02:50:00Z",
-            "endDate": "2026-05-17T06:00:00Z",
+            "endDate": "2026-05-17T06:30:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-17T03:00:00Z"
             },
